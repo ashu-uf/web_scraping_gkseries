@@ -1,0 +1,246 @@
+{
+    "topic": "Marketing Awareness",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "B2C stands for :",
+            "op1": "Business to Corporate",
+            "op2": "usiness to Consumer",
+            "op3": "Business to ompanies",
+            "op4": "Business to Countries",
+            "answer:": 2
+        },
+        {
+            "question": "Service marketing is known as :",
+            "op1": "door to door marketing",
+            "op2": "transaction marketing",
+            "op3": "internal marketing",
+            "op4": "relationship marketing",
+            "answer:": 2
+        },
+        {
+            "question": "Cross selling is not effective for which one of the following products ?",
+            "op1": "Mobile banking",
+            "op2": "Debit cards",
+            "op3": "Savings accounts",
+            "op4": "Pension loans",
+            "answer:": 4
+        },
+        {
+            "question": "SME stands for",
+            "op1": "Selling and Managing Employee",
+            "op2": "Small and Medium-sized Enterprises",
+            "op3": "Selling and Marketing Entity",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Bank marketing means :",
+            "op1": "Selling of various items in banks",
+            "op2": "Selling of bank's products and services",
+            "op3": "Selling of banks",
+            "op4": "Acquiring bank",
+            "answer:": 2
+        },
+        {
+            "question": "What is the target group for SME loans ?",
+            "op1": "ll pensioners",
+            "op2": "All IT professionals",
+            "op3": "All small scale industries",
+            "op4": "All of these",
+            "answer:": 3
+        },
+        {
+            "question": "Cross selling is the basic function of :",
+            "op1": "all employees",
+            "op2": "all employers",
+            "op3": "all sales executives",
+            "op4": "all call center executives",
+            "answer:": 2
+        },
+        {
+            "question": "In marketing, a \"Prospect\" means",
+            "op1": "company portfolio",
+            "op2": "a likely buyer",
+            "op3": "distributor",
+            "op4": "sales agent",
+            "answer:": 2
+        },
+        {
+            "question": "Which factor does not influence in Marketing ?",
+            "op1": "Product demand",
+            "op2": "uyer behaviour",
+            "op3": "Brand image",
+            "op4": "Commodity number",
+            "answer:": 4
+        },
+        {
+            "question": "Selling is :",
+            "op1": "a super function of marketing",
+            "op2": "a sub function of marketing",
+            "op3": "different from marketing",
+            "op4": "same as marketing",
+            "answer:": 2
+        },
+        {
+            "question": "Relationship banking is :",
+            "op1": "call center marketing",
+            "op2": "relation with marketing persons",
+            "op3": "relation close clients",
+            "op4": "relation with bankers and customers for retaining the customers",
+            "answer:": 4
+        },
+        {
+            "question": "What is innovation ?",
+            "op1": "new idea",
+            "op2": "new raw metarial",
+            "op3": "new product",
+            "op4": "all of these",
+            "answer:": 4
+        },
+        {
+            "question": "Cash is what type of asset of bank ?",
+            "op1": "Current",
+            "op2": "Intangible",
+            "op3": "Tangible",
+            "op4": "Fixed",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is involved with the growth strategies of a company ?",
+            "op1": "Diversification",
+            "op2": "Horizontal integration",
+            "op3": "Vertical integration",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "Internal marketing means :",
+            "op1": "marketing inside India",
+            "op2": "marketing inside company",
+            "op3": "marketing outside India",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "Direct marketing means :",
+            "op1": "marketing through mobile",
+            "op2": "face to face marketing",
+            "op3": "mail",
+            "op4": "seminar presentation",
+            "answer:": 4
+        },
+        {
+            "question": "Market share means :",
+            "op1": "investment in share market",
+            "op2": "portion of market occupied by a company",
+            "op3": "government share in a company",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which is not correct with respect to marketing ?",
+            "op1": "a team effort",
+            "op2": "an ancient concept",
+            "op3": "situational demand",
+            "op4": "a continuous effort",
+            "answer:": 2
+        },
+        {
+            "question": "The target group for home loans is :",
+            "op1": "builders",
+            "op2": "individuals that needs a home or flat",
+            "op3": "farmers",
+            "op4": "small scale industrialists",
+            "answer:": 2
+        },
+        {
+            "question": "Effective bank marketing requires :",
+            "op1": "affordable price",
+            "op2": "customer support",
+            "op3": "easy procedures",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "ISI mark is not given to which of the following products?",
+            "op1": "Cloth",
+            "op2": "iscuits",
+            "op3": "Hosiery goods",
+            "op4": "Electrical goods",
+            "answer:": 2
+        },
+        {
+            "question": "The size of the market for a product refers to",
+            "op1": "The number of potential buyers of the product",
+            "op2": "The volume of potential sales of the product",
+            "op3": "The geographical area served by the producers",
+            "op4": "The number of people in the given area",
+            "answer:": 1
+        },
+        {
+            "question": "What is \u2018AGMARK\u2019?",
+            "op1": "It stands for agricultural marketing",
+            "op2": "It represents agricultural management and regulation",
+            "op3": "It is marketing seal issued on the graded agricultural commodity",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "AGMARK is a guarantee of standard:",
+            "op1": "Size",
+            "op2": "Weight",
+            "op3": "Quantity",
+            "op4": "Quality",
+            "answer:": 4
+        },
+        {
+            "question": "The expenses on advertising is called",
+            "op1": "Fixed cost",
+            "op2": "Surplus cost",
+            "op3": "Selling cost",
+            "op4": "Implicit cost",
+            "answer:": 3
+        },
+        {
+            "question": "The most accessible medium in India is",
+            "op1": "Cinema",
+            "op2": "Radio",
+            "op3": "Newspapers",
+            "op4": "Television",
+            "answer:": 3
+        },
+        {
+            "question": "Expenditure on advertisement and public relations by an enterprise is a part of its",
+            "op1": "Fixed capital",
+            "op2": "Intermediate consumption",
+            "op3": "Final consumption expenditure",
+            "op4": "Consumption of fixed capital",
+            "answer:": 2
+        },
+        {
+            "question": "The famous three P\u2019s of environmental awareness are",
+            "op1": "People, Poverty, Politics",
+            "op2": "Population, Politics, Price",
+            "op3": "Power, Production, Pollution",
+            "op4": "Population, Poverty, Pollution",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following goods has only exchange value?",
+            "op1": "Diamond",
+            "op2": "Rice",
+            "op3": "omputer",
+            "op4": "Television",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not an economic problem?",
+            "op1": "Deciding between paid work and leisure",
+            "op2": "Deciding between alternative methods of personal savings",
+            "op3": "Deciding between different ways of spending leisure time",
+            "op4": "eciding between expenditure on one good and the other",
+            "answer:": 3
+        }
+    ]
+}

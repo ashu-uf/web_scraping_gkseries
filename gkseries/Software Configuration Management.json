@@ -1,0 +1,86 @@
+{
+    "topic": "Software Configuration Management",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "Software Configuration Management is the discipline for systematically controlling",
+            "op1": "the changes due to the evolution of work products as the project proceeds.",
+            "op2": "the changes due to defects (bugs) being found and then fixed.",
+            "op3": "the changes due to requirement changes.",
+            "op4": "all of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not a component of Audit risk ?",
+            "op1": "Inherent risk",
+            "op2": "Control risk",
+            "op3": "Detection risk",
+            "op4": "Management risk",
+            "answer:": 1
+        },
+        {
+            "question": "Who plays the role of policy maker in Change Management ?",
+            "op1": "Project manager",
+            "op2": "Consumer",
+            "op3": "SM manager",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Controls in processing, must be established in a System in order to :",
+            "op1": "Prohibit tampering with information by unauthorized persons",
+            "op2": "Verify that all data has been processed",
+            "op3": "Block or trap faulty data from entering into processing",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "By security of an information system we mean protecting",
+            "op1": "(I) and (II)",
+            "op2": "(I) and (III)",
+            "op3": "(I), (II) and (III)",
+            "op4": "(I), (II), (III) and (IV)",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is not a function of Software Configuration Management Process ?",
+            "op1": "Change Control",
+            "op2": "Status Accounting of running change processes",
+            "op3": "Risk analysis of the project",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "What is the aim of Software Configuration Management Process ?",
+            "op1": "To identify the configuration of the software at specific time",
+            "op2": "Maintaining the integrity and traceability of the software by controlling configuration changes in a systematic manner",
+            "op3": "Only [B]",
+            "op4": "Both [A] and [B]",
+            "answer:": 4
+        },
+        {
+            "question": "Software Configuration auditing activity is :",
+            "op1": "determining the cost of development",
+            "op2": "the extent to which a software satisfies the required functional and physical characteristics",
+            "op3": "delivering information about the changes to members of an organization",
+            "op4": "none of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Which Software Configuration Management activity ensures quality and consistency as changes are made to an identified component ?",
+            "op1": "Identification task",
+            "op2": "Change control task",
+            "op3": "Version control task",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Who is responsible for approval and ranking changes to an identified software component ?",
+            "op1": "Project manager",
+            "op2": "Software engineer",
+            "op3": "Software tester",
+            "op4": "None of these",
+            "answer:": 2
+        }
+    ]
+}

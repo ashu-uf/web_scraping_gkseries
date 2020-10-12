@@ -1,0 +1,366 @@
+{
+    "topic": "Relational DBMS",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "What is not true about a view ?",
+            "op1": "It is a definition of a restricted portion of the database",
+            "op2": "It is a security mechanism",
+            "op3": "It is always updatable like any other table",
+            "op4": "All are true",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not a valid relational database ?",
+            "op1": "SYBSE",
+            "op2": "ORACLE",
+            "op3": "IMS",
+            "op4": "UNIFY",
+            "answer:": 4
+        },
+        {
+            "question": "The file organization that provides very fast access to any arbitrary record of a file is :",
+            "op1": "Ordered file",
+            "op2": "Unordered file",
+            "op3": "Hashed file",
+            "op4": "B-tree",
+            "answer:": 3
+        },
+        {
+            "question": "_______ produces the relation that has attributes of R1 and R2",
+            "op1": "Cartesian product",
+            "op2": "Difference",
+            "op3": "Intersection",
+            "op4": "Product",
+            "answer:": 1
+        },
+        {
+            "question": "The master list of an indexed file",
+            "op1": "is sorted in ascending order",
+            "op2": "contains only a list of keys and record numbers",
+            "op3": "has a number assigned to each record",
+            "op4": "both [B] and [C]",
+            "answer:": 4
+        },
+        {
+            "question": "Maximum height of a B+ tree of order m with n key values is :",
+            "op1": "log m(n)",
+            "op2": "(m+n)/2",
+            "op3": "logm/2(m+n)",
+            "op4": "log(1/2m)(n+1/2)",
+            "answer:": 4
+        },
+        {
+            "question": "In a relational database a referential integrity constraint can be specified with the help of :",
+            "op1": "primary key",
+            "op2": "foreign key",
+            "op3": "secondary key",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A host language is :",
+            "op1": "Query Language",
+            "op2": "Storage Definition Language",
+            "op3": "DML embedded in the general purpose language",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Multilevel Indexing :",
+            "op1": "Uses a Binary Search",
+            "op2": "Does away inary Search",
+            "op3": "Uses a Binary Tree Search",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Anomalies imply additional work to be done for :",
+            "op1": "Insertion into relation",
+            "op2": "Modification of a relation",
+            "op3": "Loss of information due to deletion",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "A primary key :",
+            "op1": "is also referred to as a composite key",
+            "op2": "is a unique identifier in a column",
+            "op3": "uniquely identities the data in row",
+            "op4": "must be accompanied by a corresponding foreign key",
+            "answer:": 2
+        },
+        {
+            "question": "Duplicate data is referred to as :",
+            "op1": "accurate data",
+            "op2": "redundant data",
+            "op3": "storage data",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A relation in third normal form is :",
+            "op1": "in first normal form also",
+            "op2": "second normal form also",
+            "op3": "from transitive dependencies",
+            "op4": "all of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In a relational database a referential integrity constraint can be specified with the help of",
+            "op1": "primary key",
+            "op2": "foreign key",
+            "op3": "secondary key",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "In a relation",
+            "op1": "Ordering of rows is immaterial",
+            "op2": "No two rows are identical",
+            "op3": "Both [A] and [B] are true",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "A super key is a set of one or more attributes that, taken collectively, allow us",
+            "op1": "to identify uniquely an entity in the entity set",
+            "op2": "to make the key most powerful for faster retrieval",
+            "op3": "to increase effectiveness of database access",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "What is the degree of a table with 1000 rows and 10 column ?",
+            "op1": "10",
+            "op2": "100",
+            "op3": "1000",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following commands is used to get all the columns in a table ?",
+            "op1": "#",
+            "op2": "*",
+            "op3": "%",
+            "op4": "@",
+            "answer:": 2
+        },
+        {
+            "question": "One of the following is a valid record-based data models :",
+            "op1": "Object-oriented model",
+            "op2": "Relational model",
+            "op3": "Entity-relationship model",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the relation scheme R(A, B, C, D) where A is candidate key. With no information about FDs involved, then R is in which normal form ?",
+            "op1": "First Normal Form",
+            "op2": "Second Normal Form",
+            "op3": "BNF",
+            "op4": "Third Normal Form",
+            "answer:": 4
+        },
+        {
+            "question": "The set of attributes X \u2286 Schema (R) is a super key for relation schema R only if :",
+            "op1": "For all relations r over R the number of tuples in projection over X of r is the same as the number of tuples in r",
+            "op2": "All attributes of X are having non null values",
+            "op3": "All attributes of X are having unique values",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "B+ Trees are preferred to binary trees since :",
+            "op1": "Disk capacities are higher than memory capacities",
+            "op2": "Memory access is faster than disk access",
+            "op3": "Disk are more reliable than memory",
+            "op4": "isk data transfer rates are much less than memory transfer rates",
+            "answer:": 2
+        },
+        {
+            "question": "The physical location of a record is determined by a mathematical formula that transforms a file key in to a record location in :",
+            "op1": "B-tree File",
+            "op2": "An indexed file",
+            "op3": "A hashed file",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "To represent many to many relationship between two entity types A and B in a relational model :",
+            "op1": "put identifying attribute (s) of in the relation representing B",
+            "op2": "put identifying attribute (s) of in the relation representing A",
+            "op3": "create a new relation to represent the relationship",
+            "op4": "it can not be represented",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a valid relational database ?",
+            "op1": "SYBSE",
+            "op2": "Oracle",
+            "op3": "FoxPro",
+            "op4": "UNIFY",
+            "answer:": 4
+        },
+        {
+            "question": "A number of related records that are treated as a unit is called :",
+            "op1": "file",
+            "op2": "field",
+            "op3": "data",
+            "op4": "batch",
+            "answer:": 1
+        },
+        {
+            "question": "One limitation of the entity-relationship model is that it cannot :",
+            "op1": "use generalization",
+            "op2": "express relationship among relationships",
+            "op3": "use single primary key",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "In a relational schema, each tuple is divided into fields is called :",
+            "op1": "Relations",
+            "op2": "Domains",
+            "op3": "Queries",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The relational model is concerned with :",
+            "op1": "Data structure and data integrity",
+            "op2": "Data manipulation",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a logical database structure ?",
+            "op1": "tree",
+            "op2": "relational",
+            "op3": "network",
+            "op4": "chain",
+            "answer:": 4
+        },
+        {
+            "question": "A field used to access a apecific record is called :",
+            "op1": "key",
+            "op2": "Attribute",
+            "op3": "Domain",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The index consists of :",
+            "op1": "list of keys",
+            "op2": "Pointer to the matter list",
+            "op3": "Both [A] and [B]",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The following entities/attributes in a relational database should not have null values :",
+            "op1": "keys",
+            "op2": "variables",
+            "op3": "relations",
+            "op4": "all of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The relational model uses some unfamiliar terminology. A tuple is equivalent to a :",
+            "op1": "record",
+            "op2": "field",
+            "op3": "file",
+            "op4": "database",
+            "answer:": 1
+        },
+        {
+            "question": "The set of all possible values of data items is called :",
+            "op1": "Domain",
+            "op2": "Attribute",
+            "op3": "Tuples",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Large collection of files are called :",
+            "op1": "fields",
+            "op2": "records",
+            "op3": "databases",
+            "op4": "file system",
+            "answer:": 3
+        },
+        {
+            "question": "The set of permitted values for each attribute is called its :",
+            "op1": "ttribute set",
+            "op2": "Attribute range",
+            "op3": "Domain",
+            "op4": "Group",
+            "answer:": 3
+        },
+        {
+            "question": "Pick the odd one out :",
+            "op1": "Primary Key",
+            "op2": "Super Key",
+            "op3": "andidate Key",
+            "op4": "Foreign Key",
+            "answer:": 4
+        },
+        {
+            "question": "A relational database management (RDBM) package manages data in more than one file at once. How does it organize these files ?",
+            "op1": "Tables",
+            "op2": "Relations",
+            "op3": "Tuples",
+            "op4": "Both [A] and [B]",
+            "answer:": 4
+        },
+        {
+            "question": "Key to represent relationship between tables is called :",
+            "op1": "Primary Key",
+            "op2": "Secondary Key",
+            "op3": "Foreign Key",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The relational model is concerned with",
+            "op1": "Data structure and Data integrity",
+            "op2": "Data manipulation",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which key provides the basic tuple-level addressing mechanism in a relational System ?",
+            "op1": "Candidate Key",
+            "op2": "Alternative Key",
+            "op3": "Primary Key",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Pick out the false statement from the following :",
+            "op1": "view is a named derived table",
+            "op2": "A view is named relation and is virtual",
+            "op3": "A name relation is a variable",
+            "op4": "None of these",
+            "answer:": 4
+        },
+        {
+            "question": "Any entity in A is associated with any number of entities in B, however an entity in B is associated with almost one entity in A",
+            "op1": "One to One",
+            "op2": "Many to Many",
+            "op3": "Many to One",
+            "op4": "One to Many",
+            "answer:": 4
+        },
+        {
+            "question": "The union of Primary keys of the related entity sets becomes a ________ of the relation.",
+            "op1": "Super Key",
+            "op2": "Candidate Key",
+            "op3": "Foreign Key",
+            "op4": "Primary Key",
+            "answer:": 1
+        }
+    ]
+}

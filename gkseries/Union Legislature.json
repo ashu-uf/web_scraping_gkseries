@@ -1,0 +1,806 @@
+{
+    "topic": "Union Legislature",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "Which state of India has highest number of Lok Sabha constutiencies?",
+            "op1": "Bihar",
+            "op2": "Madhya Pradesh",
+            "op3": "Uttar Pradesh",
+            "op4": "Madhya Pradesh",
+            "answer:": 3
+        },
+        {
+            "question": "The system is used to elect members of the Rajya Sabha:",
+            "op1": "Cumulative vote system",
+            "op2": "Single non-transferable vote system",
+            "op3": "Single transferable vote system",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "What is zero hour in parliament?",
+            "op1": "When the proposal of the opposition is considered",
+            "op2": "The first hour of the session",
+            "op3": "When matters of utmost importance are raised",
+            "op4": "When a money bill is introduced in the Lok Sabha",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is true about chairman of Public Accounts Committee?",
+            "op1": "Elected by Union Cabinet",
+            "op2": "Appointed by Speaker",
+            "op3": "Appointed by President",
+            "op4": "Elected by members of the Public Accounts Committee",
+            "answer:": 2
+        },
+        {
+            "question": "With regard to the powers of the Rajya Sabha, which one among the following statements is not correct?",
+            "op1": "money bill cannot be introduced in the Rajya Sabha",
+            "op2": "The Rajya Sabha has no power either to reject or amend a money bill",
+            "op3": "The Rajya Sabha cannot discuss the annual financial statement",
+            "op4": "The Rajya Sabha has no power to vote on the demands for grants",
+            "answer:": 3
+        },
+        {
+            "question": "Which is the largest committee of the Parliament?",
+            "op1": "The Public ccounts Committee",
+            "op2": "The Estimates Committee",
+            "op3": "The ommittee on Public Undertakings",
+            "op4": "The Committee on Petitions",
+            "answer:": 2
+        },
+        {
+            "question": "The minimum age for being the member of Parliament is:",
+            "op1": "21 Years",
+            "op2": "25 Years",
+            "op3": "28 Years",
+            "op4": "30 Years",
+            "answer:": 2
+        },
+        {
+            "question": "What is the minimum age for election/appointment as member of the Rajya Sabha?",
+            "op1": "21 Years",
+            "op2": "25 Years",
+            "op3": "30 Years",
+            "op4": "35 Years",
+            "answer:": 3
+        },
+        {
+            "question": "When the joint sittings of the two houses of Parliament are held?",
+            "op1": "To elect the President of India",
+            "op2": "To elect the Vice-President of India",
+            "op3": "To adopt a onstitution amending bill",
+            "op4": "To consider and pass a bill on which two houses disagree",
+            "answer:": 4
+        },
+        {
+            "question": "The maximum possible gap between two sessions of Parliament is:",
+            "op1": "3 months",
+            "op2": "4 months",
+            "op3": "6 months",
+            "op4": "9 months",
+            "answer:": 3
+        },
+        {
+            "question": "Postal voting is otherwise called:",
+            "op1": "Proxy voting",
+            "op2": "Secret voting",
+            "op3": "Plural voting",
+            "op4": "Weighted voting",
+            "answer:": 1
+        },
+        {
+            "question": "Stability of the Government is assured in:",
+            "op1": "Direction Democracy",
+            "op2": "Plural Executive System",
+            "op3": "Presidential From of Government",
+            "op4": "Parliamentary From of Government",
+            "answer:": 3
+        },
+        {
+            "question": "How many members of the State Legislative Council are elected by the Assembly?",
+            "op1": "1/3th of the members",
+            "op2": "1/6th of the members",
+            "op3": "1/12th of the members",
+            "op4": "5/6th of the members",
+            "answer:": 1
+        },
+        {
+            "question": "In case of a disagreement between the two Houses of Parliament over a non-money bill:",
+            "op1": "The bill will lapse",
+            "op2": "The President may sign it into a law",
+            "op3": "The President may ask both the Houses to reconsider it.",
+            "op4": "The President may call a joint sitting of both the Houses to consider it.",
+            "answer:": 4
+        },
+        {
+            "question": "A money bill passed by the Lok Sabha is deemed to have been passed by the Rajya Sabha also when no action is taken by the Upper House within:",
+            "op1": "10 days",
+            "op2": "14 days",
+            "op3": "18 days",
+            "op4": "22 days",
+            "answer:": 2
+        },
+        {
+            "question": "What can be the maximum interval between two Sessions of Parliament?",
+            "op1": "Three months",
+            "op2": "Four months",
+            "op3": "Six months",
+            "op4": "Nine months",
+            "answer:": 3
+        },
+        {
+            "question": "The Committee appointed in 1977 to review working of the Panchayati Raj was chaired by:",
+            "op1": "shok Mehta",
+            "op2": "K.N. Katju",
+            "op3": "Jagjivan Ram",
+            "op4": "Balwant Rai Mehta",
+            "answer:": 1
+        },
+        {
+            "question": "What is the implication of the Central Government granting \u201cSpecial Status\u201d to a State?",
+            "op1": "The extent of loan as a percentage of total assistance will be low",
+            "op2": "Substantially large percentage of the central assistance will be as grants-sin-aid",
+            "op3": "urrent account budgetary deficit will be bridged by the entral Government",
+            "op4": "Both (A) and (B) above",
+            "answer:": 4
+        },
+        {
+            "question": "Bills of which of the following categories can be initiated only in Lok Sabha?",
+            "op1": "Money Bill",
+            "op2": "Ordinary ill",
+            "op3": "Private Members Bill",
+            "op4": "Constitution Amendment Bill",
+            "answer:": 1
+        },
+        {
+            "question": "How many legislative excesses of Parliament and Assemblies checked?",
+            "op1": "General elections",
+            "op2": "Judicial review",
+            "op3": "No onfidence motions",
+            "op4": "Intervention from President/Governor",
+            "answer:": 2
+        },
+        {
+            "question": "In which state of India is there a uniform civil code?",
+            "op1": "Goa",
+            "op2": "Haryana",
+            "op3": "Kerala",
+            "op4": "Meghalaya",
+            "answer:": 1
+        },
+        {
+            "question": "The Legislative Council in a state in India may be created or abolished by the",
+            "op1": "Parliament",
+            "op2": "President on the recommendation of the Governor",
+            "op3": "Governor on a recommendation by the State abinet",
+            "op4": "Parliament after the State Legislative Assembly passes a resolution to that effect",
+            "answer:": 4
+        },
+        {
+            "question": "Rajya Sabha enjoys more powers than the Lok Sabha in the case of",
+            "op1": "Money Bills",
+            "op2": "Non-money ills",
+            "op3": "Setting up of new All India Services",
+            "op4": "Amendment of the Constitution",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not an administrative function of a Village Panchayat?",
+            "op1": "Maintenance of road",
+            "op2": "Providing college education",
+            "op3": "Providing sanitation and drainage",
+            "op4": "Providing burial and cremation grounds",
+            "answer:": 2
+        },
+        {
+            "question": "The first woman film star nominated to the Rajya Sabha was",
+            "op1": "Meena Kumari",
+            "op2": "Madhubala",
+            "op3": "Shabana Azmi",
+            "op4": "Nargis utt",
+            "answer:": 4
+        },
+        {
+            "question": "What is the composition of the Electoral College for the election of Vice-President of India?",
+            "op1": "Members of Rajya Sabha only",
+            "op2": "Members of both Houses of Parliament",
+            "op3": "Elected members of Lok Sabha and Rajya Sabha",
+            "op4": "Elected members of Lok Sabha, Rajya Sabha and State Legislative Assemblies",
+            "answer:": 3
+        },
+        {
+            "question": "The first State in India to implement Panchayati Raj System was",
+            "op1": "Rajasthan",
+            "op2": "Punjab",
+            "op3": "Gujarat",
+            "op4": "Uttar Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Division of powers is the principle of",
+            "op1": "Republican form of Government",
+            "op2": "Socialist form of Government",
+            "op3": "Federal form of Government",
+            "op4": "Unitary form of Government",
+            "answer:": 3
+        },
+        {
+            "question": "Indian Parliament includes:",
+            "op1": "Only Lok Sabha",
+            "op2": "President and Lok Sabha",
+            "op3": "Lok Sabha and Rajya Sabha",
+            "op4": "President, Lok Sabha and Rajya Sabha",
+            "answer:": 4
+        },
+        {
+            "question": "Which among the following court has the original jurisdiction to hear petition and give decision challenging election of the Lok Sabha/Vidhan Sabha?",
+            "op1": "Supreme Court",
+            "op2": "High Court of the State",
+            "op3": "District ourt of a constituency",
+            "op4": "Special Judge authorized by the Chief Justice of India",
+            "answer:": 2
+        },
+        {
+            "question": "The item \u2018Education\u2019 belongs to the",
+            "op1": "State List",
+            "op2": "Union List",
+            "op3": "oncurrent List",
+            "op4": "Residuary Subjects",
+            "answer:": 3
+        },
+        {
+            "question": "The joint session of the two Houses of Parliament is convened",
+            "op1": "Only in case of national emergency",
+            "op2": "When a bill passed by one House is rejected by the other House",
+            "op3": "Taxes approved by one House are rejected by the other House",
+            "op4": "Both (B) and (C)",
+            "answer:": 4
+        },
+        {
+            "question": "An Ordinary bill passed by the State Assembly can be delayed by the Legislative Council for a maximum period of",
+            "op1": "2 month",
+            "op2": "3 month",
+            "op3": "4 month",
+            "op4": "5 month",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is the biggest head of non-plan expenditure of Government of India?",
+            "op1": "Defence",
+            "op2": "Subsidies",
+            "op3": "Salaries and Wages",
+            "op4": "Interest payments",
+            "answer:": 4
+        },
+        {
+            "question": "Resources transferred from the Government of India to States are termed \u2018statutory\u2019 if they are made",
+            "op1": "In the form of loans",
+            "op2": "In the form of grants",
+            "op3": "On the recommendations of the Finance ommission",
+            "op4": "On the recommendations of the Planning Commission",
+            "answer:": 3
+        },
+        {
+            "question": "Which city in India is the first to use municipal wastes to generate power?",
+            "op1": "Chennai",
+            "op2": "Delhi",
+            "op3": "Mumbai",
+            "op4": "Kolkata",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following States was first to adopt the Panchayati Raj?",
+            "op1": "Rajasthan",
+            "op2": "Punjab",
+            "op3": "Gujarat",
+            "op4": "Uttar Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Indian Parliament can rename or redefine the boundary of a State by",
+            "op1": "bsolute majority",
+            "op2": "A simple majority",
+            "op3": "2/3rd majority of the members voting",
+            "op4": "2/3rd majority of the members voting and an absolute majority of its total membership",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following Indian States first adopted the 3-tier Panchayati Raj system?",
+            "op1": "Bihar",
+            "op2": "Assam",
+            "op3": "Rajasthan",
+            "op4": "Gujarat",
+            "answer:": 3
+        },
+        {
+            "question": "Elections to the House of the People and the legislative assemblies of States in India are held on the basis of:",
+            "op1": "dult franchise",
+            "op2": "Limited suffrage",
+            "op3": "single transferable vote",
+            "op4": "Proportional representation",
+            "answer:": 1
+        },
+        {
+            "question": "Which amidst the following States has Legislative Council?",
+            "op1": "Punjab",
+            "op2": "ihar",
+            "op3": "Orissa",
+            "op4": "West Bengal",
+            "answer:": 2
+        },
+        {
+            "question": "When was zero hour introduced in the parliamentary affairs in India?",
+            "op1": "1962",
+            "op2": "1972",
+            "op3": "1982",
+            "op4": "1992",
+            "answer:": 1
+        },
+        {
+            "question": "Vote-on account means",
+            "op1": "Statutory acceptance of money bill",
+            "op2": "Statutory acceptance of planning bill",
+            "op3": "Statutory acceptance of report of account checking and documents produced by AG",
+            "op4": "Statutory acceptance of expenditure related to demands of grants till the passage of planning bill",
+            "answer:": 4
+        },
+        {
+            "question": "The maximum number of members of Lok Sabha and Rajya Sabha has been fixed by the Constitution of India respectively as",
+            "op1": "500 and 250",
+            "op2": "525 and 270",
+            "op3": "545 and 250",
+            "op4": "565 and 255",
+            "answer:": 3
+        },
+        {
+            "question": "Which are the two States (other than UP) having the highest representation in Lok Sabha?",
+            "op1": "Bihar and Maharashtra",
+            "op2": "ihar and Madhya Pradesh",
+            "op3": "Tamil Nadu and Rajasthan",
+            "op4": "Karnataka and Andhra Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following taxes is exclusively and totally assigned to the Central Government by the Constitution?",
+            "op1": "Sales Tax",
+            "op2": "Corporation Tax",
+            "op3": "Estate Duty",
+            "op4": "Taxes on Railway Fares and Freights",
+            "answer:": 2
+        },
+        {
+            "question": "Representation of any state in Rajya Sabha is according to",
+            "op1": "rea of the state",
+            "op2": "Population of the state",
+            "op3": "Fixed number of candidates from each state",
+            "op4": "Number of representatives in Lok Sabha from the state",
+            "answer:": 2
+        },
+        {
+            "question": "Who can be the member of the Rajya Sabha but can speak both in Rajya Sabha and Lok Sabha?",
+            "op1": "The deputy Chairman of Rajya Sabha",
+            "op2": "Nominated members of the Rajya Sabha",
+            "op3": "Leader of the House in the Rajya Sabha",
+            "op4": "Ministers who are members of the Rajya Sabha",
+            "answer:": 4
+        },
+        {
+            "question": "How many members of the Rajya Sabha are nominated by the President?",
+            "op1": "Five",
+            "op2": "Ten",
+            "op3": "Twelve",
+            "op4": "One-fifth of the total members",
+            "answer:": 3
+        },
+        {
+            "question": "The Speaker of the Lok Sabha is elected by the",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "Members of Lok Sabha",
+            "op4": "Members of both Houses of Parliament",
+            "answer:": 3
+        },
+        {
+            "question": "The President of India is elected by",
+            "op1": "Members of both houses of Parliament",
+            "op2": "Members of both Houses of Parliament and of State Legislatures",
+            "op3": "Members of both houses of Parliament and of state legislative assemblies",
+            "op4": "Elected members of both houses of Parliament and elected members of State legislative assemblies",
+            "answer:": 4
+        },
+        {
+            "question": "A motion moved by a member in a legislature when it is desired to have a discussion on a matter of urgent public importance is called",
+            "op1": "Cut motion",
+            "op2": "Adjournment motion",
+            "op3": "No-confidence motion",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "No Government Expenditure can be incurred in India except with the sanction of",
+            "op1": "The President",
+            "op2": "The Prime Minister",
+            "op3": "The Parliament",
+            "op4": "The Supreme Court",
+            "answer:": 3
+        },
+        {
+            "question": "When does Lok Sabha or a Vidhan Sabha election candidate forfeit his security deposit?",
+            "op1": "When he fails to secure even 1/6 of total votes polled",
+            "op2": "When he fails to secure even 1/5 of total votes polled",
+            "op3": "When he fails to secure even 1/4 of total votes polled",
+            "op4": "When he fails to win the election",
+            "answer:": 1
+        },
+        {
+            "question": "Name the President of India who was elected unopposed",
+            "op1": "Dr. Zakir Husain",
+            "op2": "Dr. Fakhruddin Ali Ahmed",
+            "op3": "Dr. Shankar Dayal Sharma",
+            "op4": "r. Neelam Sanjiva Reddy",
+            "answer:": 4
+        },
+        {
+            "question": "A candidate, to become a member of the Rajya Sabha, should not be less than",
+            "op1": "25 years of age",
+            "op2": "30 years of age",
+            "op3": "32 years of age",
+            "op4": "35 years of age",
+            "answer:": 2
+        },
+        {
+            "question": "The Union Parliament consists of",
+            "op1": "The President of India",
+            "op2": "The House of the People (Lok Sabha)",
+            "op3": "The ouncil of States (Rajya Sabha)",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The maximum strength of the elected members of the House of the People (Lok Sabha) is",
+            "op1": "530",
+            "op2": "545",
+            "op3": "550",
+            "op4": "555",
+            "answer:": 2
+        },
+        {
+            "question": "How many readings does a non-money bill have in each House of the Parliament?",
+            "op1": "One",
+            "op2": "Two",
+            "op3": "Three",
+            "op4": "Four",
+            "answer:": 3
+        },
+        {
+            "question": "Money bill can be introduced in the State Legislative Assembly with the prior permission of the",
+            "op1": "Governor of the State",
+            "op2": "Chief Minister of the State",
+            "op3": "Finance Minister of the State",
+            "op4": "Speaker of Legislative Assembly",
+            "answer:": 1
+        },
+        {
+            "question": "The Prime Minister who was voted out of power by the Parliament was",
+            "op1": "V.P. Singh",
+            "op2": "Indira Gandhi",
+            "op3": "Morarji Desai",
+            "op4": "Chandrashekhar",
+            "answer:": 1
+        },
+        {
+            "question": "The Indian Parliament is competent to enact law on a State subject if",
+            "op1": "The President sends such a message to Parliament",
+            "op2": "Emergency under Article 352 is in operation",
+            "op3": "All the state Assemblies of the country make such a request",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "A national political party is one which received 4% of the total votes polled in",
+            "op1": "The capital city",
+            "op2": "Two or more States",
+            "op3": "Four or more States",
+            "op4": "In all the States",
+            "answer:": 3
+        },
+        {
+            "question": "A Bill referred to a \u2018Joint Sitting of the two Houses of the Parliament is required to be passed by",
+            "op1": "simple majority of the members present",
+            "op2": "Absolute majority of the total membership",
+            "op3": "2/3rd majority of the members present",
+            "op4": "3/4th majority of the members present",
+            "answer:": 1
+        },
+        {
+            "question": "The Rajya Sabha is dissolved after",
+            "op1": "Every five years",
+            "op2": "Every six years",
+            "op3": "On the advice of the Prime Minister",
+            "op4": "None of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which party provided two Prime Ministers in two years time?",
+            "op1": "B.J.P.",
+            "op2": "Janata Party",
+            "op3": "Janata Dal",
+            "op4": "Samajwadi Janata Party",
+            "answer:": 2
+        },
+        {
+            "question": "The first mid-term elections for Lok Sabha were held in",
+            "op1": "1962",
+            "op2": "1965",
+            "op3": "1971",
+            "op4": "1975",
+            "answer:": 3
+        },
+        {
+            "question": "The \u2018Speaker\u2019s vote\u2019 in the Lok Sabha is called",
+            "op1": "Indirect vote",
+            "op2": "Direct vote",
+            "op3": "Sound vote",
+            "op4": "Casting vote",
+            "answer:": 4
+        },
+        {
+            "question": "To be a regional party the minimum percentage of votes, that a party needs to secure in any election is",
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "3%",
+            "op4": "4%",
+            "answer:": 3
+        },
+        {
+            "question": "The most important feature of the Indian Parliament is that",
+            "op1": "It is bicameral in nature",
+            "op2": "It also comprises the President",
+            "op3": "It is the Union Legislature in India",
+            "op4": "The Upper House of the Parliament is never dissolved",
+            "answer:": 4
+        },
+        {
+            "question": "The 3-tier of the Panchayati Raj System consists of",
+            "op1": "Gram Sabha, Panchayat Samiti, Zilla Parishad",
+            "op2": "Gram Sabha, Anchal Panchayat, Panchayat Samiti",
+            "op3": "Janapad Panchayat, Taluka Panchayat, Anchal Panchayat",
+            "op4": "Gram Panchayat, Block and Panchayat Samiti, Zilla Parishad",
+            "answer:": 1
+        },
+        {
+            "question": "The two forms of democracy are",
+            "op1": "Parliamentary and King",
+            "op2": "Monarchical and Republican",
+            "op3": "Direct and indirect",
+            "op4": "Parliamentary and Presidential",
+            "answer:": 4
+        },
+        {
+            "question": "Despotism is possible in a",
+            "op1": "One party state",
+            "op2": "Two party state",
+            "op3": "Multi party state",
+            "op4": "Two and Multi party state",
+            "answer:": 1
+        },
+        {
+            "question": "The Speaker of the Lok Sabha has to address his/her letter of resignation to",
+            "op1": "President of India",
+            "op2": "Prime Minister of India",
+            "op3": "Deputy Speaker of Lok Sabha",
+            "op4": "Minister of Parliamentary Affairs",
+            "answer:": 3
+        },
+        {
+            "question": "How many members of the Anglo-Indian community can be nominated by the President of India to the Parliament?",
+            "op1": "1",
+            "op2": "2",
+            "op3": "3",
+            "op4": "4",
+            "answer:": 2
+        },
+        {
+            "question": "In which State of India, was a non-Congress government formed for the first time?",
+            "op1": "Kerala",
+            "op2": "Pondicherry",
+            "op3": "Tamil Nadu",
+            "op4": "West Bangle",
+            "answer:": 1
+        },
+        {
+            "question": "How many members of the Rajya Sabha retire from the house every 2 years?",
+            "op1": "1/6 of the total members",
+            "op2": "1/3 of the total members",
+            "op3": "1/12 of the total members",
+            "op4": "5/6 of the total members",
+            "answer:": 2
+        },
+        {
+            "question": "How many times was the term of the Lok Sabha extended upto 6 years?",
+            "op1": "Once",
+            "op2": "Twice",
+            "op3": "Thrice",
+            "op4": "Never",
+            "answer:": 1
+        },
+        {
+            "question": "Among the tax revenues of the Union Government, the most important source is",
+            "op1": "Income Tax",
+            "op2": "Customs Duty",
+            "op3": "orporation Tax",
+            "op4": "Union Excise uties",
+            "answer:": 4
+        },
+        {
+            "question": "Which is not the concern of the local government?",
+            "op1": "Sanitation",
+            "op2": "Public-Health",
+            "op3": "Law and Order",
+            "op4": "Public Utility Services",
+            "answer:": 3
+        },
+        {
+            "question": "What is the maximum strength prescribed for State Legislative Assemblies?",
+            "op1": "400",
+            "op2": "450",
+            "op3": "500",
+            "op4": "550",
+            "answer:": 3
+        },
+        {
+            "question": "A member of Parliament will lose his membership of Parliament if he is continuously absent from Sessions for",
+            "op1": "45 days",
+            "op2": "60 days",
+            "op3": "90 days",
+            "op4": "365 days",
+            "answer:": 2
+        },
+        {
+            "question": "Which innovative discussion process is introduced by the Indian parliament to the World Parliamentary systems?",
+            "op1": "Zero hour",
+            "op2": "Question Hour",
+            "op3": "Resolutions",
+            "op4": "Presidential Speech",
+            "answer:": 1
+        },
+        {
+            "question": "Indian Parliament means",
+            "op1": "Rajya Sabha \u2013 Lok Sabha",
+            "op2": "Rajya Sabha \u2013 Lok Sabha \u2013 Prime Minister",
+            "op3": "President of India - Rajya Sabha \u2013 Lok Sabha",
+            "op4": "President of India \u2013 Vice President of India - Lok Sabha - Rajya Sabha",
+            "answer:": 3
+        },
+        {
+            "question": "The three-tier Panchayat Raj system in India was proposed by the \u2013",
+            "op1": "Balwant Rai Mehta Committee",
+            "op2": "Royal Commission",
+            "op3": "Ashok Mehta ommittee",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following is the popularly elected House of the Indian Parliament?",
+            "op1": "Lok Sabha",
+            "op2": "Rajya Sabha",
+            "op3": "Lok Sabha as well as Rajya Sabha",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following methods is used to ascertain the public opinion on important legislation?",
+            "op1": "Recall",
+            "op2": "Referendum",
+            "op3": "Initiative",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Compared with Society, the scope of State activity is",
+            "op1": "Narrow",
+            "op2": "Wider",
+            "op3": "Just equal",
+            "op4": "No comparison between the two",
+            "answer:": 2
+        },
+        {
+            "question": "The States in India are demanding greater autonomy from the Centre in the _______ field.",
+            "op1": "Financial",
+            "op2": "Legislative",
+            "op3": "Administrative",
+            "op4": "All the above",
+            "answer:": 4
+        },
+        {
+            "question": "A joint sitting of the two Houses of Indian Parliament is presided over by the",
+            "op1": "President of India",
+            "op2": "Speaker of the Lok Sabha",
+            "op3": "Vice President of India",
+            "op4": "Attorney-General of India",
+            "answer:": 2
+        },
+        {
+            "question": "What is the maximum number of starred questions that can be asked in Lok Sabha on a particular day?",
+            "op1": "15",
+            "op2": "20",
+            "op3": "25",
+            "op4": "No limit",
+            "answer:": 2
+        },
+        {
+            "question": "The Council of Ministers in a State is collectively responsible to",
+            "op1": "The Governor",
+            "op2": "The Chief Minister",
+            "op3": "The President of India",
+            "op4": "The Legislative Assembly",
+            "answer:": 4
+        },
+        {
+            "question": "Rajya Sabha being a permanent house",
+            "op1": "One-half of its members retire every three years",
+            "op2": "One-third of its members retire every two years",
+            "op3": "One-fifth of its members retire every years",
+            "op4": "One-sixth of its members retire every years",
+            "answer:": 2
+        },
+        {
+            "question": "In which State does the Governor nominate women to the Assembly?",
+            "op1": "Sikkim",
+            "op2": "Manipur",
+            "op3": "Nagaland",
+            "op4": "Jammu & Kashmir",
+            "answer:": 4
+        },
+        {
+            "question": "The Joint Session of both the Houses of Parliament is summoned by",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "hairman of Rajya Sabha",
+            "op4": "Speaker of the Lok Sabha",
+            "answer:": 1
+        },
+        {
+            "question": "In a federal Government the states enjoy",
+            "op1": "Original powers",
+            "op2": "Powers given by the people",
+            "op3": "Powers given by the onstitution",
+            "op4": "Powers delegated by the Centre",
+            "answer:": 3
+        },
+        {
+            "question": "What is the duration of membership of State Legislative Councils?",
+            "op1": "4 years",
+            "op2": "6 years",
+            "op3": "8 years",
+            "op4": "10 years",
+            "answer:": 2
+        },
+        {
+            "question": "The Residuary powers of the Indian Union are",
+            "op1": "Vested with the Centre",
+            "op2": "Vested with the States",
+            "op3": "There are no residuary powers",
+            "op4": "They are distributed between the centre and the states.",
+            "answer:": 1
+        },
+        {
+            "question": "A mid-term poll is conducted when",
+            "op1": "ll MP\u2019s of a political party resign",
+            "op2": "There are discrepancies in voting",
+            "op3": "An elected member resigns from his seat",
+            "op4": "A the Lok Sabha is dissolved before completion of its term",
+            "answer:": 4
+        },
+        {
+            "question": "A proclamation of emergency caused by war or external aggression must be approved by both the Houses of Parliament within",
+            "op1": "25 days",
+            "op2": "1 month",
+            "op3": "45 days",
+            "op4": "3 months",
+            "answer:": 2
+        }
+    ]
+}

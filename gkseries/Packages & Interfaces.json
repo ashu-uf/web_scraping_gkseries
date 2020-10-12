@@ -1,0 +1,22 @@
+{
+    "topic": "Packages & Interfaces",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "Which of the following classes directly implement Set interface?",
+            "op1": "Vector",
+            "op2": "HashSet",
+            "op3": "LinkedList",
+            "op4": "HashTable",
+            "answer:": 2
+        },
+        {
+            "question": "The first statement in java source file",
+            "op1": "import statement",
+            "op2": "package statement",
+            "op3": "main statement",
+            "op4": "try{} and catch{}",
+            "answer:": 2
+        }
+    ]
+}

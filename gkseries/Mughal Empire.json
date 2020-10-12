@@ -1,0 +1,446 @@
+{
+    "topic": "Mughal Empire",
+    "Subject": "Indian History",
+    "data": [
+        {
+            "question": "During the Mughal period which one of the following traders first came to India?",
+            "op1": "Portuguese",
+            "op2": "Dutch",
+            "op3": "Danish",
+            "op4": "British",
+            "answer:": 1
+        },
+        {
+            "question": "Akbar built the great Buland Darwaza to celebrate the victory of :",
+            "op1": "Orissa",
+            "op2": "engal",
+            "op3": "Delhi",
+            "op4": "Gujarat",
+            "answer:": 4
+        },
+        {
+            "question": "The title of Hazrat-i-Ala related to which one of the following rulers?",
+            "op1": "Balban",
+            "op2": "Alauddin Khilji",
+            "op3": "Mohammad-bin-Tughlaq",
+            "op4": "Sher Shah Suri",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following rulers first organize the Haj pilgrimage at the expense of the state was:",
+            "op1": "lauddin Khilji",
+            "op2": "Akbar",
+            "op3": "Humayun",
+            "op4": "Shahjahan",
+            "answer:": 2
+        },
+        {
+            "question": "The tomb of Babur is located at :",
+            "op1": "Lahore",
+            "op2": "Kabul",
+            "op3": "Istanbul",
+            "op4": "Baghdad",
+            "answer:": 2
+        },
+        {
+            "question": "Babar laid the foundation of mughal empire in 152 by defeating :",
+            "op1": "Rana Sanga",
+            "op2": "Daulat Khan Lodi",
+            "op3": "Ibrahim Lodi",
+            "op4": "Alauddin Khilji",
+            "answer:": 3
+        },
+        {
+            "question": "When Akbar was young, his guardian was :",
+            "op1": "bul Fazal",
+            "op2": "Hemu",
+            "op3": "Faizal",
+            "op4": "Bairam Khan",
+            "answer:": 4
+        },
+        {
+            "question": "Akbar assumed actual control over the administration of his empire in:",
+            "op1": "1556",
+            "op2": "1558",
+            "op3": "1560",
+            "op4": "1562",
+            "answer:": 1
+        },
+        {
+            "question": "The court language of Mughals was :",
+            "op1": "Persian",
+            "op2": "Arabic",
+            "op3": "Urdu",
+            "op4": "Hindi",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following rulers assumed the title of Hazrat-i-Ala?",
+            "op1": "Sher Shah Suri",
+            "op2": "Mohammad-bin-Tughlaq",
+            "op3": "Alauddin Khilji",
+            "op4": "Balban",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following kingdoms was annexed to the Mughal empire during the reign of Shahjahan?",
+            "op1": "hmadnagar",
+            "op2": "Golkonda",
+            "op3": "Khandesh",
+            "op4": "Bijapur",
+            "answer:": 1
+        },
+        {
+            "question": "Akbar\u2019s land revenue system was known as :",
+            "op1": "Todar mal\u2019s revenue",
+            "op2": "Zabti system",
+            "op3": "Bandobast system",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Babar won the Battle of Panipat mainly because of :",
+            "op1": "Tulughma system",
+            "op2": "his military skill",
+            "op3": "his cavalry",
+            "op4": "Afghan's disunity",
+            "answer:": 2
+        },
+        {
+            "question": "Where did Babar Die?",
+            "op1": "Lahore",
+            "op2": "Delhi",
+            "op3": "Agra",
+            "op4": "Kabul",
+            "answer:": 3
+        },
+        {
+            "question": "The most famous court-poet (in Hindi literature) of Akbar was:",
+            "op1": "Tulsidas",
+            "op2": "Abdur Rahim-Khan-i-Khanan",
+            "op3": "Raskhan",
+            "op4": "Surdas",
+            "answer:": 2
+        },
+        {
+            "question": "Who among the following Indian rulers was a contemporary of Akbar?",
+            "op1": "Rani Durgawati",
+            "op2": "Raja Sawai Jai Singh",
+            "op3": "Ahilya Bai",
+            "op4": "Martanda Varma",
+            "answer:": 1
+        },
+        {
+            "question": "During the Mughal period which one of the following traders first came to India?",
+            "op1": "Portuguese",
+            "op2": "Dutch",
+            "op3": "Danish",
+            "op4": "English",
+            "answer:": 1
+        },
+        {
+            "question": "Who among the following lost his kingdom in Hindustan but retrieved it after about 15 years in exile?",
+            "op1": "Humayun",
+            "op2": "Ala-ud-din Khilji",
+            "op3": "Firoz Shah Tughlaq",
+            "op4": "Ghiyas-ud-din Tughlaq",
+            "answer:": 1
+        },
+        {
+            "question": "The coin rupiya was first issued by :",
+            "op1": "kbar",
+            "op2": "Sher Shah Suri",
+            "op3": "Alauddin Khilji",
+            "op4": "Muhammad-bin-Tughlaq",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the ruler of medieval India who is credited with the building of the Grand Trunk Road?",
+            "op1": "Jahangir",
+            "op2": "abar",
+            "op3": "Sher Shah Suri",
+            "op4": "Krishnadeva Raya",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is built by Akbar?",
+            "op1": "Red Fort",
+            "op2": "Fort of Daulatabad",
+            "op3": "Agra Fort",
+            "op4": "Fort of Ahmednagar",
+            "answer:": 3
+        },
+        {
+            "question": "Humayun received the Kohinoor diamond from :",
+            "op1": "Shershah Suri",
+            "op2": "the ruler of Gwalior",
+            "op3": "the ruler of Jodhpur",
+            "op4": "the ruler of Bikaner",
+            "answer:": 2
+        },
+        {
+            "question": "The medieval Indian writer who refers to the discovery of America is:",
+            "op1": "mir Khusrau",
+            "op2": "Raskhan",
+            "op3": "Abul Fazl",
+            "op4": "Malik Muhammad Jayasi",
+            "answer:": 3
+        },
+        {
+            "question": "The head of the military department under the recognized central machinery of administration during Akbar\u2019s reign was:",
+            "op1": "Mir Bakshi",
+            "op2": "Diwan",
+            "op3": "Mir Saman",
+            "op4": "Bakshi",
+            "answer:": 1
+        },
+        {
+            "question": "Ibadat Khana, where learned men of all religions discussed religious issues during the time of Akbar, is a famous structure in:",
+            "op1": "The Red fort of Delhi",
+            "op2": "Fatehpur Sikri",
+            "op3": "the Agra fort",
+            "op4": "Sikandara",
+            "answer:": 2
+        },
+        {
+            "question": "Since ages the women of Maharashtra have proved themselves equal to men on battlefield. Famous Chandbibi of Ahmednagar fought to protect her kingdom against:",
+            "op1": "East India Company",
+            "op2": "Nizam forces of Hyderabad",
+            "op3": "Mughals",
+            "op4": "Adilshahi force of Bijapur",
+            "answer:": 3
+        },
+        {
+            "question": "Akbar founded his own religion known as \u2018Din-i-ilahi\u2019 which means :",
+            "op1": "Universal peace",
+            "op2": "House of worship",
+            "op3": "Divine faith",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Akbar defeated Rana Pratap in the Battle of Haldighati in the year:",
+            "op1": "1566",
+            "op2": "1576",
+            "op3": "1580",
+            "op4": "1588",
+            "answer:": 2
+        },
+        {
+            "question": "Tansen, the greatest musician of Akbar\u2019s court, belonged to :",
+            "op1": "gra",
+            "op2": "Gwalior",
+            "op3": "Kanauj",
+            "op4": "elhi",
+            "answer:": 2
+        },
+        {
+            "question": "When Akbar was born, Humayun was under the shelter of which one of the following?",
+            "op1": "Shah Tahmasp of Persia",
+            "op2": "Maldeo of Marwar",
+            "op3": "Pooran Mal of Raisin",
+            "op4": "Raja of Amarkot",
+            "answer:": 4
+        },
+        {
+            "question": "Tulsidas was a contemporary of :",
+            "op1": "kbar",
+            "op2": "abar",
+            "op3": "Shahjahan",
+            "op4": "Jahangir",
+            "answer:": 1
+        },
+        {
+            "question": "The mausoleum of Sher Shah is at :",
+            "op1": "Lahore",
+            "op2": "Agra",
+            "op3": "Delhi",
+            "op4": "Sasaram",
+            "answer:": 4
+        },
+        {
+            "question": "Buland Darwaza is situated in :",
+            "op1": "Lucknow",
+            "op2": "Meerut",
+            "op3": "Fatehpur Sikri",
+            "op4": "elhi",
+            "answer:": 3
+        },
+        {
+            "question": "Purana Qila was constructed during the reign of :",
+            "op1": "kbar",
+            "op2": "Humayun",
+            "op3": "Sher Shah",
+            "op4": "Jahangir",
+            "answer:": 3
+        },
+        {
+            "question": "The Muslim woman warrior Chand Bibi was the ruler of :",
+            "op1": "Golconda",
+            "op2": "ahmani",
+            "op3": "Bijapur",
+            "op4": "Meerut",
+            "answer:": 3
+        },
+        {
+            "question": "When did Vasco Da Gama come to India?",
+            "op1": "1490",
+            "op2": "1498",
+            "op3": "1538",
+            "op4": "1562",
+            "answer:": 2
+        },
+        {
+            "question": "Sher Shah\u2019s real name was :",
+            "op1": "Faizi",
+            "op2": "Hemu",
+            "op3": "Farid",
+            "op4": "Bahadur",
+            "answer:": 3
+        },
+        {
+            "question": "Which Mughal emperor gave land for the construction of the Golden temple at Amritsar?",
+            "op1": "urangazeb",
+            "op2": "Akbar",
+            "op3": "Jahangir",
+            "op4": "Shahjahan",
+            "answer:": 2
+        },
+        {
+            "question": "Who among the following the Mughal rulers was ignorant of the art of reading and writing?",
+            "op1": "kbar",
+            "op2": "Humayun",
+            "op3": "Babar",
+            "op4": "Jahangir",
+            "answer:": 1
+        },
+        {
+            "question": "Revenue system during Akbar\u2019s reign was in the hands of :",
+            "op1": "Toder Mal",
+            "op2": "airam Khan",
+            "op3": "Man Singh",
+            "op4": "Birbal",
+            "answer:": 1
+        },
+        {
+            "question": "The East India Company was founded in London during the reign of :",
+            "op1": "urangazeb",
+            "op2": "Jahangir",
+            "op3": "Akbar",
+            "op4": "Shahjahan",
+            "answer:": 3
+        },
+        {
+            "question": "The Mansabdari system introduced by Akbar was borrowed from the system in:",
+            "op1": "Mongolia",
+            "op2": "Turky",
+            "op3": "Persia",
+            "op4": "Afghanistan",
+            "answer:": 1
+        },
+        {
+            "question": "The capital of the Mughal Empire was shifted from Agra to Delhi by:",
+            "op1": "Shahjahan",
+            "op2": "Jahangir",
+            "op3": "Aurangzeb",
+            "op4": "Humayun",
+            "answer:": 1
+        },
+        {
+            "question": "Which Mughal emperor is also known as \"Zinda Pir\"?",
+            "op1": "kbar",
+            "op2": "Aurangzeb",
+            "op3": "Babar",
+            "op4": "Jahangir",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following Englishmen was honored by Jahangir with the title of \"Khan\"?",
+            "op1": "Edward Terry",
+            "op2": "Sir Thomas Roe",
+            "op3": "Martin Duke",
+            "op4": "William Hawkins",
+            "answer:": 4
+        },
+        {
+            "question": "Babar came to India originally from :",
+            "op1": "Seistan",
+            "op2": "Khorasan",
+            "op3": "khiva",
+            "op4": "Ferghana",
+            "answer:": 4
+        },
+        {
+            "question": "Who among the following was not a painter in the Mughal period ?",
+            "op1": "bdus Samad",
+            "op2": "az ahadur",
+            "op3": "Bishan Das",
+            "op4": "Mir Sayyid Ali",
+            "answer:": 2
+        },
+        {
+            "question": "During the reign of which of the following emperors was the artillery most perfect and numerous ?",
+            "op1": "Shahjahan",
+            "op2": "Jahangir",
+            "op3": "Aurangzeb",
+            "op4": "Akbar",
+            "answer:": 3
+        },
+        {
+            "question": "The designation \u2018Amil\u2019 in Akbar\u2019s time meant:",
+            "op1": "revenue officer",
+            "op2": "sacred book",
+            "op3": "custom officer",
+            "op4": "sacred law",
+            "answer:": 1
+        },
+        {
+            "question": "Upanishads were translated into Persian during the reign of:",
+            "op1": "kbar",
+            "op2": "Jahangir",
+            "op3": "Aurangzeb",
+            "op4": "Shahjahan",
+            "answer:": 4
+        },
+        {
+            "question": "Babar laid the foundation of mughal empire in 152 by defeating :",
+            "op1": "Rana Sanga",
+            "op2": "Daulat Khan Lodi",
+            "op3": "Ibrahim Lodi",
+            "op4": "Alauddin Khilji",
+            "answer:": 3
+        },
+        {
+            "question": "When Akbar was young, his guardian was :",
+            "op1": "bul Fazal",
+            "op2": "Hemu",
+            "op3": "Faizal",
+            "op4": "Bairam Khan",
+            "answer:": 4
+        },
+        {
+            "question": "Akbar assumed actual control over the administration of his empire in:",
+            "op1": "1556",
+            "op2": "1558",
+            "op3": "1560",
+            "op4": "1562",
+            "answer:": 1
+        },
+        {
+            "question": "The court language of Mughals was :",
+            "op1": "Persian",
+            "op2": "Arabic",
+            "op3": "Urdu",
+            "op4": "Hindi",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following rulers assumed the title of Hazrat-i-Ala?",
+            "op1": "Sher Shah Suri",
+            "op2": "Mohammad-bin-Tughlaq",
+            "op3": "Alauddin Khilji",
+            "op4": "Balban",
+            "answer:": 1
+        }
+    ]
+}

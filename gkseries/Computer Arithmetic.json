@@ -1,0 +1,54 @@
+{
+    "topic": "Computer Arithmetic",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "In n-bit Booth's multiplication algorithm, the largest number of operations are",
+            "op1": "B addition and log2n subtractions",
+            "op2": "log2n additions and log2n subtractions",
+            "op3": "(n-1) additions and (n-1) subtractions",
+            "op4": "none of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is a multiplication algorithm?",
+            "op1": "Comparison method",
+            "op2": "Restoring method",
+            "op3": "Quick sort algorithm",
+            "op4": "Booth's algorithm",
+            "answer:": 4
+        },
+        {
+            "question": "The most efficient method for translating arithmetic expressions into machine language instructions is using",
+            "op1": "prefix notation",
+            "op2": "postfix notation",
+            "op3": "infix notation",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Booth algorithm gives procedure for multiplying binary integers in",
+            "op1": "signed magnitude representation",
+            "op2": "unsigned representation",
+            "op3": "2's complement representation",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The simplified form of the expression AB+ABC is",
+            "op1": "B",
+            "op2": "A(+C)",
+            "op3": "AB+A",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "In a half-adder, CARRY is obtained by using",
+            "op1": "OR gate",
+            "op2": "NAND gate",
+            "op3": "EX-OR gate",
+            "op4": "AN gate",
+            "answer:": 4
+        }
+    ]
+}

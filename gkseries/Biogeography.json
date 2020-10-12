@@ -1,0 +1,446 @@
+{
+    "topic": "Biogeography",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Which one of the following derive their energy only from the Herbivores?",
+            "op1": "Omnivores",
+            "op2": "Autotrophs",
+            "op3": "arnivores",
+            "op4": "etritivores",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following constitute the third Trophic level of the food chain?",
+            "op1": "Omnivores",
+            "op2": "Carnivores",
+            "op3": "Herbivores",
+            "op4": "Autotrophs",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is one of the Primary Carnivores?",
+            "op1": "Catfish",
+            "op2": "Duckweed",
+            "op3": "Backswimmers",
+            "op4": "Snails",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following elements is required in large quantities by plants and animals ?",
+            "op1": "Iron",
+            "op2": "Molybdenum",
+            "op3": "Zinc",
+            "op4": "Phosphorus",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following are plant eating animals?",
+            "op1": "utotrophs",
+            "op2": "Detritivores",
+            "op3": "Herbivores",
+            "op4": "Omnivores",
+            "answer:": 3
+        },
+        {
+            "question": "The following are the four types of soils. Among them the formation of one soil is different from other three. Identify it.",
+            "op1": "Khadar",
+            "op2": "hangar",
+            "op3": "Bhabar",
+            "op4": "Regur",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following not a factor in soil formation ?",
+            "op1": "Relief",
+            "op2": "Climate",
+            "op3": "Natural vegetation",
+            "op4": "eforestation",
+            "answer:": 4
+        },
+        {
+            "question": "The condition/conditions of formation of laterite soil is :",
+            "op1": "High temparature",
+            "op2": "Heavy rainfall",
+            "op3": "Erosion",
+            "op4": "Both [A] and [B]",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the following statements about the soils of India :",
+            "op1": "I and II",
+            "op2": "I, III and IV",
+            "op3": "II and III",
+            "op4": "II and IV",
+            "answer:": 2
+        },
+        {
+            "question": "Among the following places, the average annual rainfall is highest at :",
+            "op1": "Chennai",
+            "op2": "Kolkata",
+            "op3": "Shillong",
+            "op4": "Guwahati",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a site for 'in-situ' method of conservation of flora ?",
+            "op1": "Biosphere reserve",
+            "op2": "otanical garden",
+            "op3": "National park",
+            "op4": "Wildlife sanctuary",
+            "answer:": 2
+        },
+        {
+            "question": "The western coast of India receive very high rainfall in summer mainly due to",
+            "op1": "Tropical location",
+            "op2": "Nearness to sea",
+            "op3": "Western Ghats",
+            "op4": "Himalayas",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following Indian state has the largest forest area ?",
+            "op1": "Mizoram",
+            "op2": "Arunachal Pradesh",
+            "op3": "Madhya Pradesh",
+            "op4": "Jammu and Kashmir",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is a Biodiversity Hotspot in India ?",
+            "op1": "Leh",
+            "op2": "Sundalands",
+            "op3": "Eastern Ghats",
+            "op4": "Western Himalaya",
+            "answer:": 2
+        },
+        {
+            "question": "Xerophytic vegetation is characteristics feature of which of the following ?",
+            "op1": "Chotanagpur plateau",
+            "op2": "Khasi Hills",
+            "op3": "Eastern Ghats",
+            "op4": "Kuchchh",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is not essentially a species of the Himalayan vegetation ?",
+            "op1": "Juniper",
+            "op2": "Mahogany",
+            "op3": "Silver fir",
+            "op4": "Spruce",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the cultivation method is the best for conservation of soils ?",
+            "op1": "Strip cropping",
+            "op2": "Crop rotation",
+            "op3": "ontour ploughing",
+            "op4": "Terracing",
+            "answer:": 3
+        },
+        {
+            "question": "Select the correctly matching pairs ?",
+            "op1": "Teak : Jammu and Kashmir",
+            "op2": "Sandalwood : Kerala",
+            "op3": "Deodar : Madhya Pradesh",
+            "op4": "Sundari : West Bengal",
+            "answer:": 2
+        },
+        {
+            "question": "The winter rainfall type of north western India is :",
+            "op1": "Convectional",
+            "op2": "Orographic",
+            "op3": "yclonic",
+            "op4": "Monsoonal",
+            "answer:": 3
+        },
+        {
+            "question": "The frequency of tropical cyclones in the Bay of Bengal maximum :",
+            "op1": "During monsoon",
+            "op2": "After summer",
+            "op3": "During winter",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is the coldest place in India ?",
+            "op1": "Srinagar",
+            "op2": "Shimla",
+            "op3": "Dras",
+            "op4": "Shillong",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following states receives the highest rainfall during winter months ?",
+            "op1": "Punjab",
+            "op2": "Kerala",
+            "op3": "Meghalaya",
+            "op4": "Tamil Nadu",
+            "answer:": 4
+        },
+        {
+            "question": "The Himalayan range is very rich in species diversity. Which one among the following is the most appropriate reason for this phenomenon ?",
+            "op1": "It has high rainfall that supports luxuriant vegetative growth",
+            "op2": "It has a confluence of different bio-geographical zones",
+            "op3": "Exotic and invasive species have not been introduced in this region",
+            "op4": "It has less human interference",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following types of forest covers the maximum area in India ?",
+            "op1": "Tropical rainforest",
+            "op2": "Tropical moist deciduous forest",
+            "op3": "Tropical dry deciduous forest",
+            "op4": "Tropical dry evergreen forest",
+            "answer:": 2
+        },
+        {
+            "question": "What is the meaning of 'reserved forest' ?",
+            "op1": "Reserved for hunting",
+            "op2": "Reserved for picnic",
+            "op3": "Reserved for commercial exploitation",
+            "op4": "Reserved for growing medicinal herbs",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following soils is very hard to cultivate ?",
+            "op1": "lluvial",
+            "op2": "lack",
+            "op3": "Red",
+            "op4": "Sandy",
+            "answer:": 3
+        },
+        {
+            "question": "Which soil is formed by deposition of silt brought by rivers ?",
+            "op1": "Black",
+            "op2": "Alluvial",
+            "op3": "Red",
+            "op4": "Pod",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following soils is most suitable for cultivation of cereals ?",
+            "op1": "lluvial soils",
+            "op2": "Red soils",
+            "op3": "Laterite soils",
+            "op4": "Pod soils",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following soils is most suitable for cultivation of cotton ?",
+            "op1": "Red",
+            "op2": "Clayey",
+            "op3": "Alluvial",
+            "op4": "Regur",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following types of soils have a marked capacity to retain water ?",
+            "op1": "Desert soil",
+            "op2": "Laterite soil",
+            "op3": "Regur soil",
+            "op4": "Pod soil",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is major passive soil former ?",
+            "op1": "Moisture",
+            "op2": "Temperature",
+            "op3": "Micro-organisms",
+            "op4": "Parent Material",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is one of the secondary carnivores ?",
+            "op1": "Backswimmers",
+            "op2": "Green Algae",
+            "op3": "atfish",
+            "op4": "Rotifers",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following are not Heterotrophs ?",
+            "op1": "Carnivores",
+            "op2": "Autotrophs",
+            "op3": "Omnivores",
+            "op4": "etritivores",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is a macro - nutrient ?",
+            "op1": "Sodium",
+            "op2": "Copper",
+            "op3": "Zince",
+            "op4": "Calcium",
+            "answer:": 4
+        },
+        {
+            "question": "In which one of the following states is Pariyar sanctuary located ?",
+            "op1": "Kerala",
+            "op2": "Jammu & Kashmir",
+            "op3": "Rajasthan",
+            "op4": "Haryana",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following sanctuaries is located in Himachal Pradesh ?",
+            "op1": "Sultanpur lake Sanctuary",
+            "op2": "Dachigam Sanctuary",
+            "op3": "Sikari Devi Sanctuary",
+            "op4": "Bir Motigarh Sanctuary",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is one of the Herbivores ?",
+            "op1": "Frogs",
+            "op2": "Snails",
+            "op3": "Green Algae",
+            "op4": "Insects",
+            "answer:": 2
+        },
+        {
+            "question": "The Helsinki meeting of 1985 was held to control",
+            "op1": "air pollution",
+            "op2": "water contamination",
+            "op3": "noise pollution",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following constitutes the topmost layer of Californium biome ?",
+            "op1": "Tall grass",
+            "op2": "Small grass",
+            "op3": "haparral",
+            "op4": "Oak canopy",
+            "answer:": 4
+        },
+        {
+            "question": "Large bodied herbivores are found in",
+            "op1": "Tree Savanna",
+            "op2": "Closed Savanna",
+            "op3": "Grass Savanna",
+            "op4": "Shrub Savanna",
+            "answer:": 3
+        },
+        {
+            "question": "In which one of the following states in Chilika lake bird sanctuary located ?",
+            "op1": "ndhra Pradesh",
+            "op2": "Orissa",
+            "op3": "Madhya Pradesh",
+            "op4": "Kerala",
+            "answer:": 2
+        },
+        {
+            "question": "In which one of the following states is Sultanpur lake bird sanctuary located ?",
+            "op1": "Haryana",
+            "op2": "Punjab",
+            "op3": "Rajasthan",
+            "op4": "Orissa",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following constitute the fourth Trophic level of the food chain ?",
+            "op1": "utotrophs",
+            "op2": "Carnivores",
+            "op3": "Herbivores",
+            "op4": "Omnivores",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the law of thermodynamics states that there is always a loss of energy in any transfer of energy ?",
+            "op1": "First",
+            "op2": "Second",
+            "op3": "Third",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is taiga biome ?",
+            "op1": "Sub-saharan biome",
+            "op2": "Savanna grass",
+            "op3": "Sub-arctic biome",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is caused by faulty methods of irrigation ?",
+            "op1": "Salinisation",
+            "op2": "laterisation",
+            "op3": "Gully erosion",
+            "op4": "Wind erosion",
+            "answer:": 1
+        },
+        {
+            "question": "When was the Project Tiger launched in India ?",
+            "op1": "1971",
+            "op2": "1972",
+            "op3": "1973",
+            "op4": "1974",
+            "answer:": 3
+        },
+        {
+            "question": "Which article of the Indian constitution enshrines it as one of the fundamental duties of every citizen of India to protect and improve the environment and wildlife ?",
+            "op1": "rticle- 51",
+            "op2": "Article- 52A",
+            "op3": "Article- 53A",
+            "op4": "Article- 54A",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following derives energy only from Trophic level II ?",
+            "op1": "utotrophs",
+            "op2": "Omnivores",
+            "op3": "Detritivores",
+            "op4": "Carnivores",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is one of the primary producers ?",
+            "op1": "Duckweeds",
+            "op2": "Insects",
+            "op3": "Hydra",
+            "op4": "Rotifers",
+            "answer:": 1
+        },
+        {
+            "question": "The following are the four types of soils. Among them the formation of one soil is different from other three. Identify it.",
+            "op1": "Khadar",
+            "op2": "hangar",
+            "op3": "Bhabar",
+            "op4": "Regur",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following not a factor in soil formation ?",
+            "op1": "Relief",
+            "op2": "Climate",
+            "op3": "Natural vegetation",
+            "op4": "eforestation",
+            "answer:": 4
+        },
+        {
+            "question": "The condition/conditions of formation of laterite soil is :",
+            "op1": "High temparature",
+            "op2": "Heavy rainfall",
+            "op3": "Erosion",
+            "op4": "Both [A] and [B]",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the following statements about the soils of India :",
+            "op1": "I and II",
+            "op2": "I, III and IV",
+            "op3": "II and III",
+            "op4": "II and IV",
+            "answer:": 2
+        },
+        {
+            "question": "Among the following places, the average annual rainfall is highest at :",
+            "op1": "Chennai",
+            "op2": "Kolkata",
+            "op3": "Shillong",
+            "op4": "Guwahati",
+            "answer:": 3
+        }
+    ]
+}

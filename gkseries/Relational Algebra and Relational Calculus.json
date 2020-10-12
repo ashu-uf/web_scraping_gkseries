@@ -1,0 +1,166 @@
+{
+    "topic": "Relational Algebra and Relational Calculus",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "If E and E2 are relational algebra expressions, then which of the following is NOT a relational algebra expression ?",
+            "op1": "E1 \u222a E2",
+            "op2": "E1 / E2",
+            "op3": "E1 - E2",
+            "op4": "E1 x E2",
+            "answer:": 2
+        },
+        {
+            "question": "The operation of a relation X, produces Y, such that Y contains only selected attributes of X. Such an operation is :",
+            "op1": "Projection",
+            "op2": "Intersection",
+            "op3": "Union",
+            "op4": "ifference",
+            "answer:": 1
+        },
+        {
+            "question": "If T1 and T2 are two relations, then which of the following is not a valid relational algebra expression ?",
+            "op1": "T1 - T2",
+            "op2": "T1 \u222a T2",
+            "op3": "T1 \u2229 T2",
+            "op4": "All are valid expressions",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not valid unary operation in the relational algebra ?",
+            "op1": "select",
+            "op2": "min",
+            "op3": "project",
+            "op4": "rename",
+            "answer:": 2
+        },
+        {
+            "question": "Relational algebra is :",
+            "op1": "Data Definition Language",
+            "op2": "Meta Language",
+            "op3": "Procedural query language",
+            "op4": "Non procedural language",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a valid binary operation in the relational algebra ?",
+            "op1": "project",
+            "op2": "union",
+            "op3": "set difference",
+            "op4": "cartesian product",
+            "answer:": 1
+        },
+        {
+            "question": "Relational Calculus is :",
+            "op1": "Programming language",
+            "op2": "Functional language",
+            "op3": "Procedural language",
+            "op4": "Non-procedural language",
+            "answer:": 4
+        },
+        {
+            "question": "Pick out the false statement from the following :",
+            "op1": "The tuples within base relations corresponds to entries in the real world",
+            "op2": "DMS provides media recovery by restoring the database from a previous dump",
+            "op3": "DBMS that support mandatory controls can be reffered as multilevel secure system",
+            "op4": "None of these",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the join of a relation R with a relation S. If R has m tuples and S has n tuples. Then the maximum and minimum size of the join respectively are :",
+            "op1": "m+n and 0",
+            "op2": "m+n and [m-n]",
+            "op3": "mn and 0",
+            "op4": "mn and m+n",
+            "answer:": 3
+        },
+        {
+            "question": "Consider P1 and P2 are formulae. Which of the following is correct ?",
+            "op1": "P1 \u2227 P2 is equlvalent to \u2308(P1V\u2308(\u2308P2))",
+            "op2": "P1 \u2227 P2 is equlvalent to \u2308(\u2308(P1)V\u2308(P2))",
+            "op3": "P1 \u2227 P2 is equlvalent to \u2308(\u2308(P1)V\u2308(\u2308P2))",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which clause from the following corresponds to the projection operation of the relational algebra ?",
+            "op1": "from",
+            "op2": "select",
+            "op3": "where",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the clause is useful in defining the notion of tuple variable ?",
+            "op1": "as",
+            "op2": "by",
+            "op3": "from",
+            "op4": "none of these",
+            "answer:": 4
+        },
+        {
+            "question": "The intersect operation :",
+            "op1": "automatically eliminates duplicates",
+            "op2": "automatically eliminates duplicates, if we provide all clause with intersect",
+            "op3": "never eliminates duplicates",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which symbol is used to select tuples in relational algebra ?",
+            "op1": "lpha",
+            "op2": "eta",
+            "op3": "Sigma",
+            "op4": "Phi",
+            "answer:": 3
+        },
+        {
+            "question": "Consider the join of relation a with a relation b. If A has k tuples and B has r tuples then the maximum and minimum sizes of the join respectively are",
+            "op1": "K + r and 0",
+            "op2": "r.k and 0",
+            "op3": "r + k and |k-r|",
+            "op4": "r.k and r+k",
+            "answer:": 2
+        },
+        {
+            "question": "The JOIN operator can be specified as :",
+            "op1": "R x S",
+            "op2": "\u03c3(condition)(R x S)",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The expression (R \u222a S)-((R-S) \u222a (S-R)) is equivalent to",
+            "op1": "R/S",
+            "op2": "R \u2229 S",
+            "op3": "\u03c3(condition)(R x S)",
+            "op4": "\u220f(R x S)",
+            "answer:": 1
+        },
+        {
+            "question": "If P and Q are predicates and P is the relational algebra expression, then which of the following equivalences are valid ?",
+            "op1": "\u03c3P(\u03c3Q(e))=\u03c3Q(\u03c3P(e))",
+            "op2": "\u03c3P(\u03c3Q(e))=\u03c3Q(e)",
+            "op3": "n\u03c3Q(\u03c3P(e))=\u03c3Q(\u03c3P(e))",
+            "op4": "none of these",
+            "answer:": 4
+        },
+        {
+            "question": "Which one is not a version of JOIN ?",
+            "op1": "Equi join",
+            "op2": "Outer join",
+            "op3": "Natural join",
+            "op4": "All are versions of JOIN",
+            "answer:": 4
+        },
+        {
+            "question": "Relational calculus is :",
+            "op1": "(I) and (IV) are true",
+            "op2": "(II) and (IV) are true",
+            "op3": "only (III) is true",
+            "op4": "(III) and (IV) are true",
+            "answer:": 4
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "topic": "Data Representation",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "An 8-bit binary word b7b6b5b4b3bb1b0 as an integer x ranges from",
+            "op1": "-128 to 128",
+            "op2": "-128 to 127",
+            "op3": "-256 to 256",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The binary equivalent of the decimal number 0.475 is",
+            "op1": "0.0111",
+            "op2": "0.1011",
+            "op3": "0.1100",
+            "op4": "0.1010",
+            "answer:": 1
+        }
+    ]
+}

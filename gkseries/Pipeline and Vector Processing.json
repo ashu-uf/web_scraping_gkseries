@@ -1,0 +1,78 @@
+{
+    "topic": "Pipeline and Vector Processing",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "Pipelining strategy is called implement",
+            "op1": "instruction execution",
+            "op2": "instruction prefetch",
+            "op3": "instruction decoding",
+            "op4": "instruction manipulation",
+            "answer:": 2
+        },
+        {
+            "question": "The concept of pipelining is most effective in improving performance if the tasks being performed in different stages :",
+            "op1": "require different amount of time",
+            "op2": "require about the same amount of time",
+            "op3": "require different amount of time with time difference between any two tasks being same",
+            "op4": "require different amount with time difference between any two tasks being different",
+            "answer:": 2
+        },
+        {
+            "question": "Which Algorithm is better choice for pipelining?",
+            "op1": "Small lgorithm",
+            "op2": "Hash Algorithm",
+            "op3": "Merge-Sort Algorithm",
+            "op4": "Quick-Sort Algorithm",
+            "answer:": 3
+        },
+        {
+            "question": "The expression 'delayed load' is used in context of",
+            "op1": "processor-printer communication",
+            "op2": "memory-monitor communication",
+            "op3": "pipelining",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Parallel processing may occur",
+            "op1": "in the instruction stream",
+            "op2": "in the data stream",
+            "op3": "both[A] and [B]",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "An instruction to provide small delay in program",
+            "op1": "LD",
+            "op2": "NOP",
+            "op3": "BEA",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Characteristic of RISC (Reduced Instruction Set Computer) instruction set is",
+            "op1": "three instructions per cycle",
+            "op2": "two instructions per cycle",
+            "op3": "one instruction per cycle",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In daisy-chaining priority method, all the devices that can request an interrupt are connected in",
+            "op1": "parallel",
+            "op2": "serial",
+            "op3": "random",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is a characteristic of CISC (Complex Instruction Set Computer)",
+            "op1": "Fixed format instructions",
+            "op2": "Variable format instructions",
+            "op3": "Instructions are executed by hardware",
+            "op4": "None of the above",
+            "answer:": 2
+        }
+    ]
+}

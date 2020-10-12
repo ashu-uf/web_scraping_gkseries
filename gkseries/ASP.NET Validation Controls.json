@@ -1,0 +1,270 @@
+{
+    "topic": "ASP.NET Validation Controls",
+    "Subject": "ASP.NET",
+    "data": [
+        {
+            "question": "Which of the following server control shows data in a tabular format and allows sorting, paging, edit, delete each record?",
+            "op1": "ListBox",
+            "op2": "GridView",
+            "op3": "Repeater",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following webserver control used as container for other server controls in a ASP.NET webpage?",
+            "op1": "PlaceHolder",
+            "op2": "Panel",
+            "op3": "Table",
+            "op4": "ImageMap",
+            "answer:": 2
+        },
+        {
+            "question": "By using which of the following web server control data can be retrieved from a relational database?",
+            "op1": "ObjectDataSource",
+            "op2": "SqlDataSource",
+            "op3": "AccessDataSource",
+            "op4": "XmlataSource",
+            "answer:": 2
+        },
+        {
+            "question": "By using which of the following attribute, HTML elements are transformed to HTML server control?",
+            "op1": "runat=\"client\"",
+            "op2": "runat=\"server\"",
+            "op3": "runat=\"browser\"",
+            "op4": "runat=\"host\"",
+            "answer:": 2
+        },
+        {
+            "question": "Which webserver is developed by Microsoft?",
+            "op1": "pache Tomcat",
+            "op2": "Caudium",
+            "op3": "Internet Information Services (IIS)",
+            "op4": "WEBrick",
+            "answer:": 3
+        },
+        {
+            "question": "Which protocol is used to transfer files frtom localhost to remote host?",
+            "op1": "HTTP",
+            "op2": "FTP",
+            "op3": "TP",
+            "op4": "UP",
+            "answer:": 2
+        },
+        {
+            "question": "Which commands are used to specify settings of an .aspx file?",
+            "op1": "Class",
+            "op2": "Directives",
+            "op3": "Events",
+            "op4": "Validation",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following directive is used to link an assembly to a page or user control?",
+            "op1": "@Page",
+            "op2": "@Import",
+            "op3": "@Assembly",
+            "op4": "@Reference",
+            "answer:": 3
+        },
+        {
+            "question": "The @Implements directive",
+            "op1": "imports a namespace into current page page or user control",
+            "op2": "assigns a class or virtual path used to type the Master property of a page",
+            "op3": "indicates that a page or user control implements a specified .NET Framework interface",
+            "op4": "none of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not an ASP.NET page event?",
+            "op1": "Init",
+            "op2": "Load",
+            "op3": "Import",
+            "op4": "isposed",
+            "answer:": 3
+        },
+        {
+            "question": "A module which is a collection of functions and data, designed to be used by another application is called",
+            "op1": "bandon",
+            "op2": "DLL",
+            "op3": "LID",
+            "op4": "PICS",
+            "answer:": 2
+        },
+        {
+            "question": "In ASP.NET application DLL files are stored in",
+            "op1": "pp_Code",
+            "op2": "App_Data",
+            "op3": "Bin",
+            "op4": "App_LocalResources",
+            "answer:": 3
+        },
+        {
+            "question": "In which of the following folder source code such as class, dataset etc. are stored?",
+            "op1": "pp_Data",
+            "op2": "App_Themes",
+            "op3": "App_ode",
+            "op4": "App_WebReferences",
+            "answer:": 3
+        },
+        {
+            "question": "In ASP.NET web application configuration settings are defined in",
+            "op1": "Procompiledpp.config",
+            "op2": "machine.config",
+            "op3": "Web.config",
+            "op4": "System.config",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is the common property of web server controlls that assigns a small piece of text when a mouse pointer is held over the control for a short period of time?",
+            "op1": "ccesskey",
+            "op2": "ToolTip",
+            "op3": "skinID",
+            "op4": "TabIndex",
+            "answer:": 2
+        },
+        {
+            "question": "The method applied to change the styles of the elements in a ASP.NET webpage is called",
+            "op1": "master page",
+            "op2": "child page",
+            "op3": "cascading style sheets",
+            "op4": "UTF-8",
+            "answer:": 3
+        },
+        {
+            "question": "Using which type of stylesheet we can change the style of an element in the entire website?",
+            "op1": "Internal Stylesheet",
+            "op2": "External Stylesheet",
+            "op3": "Inline stylesheet",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following web server control display static text that can change at runtime?",
+            "op1": "Hyperlink",
+            "op2": "Textbox",
+            "op3": "Label",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Which web server control is used to display advertisements in ASP.NET a webpage?",
+            "op1": "Image",
+            "op2": "Imagemap",
+            "op3": "Panel",
+            "op4": "AdRotator",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following server control shows data in a tabular format and allows sorting, paging, edit, delete each record?",
+            "op1": "ListBox",
+            "op2": "GridView",
+            "op3": "Repeater",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following webserver control used as container for other server controls in a ASP.NET webpage?",
+            "op1": "PlaceHolder",
+            "op2": "Panel",
+            "op3": "Table",
+            "op4": "ImageMap",
+            "answer:": 2
+        },
+        {
+            "question": "By using which of the following web server control data can be retrieved from a relational database?",
+            "op1": "ObjectDataSource",
+            "op2": "SqlDataSource",
+            "op3": "AccessDataSource",
+            "op4": "XmlataSource",
+            "answer:": 2
+        },
+        {
+            "question": "By using which of the following attribute, HTML elements are transformed to HTML server control?",
+            "op1": "runat=\"client\"",
+            "op2": "runat=\"server\"",
+            "op3": "runat=\"browser\"",
+            "op4": "runat=\"host\"",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following validation control is used to ensure that an user does not skip a form entity field?",
+            "op1": "CompareValidator",
+            "op2": "RequiredFieldValidator",
+            "op3": "RangeValidator",
+            "op4": "RegularExpressionValidator",
+            "answer:": 2
+        },
+        {
+            "question": "Which type of validation is used to check password and confirm password in a login form?",
+            "op1": "CustomValidator",
+            "op2": "RangeValidator",
+            "op3": "ompareValidator",
+            "op4": "RequiredFieldValidator",
+            "answer:": 3
+        },
+        {
+            "question": "Which type of validation is used to check an email address entered by the user is matches to email pattern?",
+            "op1": "RegularExpressionValidator",
+            "op2": "RangeValidator",
+            "op3": "ustomValidator",
+            "op4": "ValidationSummary",
+            "answer:": 1
+        },
+        {
+            "question": "Which type of validation is used to ensure that the value entered by an user is within the specific range?",
+            "op1": "CustomValidator",
+            "op2": "ValidationSummary",
+            "op3": "RangeValidator",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "ValidationSummary control in a webpage",
+            "op1": "shows all the error messages from the validators via email",
+            "op2": "shows all the error messages from the validators in one specific spot on the page",
+            "op3": "shows all the error messages from the validators in the next page",
+            "op4": "none of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Using CustomValidator server control",
+            "op1": "a developer can compell users to fill all the required fields",
+            "op2": "a developer can sreate pop up menu",
+            "op3": "a developer can write custom validation function as needed",
+            "op4": "none of these above",
+            "answer:": 3
+        },
+        {
+            "question": "In ASP.NET Client-Side validation is possible with",
+            "op1": "HTML",
+            "op2": "DHTML",
+            "op3": "XHYML",
+            "op4": "HTML5",
+            "answer:": 2
+        },
+        {
+            "question": "What are the ways to set Display property of validation controls to display error messages in case of client validation?",
+            "op1": "Static",
+            "op2": "Dynamic",
+            "op3": "None",
+            "op4": "All of these above",
+            "answer:": 4
+        },
+        {
+            "question": "Which type of validation works with exceptions that is thrown if an error occurs when a value is edited or when a new value is inserted into the data model?",
+            "op1": "DynamicValidator",
+            "op2": "RegularExpressionValidator",
+            "op3": "ustomValidator",
+            "op4": "RangeValidator",
+            "answer:": 1
+        },
+        {
+            "question": "Validation control displays error messages using which of the following methods?",
+            "op1": "Inline",
+            "op2": "Summary",
+            "op3": "In place and summary",
+            "op4": "All of these above",
+            "answer:": 4
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "topic": "Multichannel Data Communication",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "For separate channels in TDM, it is necessary to use",
+            "op1": "time slots",
+            "op2": "bandpass filters",
+            "op3": "differentiation",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "When useful bandwidth of medium exceeds the required bandwidth of signals to be transmitted we use",
+            "op1": "frequency division multiplexing",
+            "op2": "time division multiplexing",
+            "op3": "code division multiplexing",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which multiplexing technique is used to transmit analog signals ?",
+            "op1": "FDM",
+            "op2": "Synchronous TDM",
+            "op3": "Either (a) or (b)",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "To employ multi-access in GSM, users are given different",
+            "op1": "time slots",
+            "op2": "bandpass filters",
+            "op3": "handsets",
+            "op4": "none of these",
+            "answer:": 1
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "topic": "World Geography",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Where is Lake Superior, the largest freshwater lake in the world located?",
+            "op1": "US",
+            "op2": "razil",
+            "op3": "anada",
+            "op4": "Russia",
+            "answer:": 1
+        },
+        {
+            "question": "What is the longest mountain range in the world above sea-level?",
+            "op1": "lps",
+            "op2": "Himalayas",
+            "op3": "Andes mountains",
+            "op4": "Pyreness mountains",
+            "answer:": 3
+        },
+        {
+            "question": "Where is \u201cGround Zero\u201d?",
+            "op1": "Greenwich",
+            "op2": "New York",
+            "op3": "Indira Point",
+            "op4": "Shriharikota",
+            "answer:": 2
+        },
+        {
+            "question": "The longest river is",
+            "op1": "Nile",
+            "op2": "Amazon",
+            "op3": "Yangto kayong",
+            "op4": "Mississippi-Missouri",
+            "answer:": 1
+        },
+        {
+            "question": "Which from the following is a land-locked sea?",
+            "op1": "North Sea",
+            "op2": "Timor Sea",
+            "op3": "Red Sea",
+            "op4": "Aral Sea",
+            "answer:": 4
+        },
+        {
+            "question": "Which country is known as the \u201cCockpit of Europe\u201d?",
+            "op1": "Belgium",
+            "op2": "Luxembourg",
+            "op3": "Switzerland",
+            "op4": "Netherlands",
+            "answer:": 1
+        },
+        {
+            "question": "Which from the following is the busiest Oceanic trade route?",
+            "op1": "Cape route",
+            "op2": "Panama canal",
+            "op3": "Suez canal",
+            "op4": "Malacca straits",
+            "answer:": 3
+        },
+        {
+            "question": "Which is the shortest route from Moscow to San Francisco?",
+            "op1": "Overland",
+            "op2": "Via Canada",
+            "op3": "Over the South Pole",
+            "op4": "Over the North Pole",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is also known as \u2018Eternal City\u2019?",
+            "op1": "London",
+            "op2": "Rome",
+            "op3": "Berlin",
+            "op4": "Athens",
+            "answer:": 2
+        },
+        {
+            "question": "The largest island in the world is Greenland. It is an integral part of",
+            "op1": "Denmark",
+            "op2": "Norway",
+            "op3": "anada",
+            "op4": "North America",
+            "answer:": 1
+        },
+        {
+            "question": "What is called as the \u2018Roof of the World'?",
+            "op1": "Indira Col",
+            "op2": "Pamir Knot",
+            "op3": "Kanchenjunga",
+            "op4": "Indira Point",
+            "answer:": 2
+        },
+        {
+            "question": "The main reason for deforestation in Asia is",
+            "op1": "floods",
+            "op2": "construction of roads",
+            "op3": "excessive soil erosion",
+            "op4": "excessive fuel wood collection",
+            "answer:": 4
+        },
+        {
+            "question": "The \u2018Dark Continent\u2019 is",
+            "op1": "frica",
+            "op2": "Asia",
+            "op3": "Australia",
+            "op4": "South America",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following volcanoes is situated in Mexico?",
+            "op1": "Etna",
+            "op2": "Semeru",
+            "op3": "Purace",
+            "op4": "Colima",
+            "answer:": 4
+        },
+        {
+            "question": "Which country is known as the \u2018Land of Thousand Lakes\u2019?",
+            "op1": "Ireland",
+            "op2": "Canada",
+            "op3": "Finland",
+            "op4": "Norway",
+            "answer:": 3
+        },
+        {
+            "question": "Bosnia-Herzegovina formed the parts of",
+            "op1": "zerbaijan",
+            "op2": "ulgaria",
+            "op3": "Yugoslavia",
+            "op4": "Czechoslovakia",
+            "answer:": 3
+        },
+        {
+            "question": "The Continent through which the imaginary lines of Tropic of Cancer, Tropic of Capricorn and Equator pass is",
+            "op1": "sia",
+            "op2": "Africa",
+            "op3": "Europe",
+            "op4": "Australia",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following countries is known as the \u201cLand of Thunderbolt\u201d?",
+            "op1": "Bhutan",
+            "op2": "Nepal",
+            "op3": "Bolivia",
+            "op4": "Belgium",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following is called \u2018Ring of Fire\u2019?",
+            "op1": "Indian Ocean Belt",
+            "op2": "Atlantic Ocean elt",
+            "op3": "Mid-ontinental Belt",
+            "op4": "Circum Pacific Belt",
+            "answer:": 4
+        },
+        {
+            "question": "Great Barrier Reef of Australia is located parallel to",
+            "op1": "East coast",
+            "op2": "West coast",
+            "op3": "North coast",
+            "op4": "South coast",
+            "answer:": 1
+        },
+        {
+            "question": "The Eskimos live in",
+            "op1": "Finland and Norway",
+            "op2": "Norway and Siberia",
+            "op3": "Siberia and Sweden",
+            "op4": "Canada and Alaska",
+            "answer:": 4
+        },
+        {
+            "question": "Selvas are",
+            "op1": "Huge Canadian forests",
+            "op2": "Evergreen monsoon forests",
+            "op3": "oniferous forests of Siberia",
+            "op4": "Equatorial rain forests of Brazil",
+            "answer:": 4
+        },
+        {
+            "question": "Kariba Dam is located on the River",
+            "op1": "Zambazi",
+            "op2": "Niger",
+            "op3": "Nile",
+            "op4": "Buene",
+            "answer:": 1
+        },
+        {
+            "question": "Sunda strait lies between",
+            "op1": "Java and Borneo",
+            "op2": "Java and Sumatra",
+            "op3": "Sulawest and Java",
+            "op4": "Sumatra and Borneo",
+            "answer:": 2
+        },
+        {
+            "question": "The Strait of Gibraltar is situated in the",
+            "op1": "Iberian Peninsula",
+            "op2": "Indian Peninsula",
+            "op3": "ape York Peninsula",
+            "op4": "Arabian Peninsula",
+            "answer:": 1
+        },
+        {
+            "question": "Maoris is the term used for the aboriginal people of",
+            "op1": "Fiji",
+            "op2": "Tasmania",
+            "op3": "New Zealand",
+            "op4": "South America",
+            "answer:": 3
+        },
+        {
+            "question": "Cape Cod is located near",
+            "op1": "Boston",
+            "op2": "Florida",
+            "op3": "Washington",
+            "op4": "Philadelphia",
+            "answer:": 1
+        },
+        {
+            "question": "Name the sea whose boundaries touch three Continents",
+            "op1": "Red Sea",
+            "op2": "Caspian Sea",
+            "op3": "aribbean Sea",
+            "op4": "Mediterranean Sea",
+            "answer:": 4
+        },
+        {
+            "question": "Source of River Nile is",
+            "op1": "Lake Chad",
+            "op2": "Lake Nassir",
+            "op3": "Lake Victoria",
+            "op4": "Lake Tanganyika",
+            "answer:": 3
+        },
+        {
+            "question": "Many of the active volcanoes are situated in",
+            "op1": "tlantic Ocean",
+            "op2": "Pacific Ocean",
+            "op3": "Arctic Ocean",
+            "op4": "Indian Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "The Equatorial Forests of the Amazon Basin in South America are known as",
+            "op1": "Selva",
+            "op2": "Taiga",
+            "op3": "Pampas",
+            "op4": "Tundra",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following characteristics is associated with the \u2018Bread Basket\u2019 area of USA?",
+            "op1": "Low rainfall in summer",
+            "op2": "Long winter with snow",
+            "op3": "Moderate rainfall in winter",
+            "op4": "Heavy rainfall throughout the year",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is the largest lake in the world?",
+            "op1": "Lake Baikal",
+            "op2": "Caspian Sea",
+            "op3": "Lake Victoria",
+            "op4": "Lake Superior",
+            "answer:": 2
+        },
+        {
+            "question": "The Pacific Ring of Fire is",
+            "op1": "a volcanic belt around the Pacific",
+            "op2": "an area of increase heat in the Pacific",
+            "op3": "islands rich in fuel minerals in the Pacific",
+            "op4": "an area of constant forest fires in the Pacific Islands",
+            "answer:": 1
+        },
+        {
+            "question": "In geography \u2018Gulf Stream\u2019 refers to",
+            "op1": "the name of a stream",
+            "op2": "streams joining a gulf",
+            "op3": "strong air current",
+            "op4": "a warm ocean current",
+            "answer:": 4
+        },
+        {
+            "question": "The Strait of Gibraltar provides entry into the",
+            "op1": "Red Sea",
+            "op2": "Atlantic Ocean",
+            "op3": "Indian Ocean",
+            "op4": "Mediterranean Sea",
+            "answer:": 2
+        },
+        {
+            "question": "\u2018Nippon\u2019 is the name given to Japan which means",
+            "op1": "land of pagodas",
+            "op2": "land of northern lights",
+            "op3": "land of the rising Sun",
+            "op4": "land of volcanoes and earthquakes",
+            "answer:": 3
+        },
+        {
+            "question": "The Chinese river known as yellow river is",
+            "op1": "Sikiang",
+            "op2": "Yangtse-kiang",
+            "op3": "Mekong",
+            "op4": "Hwang-Ho",
+            "answer:": 4
+        },
+        {
+            "question": "Fishing grounds of the world are found in areas where",
+            "op1": "warm and cold currents meet",
+            "op2": "there are low tides",
+            "op3": "there are high tides",
+            "op4": "high stormy waves occur",
+            "answer:": 1
+        },
+        {
+            "question": "The two countries connected by a tunnel under the sea are",
+            "op1": "France and Denmark",
+            "op2": "Spain and Italy",
+            "op3": "England and France",
+            "op4": "Australia and New Zealand",
+            "answer:": 3
+        }
+    ]
+}

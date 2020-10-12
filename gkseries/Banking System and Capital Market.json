@@ -1,0 +1,478 @@
+{
+    "topic": "Banking System and Capital Market",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "Which of the following rural bank is named after a river ?",
+            "op1": "Prathama Bank",
+            "op2": "Varada Grameen ank",
+            "op3": "Thar Anchalik Grameen Bank",
+            "op4": "Aravali Kshetriya Grameen Bank",
+            "answer:": 2
+        },
+        {
+            "question": "What is Scheduled Bank in India ?",
+            "op1": "It is included in the II Schedule of Banking Regulation ct.",
+            "op2": "It is included in the II Schedule of Constitution",
+            "op3": "It is included in the II Schedule of Reserve Bank of India Act",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "What is the animal on the insignia of the RBI ?",
+            "op1": "Lion",
+            "op2": "Tiger",
+            "op3": "Panther",
+            "op4": "Elephant",
+            "answer:": 2
+        },
+        {
+            "question": "For regulation and development of the insurance sector of the country the Government has formed :",
+            "op1": "SEBI",
+            "op2": "Reserve ank of India",
+            "op3": "Insurance Regulatory and Development Authority",
+            "op4": "General Insurance Corporation",
+            "answer:": 3
+        },
+        {
+            "question": "The number of Banks nationalised since 1969 is :",
+            "op1": "8",
+            "op2": "12",
+            "op3": "14",
+            "op4": "20",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is the Banker's Bank :",
+            "op1": "IDBI",
+            "op2": "RI",
+            "op3": "SBI",
+            "op4": "UBI",
+            "answer:": 2
+        },
+        {
+            "question": "What is the largest Public Sector Bank in India ?",
+            "op1": "Central Bank",
+            "op2": "SI",
+            "op3": "Punjab National Bank",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "In which year the Reserve Bank of India was taken over by the Government ?",
+            "op1": "1945",
+            "op2": "1948",
+            "op3": "1952",
+            "op4": "1956",
+            "answer:": 2
+        },
+        {
+            "question": "In Capital Market SRO stands for :",
+            "op1": "Self-Regulatory Organisations",
+            "op2": "Small Revenue Operations",
+            "op3": "Securities Roll-back Operations",
+            "op4": "Securities Regulatory Organisations",
+            "answer:": 1
+        },
+        {
+            "question": "Terms Bull market and Bear market is associated with which branch of commercial activity ?",
+            "op1": "Foreign Trade",
+            "op2": "anking",
+            "op3": "Share Market",
+            "op4": "Manufacturing",
+            "answer:": 3
+        },
+        {
+            "question": "Banking functions centrally controlled by the :",
+            "op1": "Central Bank",
+            "op2": "RI",
+            "op3": "SBI",
+            "op4": "Both [B] and [C]",
+            "answer:": 2
+        },
+        {
+            "question": "The ratio between cash in hand and total assets maintained by the banks is called :",
+            "op1": "SBR (Statutory Bank Ratio)",
+            "op2": "SLR (Statutory Liquid Ratio)",
+            "op3": "BR (entral Bank Reserve)",
+            "op4": "CLR (Central Liquid Reserve)",
+            "answer:": 2
+        },
+        {
+            "question": "What is \u2018Repo rate\u2019?",
+            "op1": "is the rate at which the RBI lends to State Government",
+            "op2": "is the rate at which the International aid agencies lend to RI",
+            "op3": "is the rate at which the RBI lends to banks",
+            "op4": "is the rate at which the banks lends to RBI",
+            "answer:": 3
+        },
+        {
+            "question": "What is the apex organisation of Industrial Finance in India ?",
+            "op1": "Industrial Finance Corporation",
+            "op2": "Industrial Credit and Investment corporation of India",
+            "op3": "Industrial Development Bank of India",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which scheme is eligible for refinance from NABARD (National Bank for Agricultural and Rural Development) ?",
+            "op1": "Small Road and Water Transport Operators (SRWTO)",
+            "op2": "Self Employment Scheme for Exservicemen (SEMFEX)",
+            "op3": "Soft Loan Assistance for Margin Money (SLAMM)",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is called a \u2018banker\u2019s cheque\u2019 ?",
+            "op1": "Demand draft",
+            "op2": "Debit card",
+            "op3": "Pay order",
+            "op4": "Banker's draft",
+            "answer:": 4
+        },
+        {
+            "question": "The place where bankers meet and settle their mutual claims and accounts is known as :",
+            "op1": "Treasury",
+            "op2": "Clearing House",
+            "op3": "ollecting entre",
+            "op4": "umping Ground",
+            "answer:": 2
+        },
+        {
+            "question": "What is the ideal of designing Regional rural Banks ?",
+            "op1": "Work on basics of commercial banks",
+            "op2": "Help the targetted groups",
+            "op3": "Keep lending rates lower than cooperative institutions",
+            "op4": "Work on innovative and adaptive ideals",
+            "answer:": 2
+        },
+        {
+            "question": "Identify the punishable offence by a Bank Account holder ?",
+            "op1": "If a cheque is not crossed",
+            "op2": "If a post dated cheque is issued",
+            "op3": "If a cheque drawn by him is dishonoured for insufficiency of funds in his account",
+            "op4": "Issuing a cheque without signature",
+            "answer:": 3
+        },
+        {
+            "question": "What is a Cross cheque ?",
+            "op1": "which can be encashed only by the drawee",
+            "op2": "which can be encashed only through a bank",
+            "op3": "which can be encashed only at the State Bank of India",
+            "op4": "which can be encashed only after it has been transferred to another person",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not an affiliate of the Reserve Bank of India ?",
+            "op1": "Unit Trust Of India",
+            "op2": "Deposit insurance Corporation",
+            "op3": "Agricultural Refinance orporation",
+            "op4": "The Industrial evelopment Bank of India",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not an asset held by commercial banks ?",
+            "op1": "Bills of exchange",
+            "op2": "Current account deposits",
+            "op3": "Money lent at short notice",
+            "op4": "Credit balances with the Reserve Bank",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following provides the largest part of the demand for loanable funds in India ?",
+            "op1": "Farmers",
+            "op2": "Private-house purchasers",
+            "op3": "Hire-purchase borrowers",
+            "op4": "Corporate businesses",
+            "answer:": 4
+        },
+        {
+            "question": "Who amongst the following was never a Governor of the RBI ?",
+            "op1": "Y. V. Reddy",
+            "op2": "imal Jalan",
+            "op3": "Arup Roy houdhury",
+            "op4": "Rangarajan",
+            "answer:": 3
+        },
+        {
+            "question": "In India, which of the following have the highest share in the disbursement of credit to agriculture and allied activities ?",
+            "op1": "Commercial Banks",
+            "op2": "Cooperative anks",
+            "op3": "Regional Rural Banks",
+            "op4": "Microfinance Institutions",
+            "answer:": 1
+        },
+        {
+            "question": "Private Sector Mutual Funds in India were permitted in",
+            "op1": "2001",
+            "op2": "1994",
+            "op3": "1993",
+            "op4": "1964",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not a feature of Limited Liability Partnership firm ?",
+            "op1": "Partnership and management need not be separate",
+            "op2": "Partners should be less than 20",
+            "op3": "It is a corporate body with perpetual succession",
+            "op4": "Internal governance may be decided by mutual agreement among partners",
+            "answer:": 2
+        },
+        {
+            "question": "Stock Exchanges play a role in an economy which may be termed as",
+            "op1": "Hardly useful",
+            "op2": "Harmful to proper capital markets",
+            "op3": "Useful but need strict regulation",
+            "op4": "A very important segment to regulate inflation",
+            "answer:": 3
+        },
+        {
+            "question": "The National Housing Bank was set up in India as a wholly-owned subsidiary of which one of the following ?",
+            "op1": "ICICI Bank",
+            "op2": "State ank of India",
+            "op3": "Reserve Bank of India",
+            "op4": "Life Insurance Corporation of India",
+            "answer:": 3
+        },
+        {
+            "question": "The oldest stock exchange of India is :",
+            "op1": "Bombay Stock Exchange",
+            "op2": "angalore Stock Exchange",
+            "op3": "Hyderabad Stock Exchange",
+            "op4": "Ahmadabad Stock Exchange",
+            "answer:": 1
+        },
+        {
+            "question": "In 1921, the Presidency Banks of Bengal, Madras and Bombay were nationalized to give birth to:",
+            "op1": "Syndicate Bank",
+            "op2": "Punjab and Sindh ank",
+            "op3": "Punjab National Bank",
+            "op4": "State Bank of India",
+            "answer:": 4
+        },
+        {
+            "question": "Which bank gives long term loan to famers ?",
+            "op1": "SBI",
+            "op2": "NAARD",
+            "op3": "Rural Banks",
+            "op4": "Land evelopment Bank",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following Public Sector banks\u2019 emblem figures a dog and the words \u2018faithful, friendly\u2019 in it ?",
+            "op1": "Syndicate Bank",
+            "op2": "State ank of India",
+            "op3": "Oriental Bank of ommerce",
+            "op4": "Punjab National Bank",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following combinations are correct ?",
+            "op1": "NBRD --- Industrial Loans",
+            "op2": "RI --- Long term finance",
+            "op3": "RRB --- Agricultural finance",
+            "op4": "IBI --- Short term loans",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following organizations in India is mainly working to meet the credit needs of all types of agricultural and rural development activities ?",
+            "op1": "FCI",
+            "op2": "NAARD",
+            "op3": "IDBI",
+            "op4": "ICAR",
+            "answer:": 2
+        },
+        {
+            "question": "Debenture holders of company are its:",
+            "op1": "Creditors",
+            "op2": "Debtors",
+            "op3": "Directors",
+            "op4": "Shareholders",
+            "answer:": 1
+        },
+        {
+            "question": "Quantitative credit controls do not include:",
+            "op1": "Bank rate",
+            "op2": "RI directives",
+            "op3": "ash reserve ratio",
+            "op4": "Open market operations",
+            "answer:": 2
+        },
+        {
+            "question": "What is \u2018Dow Jones\u2019?",
+            "op1": "Share market index of New York exchange market",
+            "op2": "Share market index of Mumbai stock exchange",
+            "op3": "Gold price index of World Gold ouncil",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The basic regulatory authority for mutual funds and stock markets lies with the:",
+            "op1": "Stock Exchanges",
+            "op2": "Government of India",
+            "op3": "Reserve Bank of India",
+            "op4": "Securities and Exchange Board of India",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following Indian banks is not a nationalized bank ?",
+            "op1": "Federal Bank",
+            "op2": "Vijaya ank",
+            "op3": "orporation Bank",
+            "op4": "ena Bank",
+            "answer:": 1
+        },
+        {
+            "question": "The first Bank established in India was:",
+            "op1": "Bank of Hindustan",
+            "op2": "State ank of India",
+            "op3": "Punjab National Bank",
+            "op4": "Central Bank",
+            "answer:": 1
+        },
+        {
+            "question": "The system of value added taxation is applicable to :",
+            "op1": "Income tax",
+            "op2": "Excise duties",
+            "op3": "Estate duty",
+            "op4": "Property tax",
+            "answer:": 2
+        },
+        {
+            "question": "Who is responsible for the collection and publication of monetary and financial information ?",
+            "op1": "Finance Ministry",
+            "op2": "Reserve ank of India",
+            "op3": "National Sample Survey Organization",
+            "op4": "Auditor and Comptroller General of India",
+            "answer:": 3
+        },
+        {
+            "question": "The primary objective of Nationalization of Banks was:",
+            "op1": "Improving credit facilities",
+            "op2": "Financing the industries",
+            "op3": "Improving security of deposits",
+            "op4": "Consolidating the economy",
+            "answer:": 4
+        },
+        {
+            "question": "Which two of the following nationalized banks have been merged as per the recommendation of the Narasimham Committee on banking reforms ?",
+            "op1": "Parur Bank if India and bank of India",
+            "op2": "New bank of India and bank of India",
+            "op3": "entral Bank of India and orporation Bank",
+            "op4": "Punjab National Bank and New bank of India",
+            "answer:": 4
+        },
+        {
+            "question": "What are gilt-edged securities in India ?",
+            "op1": "Securities issued by the government",
+            "op2": "Securities issued by the private sector",
+            "op3": "Securities issued by the multinationals",
+            "op4": "Securities issued by the joint venture companies",
+            "answer:": 1
+        },
+        {
+            "question": "Bank rate is the rate at which:",
+            "op1": "The Reserve Bank of India lends to the public",
+            "op2": "A bank lends to the public",
+            "op3": "The Government of India lends to other countries",
+            "op4": "The Reserve Bank of India gives credit to commercial banks",
+            "answer:": 4
+        },
+        {
+            "question": "The national Stock Exchange is located in:",
+            "op1": "New Delhi",
+            "op2": "Nagpur",
+            "op3": "Mumbai",
+            "op4": "Kolkata",
+            "answer:": 3
+        },
+        {
+            "question": "In which year \u2018Over the Counter Exchange\u2019 (OTC) was founded ?",
+            "op1": "1990",
+            "op2": "1992",
+            "op3": "1993",
+            "op4": "1994",
+            "answer:": 1
+        },
+        {
+            "question": "EXIM Bank was set-up in:",
+            "op1": "1980",
+            "op2": "1982",
+            "op3": "1984",
+            "op4": "1986",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following best defines the term \u2018Letter of Credit\u2019 as used frequently in bank transactions ?",
+            "op1": "n order from a bank to another bank abroad authorizing the payment of a particular amount to a person named in the letter",
+            "op2": "An unconditional undertaking given by a bank ensuing the payment of a particular amount to the drawee at a given date",
+            "op3": "Letter by a bank to a person starting the terms and conditions of the loan sanctioned to him by the bank",
+            "op4": "Statement showing outstanding deposits and credits of a bank for a particular period",
+            "answer:": 1
+        },
+        {
+            "question": "The Imperial Bank of India, in 1955 after nationalization was given the name of:",
+            "op1": "Indian Overseas Bank",
+            "op2": "Reserve ank of India",
+            "op3": "State Bank of India",
+            "op4": "Bank of India",
+            "answer:": 3
+        },
+        {
+            "question": "Regional Rural Banks:",
+            "op1": "I and III",
+            "op2": "II and III",
+            "op3": "I, II and III",
+            "op4": "Only II",
+            "answer:": 3
+        },
+        {
+            "question": "The liabilities of a commercial bank are:",
+            "op1": "I, II and III",
+            "op2": "I, III and IV",
+            "op3": "II and IV",
+            "op4": "I and III",
+            "answer:": 2
+        },
+        {
+            "question": "Consumer gets maximum satisfaction at the point where",
+            "op1": "Marginal Utility = Price",
+            "op2": "Marginal Utility > Price",
+            "op3": "Marginal Utility < Price",
+            "op4": "Marginal Cost = Price",
+            "answer:": 1
+        },
+        {
+            "question": "The equilibrium of a firm under perfect competition will be determined when",
+            "op1": "Marginal Revenue > verage Cost",
+            "op2": "Marginal Revenue > Average Revenue",
+            "op3": "Marginal Revenue = Marginal ost",
+            "op4": "Marginal Cost > Average Cost",
+            "answer:": 3
+        },
+        {
+            "question": "Elasticity (e) expressed by the formula 1> e > 0 is",
+            "op1": "Perfectly elastic",
+            "op2": "Relatively elastic",
+            "op3": "Perfectly inelastic",
+            "op4": "Relatively inelastic",
+            "answer:": 4
+        },
+        {
+            "question": "The marginal propensity to consume lies between",
+            "op1": "0 to 1",
+            "op2": "0 to \u221d",
+            "op3": "1 to \u221d",
+            "op4": "\u221d to \u221d",
+            "answer:": 1
+        },
+        {
+            "question": "Exploitation of labour is said to exist when",
+            "op1": "Wage = Marginal Revenue Product",
+            "op2": "Wage < Marginal Revenue Product",
+            "op3": "Wage > Marginal Revenue Product",
+            "op4": "Marginal Revenue Product = 0",
+            "answer:": 2
+        }
+    ]
+}

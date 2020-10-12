@@ -1,0 +1,126 @@
+{
+    "topic": "Objects and Classes",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "Which of the following is an invalid declaration for the main method in java program?",
+            "op1": "public static void main (String [ ] args)",
+            "op2": "public static strictfp void main(String args[ ])",
+            "op3": "final static public void main (String args[ ])",
+            "op4": "All are Correct",
+            "answer:": 4
+        },
+        {
+            "question": "A top level class may have which one of the following access modifiers?",
+            "op1": "package",
+            "op2": "private",
+            "op3": "protected",
+            "op4": "public",
+            "answer:": 4
+        },
+        {
+            "question": "Visualizing program components as objects is characteristics of which of the following language types?",
+            "op1": "Object-oriented programming language",
+            "op2": "Machine language",
+            "op3": "ommand line operating system",
+            "op4": "Procedural language",
+            "answer:": 1
+        },
+        {
+            "question": "A subclass is also called as",
+            "op1": "inner class",
+            "op2": "nested class",
+            "op3": "derived class",
+            "op4": "hidden class",
+            "answer:": 3
+        },
+        {
+            "question": "Attribute of an object can include information about",
+            "op1": "State",
+            "op2": "Method",
+            "op3": "Behavior",
+            "op4": "Procedures",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not a wrapper class?",
+            "op1": "Vector",
+            "op2": "Character",
+            "op3": "Boolean",
+            "op4": "Integer",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following method is used to initialize the instance variable of a class?",
+            "op1": "Class",
+            "op2": "Public",
+            "op3": "onstructor",
+            "op4": "estructor",
+            "answer:": 3
+        },
+        {
+            "question": "Object oriented programming method is followed in",
+            "op1": "C programming language",
+            "op2": "C++ programming language",
+            "op3": "# programming language",
+            "op4": "Both [B] and [C]",
+            "answer:": 4
+        },
+        {
+            "question": "The last statement in a finalize method should always be",
+            "op1": "super (finalize)",
+            "op2": "super finalize()",
+            "op3": "finalize(method name)",
+            "op4": "no restrictions",
+            "answer:": 4
+        },
+        {
+            "question": "The methods defined by Thread class that help to manage threads are :",
+            "op1": "joined",
+            "op2": "stop",
+            "op3": "getName",
+            "op4": "all of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not true about constructors?",
+            "op1": "It initializes an object immediately upon creation",
+            "op2": "It is syntactically similar to a method",
+            "op3": "The return type of class constructor is the class type itself",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "A default constructor has",
+            "op1": "has no arguments",
+            "op2": "has no return type",
+            "op3": "has one argument but no return type",
+            "op4": "has two arguments",
+            "answer:": 1
+        },
+        {
+            "question": "When a method is made static, it cannot use",
+            "op1": "this",
+            "op2": "super",
+            "op3": "Both [A] and [B]",
+            "op4": "None the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which method of the thread class should be defined?",
+            "op1": "run()",
+            "op2": "start()",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these above",
+            "answer:": 1
+        },
+        {
+            "question": "In Java, main() method rteturns a value of type",
+            "op1": "void",
+            "op2": "int",
+            "op3": "real",
+            "op4": "string",
+            "answer:": 1
+        }
+    ]
+}

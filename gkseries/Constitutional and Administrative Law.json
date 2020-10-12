@@ -1,0 +1,406 @@
+{
+    "topic": "Constitutional and Administrative Law",
+    "Subject": "Law",
+    "data": [
+        {
+            "question": "The Indian Independence Act, 947 came into effect on",
+            "op1": "14 ugust 1947",
+            "op2": "18 July, 1947",
+            "op3": "26 January, 1947",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "The President's Rule under Article 356 remains valid in the State for the maximum period of",
+            "op1": "two months",
+            "op2": "five months",
+            "op3": "six months",
+            "op4": "one year",
+            "answer:": 3
+        },
+        {
+            "question": "According to Indian Constitution Treaty making power is conferred upon",
+            "op1": "The Prime Minister",
+            "op2": "The Foreign Minster",
+            "op3": "The President of India but is subject to ratification by the parliament",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The Vice President of India is elected",
+            "op1": "by an electoral college consisting of all the members of Rajya Sabha",
+            "op2": "by an electoral college consisting of all the members of Lok Sabha",
+            "op3": "by an electoral college of all the members of both the Houses of Parliament",
+            "op4": "by an electoral college of all the members of both the Houses of Parliament in accordance with proportional representation by means of single transferable vote and by secret ballot",
+            "answer:": 4
+        },
+        {
+            "question": "The powers of the President of India are",
+            "op1": "beyond the Constitution",
+            "op2": "in accordance with the Constitution",
+            "op3": "in accordance with the Parliament",
+            "op4": "in accordance with the Supreme Court",
+            "answer:": 2
+        },
+        {
+            "question": "The Comptroller and Auditor-General(CAG) is appointed by",
+            "op1": "The President",
+            "op2": "The Council of Ministers",
+            "op3": "The Prime Minister",
+            "op4": "The Speaker of the Lok Sabha",
+            "answer:": 1
+        },
+        {
+            "question": "The minimum gap permissible between two sessions of Parliament",
+            "op1": "4 months",
+            "op2": "6 months",
+            "op3": "100 days",
+            "op4": "90 days",
+            "answer:": 4
+        },
+        {
+            "question": "The Council of Ministers remains in office as long as it enjoys the confidence of",
+            "op1": "President",
+            "op2": "Lok Sabha",
+            "op3": "Prime Minister",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "To whom the Speaker of Lok Sabha has to address his resignation letter?",
+            "op1": "Chief Justice of India",
+            "op2": "Deputy Speaker of Lok Sabha",
+            "op3": "The Prime Minister",
+            "op4": "The President",
+            "answer:": 2
+        },
+        {
+            "question": "Which is the largest committee of Parliament of India?",
+            "op1": "Public ccounts Committee",
+            "op2": "usiness Advisory Committee",
+            "op3": "Estimates ommittee",
+            "op4": "Joint Parliamentary Committee",
+            "answer:": 3
+        },
+        {
+            "question": "As per President's Emolments and Pension (Amendment) Act, 2008 (No. 28 of 2008) the emoluments of the President of India is:",
+            "op1": "1.2 Lakh",
+            "op2": "1.5 Lakh",
+            "op3": "2 Lakh",
+            "op4": "2.5 Lakh",
+            "answer:": 2
+        },
+        {
+            "question": "118th Constitutional Amendment Bill, 20 related to",
+            "op1": "mendment of First Schedule to Constitution",
+            "op2": "Empower the Governor of Karnataka to take steps to develop the Hyderabad-Karnataka Region",
+            "op3": "Insert a new article 371-J",
+            "op4": "Replace \"Oriya\" with \"Odia\"",
+            "answer:": 3
+        },
+        {
+            "question": "The Government of India Act, 1935 vested the residuary power in the",
+            "op1": "Federal court",
+            "op2": "Governors",
+            "op3": "British parliament",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Who introduced the dual government system in Bengal?",
+            "op1": "Warren Hastings",
+            "op2": "Sir John Shore",
+            "op3": "Robert live",
+            "op4": "Sir Alured Clarke",
+            "answer:": 3
+        },
+        {
+            "question": "The scheme of Morley-Minto constitutional reforms were came into effect through",
+            "op1": "Indian Councils ct, 1892",
+            "op2": "Montagu-Chelmsford reforms",
+            "op3": "Indian ouncil Act, 1909",
+            "op4": "The Government of India Act, 1919",
+            "answer:": 3
+        },
+        {
+            "question": "Article 39A of the Constitution of India deals with",
+            "op1": "Free Legal id",
+            "op2": "Free and Compulsory Education",
+            "op3": "Free Housing to the Poor",
+            "op4": "Free Medical Aid to the Citizen",
+            "answer:": 1
+        },
+        {
+            "question": "The Chairman and members of the UPSC are appointed by:",
+            "op1": "The Cabinet",
+            "op2": "The Chief Justice of India",
+            "op3": "The Prime Minister of India",
+            "op4": "The President of India",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following amendment accorded precedence to Directive principles to Fundamental Rights?",
+            "op1": "44th mendment",
+            "op2": "24th Amendment",
+            "op3": "39th Amendment",
+            "op4": "42th Amendment",
+            "answer:": 4
+        },
+        {
+            "question": "The oath is administered to the President of India by",
+            "op1": "Speaker of Lok Sabha",
+            "op2": "Prime Minister of India",
+            "op3": "Attorney General of India",
+            "op4": "Chief Justice of India",
+            "answer:": 4
+        },
+        {
+            "question": "The special provisions to Finance Bills is provided under the Constitution of India in :",
+            "op1": "rticle 114",
+            "op2": "Article 115",
+            "op3": "Article 116",
+            "op4": "Article 117",
+            "answer:": 4
+        },
+        {
+            "question": "Suspension of provisions of Article 19 during Emergency is dealt in :",
+            "op1": "rticle 352",
+            "op2": "Article 355",
+            "op3": "Article 358",
+            "op4": "Article 361",
+            "answer:": 3
+        },
+        {
+            "question": "Provisions as to the administration and control of Scheduled Areas and Scheduled Tribes are in :",
+            "op1": "Ninth Schedule",
+            "op2": "Seventh Schedule",
+            "op3": "Fifth Schedule",
+            "op4": "Third Schedule",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following amendment accorded precedence to Directive principles to Fundamental Rights ?",
+            "op1": "44th mendment",
+            "op2": "24th Amendment",
+            "op3": "39th Amendment",
+            "op4": "42th Amendment",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following Schedules relates to the Municipality ?",
+            "op1": "VII",
+            "op2": "IX",
+            "op3": "XI",
+            "op4": "XII",
+            "answer:": 4
+        },
+        {
+            "question": "Presidential satisfaction for imposing President Rule is",
+            "op1": "Subject to judicial review on the ground of malafied.",
+            "op2": "Subject to judicial review",
+            "op3": "Not subject to judicial review",
+            "op4": "Subject to judicial review after the rule ends",
+            "answer:": 2
+        },
+        {
+            "question": "The current Lokpal Bill was introduced under :",
+            "op1": "rticle 248",
+            "op2": "Article 252",
+            "op3": "Article 253",
+            "op4": "Article 246",
+            "answer:": 3
+        },
+        {
+            "question": "The legislature of a State may impose restrictions on trade, commerce and intercourse under :",
+            "op1": "rticle 302",
+            "op2": "Article 303",
+            "op3": "Article 304",
+            "op4": "Article 305",
+            "answer:": 1
+        },
+        {
+            "question": "Article 245 has been interpreted on the basis of :",
+            "op1": "Doctrine of Territorial Nexus",
+            "op2": "Doctrine of Colourable Legislation",
+            "op3": "Doctrine of Eclipse",
+            "op4": "octrine of Pith and Substance",
+            "answer:": 1
+        },
+        {
+            "question": "By 42nd Amendment Act the Preamble of Indian Constitution has been amended at :",
+            "op1": "One place",
+            "op2": "Two places",
+            "op3": "Three places",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following states has two houses ?",
+            "op1": "Orissa",
+            "op2": "Karnataka",
+            "op3": "Assam",
+            "op4": "Rajasthan",
+            "answer:": 2
+        },
+        {
+            "question": "The provisions dealing with the Supreme Court can be amended :",
+            "op1": "By absolute majority",
+            "op2": "y absolute majority and ratification",
+            "op3": "By special majority and ratification",
+            "op4": "By special majority",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following doctrines is not related to Article 13 of the Constitution ?",
+            "op1": "Doctrine of Eclipse",
+            "op2": "Doctrine of Colourable Legislation",
+            "op3": "Doctrine Waiver",
+            "op4": "octrine of Severability",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not state under Article 12 of the Constitution ?",
+            "op1": "Gauhati University Student Union",
+            "op2": "C.S.I.R.",
+            "op3": "Municipal orporation, Bhubaneshwar",
+            "op4": "Union Public Service Commission",
+            "answer:": 1
+        },
+        {
+            "question": "Which Article of the Indian Constitution is related to Doctrine of self incrimination ?",
+            "op1": "rticle 20(1)",
+            "op2": "Article 22",
+            "op3": "Article 20(3)",
+            "op4": "Article 20(2)",
+            "answer:": 3
+        },
+        {
+            "question": "Indian Constitution was enacted and adopted on :",
+            "op1": "26th January, 1950",
+            "op2": "26th November, 1949",
+            "op3": "15th August, 1947",
+            "op4": "14th August, 1947",
+            "answer:": 2
+        },
+        {
+            "question": "The Constitution(97th Amendment) Act, 2011 inserted under Article 19(1)(C) :",
+            "op1": "ssociations",
+            "op2": "Unions",
+            "op3": "Organisations",
+            "op4": "Co-operative societies",
+            "answer:": 4
+        },
+        {
+            "question": "New states are formed under Article 3 of the Constitution by :",
+            "op1": "Law of the Parliament",
+            "op2": "y Constitutional Amendment under Article 368",
+            "op3": "By a Law of the State Legislature",
+            "op4": "By a Law of the State Legislature concerned and Law of the Parliament",
+            "answer:": 1
+        },
+        {
+            "question": "Article 123 deals with :",
+            "op1": "Power of the President to dissolve Lok Sabha",
+            "op2": "Power of the Governor to promulgate ordinances",
+            "op3": "Power of the President to promulgate ordinances",
+            "op4": "Power of the Parliament to pass the bills",
+            "answer:": 3
+        },
+        {
+            "question": "Doctrine of Pith and Substance relates to :",
+            "op1": "Interpretation of statutes to solve the problem of competing legislature in the same field",
+            "op2": "Serve the objectionable portions of the statute that violate Fundamental Rights",
+            "op3": "Interpretation of statutes to solve problems arising out of territorial nexus",
+            "op4": "Interpretation of statutes to solve problems of waiver of Fundamental Rights",
+            "answer:": 3
+        },
+        {
+            "question": "Provision of imposing the President's rule in case of failure of Constitutional machinery in the states is provided under :",
+            "op1": "rticle 353",
+            "op2": "Article 360",
+            "op3": "Article 352",
+            "op4": "Article 356",
+            "answer:": 4
+        },
+        {
+            "question": "Removal or suspension of a member of Public Service Commission shall be done in accordance with :",
+            "op1": "rticle 316",
+            "op2": "Article 317",
+            "op3": "Article 350",
+            "op4": "Article 351",
+            "answer:": 2
+        },
+        {
+            "question": "According to Article 233 the appointment of a District Judge shall be done by",
+            "op1": "The President in consultation with the High Court of the State concerned",
+            "op2": "The Governor of the State concerned in consultation with the High Court of the State concerned",
+            "op3": "The Governor in consultation with the hief Justice of India",
+            "op4": "The collegium of the High Court",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following Articles of Indian Constitution provides protection of certain rights regarding freedom of speech etc. ?",
+            "op1": "rticle 18(2)",
+            "op2": "Article 18(1)",
+            "op3": "Article 19",
+            "op4": "Article 20",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following Articles of the Indian Constitution gives the provision of the Post of Prime Minister of India ?",
+            "op1": "rticle 73",
+            "op2": "Article 74",
+            "op3": "Article 75",
+            "op4": "Article 74(1)",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following methods is adopted for the election of the President of India ?",
+            "op1": "Direct",
+            "op2": "Indirect",
+            "op3": "Proportional representation",
+            "op4": "both [A] and [C]",
+            "answer:": 2
+        },
+        {
+            "question": "The Comptroller and Auditor-General(CAG) is appointed by",
+            "op1": "The President",
+            "op2": "The Council of Ministers",
+            "op3": "The Prime Minister",
+            "op4": "The Speaker of the Lok Sabha",
+            "answer:": 1
+        },
+        {
+            "question": "The minimum gap permissible between two sessions of Parliament",
+            "op1": "4 months",
+            "op2": "6 months",
+            "op3": "100 days",
+            "op4": "90 days",
+            "answer:": 4
+        },
+        {
+            "question": "The Council of Ministers remains in office as long as it enjoys the confidence of",
+            "op1": "President",
+            "op2": "Lok Sabha",
+            "op3": "Prime Minister",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "To whom the Speaker of Lok Sabha has to address his resignation letter?",
+            "op1": "Chief Justice of India",
+            "op2": "Deputy Speaker of Lok Sabha",
+            "op3": "The Prime Minister",
+            "op4": "The President",
+            "answer:": 2
+        },
+        {
+            "question": "Which is the largest committee of Parliament of India?",
+            "op1": "Public ccounts Committee",
+            "op2": "usiness Advisory Committee",
+            "op3": "Estimates ommittee",
+            "op4": "Joint Parliamentary Committee",
+            "answer:": 3
+        }
+    ]
+}

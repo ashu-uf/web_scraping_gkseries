@@ -1,0 +1,86 @@
+{
+    "topic": "Principles of JAVA",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "In Java Inheritance",
+            "op1": "all fields of a class are private",
+            "op2": "all fields of a class are protected",
+            "op3": "a new class is derived from an existing class",
+            "op4": "none of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Primary purpose of inheritance is",
+            "op1": "code reuse",
+            "op2": "overloading",
+            "op3": "overriding",
+            "op4": "ignoring irrelevant features from a software",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following modifiers can be used to disallow a method from being overridden?",
+            "op1": "final",
+            "op2": "transient",
+            "op3": "volatile",
+            "op4": "none of these above",
+            "answer:": 1
+        },
+        {
+            "question": "In Java programming an object can take many forms. This feature called",
+            "op1": "bstraction",
+            "op2": "Polymorphism",
+            "op3": "Encapsulation",
+            "op4": "Inheritance",
+            "answer:": 2
+        },
+        {
+            "question": "A method cannot be overridden if it is qualified by which one of the following modifier?",
+            "op1": "friendly",
+            "op2": "final",
+            "op3": "static",
+            "op4": "none of these above",
+            "answer:": 2
+        },
+        {
+            "question": "In Java InheritanceMultiple inheritance is possible in java by means of",
+            "op1": "package",
+            "op2": "object",
+            "op3": "interfaces",
+            "op4": "class",
+            "answer:": 3
+        },
+        {
+            "question": "Method overloading",
+            "op1": "is a technique for implementing abstraction",
+            "op2": "is a technique for implementing polymorphism",
+            "op3": "is a technique for implementing encapsulation",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following keyword is used to invoke superclass of an overridden method?",
+            "op1": "native",
+            "op2": "new",
+            "op3": "super",
+            "op4": "static",
+            "answer:": 3
+        },
+        {
+            "question": "Which method/methods cannot be overridden?",
+            "op1": "static",
+            "op2": "final",
+            "op3": "only [A]",
+            "op4": "both [A] and [B]",
+            "answer:": 4
+        },
+        {
+            "question": "Select the correct statement",
+            "op1": "Method overloading is called compile time polymorphism",
+            "op2": "Method overriding is called runtime polymorphism",
+            "op3": "Only [B] is correct",
+            "op4": "Both [A] and [B] are correct",
+            "answer:": 4
+        }
+    ]
+}

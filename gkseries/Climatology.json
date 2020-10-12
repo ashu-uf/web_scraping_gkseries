@@ -1,0 +1,582 @@
+{
+    "topic": "Climatology",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "The cold and dense downslope wind flowing from the mountain slope during the night is known as :",
+            "op1": "anabatic wind",
+            "op2": "khamsin",
+            "op3": "harmattan",
+            "op4": "katabatic wind",
+            "answer:": 4
+        },
+        {
+            "question": "Identify the chemically inactive or noble gas from the following :",
+            "op1": "Oxygen",
+            "op2": "Hydrogen",
+            "op3": "Argon",
+            "op4": "Carbon-di-oxide",
+            "answer:": 3
+        },
+        {
+            "question": "With reference to the sub-tropical high pressure belt, consider the following statements",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither I nor II",
+            "answer:": 3
+        },
+        {
+            "question": "Atmospheric pressure generated on the earth's surface is due to :",
+            "op1": "Earth's rotation",
+            "op2": "Erath's revolution",
+            "op3": "Gravitational force of the Earth",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Among the following gases which is/are responsible for climate change ?",
+            "op1": "Oxygen",
+            "op2": "Carbon-di-oxide",
+            "op3": "Nitrogen",
+            "op4": "Helium",
+            "answer:": 2
+        },
+        {
+            "question": "Increased Carbon-di-oxide in atmosphere results in :",
+            "op1": "uniform Earth temperature",
+            "op2": "increased volume of sea water",
+            "op3": "fall in Earth temperature",
+            "op4": "rise in Earth temperature",
+            "answer:": 4
+        },
+        {
+            "question": "What is the correct sequence of the atmospheric layers from bottom-to-top ?",
+            "op1": "Mesosphere, Troposphere, Thermosphere, Stratosphere",
+            "op2": "Troposphere, Stratosphere, Mesosphere, Thermosphere",
+            "op3": "Stratosphere, Troposphere, Mesosphere, Thermosphere",
+            "op4": "Thermosphere, Troposphere, Stratosphere, Mesosphere",
+            "answer:": 2
+        },
+        {
+            "question": "Which is the most suitable layer for flying of Jet aeroplanes ?",
+            "op1": "Troposphere",
+            "op2": "Mesosphere",
+            "op3": "Thermosphere",
+            "op4": "Stratosphere",
+            "answer:": 4
+        },
+        {
+            "question": "Which instrument is used to measure the relative humidity in air ?",
+            "op1": "Hydrometer",
+            "op2": "Hygrometer",
+            "op3": "Hygrograph",
+            "op4": "Barometer",
+            "answer:": 2
+        },
+        {
+            "question": "Psychrometer is an instrument used to measure :",
+            "op1": "relative humidity of air",
+            "op2": "atmospheric pressure",
+            "op3": "relative density of liquids",
+            "op4": "amount of actual evapotranspiration",
+            "answer:": 1
+        },
+        {
+            "question": "What is the cause behind frontal rain ?",
+            "op1": "tropical air meets cold polar air",
+            "op2": "cold air from sea",
+            "op3": "convection currents",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "The contact of two air masses differing sharply in humidity originates :",
+            "op1": "stratospheric instability",
+            "op2": "tropical cyclones",
+            "op3": "inter tropical convergence",
+            "op4": "temperate cyclones",
+            "answer:": 4
+        },
+        {
+            "question": "What causes smog ?",
+            "op1": "due water pollution",
+            "op2": "due to Earth's heat",
+            "op3": "due to air pollution",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "In the Earth's atmosphere, the atmospheric pressure :",
+            "op1": "remains constant with height",
+            "op2": "increases with height",
+            "op3": "decreases with height",
+            "op4": "first increases and then decreases with height",
+            "answer:": 3
+        },
+        {
+            "question": "Which layer of the atmosphere extend's from the Earth's surface upto 6-8 miles and experiences decrease in temperature in constant rate ?",
+            "op1": "Stratosphere",
+            "op2": "Troposphere",
+            "op3": "Mesosphere",
+            "op4": "Thermosphere",
+            "answer:": 2
+        },
+        {
+            "question": "What is the most important factor in thunderstorms development ?",
+            "op1": "tmospheric stability",
+            "op2": "Atmospheric pressure",
+            "op3": "Atmospheric stability",
+            "op4": "Temperature inversion",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not a form of precipitation ?",
+            "op1": "Hall",
+            "op2": "Fog",
+            "op3": "Snowfall",
+            "op4": "Rainfall",
+            "answer:": 2
+        },
+        {
+            "question": "Shadow effect is associated with which one of the following rainfall ?",
+            "op1": "Cyclonic rainfall",
+            "op2": "Orographic rainfall",
+            "op3": "onvectional rainfall",
+            "op4": "Frontal rainfall",
+            "answer:": 2
+        },
+        {
+            "question": "A layer in the Earth's atmosphere called Ionosphere facilitates radio communication. Why ? I. The presence of ozone causes the reflection of radio waves to Earth II. Radio waves have a very long wavelength",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither I nor II",
+            "answer:": 4
+        },
+        {
+            "question": "The deflection of the winds to the right in the northern hemisphere is caused by :",
+            "op1": "revolution of the earth",
+            "op2": "rotation of the earth",
+            "op3": "uneven heating of the earth",
+            "op4": "All the above",
+            "answer:": 2
+        },
+        {
+            "question": "Atmospheric pressure exerted on earth is due to :",
+            "op1": "rotation of earth",
+            "op2": "revolution of earth",
+            "op3": "gravitational pull",
+            "op4": "uneven heating of earth",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following has the highest wind velocity ?",
+            "op1": "Typhoon",
+            "op2": "Hurricane",
+            "op3": "yclone",
+            "op4": "Tornado",
+            "answer:": 4
+        },
+        {
+            "question": "Ozone-hole in the atmosphere is largely caused by the presence of :",
+            "op1": "Oxygen",
+            "op2": "Hydrogen",
+            "op3": "hloro-floro-carbon",
+            "op4": "Radio-active waste",
+            "answer:": 3
+        },
+        {
+            "question": "Speed of the wind is measured by :",
+            "op1": "barometer",
+            "op2": "hygrometer",
+            "op3": "thermometer",
+            "op4": "anemometer",
+            "answer:": 4
+        },
+        {
+            "question": "Trade winds are due to :",
+            "op1": "Conduction",
+            "op2": "Convection",
+            "op3": "Radiation",
+            "op4": "Scattering",
+            "answer:": 2
+        },
+        {
+            "question": "Where does most of the weather phenomena take place ?",
+            "op1": "Ionosphere",
+            "op2": "Troposphere",
+            "op3": "Stratosphere",
+            "op4": "Thermosphere",
+            "answer:": 2
+        },
+        {
+            "question": "The term Roaring Forties is related to the :",
+            "op1": "Trade winds",
+            "op2": "Planetary wind",
+            "op3": "Westerlies",
+            "op4": "Polar winds",
+            "answer:": 3
+        },
+        {
+            "question": "Daily weather changes in the atmosphere are associated with :",
+            "op1": "Troposphere",
+            "op2": "Mesosphere",
+            "op3": "Ionosphere",
+            "op4": "Stratosphere",
+            "answer:": 1
+        },
+        {
+            "question": "Trade winds blow from the :",
+            "op1": "equatorial low pressure",
+            "op2": "polar high pressure",
+            "op3": "subtropical high pressure",
+            "op4": "subpolar low pressure",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following winds is called anti-trade wind ?",
+            "op1": "Chinook",
+            "op2": "Cyclone",
+            "op3": "Typhoon",
+            "op4": "Westerlies",
+            "answer:": 4
+        },
+        {
+            "question": "Tropical storm in Chinese Sea is known as :",
+            "op1": "Wave",
+            "op2": "Tornado",
+            "op3": "Typhoon",
+            "op4": "Cyclone",
+            "answer:": 3
+        },
+        {
+            "question": "Very strong and cold icy winds that blow in the Polar regions are called :",
+            "op1": "Typhoons",
+            "op2": "Tornadoes",
+            "op3": "Blizzards",
+            "op4": "Polar winds",
+            "answer:": 3
+        },
+        {
+            "question": "What happens to atmospheric pressure with increase in altitude ?",
+            "op1": "It remains constant",
+            "op2": "It decreases",
+            "op3": "It increases",
+            "op4": "It constantly fluctuates",
+            "answer:": 2
+        },
+        {
+            "question": "Condensation is the reverse of :",
+            "op1": "Vaporization",
+            "op2": "Fog",
+            "op3": "irrus cloud",
+            "op4": "Smog",
+            "answer:": 1
+        },
+        {
+            "question": "Land and sea-breezes occur due to :",
+            "op1": "Conduction",
+            "op2": "Convection",
+            "op3": "Radiation",
+            "op4": "Tides",
+            "answer:": 2
+        },
+        {
+            "question": "Mediterranean type of climate is characterized by :",
+            "op1": "dry summer and wet winter",
+            "op2": "wet summer and dry winter",
+            "op3": "dry summer and dry winter",
+            "op4": "wet summer and wet winter",
+            "answer:": 1
+        },
+        {
+            "question": "Convectional Rainfall occurs in :",
+            "op1": "Equatorial region",
+            "op2": "Temperate region",
+            "op3": "Tropical region",
+            "op4": "Polar region",
+            "answer:": 1
+        },
+        {
+            "question": "The climate of North America is influence during winter by the :",
+            "op1": "Polar air masses",
+            "op2": "Warm air masses",
+            "op3": "ontinental air masses",
+            "op4": "Tropical air masses",
+            "answer:": 4
+        },
+        {
+            "question": "The main cause of global climatic change is :",
+            "op1": "increase in the content of carbon dioxide in the atmosphere",
+            "op2": "emissions of industrial gases",
+            "op3": "adding of dust",
+            "op4": "change in plant cover",
+            "answer:": 1
+        },
+        {
+            "question": "Blizzards are characteristic feature of :",
+            "op1": "equatorial region",
+            "op2": "tropical region",
+            "op3": "Antarctic region",
+            "op4": "temperature region",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not the example of planetary winds ?",
+            "op1": "Monsoon",
+            "op2": "Trade Wind",
+            "op3": "Land and sea breezes",
+            "op4": "Chinook",
+            "answer:": 4
+        },
+        {
+            "question": "Depression formed due to deflating action of winds are called :",
+            "op1": "Playas",
+            "op2": "Yardang",
+            "op3": "Ventifacts",
+            "op4": "Sand dunes",
+            "answer:": 2
+        },
+        {
+            "question": "In atmosphere the lowermost layer is :",
+            "op1": "troposphere",
+            "op2": "exosphere",
+            "op3": "ionosphere",
+            "op4": "stratosphere",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following represent the lines joining the places of equal rainfall ?",
+            "op1": "Isohypses",
+            "op2": "Isohalines",
+            "op3": "Isobars",
+            "op4": "Isohyets",
+            "answer:": 4
+        },
+        {
+            "question": "Troposphere is the hottest part of the atmosphere because",
+            "op1": "it is closest to the Sun",
+            "op2": "there are charged particles in it",
+            "op3": "it is heated by the Earth\u2019s surface",
+            "op4": "heat is generated in it",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is the highest cloud ?",
+            "op1": "Cirrus",
+            "op2": "Stratocumulus",
+            "op3": "Nimbostratus",
+            "op4": "Cumulus",
+            "answer:": 1
+        },
+        {
+            "question": "Sea breeze is formed during :",
+            "op1": "Day time",
+            "op2": "Night time",
+            "op3": "Both",
+            "op4": "Seasonal",
+            "answer:": 1
+        },
+        {
+            "question": "Airmass near to the earth\u2019s surface is warmer because it",
+            "op1": "radiates heat",
+            "op2": "contains dust particles",
+            "op3": "is warmed by terrestrial radiation",
+            "op4": "is far from the sun",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is a greenhouse gas ?",
+            "op1": "Oxygen",
+            "op2": "Nitrogen",
+            "op3": "arbon-di-Oxide",
+            "op4": "Ozone",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is called North-easter ?",
+            "op1": "Cold and fast blowing winds in northern hemisphere that move from sub-polar to polar regions",
+            "op2": "Cold and fast-blowing winds in South Pole region",
+            "op3": "old and fast-blowing winds from the polar region in northern hemisphere",
+            "op4": "Winds blowing towards Kazakhstan in Central Asia",
+            "answer:": 3
+        },
+        {
+            "question": "Density of the earth\u2019s atmosphere is highest in the :",
+            "op1": "Troposphere",
+            "op2": "Stratosphere",
+            "op3": "Mesosphere",
+            "op4": "ionosphere",
+            "answer:": 1
+        },
+        {
+            "question": "What is a \u2018tornado\u2019 ?",
+            "op1": "very high pressure centre",
+            "op2": "A very low pressure centre",
+            "op3": "A very high ocean wave",
+            "op4": "A planetary wind",
+            "answer:": 2
+        },
+        {
+            "question": "Typhoons are common in the :",
+            "op1": "rctic Ocean",
+            "op2": "Seas of China and Japan",
+            "op3": "Mexican Gulf",
+            "op4": "Indian Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "Frontal Rain is caused by",
+            "op1": "Convection current",
+            "op2": "Winds from sea",
+            "op3": "yclonic activity",
+            "op4": "Condensation of water evaporated from mountains",
+            "answer:": 3
+        },
+        {
+            "question": "The vertical movement of air is termed as :",
+            "op1": "wind",
+            "op2": "air current",
+            "op3": "air turbulence",
+            "op4": "air mobility",
+            "answer:": 2
+        },
+        {
+            "question": "Katrina is the name given to :",
+            "op1": "Satellite",
+            "op2": "Star",
+            "op3": "Heat wave",
+            "op4": "Hurricane",
+            "answer:": 4
+        },
+        {
+            "question": "\u2018Green House Effect\u2019 means :",
+            "op1": "Pollution in houses in tropical regions",
+            "op2": "Trapping of solar energy due to atmospheric oxygen",
+            "op3": "Trapping of solar energy due to atmospheric carbon-di-oxide",
+            "op4": "Cultivation in green houses so as to check pollution",
+            "answer:": 3
+        },
+        {
+            "question": "Global warming is expected to result in :",
+            "op1": "Increase in level of sea",
+            "op2": "Change in crop pattern",
+            "op3": "hange in coastline",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In which region does rainfall occur throughout the year ?",
+            "op1": "Mediterranean",
+            "op2": "Tropical",
+            "op3": "Equatorial",
+            "op4": "Temperate",
+            "answer:": 3
+        },
+        {
+            "question": "Imaginary lines joining places with same temperature are called",
+            "op1": "Isobar",
+            "op2": "Isotherms",
+            "op3": "Isohalines",
+            "op4": "Isohyets",
+            "answer:": 2
+        },
+        {
+            "question": "\u2018Flash floods\u2019 are associated with",
+            "op1": "Thunderstorms",
+            "op2": "Tsunami",
+            "op3": "yclonic storms",
+            "op4": "Tornado",
+            "answer:": 3
+        },
+        {
+            "question": "Smog is a combination of :",
+            "op1": "air and water vapour",
+            "op2": "fire and water",
+            "op3": "water and smoke",
+            "op4": "smoke and fog",
+            "answer:": 4
+        },
+        {
+            "question": "The climatic zones are classified on the basis of",
+            "op1": "distance from the equator",
+            "op2": "elevation",
+            "op3": "rainfall",
+            "op4": "distance from the sea",
+            "answer:": 3
+        },
+        {
+            "question": "The layer of the atmosphere in which Radio Waves are reflected back is called",
+            "op1": "Ionosphere",
+            "op2": "Troposphere",
+            "op3": "Stratosphere",
+            "op4": "Exosphere",
+            "answer:": 1
+        },
+        {
+            "question": "The atmospheric layer farthest from the Earth\u2019s surface is known as",
+            "op1": "Stratosphere",
+            "op2": "Ionosphere",
+            "op3": "Exosphere",
+            "op4": "Mesosphere",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following phenomena is supposedly associated with global warming ?",
+            "op1": "E1 Nino Modoki",
+            "op2": "La Nino",
+            "op3": "E1 Nino",
+            "op4": "Southern Oscillations",
+            "answer:": 1
+        },
+        {
+            "question": "Wind rose represents :",
+            "op1": "wind data",
+            "op2": "wind turbulance",
+            "op3": "wind pressure",
+            "op4": "wind temperature",
+            "answer:": 2
+        },
+        {
+            "question": "Subtropical high pressure belts are otherwise called",
+            "op1": "Roaring forties",
+            "op2": "Screeching sixties",
+            "op3": "Furious fifties",
+            "op4": "Horse latitudes",
+            "answer:": 4
+        },
+        {
+            "question": "Atmospheric temperature increasing at the higher altitudes is called",
+            "op1": "Inversion",
+            "op2": "Radiation",
+            "op3": "onduction",
+            "op4": "Convection",
+            "answer:": 1
+        },
+        {
+            "question": "The humidity of air depends upon",
+            "op1": "Temperature",
+            "op2": "Location",
+            "op3": "Weather",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The temperature increases rapidly above which of following layers ?",
+            "op1": "Ionosphere",
+            "op2": "Stratosphere",
+            "op3": "Exosphere",
+            "op4": "Troposphere",
+            "answer:": 3
+        },
+        {
+            "question": "What is the cause of Hailstorms :",
+            "op1": "condensation",
+            "op2": "freezing",
+            "op3": "convection",
+            "op4": "sublimation",
+            "answer:": 2
+        }
+    ]
+}

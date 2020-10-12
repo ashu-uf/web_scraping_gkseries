@@ -1,0 +1,38 @@
+{
+    "topic": "Java Datatypes, Variables & Arrays",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "String.ValueOf('r').concat(\"def\").concat(String.ValueOf(''))",
+            "op1": "0",
+            "op2": "1",
+            "op3": "3",
+            "op4": "4",
+            "answer:": 2
+        },
+        {
+            "question": "Which are the valid declarations for an integer literal?",
+            "op1": "(I) and (II)",
+            "op2": "(I), (II) and (III)",
+            "op3": "(IV)",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "Int, long, byte, short are the data types of _____data types?",
+            "op1": "unsigned",
+            "op2": "signed",
+            "op3": "both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is correct?",
+            "op1": "int a = 16, a>>2 = 4",
+            "op2": "int b = -8, b>>1 = -4",
+            "op3": "int a = 16, a>>>2 = 4",
+            "op4": "All of the above",
+            "answer:": 4
+        }
+    ]
+}

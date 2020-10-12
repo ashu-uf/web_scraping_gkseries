@@ -1,0 +1,86 @@
+{
+    "topic": "Tennis",
+    "Subject": "Sports",
+    "data": [
+        {
+            "question": "Who among the following has won the men's singles title of the Wimbledon tennis tournament 205?",
+            "op1": "Roger Federer",
+            "op2": "Andy Murray",
+            "op3": "Novak Djokovic",
+            "op4": "Stan Wawrinka",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following has won the women's singles title of the Wimbledon tennis tournament 015?",
+            "op1": "Serena Williams",
+            "op2": "Maria Sharapova",
+            "op3": "Simona Halep",
+            "op4": "Ana Ivanovic",
+            "answer:": 1
+        },
+        {
+            "question": "The Australian Open tennis tournament 2015 took place in which of the following venues?",
+            "op1": "Queensland Tennis Centre",
+            "op2": "Melbourne Park",
+            "op3": "Eastcourts Tennis lub",
+            "op4": "Orange Indoor Tennis Centre",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the winner of men's singles in Australian Open tennis tournament 2015?",
+            "op1": "ndy Murray",
+            "op2": "Novak Djokovic",
+            "op3": "Roger Federer",
+            "op4": "Rafael Nadal",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the winner of women's singles in Australian Open tennis tournament 201?",
+            "op1": "Petra Kvitov\u00e1",
+            "op2": "Agnieszka Radwa\u0144ska",
+            "op3": "aroline Wozniacki",
+            "op4": "Serena Williams",
+            "answer:": 4
+        },
+        {
+            "question": "In which of the following venues US Open tennis tournament 2015 took place?",
+            "op1": "West Side Tennis Club",
+            "op2": "USTA illie Jean King National Tennis Center",
+            "op3": "Arthur Ashe Stadium",
+            "op4": "Newport Casino",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following players is the winner of women's title of US Open tennis tournament 2015?",
+            "op1": "Flavia Pennetta",
+            "op2": "Serena Williams",
+            "op3": "Simona Halep",
+            "op4": "Roberta Vinci",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following players is the winner of men's title of US Open tennis tournament 2015?",
+            "op1": "Roger Federer",
+            "op2": "Novak Djokovic",
+            "op3": "Gilles Simon",
+            "op4": "Marin \u010cili\u0107",
+            "answer:": 2
+        },
+        {
+            "question": "Who is the winner of men's singles title in French Open tennis tournament 2015?",
+            "op1": "Stan Wawrinka",
+            "op2": "David Ferrer",
+            "op3": "Tom\u00e1\u0161 Berdych",
+            "op4": "Rafael Nadal",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following players is the winner of women's singles title in French Open tennis tournament 2015?",
+            "op1": "Eugenie Bouchard",
+            "op2": "Ekaterina Makarova",
+            "op3": "Serena Williams",
+            "op4": "Ana Ivanovic",
+            "answer:": 3
+        }
+    ]
+}

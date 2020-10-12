@@ -1,0 +1,78 @@
+{
+    "topic": "Software Requirements Analysis and Specification",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "Who writes the Software Requirement Specifications Document(SRS)?",
+            "op1": "System Developer",
+            "op2": "System Tester",
+            "op3": "System Analyst",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "What is the goal of the requirements analysis and specifications phase of software development life cycle ?",
+            "op1": "Understanding the customer requirements and organize them in an informal document",
+            "op2": "Analyzing the cost of development",
+            "op3": "Determining scope of the software",
+            "op4": "None of these above",
+            "answer:": 1
+        },
+        {
+            "question": "What is the final outcome of the requirements analysis and specifications phase ?",
+            "op1": "Drawing the data flow diagram",
+            "op2": "The SRS Document",
+            "op3": "oding the project",
+            "op4": "The User Manual",
+            "answer:": 2
+        },
+        {
+            "question": "What is noise in terms of software development ?",
+            "op1": "Writing irrelevant statement to the software development in the SRS document",
+            "op2": "Adding contradictory requirements in SRS document",
+            "op3": "Writing over-specific requirements",
+            "op4": "None of these above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not included in the Software Requirements Specification(SRS) Document ?",
+            "op1": "Functional Requirements",
+            "op2": "Non-functional requirement",
+            "op3": "Goals of implementation",
+            "op4": "User manual",
+            "answer:": 4
+        },
+        {
+            "question": "SRS document is called black box specification of a system because",
+            "op1": "It does not contain the contradictory materials",
+            "op2": "It does not contain the user documentation",
+            "op3": "SRS document should specify only the external behaviour of the system",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following expects cost estimation from SRS document ?",
+            "op1": "Project Manager",
+            "op2": "User documentation writer",
+            "op3": "Software developers",
+            "op4": "Maintenance engineers",
+            "answer:": 1
+        },
+        {
+            "question": "The goal of reading SRS document by the software developer is to :",
+            "op1": "ensure requirements are understandable from a functionality point of view",
+            "op2": "understand the features of the product",
+            "op3": "ensure that the software is developed as per customer needs",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following quality of SRS document ensures to compare the results of a phase with another phase ?",
+            "op1": "Structured",
+            "op2": "Verifiable",
+            "op3": "Traceable",
+            "op4": "Concise",
+            "answer:": 3
+        }
+    ]
+}

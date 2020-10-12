@@ -1,0 +1,86 @@
+{
+    "topic": "Central Processing Unit",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "DMA module can communicate with CPU through",
+            "op1": "Interrupt",
+            "op2": "Cycle stealing",
+            "op3": "Branch instruction",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "\u2018Cycle Stealing\u2019 is associated with",
+            "op1": "Data transfer among registers",
+            "op2": "DMA",
+            "op3": "Pipelining",
+            "op4": "Microprogramming",
+            "answer:": 2
+        },
+        {
+            "question": "On getting, an interrupt, CPU",
+            "op1": "finishes the current instruction and moves to interrupt service routine",
+            "op2": "immediately moves to interrupt service routine without completing current instruction",
+            "op3": "releases the control on I/O lines and memory lines",
+            "op4": "makes the peripheral device, which requested the interrupt wait for fixed interval of time",
+            "answer:": 2
+        },
+        {
+            "question": "The ALU unit of a computer",
+            "op1": "can perform addition, subtraction operations",
+            "op2": "can perform all types of arithmetic operations",
+            "op3": "can perform AND, OR and multiplication operations",
+            "op4": "contains number of counters",
+            "answer:": 2
+        },
+        {
+            "question": "A CPU has 16 bit program counter. This means that the CPU can address -",
+            "op1": "16K memory locations",
+            "op2": "32K memory locations",
+            "op3": "64K memory locations",
+            "op4": "256K memory locations",
+            "answer:": 3
+        },
+        {
+            "question": "CPU gets the address of next instruction to be processed from",
+            "op1": "Instruction register",
+            "op2": "Memory address register",
+            "op3": "Index register",
+            "op4": "Program counter",
+            "answer:": 4
+        },
+        {
+            "question": "Cycle Stealing refers to -",
+            "op1": "reduction in the number of clock cycles for memory access in a cache memory",
+            "op2": "overlapping of the memory refresh operation and memory read operations in dynamic memories",
+            "op3": "reduction in instruction cycle time through instruction pipelining",
+            "op4": "none of these",
+            "answer:": 4
+        },
+        {
+            "question": "CPU consists of",
+            "op1": "LU, Control Unit and Registers",
+            "op2": "ALU and Control Unit",
+            "op3": "ALU, ontrol Unit and Hard Disk",
+            "op4": "ALU, Control Unit and Monitor",
+            "answer:": 1
+        },
+        {
+            "question": "Which application is handled in ROM ?",
+            "op1": "Storage for information on cabling of terminals, such as which ports have terminals on them",
+            "op2": "Storage for protected passwords",
+            "op3": "Storage for microprograms",
+            "op4": "Storage for temporary variables",
+            "answer:": 3
+        },
+        {
+            "question": "Which of following coordinates various operations using timing signals ?",
+            "op1": "control unit",
+            "op2": "memory unit",
+            "op3": "Input-Output Unit",
+            "op4": "ALU",
+            "answer:": 1
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "topic": "Data Link Protocol",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "Which of the following layers of the OSI reference model resolve problems of damaged or lost or duplicate frames ?",
+            "op1": "Data link layer",
+            "op2": "Network layer",
+            "op3": "Session layer",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "X.5 protocol consists of",
+            "op1": "Physical and frame levels",
+            "op2": "Frame and packet levels",
+            "op3": "Physical, frame and packet levels",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "How much channel throughout of slotted ALOHA will be in comparison to pure ALOHA.",
+            "op1": "Same",
+            "op2": "Double",
+            "op3": "Three times",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "X.21 is physical level standard for",
+            "op1": "X.25",
+            "op2": "CSMA/CD",
+            "op3": "ATM networks",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "X.25 LAPP uses a specific subset of",
+            "op1": "CSM/CD protocol",
+            "op2": "HDLC protocol",
+            "op3": "Token ring",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "X.21 protocol consists of",
+            "op1": "Physical and frame levels",
+            "op2": "Frame and packet levels",
+            "op3": "Physical, frame and packet levels",
+            "op4": "Only physical level",
+            "answer:": 4
+        },
+        {
+            "question": "The shortest frame in HDLC protocol is usually the",
+            "op1": "Information frame",
+            "op2": "Management frame",
+            "op3": "Supervisory frame",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Digitization is a combination of sampling and",
+            "op1": "Pulse coding",
+            "op2": "Shift keying",
+            "op3": "Quantization",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following encoding scheme is used by the physical layer of FDDI ?",
+            "op1": "3 out of 4",
+            "op2": "4 out of 5",
+            "op3": "5 out of 6",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "If the ________ bit in X.25 standard is set to 1, it means that there is more than one packet.",
+            "op1": "Q",
+            "op2": "D",
+            "op3": "M",
+            "op4": "P",
+            "answer:": 3
+        },
+        {
+            "question": "What is the measure (unit) used to represent signaling rate per second",
+            "op1": "Baud",
+            "op2": "Hz",
+            "op3": "Bps",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The device operation at Data Link layer is",
+            "op1": "Repeater",
+            "op2": "Router",
+            "op3": "Bridge",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In which ARQ, when a NAK is received, all frames sent since the last frame acknowledge are retransmitted",
+            "op1": "Go back n",
+            "op2": "Stop-and-wait",
+            "op3": "Selective Reject",
+            "op4": "Both A and B",
+            "answer:": 1
+        },
+        {
+            "question": "Not a function of a data link protocol",
+            "op1": "Error control",
+            "op2": "Message delineation",
+            "op3": "Media access control",
+            "op4": "Amplitude shift keying",
+            "answer:": 4
+        },
+        {
+            "question": "AAl2 is useful for",
+            "op1": "Constant bit rate",
+            "op2": "Variable bit rate",
+            "op3": "onnection oriented packet data",
+            "op4": "Connectionless packet data",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following signals is not standard RS-232-C signal ?",
+            "op1": "RTS",
+            "op2": "CTS",
+            "op3": "VDR",
+            "op4": "SR",
+            "answer:": 3
+        },
+        {
+            "question": "An internetworking protocol that provides virtual circuit service across multiple X.25 protocol, is",
+            "op1": "X.75",
+            "op2": "X.25",
+            "op3": "X.21",
+            "op4": "X.400",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following device is used with an X.25 network to provide service to asynchronous terminals",
+            "op1": "Gateway",
+            "op2": "ridges",
+            "op3": "Repeater",
+            "op4": "Packet assembler/disassembler",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following summation operation is performed on the bits to check an error-detecting code ?",
+            "op1": "ttenuation",
+            "op2": "Codec",
+            "op3": "hecksum",
+            "op4": "Coder-decoder",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following allows devices on one network to communicate with devices on another network ?",
+            "op1": "Modem",
+            "op2": "Gateway",
+            "op3": "T-switch",
+            "op4": "Multiplexer",
+            "answer:": 2
+        },
+        {
+            "question": "Firewall _____",
+            "op1": "Does not allow any connections to the server",
+            "op2": "Allows people on the internet to see just one IP address",
+            "op3": "Restricts unauthorized users from accessing sensitive data",
+            "op4": "Manages password functions.",
+            "answer:": 3
+        },
+        {
+            "question": "The maximum data rate that a medium of 10KHz and signal to noise ratio of 30dB is roughly ____",
+            "op1": "10K bps",
+            "op2": "30K bps",
+            "op3": "100K bps",
+            "op4": "300K bps",
+            "answer:": 4
+        }
+    ]
+}

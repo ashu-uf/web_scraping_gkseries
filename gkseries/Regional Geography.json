@@ -1,0 +1,446 @@
+{
+    "topic": "Regional Geography",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Which state has the longest coastline in India ?",
+            "op1": "Tamil Nadu",
+            "op2": "Gujarat",
+            "op3": "Andhra Pradesh",
+            "op4": "West Bengal",
+            "answer:": 2
+        },
+        {
+            "question": "The Karakoram Highway connects which of the following two countries ?",
+            "op1": "India-Nepal",
+            "op2": "China-India",
+            "op3": "hina-Pakistan",
+            "op4": "India-Bangladesh",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following latitudes passes through India ?",
+            "op1": "Equator",
+            "op2": "Tropic of Capricorn",
+            "op3": "Arctic ircle",
+            "op4": "Tropic of Cancer",
+            "answer:": 4
+        },
+        {
+            "question": "India shares longest international boundary with which one of the following country ?",
+            "op1": "Bangladesh",
+            "op2": "China",
+            "op3": "Nepal",
+            "op4": "Bhutan",
+            "answer:": 1
+        },
+        {
+            "question": "Which is the largest southern most single Island in India ?",
+            "op1": "Minicoy Island",
+            "op2": "Car Nicobar Island",
+            "op3": "Great Nicobar Island",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which is the smallest state by area ?",
+            "op1": "Nagaland",
+            "op2": "Goa",
+            "op3": "Sikkim",
+            "op4": "Meghalaya",
+            "answer:": 2
+        },
+        {
+            "question": "The climate of India is tropical because of :",
+            "op1": "The location of the Himalayas in its North",
+            "op2": "Major part of India lies within the tropics",
+            "op3": "The overpowering influence of India Ocean",
+            "op4": "The seasonal influence of jet streams",
+            "answer:": 1
+        },
+        {
+            "question": "What are the two volcanic islands in the Indian territory ?",
+            "op1": "Kavaratti and New Moor",
+            "op2": "itra and Kavaratti",
+            "op3": "Pamban and Barren",
+            "op4": "Narcondam and Barren",
+            "answer:": 4
+        },
+        {
+            "question": "Among the following Union Territories of India, which one has the largest size ?",
+            "op1": "Lakshadweep",
+            "op2": "Daman and Due",
+            "op3": "Puducherry",
+            "op4": "Chandugarh",
+            "answer:": 3
+        },
+        {
+            "question": "Select the matching pairs from the following :",
+            "op1": "Plimsoll Line : India and fghanistan",
+            "op2": "Durand Line : India and Myanmar",
+            "op3": "Macmohan Line : India and Nepal",
+            "op4": "Radcliffe Line : India and Pakistan",
+            "answer:": 4
+        },
+        {
+            "question": "Duncan Passage is situated between :",
+            "op1": "Minicoy and mindiv",
+            "op2": "Minicoy and Maldive",
+            "op3": "Little Andaman and ar Nicobar",
+            "op4": "South Andaman and Little Andaman",
+            "answer:": 4
+        },
+        {
+            "question": "Ten Degree Channel is between :",
+            "op1": "Dover and Calais",
+            "op2": "Alaska and Russia",
+            "op3": "Little Andaman and ar Nicobar",
+            "op4": "North Korea and South Korea",
+            "answer:": 3
+        },
+        {
+            "question": "\u2018Indian Standard Meridian\u2019 passes through four states. Among them two are UP and MP. The other two states are :",
+            "op1": "P and Karnataka",
+            "op2": "AP and Tamil Nadu",
+            "op3": "Karnataka and Tamil Nadu",
+            "op4": "Orissa and AP",
+            "answer:": 4
+        },
+        {
+            "question": "The Lakshadweep islands are situated in :",
+            "op1": "Indian Ocean",
+            "op2": "Arabian Sea",
+            "op3": "Bay of Bengal",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which foreign country is closest to Andaman Islands ?",
+            "op1": "Sri Lanka",
+            "op2": "Myanmar",
+            "op3": "Indonesia",
+            "op4": "Pakistan",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following states shares boundaries with the maximum number of other states of India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Uttar Pradesh",
+            "op3": "Assam",
+            "op4": "Bihar",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a neighbouring state of Jharkhand ?",
+            "op1": "West Bengal",
+            "op2": "Orissa",
+            "op3": "hhattisgarh",
+            "op4": "Madhya Pradesh",
+            "answer:": 4
+        },
+        {
+            "question": "Which states of India have common border with Myanmar ?",
+            "op1": "Mizoram, Manipur, Nagaland, runachal Pradesh",
+            "op2": "Mizoram, Tripura, Meghalaya, Assam",
+            "op3": "Mizoram, Manipur, Tripura, Meghalaya",
+            "op4": "Assam, Manipur, Tripura, Arunachal Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "The State with the largest area under waste land is :",
+            "op1": "Gujarat",
+            "op2": "Madhya Pradesh",
+            "op3": "Jammu & Kashmir",
+            "op4": "Rajasthan",
+            "answer:": 4
+        },
+        {
+            "question": "Which state amongest the following has the highest percentage of the Scheduled Caste population of the State\u2019s population ?",
+            "op1": "Jharkhand",
+            "op2": "Madhya Pradesh",
+            "op3": "Punjab",
+            "op4": "Uttar Pradesh",
+            "answer:": 3
+        },
+        {
+            "question": "The Himalayan mountain system belongs to which one of the following ?",
+            "op1": "Fold mountain",
+            "op2": "Volcanic mountains",
+            "op3": "Block mountains",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "According to geographical history, which are the oldest mountains in India ?",
+            "op1": "Satpuras",
+            "op2": "Nilgiris",
+            "op3": "Vindhyas",
+            "op4": "Aravallis",
+            "answer:": 4
+        },
+        {
+            "question": "Which is the highest mountain peak in India ?",
+            "op1": "Kanchenjunga",
+            "op2": "Saltoro Kangri/K10",
+            "op3": "Nanda Devi",
+            "op4": "Kamet",
+            "answer:": 1
+        },
+        {
+            "question": "Arakan Yoma is the extension of the Himalayas located in :",
+            "op1": "Kashmir",
+            "op2": "Nepal",
+            "op3": "Baluchistan",
+            "op4": "Myanmar",
+            "answer:": 4
+        },
+        {
+            "question": "The transport route connecting the Kashmir from Leh crosses the high mountain ranges at the :",
+            "op1": "Pir Panjal pass",
+            "op2": "Karakoram pass",
+            "op3": "Banihal pass",
+            "op4": "Zojila pass",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following mountains is not the part of Eastern Ghats ?",
+            "op1": "Sheravoy hills",
+            "op2": "Javadi hills",
+            "op3": "Nallamala hills",
+            "op4": "Anamalai hills",
+            "answer:": 4
+        },
+        {
+            "question": "Kodaikanal, the famous hill-station of South-India is located on :",
+            "op1": "Pali hills",
+            "op2": "Anamalai mountain",
+            "op3": "Nilgiri mountain",
+            "op4": "Cardamon hills",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following statement is not correct :",
+            "op1": "Black cotton soil of north-west India was formed by the weathering of basaltic lava rocks",
+            "op2": "Sedimentary rock are distinguished from other types of rocks by the presence of distinct layers",
+            "op3": "Granite has large crystals quartz feldspar and mica in it",
+            "op4": "A metamorphic rock is softer and less compact than its original type",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is most prone to earthquakes ?",
+            "op1": "Coastal plains",
+            "op2": "Old shields",
+            "op3": "Plateaus",
+            "op4": "Young folded mountain",
+            "answer:": 4
+        },
+        {
+            "question": "The Vindhyas belongs to which class of mountains ?",
+            "op1": "Block mountain",
+            "op2": "Fold mountain",
+            "op3": "Volcanic mountain",
+            "op4": "Residual mountain",
+            "answer:": 2
+        },
+        {
+            "question": "The Himalayas are formed of parallel fold ranges. Among them which is the oldest range ?",
+            "op1": "the Siwalik Range",
+            "op2": "the Lesser Himalya",
+            "op3": "the Great Himalayan Range",
+            "op4": "the haula har Range",
+            "answer:": 3
+        },
+        {
+            "question": "Maharashtrian Plateau is made up of :",
+            "op1": "alluvial soil",
+            "op2": "coral reef",
+            "op3": "anamudi",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following mountain passes lies outside India ?",
+            "op1": "Khyber",
+            "op2": "omdila",
+            "op3": "Bara Lacha La",
+            "op4": "Shiplila",
+            "answer:": 1
+        },
+        {
+            "question": "Aravalli ranges are an example of :",
+            "op1": "straight mountain",
+            "op2": "block mountain",
+            "op3": "fold mountain",
+            "op4": "volcanic mountain",
+            "answer:": 3
+        },
+        {
+            "question": "The highest peak in South India is :",
+            "op1": "Doda Betta",
+            "op2": "Makurti",
+            "op3": "Anamudi",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Zojila Pass connects :",
+            "op1": "Kashmir and Tibet",
+            "op2": "Nepal and Tibet",
+            "op3": "Ladakh and Srinagar",
+            "op4": "Leh and Kargil",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is the main difference between the Western and Eastern Ghats ?",
+            "op1": "Height",
+            "op2": "Continuity",
+            "op3": "Proximity to the coast",
+            "op4": "Vegetation",
+            "answer:": 2
+        },
+        {
+            "question": "In which of the following, the Himalayan pass Shipki La located ?",
+            "op1": "Chandra valley",
+            "op2": "Hunza valley",
+            "op3": "Nubra valley",
+            "op4": "Sutlez valley",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the States in India has the broadest continental shelf ?",
+            "op1": "ndhra Pradesh",
+            "op2": "Gujarat",
+            "op3": "Karnataka",
+            "op4": "Tamil Nadu",
+            "answer:": 2
+        },
+        {
+            "question": "The new alluvial deposits found in the Gangetic plain are known as :",
+            "op1": "bhabar",
+            "op2": "bhangar",
+            "op3": "khadar",
+            "op4": "teral",
+            "answer:": 3
+        },
+        {
+            "question": "The famous Lagoon lake of India is:",
+            "op1": "Chilka Lake",
+            "op2": "Mansarover",
+            "op3": "Dal Lake",
+            "op4": "Pulicat Lake",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following towns is not the \u201cGolden Quadrilateral\u201d being created for the roads infrastructure of the country\u201d?",
+            "op1": "Chennai",
+            "op2": "Visakhapatnam",
+            "op3": "Bhubaneswar",
+            "op4": "Hyderabad",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following States has the largest concentration of tea plantation in India ?",
+            "op1": "runachal Pradesh",
+            "op2": "Assam",
+            "op3": "Bihar",
+            "op4": "Meghalaya",
+            "answer:": 2
+        },
+        {
+            "question": "The Sundarbans or the \u2018Mangrove\u2019 forests are found in",
+            "op1": "Konkan Coast",
+            "op2": "Kutch Peninsula",
+            "op3": "Deltaic West Bengal",
+            "op4": "Western Ghats",
+            "answer:": 3
+        },
+        {
+            "question": "The proposed sea-route \u201cSethu Samudram\u201d is a canal through which of the sea-lanes ?",
+            "op1": "Malacca Strait",
+            "op2": "Gulf of Mannar",
+            "op3": "Gulf of Kutch",
+            "op4": "Andaman and Nicobar Islands",
+            "answer:": 2
+        },
+        {
+            "question": "The famous \u2018Gir\u2019 forests are located in",
+            "op1": "Kerala",
+            "op2": "Mysore",
+            "op3": "Gujarat",
+            "op4": "Kashmir",
+            "answer:": 3
+        },
+        {
+            "question": "Which part of the Himalayas has the maximum stretch from East to West ?",
+            "op1": "Nepal Himalayas",
+            "op2": "Punjab Himalayas",
+            "op3": "Assam Himalayas",
+            "op4": "Kumaun Himalayas",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following cities/towns lies to the northern most latitude ?",
+            "op1": "Pachmarhi",
+            "op2": "Patna",
+            "op3": "Ahmedabad",
+            "op4": "Allahabad",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following Indian States is broadly as large as the european nation Austria ?",
+            "op1": "West Bengal",
+            "op2": "Kerala",
+            "op3": "Karnataka",
+            "op4": "Odisha",
+            "answer:": 1
+        },
+        {
+            "question": "Duncan Passage is located between",
+            "op1": "South and Little ndaman",
+            "op2": "North and Middle Andaman",
+            "op3": "North and South Andaman",
+            "op4": "Andaman and Nicobar",
+            "answer:": 1
+        },
+        {
+            "question": "Which is the smallest state by area ?",
+            "op1": "Nagaland",
+            "op2": "Goa",
+            "op3": "Sikkim",
+            "op4": "Meghalaya",
+            "answer:": 2
+        },
+        {
+            "question": "The climate of India is tropical because of :",
+            "op1": "The location of the Himalayas in its North",
+            "op2": "Major part of India lies within the tropics",
+            "op3": "The overpowering influence of India Ocean",
+            "op4": "The seasonal influence of jet streams",
+            "answer:": 1
+        },
+        {
+            "question": "What are the two volcanic islands in the Indian territory ?",
+            "op1": "Kavaratti and New Moor",
+            "op2": "itra and Kavaratti",
+            "op3": "Pamban and Barren",
+            "op4": "Narcondam and Barren",
+            "answer:": 4
+        },
+        {
+            "question": "Among the following Union Territories of India, which one has the largest size ?",
+            "op1": "Lakshadweep",
+            "op2": "Daman and Due",
+            "op3": "Puducherry",
+            "op4": "Chandugarh",
+            "answer:": 3
+        },
+        {
+            "question": "Select the matching pairs from the following :",
+            "op1": "Plimsoll Line : India and fghanistan",
+            "op2": "Durand Line : India and Myanmar",
+            "op3": "Macmohan Line : India and Nepal",
+            "op4": "Radcliffe Line : India and Pakistan",
+            "answer:": 4
+        }
+    ]
+}

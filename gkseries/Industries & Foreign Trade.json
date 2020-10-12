@@ -1,0 +1,358 @@
+{
+    "topic": "Industries & Foreign Trade",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "In India, maximum number of workers are employed in:",
+            "op1": "textile industry",
+            "op2": "automobile industry",
+            "op3": "iron and steel industry",
+            "op4": "tea industry",
+            "answer:": 1
+        },
+        {
+            "question": "India\u2019s oldest iron and steel plant is",
+            "op1": "TISCO at Burnpur",
+            "op2": "Durgapur Iron and Steel Plant",
+            "op3": "TISO at Jamshedpur",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following industries was started first in India ?",
+            "op1": "Jute",
+            "op2": "Tea",
+            "op3": "otton",
+            "op4": "Textile",
+            "answer:": 2
+        },
+        {
+            "question": "In which of the following industries is the maximum number of woman employed in India ?",
+            "op1": "Jute",
+            "op2": "Textile",
+            "op3": "oal",
+            "op4": "Tea",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following agencies has the power to declare any industrial unit as a potentially sick unit ?",
+            "op1": "IRBI",
+            "op2": "MRTPC",
+            "op3": "BIFR",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Bokaro Steel Limited was established with the assistance of :",
+            "op1": "China",
+            "op2": "USA",
+            "op3": "Germany",
+            "op4": "Soviet Union",
+            "answer:": 4
+        },
+        {
+            "question": "The biggest Public Sector undertaking in the country is .......",
+            "op1": "Railways",
+            "op2": "Iron and Steel plants",
+            "op3": "Airways",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following was formed to suggest means for eradicating black money ?",
+            "op1": "Sarkaria Commission",
+            "op2": "Chelliah Committee",
+            "op3": "Finance ommission",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "After textiles, India\u2019s second important industry is:",
+            "op1": "Jute",
+            "op2": "Iron and steel",
+            "op3": "oal",
+            "op4": "Tea",
+            "answer:": 2
+        },
+        {
+            "question": "Which industry in India was worst affected because of the partition ?",
+            "op1": "Jute and Cement",
+            "op2": "Cotton and sugar",
+            "op3": "Paper and Iron",
+            "op4": "Jute and Cotton",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following states ranks first in terms of the maximum number of agro-based industries ?",
+            "op1": "West Bengal",
+            "op2": "Gujarat",
+            "op3": "Punjab",
+            "op4": "Assam",
+            "answer:": 3
+        },
+        {
+            "question": "The performance of which of the following industries is considered performance of the core industry ?",
+            "op1": "Oil and Petroleum",
+            "op2": "Leather",
+            "op3": "Iron and Steel",
+            "op4": "Garments",
+            "answer:": 1
+        },
+        {
+            "question": "The most important small-scale industry in India is that of:",
+            "op1": "jute",
+            "op2": "textile",
+            "op3": "handloom",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The largest importer country of Indian textile is:",
+            "op1": "Italy",
+            "op2": "Russia",
+            "op3": "Germany",
+            "op4": "USA",
+            "answer:": 1
+        },
+        {
+            "question": "The difference between visible exports and visible imports is defined as",
+            "op1": "Balanced terms of trade",
+            "op2": "alance of trade",
+            "op3": "Gains from trade",
+            "op4": "Balance of payment",
+            "answer:": 2
+        },
+        {
+            "question": "UTI has been divided into two parts UTI-I and UTI-II. Which part has been kept under the control of the government ?",
+            "op1": "UTI-I",
+            "op2": "UTI-II",
+            "op3": "Both the above",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The part of separated UTI is under SEBI\u2019s regulation is:",
+            "op1": "UTI-I",
+            "op2": "UTI-II",
+            "op3": "Both the above",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "From which Indian Railways earn the maximum revenue ?",
+            "op1": "Traffic tax",
+            "op2": "Passenger tax",
+            "op3": "Freight",
+            "op4": "Passenger fare",
+            "answer:": 3
+        },
+        {
+            "question": "The industry earns the second highest net foreign exchange from the trade is:",
+            "op1": "Steel industry",
+            "op2": "Gems and ornaments",
+            "op3": "Textile industry",
+            "op4": "Engineering goods industry",
+            "answer:": 4
+        },
+        {
+            "question": "Among the following measures which is not likely to help in improving India\u2019s balance of payments position ?",
+            "op1": "Devaluation of the rupee",
+            "op2": "Imposition of higher duty on exports",
+            "op3": "Imposition of higher duty on imports",
+            "op4": "Encouragement of import substitution",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is true under perfect competition:",
+            "op1": "ny firm can influence supply in the market",
+            "op2": "Any firm can influence price in the market",
+            "op3": "Any firm can influence price and supply in the market",
+            "op4": "No firm can influence price and supply in the market",
+            "answer:": 4
+        },
+        {
+            "question": "India earns maximum foreign exchange from the export of:",
+            "op1": "Tea",
+            "op2": "Jute",
+            "op3": "otton",
+            "op4": "Garments",
+            "answer:": 1
+        },
+        {
+            "question": "Identify the correct sequence of the establishment of steel plants in India from the earliest to the latest:",
+            "op1": "Bhilai, Jamshedpur, Vishakhapatnam, Bokaro",
+            "op2": "okaro, Jamshedpur, Vishakhapatnam, hilai",
+            "op3": "Jamshedpur, Bokaro, Bhilai, Vishakhapatnam",
+            "op4": "Jamshedpur, Bhilai, Bokaro, Vishakhapatnam",
+            "answer:": 4
+        },
+        {
+            "question": "Find the incorrect statement with respect to Special Economic Zones (SEZ)?",
+            "op1": "No license is required for import",
+            "op2": "No permission for subcontracting",
+            "op3": "Manufacturing and service activities are allowed",
+            "op4": "No routine examination of cargo for export/import by customs authorities",
+            "answer:": 2
+        },
+        {
+            "question": "Which is true about \u201cSunrise Industries\u201d ?",
+            "op1": "Which are small-scale industries",
+            "op2": "Which improve export performance of the country",
+            "op3": "Which are well-developed and have ample scope for further development",
+            "op4": "Which have high growth potential and meet further requirements of the economy",
+            "answer:": 4
+        },
+        {
+            "question": "One of the main factors that led to rapid expansion of Indian exports is:",
+            "op1": "Diversification of exports",
+            "op2": "Recession in other countries",
+            "op3": "Liberalisation of the economy",
+            "op4": "Imposition of import duties",
+            "answer:": 3
+        },
+        {
+            "question": "The aim of current Industrial policy of India :",
+            "op1": "ccelerating the performance of mixed economy",
+            "op2": "Discourage the performance of the private sector",
+            "op3": "Increasing the production of public sector units",
+            "op4": "Promoting the private sector units",
+            "answer:": 1
+        },
+        {
+            "question": "The problem of unfavourable balance of payment arise :",
+            "op1": "When imports increase",
+            "op2": "When exports increase",
+            "op3": "When exports decrease",
+            "op4": "When imports are greater than exports",
+            "answer:": 4
+        },
+        {
+            "question": "BoP (Balance of Payment) refers to:",
+            "op1": "Transactions in the flow of capital",
+            "op2": "Transactions relating only to exports and import",
+            "op3": "Transactions relating to receipts and payment of invisibles",
+            "op4": "Systematic record of all its economic transactions between residents and with the rest of the world in a certain period",
+            "answer:": 4
+        },
+        {
+            "question": "Mashelkar Committee was constituted to report on:",
+            "op1": "Black money",
+            "op2": "Economic policy",
+            "op3": "Auto fuel policy",
+            "op4": "Constitutional changes",
+            "answer:": 3
+        },
+        {
+            "question": "Dumping in the context of international trade refers to:",
+            "op1": "Exporting goods of inferior quality",
+            "op2": "Exporting goods only to re-import them at cheaper rates",
+            "op3": "Exporting goods at prices below the actual cost of production or below the price in it's domestic market",
+            "op4": "Exporting goods without paying the appropriate taxes in the receiving country",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is true about exports of India ?",
+            "op1": "re confined to a few items",
+            "op2": "Are spread over several commodity groups",
+            "op3": "omprise mainly of agro-based products",
+            "op4": "Have not shown much of a change since 1960-61",
+            "answer:": 2
+        },
+        {
+            "question": "Why the area under the Special Export Zones (SEZ) has been declared \u2018foreign territory\u2019?",
+            "op1": "SEZ goods are free of excise duty",
+            "op2": "SEZ goods cannot be sold in the domestic tariff area",
+            "op3": "Goods cannot be brought into the domestic tariff area",
+            "op4": "Goods brought from the SEZ to the domestic tariff area are to be treated as \u2018imported\u2019 goods",
+            "answer:": 4
+        },
+        {
+            "question": "Invisible Export refers to export of :",
+            "op1": "Services",
+            "op2": "Unrecorded goods",
+            "op3": "Prohibited goods",
+            "op4": "Goods through smuggling",
+            "answer:": 1
+        },
+        {
+            "question": "Tertiary sector does not include :",
+            "op1": "Trade",
+            "op2": "Electricity",
+            "op3": "Transport",
+            "op4": "Business Services",
+            "answer:": 2
+        },
+        {
+            "question": "Whose performance is highest among the following core industries ?",
+            "op1": "utomobile",
+            "op2": "Petroleum",
+            "op3": "Mining",
+            "op4": "Cement",
+            "answer:": 3
+        },
+        {
+            "question": "Which institution provides long term finance to industries ?",
+            "op1": "GIC",
+            "op2": "LIC",
+            "op3": "UTI",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following authority sanctions foreign exchange for the import of goods ?",
+            "op1": "Exchange Bank",
+            "op2": "State ank of India",
+            "op3": "Ministry of Finance",
+            "op4": "Reserve Bank of India",
+            "answer:": 4
+        },
+        {
+            "question": "Foreign trade is promoted by :",
+            "op1": "STC",
+            "op2": "MMTC",
+            "op3": "EG",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "What does it mean by Import substitution ?",
+            "op1": "Gradual reduction of imported goods to save foreign exchange",
+            "op2": "Importing new items in place of old items of import",
+            "op3": "Replacing import items by domestic production of such items",
+            "op4": "Increasing domestic supply of goods by imposing import restrictions",
+            "answer:": 3
+        },
+        {
+            "question": "The following is the list of four integrated steel plants in the country ?",
+            "op1": "I, II and IV",
+            "op2": "I, III and IV",
+            "op3": "II, III and IV",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the statements given above is/are correct ?",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither I nor II",
+            "answer:": 2
+        },
+        {
+            "question": "The core sector includes",
+            "op1": "I and II only",
+            "op2": "I, II and III only",
+            "op3": "I and IV only",
+            "op4": "II and III only",
+            "answer:": 2
+        },
+        {
+            "question": "Both Foreign Direct Investment (FDI) AND Foreign Institutional Investor (FII) are related to investment in a country. Which one of the following statements best represents an important difference between the two ?",
+            "op1": "FII is considered to be more stable than FDI",
+            "op2": "FDI flows only into the secondary market, while FII targets primary market",
+            "op3": "FII helps bring better management skills and technology, while FDI only brings in capital",
+            "op4": "FII helps in increasing capital availability in general, while FI only targets specific sectors",
+            "answer:": 4
+        }
+    ]
+}

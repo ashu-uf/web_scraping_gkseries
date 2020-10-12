@@ -1,0 +1,366 @@
+{
+    "topic": "Currency-Inflation",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "A cause of inflation is :",
+            "op1": "increase in money supply",
+            "op2": "increase in money supply and fall in production",
+            "op3": "fall of production",
+            "op4": "decrease in money supply and fall in production",
+            "answer:": 2
+        },
+        {
+            "question": "Inflation brings most benefit to which one of the following ?",
+            "op1": "Government pensioners",
+            "op2": "Creditors",
+            "op3": "Savings Bank Account holders",
+            "op4": "ebtors",
+            "answer:": 4
+        },
+        {
+            "question": "Inflation is mostly harmful to which one of the following ?",
+            "op1": "Debtors",
+            "op2": "Creditors",
+            "op3": "Business class",
+            "op4": "Holder of real assets",
+            "answer:": 2
+        },
+        {
+            "question": "Which is correct with respect to inflation ?",
+            "op1": "rise in budgets deficit",
+            "op2": "rise in money supply",
+            "op3": "rise in general price index",
+            "op4": "rise in prices of consumer goods",
+            "answer:": 3
+        },
+        {
+            "question": "Increasing unemployment and inflation is a situation of :",
+            "op1": "hyperinflation",
+            "op2": "galloping inflation",
+            "op3": "stagflation",
+            "op4": "reflation",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following are not protected against inflation ?",
+            "op1": "Salaried class",
+            "op2": "Industrial workers",
+            "op3": "Pensioners",
+            "op4": "Agricultural farmers",
+            "answer:": 4
+        },
+        {
+            "question": "The period of high inflation, low economic growth and high unemployment is termed as :",
+            "op1": "stagnation",
+            "op2": "take-off stage in economy",
+            "op3": "stagflation",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "Stagflation implies a case of :",
+            "op1": "galloping inflation",
+            "op2": "recession plus inflation",
+            "op3": "adverse balance of trade",
+            "op4": "rising wages and employment",
+            "answer:": 2
+        },
+        {
+            "question": "Deficit financing aims to put more money into the economy by creating additional paper currency to fill the gap between expenditure and revenue. The device aims at economic development but if it fails, it generates :",
+            "op1": "inflation",
+            "op2": "devaluation",
+            "op3": "deflation",
+            "op4": "demonetisation",
+            "answer:": 1
+        },
+        {
+            "question": "A steady increase in the general level of prices as a result the aggregate demand is increasing in unsustainable rate as compared to aggregate supply is termed as :",
+            "op1": "demand-pull inflation",
+            "op2": "cost-push inflation",
+            "op3": "stagflation",
+            "op4": "structural inflation",
+            "answer:": 1
+        },
+        {
+            "question": "Out of the various ways of the financing government\u2019s investment expenditure, which one of the following is a method of inflation control ?",
+            "op1": "Foreign aid",
+            "op2": "Deficit financing",
+            "op3": "Taxation",
+            "op4": "Public borrowing",
+            "answer:": 3
+        },
+        {
+            "question": "\u2018Devaluation\u2019 means :",
+            "op1": "reduction in the value of a currency vis-a-vis major internationally traded currencies",
+            "op2": "permitting the currency to seek its worth in the international market",
+            "op3": "fixing the value of the currency in conjunction with the movement in the value of a basket of pre-determined currencies",
+            "op4": "fixing the value of currency in multilateral consultation with the IMF, the World Bank and major trading partners",
+            "answer:": 1
+        },
+        {
+            "question": "What do you mean by convertibility of the rupee ?",
+            "op1": "being able to convert rupee into us dollars",
+            "op2": "freely permitting the conversion of rupee to other major currencies and vice versa",
+            "op3": "allowing the value of rupee to be fixed by market forces",
+            "op4": "developing a international market for currencies in india",
+            "answer:": 2
+        },
+        {
+            "question": "Black money implies :",
+            "op1": "counterfeit currency",
+            "op2": "money earned from chit funds",
+            "op3": "money earned through underhand deals",
+            "op4": "income on which payment of tax is usually evaded",
+            "answer:": 4
+        },
+        {
+            "question": "In the one decade, which one among the following sectors has attracted the highest Foreign Direct Investment inflows into India ?",
+            "op1": "Chemicals other than fertilizers",
+            "op2": "Services sector",
+            "op3": "Food processing",
+            "op4": "Telecommunication",
+            "answer:": 4
+        },
+        {
+            "question": "When was decimal coinage introduced in India ?",
+            "op1": "15 ugust, 1947",
+            "op2": "26 January, 1952",
+            "op3": "1 April, 1957",
+            "op4": "31 ecember, 1963",
+            "answer:": 3
+        },
+        {
+            "question": "USD/JPY, USD/EURO and USD/CAD are the currency pairs in terms of foreign exchange trading. Amongst them which one of the following is referred as the base currency for quotes ?",
+            "op1": "USD",
+            "op2": "JPY",
+            "op3": "Euro",
+            "op4": "CA",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is/are treated as artificial currency ?",
+            "op1": "DR",
+            "op2": "GDR",
+            "op3": "SDR",
+            "op4": "Both AR and SR",
+            "answer:": 3
+        },
+        {
+            "question": "In terms of economics, the small gap between the first recession and second recession is known as :",
+            "op1": "Double Deflation",
+            "op2": "Deflation",
+            "op3": "Deep Recession",
+            "op4": "ouble ip Recession",
+            "answer:": 3
+        },
+        {
+            "question": "Cheap Money implies :",
+            "op1": "low rate of inerest",
+            "op2": "low level of savings",
+            "op3": "low level of income",
+            "op4": "excess of bank money",
+            "answer:": 1
+        },
+        {
+            "question": "An essential attribute of inflation is:",
+            "op1": "Increase in prices",
+            "op2": "Less production",
+            "op3": "Presence of black market",
+            "op4": "Absence of black market",
+            "answer:": 1
+        },
+        {
+            "question": "Inflationary Gap is a defined by:",
+            "op1": "Inflation coupled with recession",
+            "op2": "Inflation that usually prevails in a developing country",
+            "op3": "Gap between Galloping Inflation and Runaway Inflation",
+            "op4": "Excess of Aggregate emand over Aggregate Supply at the full employment level",
+            "answer:": 4
+        },
+        {
+            "question": "Cause/causes of inflation is/are:",
+            "op1": "Fall in production",
+            "op2": "Increase in money supply",
+            "op3": "Increase in money supply without a corresponding increase in production",
+            "op4": "decrease in money supply without a corresponding decrease in production",
+            "answer:": 3
+        },
+        {
+            "question": "The Inflation experienced in the country at present is:",
+            "op1": "Cost-push inflation",
+            "op2": "Unrealistic inflation",
+            "op3": "Secondary inflation",
+            "op4": "emand Pull inflation",
+            "answer:": 1
+        },
+        {
+            "question": "Ten rupee notes bear the signature of:",
+            "op1": "President",
+            "op2": "Finance Minister",
+            "op3": "Secretary, Ministry of Finance",
+            "op4": "Governor, Reserve Bank of India",
+            "answer:": 4
+        },
+        {
+            "question": "For international payments, the Indian currency is linked to:",
+            "op1": "British Sterling",
+            "op2": "Gold Standard",
+            "op3": "American Dollar",
+            "op4": "Euro",
+            "answer:": 3
+        },
+        {
+            "question": "The States debt does not include:",
+            "op1": "gricultural loans",
+            "op2": "Loans from State ank of India",
+            "op3": "Loans from the entral Government",
+            "op4": "Treasury bills issued to international financial institutions",
+            "answer:": 4
+        },
+        {
+            "question": "How many languages are used on a ten rupee note ?",
+            "op1": "10",
+            "op2": "12",
+            "op3": "15",
+            "op4": "18",
+            "answer:": 3
+        },
+        {
+            "question": "The best means of saving during inflation is to keep:",
+            "op1": "Equity",
+            "op2": "Money",
+            "op3": "Government Bonds",
+            "op4": "Time deposits with Banks",
+            "answer:": 2
+        },
+        {
+            "question": "Why a high rate of inflation tends to worsen balance of payments ?",
+            "op1": "Prices of imported goods rise",
+            "op2": "Prices of imported goods fall and hence more is imported",
+            "op3": "Prices of exported goods rise making exports less competitive",
+            "op4": "Prices of exported goods fall and hence less amount is obtained in terms of foreign exchange",
+            "answer:": 3
+        },
+        {
+            "question": "A very rapid or out of control growth in prices in which money loses its value to the point where ever barter may be preferable is known as:",
+            "op1": "Inflation",
+            "op2": "Deflation",
+            "op3": "Disinflation",
+            "op4": "Hyper- inflation",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following can contain Inflation ?",
+            "op1": "Surplus Budget",
+            "op2": "Increase in taxation",
+            "op3": "Reduction in public expenditure",
+            "op4": "All the above",
+            "answer:": 4
+        },
+        {
+            "question": "The effect of inflation on tax revenue results in a situation known as:",
+            "op1": "Reflation",
+            "op2": "Stagflation",
+            "op3": "Fiscaldrag",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following accounts for Cost-Push Inflation ?",
+            "op1": "Increase in population",
+            "op2": "Increase in non-plan expenditure",
+            "op3": "Increase in money supply",
+            "op4": "Increase in indirect taxation like higher VAT, excise duties etc.",
+            "answer:": 4
+        },
+        {
+            "question": "Whose signature is found in one-rupee currency note ?",
+            "op1": "Finance Secretary of India",
+            "op2": "Finance Minister of India",
+            "op3": "President of India",
+            "op4": "Prime Minister of India",
+            "answer:": 1
+        },
+        {
+            "question": "Broad money in India is:",
+            "op1": "M1",
+            "op2": "M2",
+            "op3": "M3",
+            "op4": "M4",
+            "answer:": 3
+        },
+        {
+            "question": "Increasing prices related to:",
+            "op1": "Generation of black money",
+            "op2": "Adverse effect on speculation",
+            "op3": "Promotion of inequalities",
+            "op4": "Adverse effect on balance of payments",
+            "answer:": 2
+        },
+        {
+            "question": "Immediately prior to change in the measure of Food Inflation, which of the following indexes was being used for measuring it ?",
+            "op1": "Wholesale Price Index",
+            "op2": "Export price index",
+            "op3": "onsumer Price Index",
+            "op4": "Interest Rates offered by banks on deposits",
+            "answer:": 1
+        },
+        {
+            "question": "M1 includes:",
+            "op1": "Demand deposit with bank",
+            "op2": "Currency with public",
+            "op3": "Other deposits with RBI",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Monetary policy is regulated by:",
+            "op1": "Money leaders",
+            "op2": "Private entrepreneurs",
+            "op3": "entral Bank",
+            "op4": "Microfinance organizations",
+            "answer:": 3
+        },
+        {
+            "question": "In which year the decimal system of currency introduced in India ?",
+            "op1": "1948",
+            "op2": "1950",
+            "op3": "1955",
+            "op4": "1957",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not a remedy of Inflation ?",
+            "op1": "Lowering bank rate",
+            "op2": "Reducing budgetary deficit",
+            "op3": "Better capacity utilization",
+            "op4": "An efficient public distribution system",
+            "answer:": 1
+        },
+        {
+            "question": "The Indian Rupee is fully convertible ?",
+            "op1": "I only",
+            "op2": "III only",
+            "op3": "I and II only",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Devaluation of currency by a country is meant to lead to:",
+            "op1": "I only",
+            "op2": "II and III only",
+            "op3": "I and II only",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Hard Currency is defined as currency:",
+            "op1": "Which is used in times of war",
+            "op2": "Which can hardly be used for international transaction",
+            "op3": "Traded in foreign exchange market for which demands is persistently relative to the supply",
+            "op4": "None of these",
+            "answer:": 3
+        }
+    ]
+}

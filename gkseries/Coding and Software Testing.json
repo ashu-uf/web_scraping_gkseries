@@ -1,0 +1,126 @@
+{
+    "topic": "Coding and Software Testing",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "Black box testing can be applied to :",
+            "op1": "UML diagram",
+            "op2": "Data flow diagram",
+            "op3": "Entity-relationship diagram",
+            "op4": "Flowcharts",
+            "answer:": 2
+        },
+        {
+            "question": "Coding and testing are done in a :",
+            "op1": "d hoc manner",
+            "op2": "Module manner",
+            "op3": "Structure chart manner",
+            "op4": "Program flowchart manner",
+            "answer:": 4
+        },
+        {
+            "question": "Testing can be applied to :",
+            "op1": "Requirements",
+            "op2": "Analysis",
+            "op3": "Design",
+            "op4": "Code",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following testing is performed by user?",
+            "op1": "cceptance testing",
+            "op2": "Unit testing",
+            "op3": "ompatibility testing",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The black-box concept is based on the assumption(s) that :",
+            "op1": "the relationship between input and output is stable",
+            "op2": "black boxes are dependent on environment",
+            "op3": "the subsystem is stable",
+            "op4": "all of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not a check to be applied to import data during a validation run ?",
+            "op1": "Image checks",
+            "op2": "Parity checks",
+            "op3": "Passwords",
+            "op4": "Sequence checks",
+            "answer:": 1
+        },
+        {
+            "question": "The difference between testing and debugging is :",
+            "op1": "In testing, the objective is to establish whether the system is running as per specifications, whereas in debugging the objective is to locate and correct the errors in a system",
+            "op2": "oth are the same except that debugging is unstructured, whereas testing is structured",
+            "op3": "Debugging phase produces testing phase",
+            "op4": "There are no tools for debugging, whereas testing is totally automated",
+            "answer:": 1
+        },
+        {
+            "question": "White-box testing can be started :",
+            "op1": "after SRS creation",
+            "op2": "after designing",
+            "op3": "after programming",
+            "op4": "after installation",
+            "answer:": 3
+        },
+        {
+            "question": "The type of software testing in which each module is tested along in an attempt to discover any errors in its code, is known as",
+            "op1": "Integration testing",
+            "op2": "Acceptance testing",
+            "op3": "Mutation testing",
+            "op4": "Unit testing",
+            "answer:": 4
+        },
+        {
+            "question": "The term used to refer to the checking of outputs of a computer with the corresponding documents is called",
+            "op1": "Beta Test",
+            "op2": "Auditing through the computer",
+            "op3": "Auditing around the computer",
+            "op4": "Alpha Test",
+            "answer:": 3
+        },
+        {
+            "question": "Running the system under a live environment using Live data in order to find errors is known as",
+            "op1": "Beta Testing",
+            "op2": "Alpha Testing",
+            "op3": "Acceptance Testing",
+            "op4": "System Testing",
+            "answer:": 3
+        },
+        {
+            "question": "Testing of software with actual data and in actual environment is called :",
+            "op1": "Ilpha testing",
+            "op2": "eta testing",
+            "op3": "Regression testing",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The testing of software against SRS is called :",
+            "op1": "cceptance testing",
+            "op2": "Integration testing",
+            "op3": "Regression testing",
+            "op4": "System testing",
+            "answer:": 4
+        },
+        {
+            "question": "The approach to software testing is to design test cases to :",
+            "op1": "break the software",
+            "op2": "understand the software",
+            "op3": "analyze the design of sub-processes in the software",
+            "op4": "analyze the output of the software",
+            "answer:": 1
+        },
+        {
+            "question": "\u201cBlack\u201d refers in the \u201cBlack-box\u201d testing means",
+            "op1": "Characters of the movie \u201cBlack\u201d",
+            "op2": "I \u2013 O is hidden",
+            "op3": "Design is hidden",
+            "op4": "Users are hidden",
+            "answer:": 3
+        }
+    ]
+}

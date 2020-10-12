@@ -1,0 +1,646 @@
+{
+    "topic": "History of Development and Planning",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "Who is the father of Economics ?",
+            "op1": "Max Muller",
+            "op2": "Adam Smith",
+            "op3": "Karl Marx",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Indian Economy is :",
+            "op1": "Socialistic Economy",
+            "op2": "Gandhian Economy",
+            "op3": "Mixed Economy",
+            "op4": "Free Economy",
+            "answer:": 3
+        },
+        {
+            "question": "Mixed economy means an economy where",
+            "op1": "both agriculture and industry are equally promoted by the state",
+            "op2": "there is co-existence of public sector along with private sector",
+            "op3": "there is importance of small scale industries along with heavy industries",
+            "op4": "economy is controlled by military as well as civilian rulers",
+            "answer:": 2
+        },
+        {
+            "question": "India's economic planning CANNOT be said to be :",
+            "op1": "indicative",
+            "op2": "imperative",
+            "op3": "limited",
+            "op4": "democratic",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is the task of the Planning Commission ?",
+            "op1": "Preparation of the plan",
+            "op2": "Implementation of the plan",
+            "op3": "Financing of the plan",
+            "op4": "None of these above",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following bodies finalizes the Five Year Plan Proposals ?",
+            "op1": "Planning Commission",
+            "op2": "Union Cabinet",
+            "op3": "National Development ouncil",
+            "op4": "Ministry of Planning",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is true about Planning Commission ?",
+            "op1": "It is a Ministry",
+            "op2": "It is a Government Department",
+            "op3": "It is an Advisory Body",
+            "op4": "It is an Autonomous Corporation",
+            "answer:": 3
+        },
+        {
+            "question": "Economic survey is published by :",
+            "op1": "Ministry of Finance",
+            "op2": "Planning Commission",
+            "op3": "Govt of India",
+            "op4": "Indian Statistical Institute",
+            "answer:": 1
+        },
+        {
+            "question": "Who is the Chairman of the Planning Commission in India ?",
+            "op1": "President",
+            "op2": "Vice President",
+            "op3": "Prime Minister",
+            "op4": "Finance Minister",
+            "answer:": 3
+        },
+        {
+            "question": "The Deputy Chairman of the Planning Commission :",
+            "op1": "HRD Minister",
+            "op2": "Finance Minister",
+            "op3": "Holds the rank of a cabinet minister",
+            "op4": "is an economist of repute",
+            "answer:": 3
+        },
+        {
+            "question": "In which one of the following Five Year Plans the actual growth performance in India in respect of GDP (at factor cost) was less than the target set ?",
+            "op1": "Sixth Five Year Plan",
+            "op2": "Seventh Five Year Plan",
+            "op3": "Eighth Five Year Plan",
+            "op4": "Ninth Five Year Plan",
+            "answer:": 4
+        },
+        {
+            "question": "The Second Five Year Plan laid more stress upon:",
+            "op1": "Industrialisation",
+            "op2": "Removing poverty",
+            "op3": "Self-reliance",
+            "op4": "Agriculture",
+            "answer:": 1
+        },
+        {
+            "question": "A rolling plan is a plan for:",
+            "op1": "One year",
+            "op2": "Two years",
+            "op3": "Three years",
+            "op4": "Five years",
+            "answer:": 1
+        },
+        {
+            "question": "Rolling plan was designed for the period:",
+            "op1": "1974-79",
+            "op2": "1978-83",
+            "op3": "1980-85",
+            "op4": "1985-90",
+            "answer:": 2
+        },
+        {
+            "question": "The main objective of First Five-Year Plan was:",
+            "op1": "Self-reliance",
+            "op2": "Industrial growth",
+            "op3": "Economic growth",
+            "op4": "evelopment of agriculture including irrigation and power projects",
+            "answer:": 4
+        },
+        {
+            "question": "Major percentage of working population of India is engaged in:",
+            "op1": "tertiary sector",
+            "op2": "secondary sector",
+            "op3": "private sector",
+            "op4": "public sector",
+            "answer:": 3
+        },
+        {
+            "question": "Planning in India derives its objectives from:",
+            "op1": "Preamble",
+            "op2": "Fundamental Duties",
+            "op3": "Fundamental Rights",
+            "op4": "irective Principles of State policy",
+            "answer:": 4
+        },
+        {
+            "question": "Economic Planning is a subject defined in which of the following lists:",
+            "op1": "In the State List",
+            "op2": "In the Union List",
+            "op3": "In the oncurrent List",
+            "op4": "Unspecified in any special List",
+            "answer:": 3
+        },
+        {
+            "question": "The contribution of agriculture to India\u2019s economy is:",
+            "op1": "Constant",
+            "op2": "Increasing",
+            "op3": "Decreasing",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "India opted for \u2018Mixed Economy\u2019 in:",
+            "op1": "Framing of the Constitution",
+            "op2": "Industrial Policy of 1948",
+            "op3": "Second Five Year Plan",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The concept of Five Year Plans in India was introduced by",
+            "op1": "Jawaharlal Nehru",
+            "op2": "Indira Gandhi",
+            "op3": "Lal Bahadur Shastri",
+            "op4": "Morarji esai",
+            "answer:": 1
+        },
+        {
+            "question": "During which five year plan did prices show a decline ?",
+            "op1": "First",
+            "op2": "Third",
+            "op3": "Fifth",
+            "op4": "Sixth",
+            "answer:": 1
+        },
+        {
+            "question": "Success of 4th plan was obstructed by:",
+            "op1": "Problem of Bengal refugees",
+            "op2": "War with Pakistan",
+            "op3": "Poor monsoon",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "What is the correct duration of revised 6th National Development Plan ?",
+            "op1": "1974-79",
+            "op2": "1978-83",
+            "op3": "1980-85",
+            "op4": "2013-16",
+            "answer:": 4
+        },
+        {
+            "question": "The strategy of Rolling plan was adopted during the Prime Ministership of:",
+            "op1": "Indira Gandhi",
+            "op2": "Morarji Desai",
+            "op3": "Rajiv Gandhi",
+            "op4": "Jawaharlal Nehru",
+            "answer:": 2
+        },
+        {
+            "question": "The basic feature of the Rolling Plans was that:",
+            "op1": "Revision of the achievements of previous year",
+            "op2": "No physical targets were visualized",
+            "op3": "No financial target except in the term of annual plans was envisaged",
+            "op4": "Annual fluctuations in prices and major economic developments could be considered while fixing targets",
+            "answer:": 4
+        },
+        {
+            "question": "During which Five Year Plan was the total expenditure on agriculture the highest ?",
+            "op1": "First Five Year Plan",
+            "op2": "Second Five Year Plan",
+            "op3": "Third Five Year Plan",
+            "op4": "Fourth Five Year Plan",
+            "answer:": 4
+        },
+        {
+            "question": "The first Chairman of the Planning Commission was",
+            "op1": "Indira Gandhi",
+            "op2": "Dr. Rajendra Prasad",
+            "op3": "Pt. Jawaharlal Nehru",
+            "op4": "Sardar Vallabhbhai Patel",
+            "answer:": 3
+        },
+        {
+            "question": "In which of the Five Year Plan, the weaker sections of the society got priority ?",
+            "op1": "Fifth",
+            "op2": "Fourth",
+            "op3": "Third",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The growth rate of agricultural production was negative in the:",
+            "op1": "First Plan",
+            "op2": "Second Plan",
+            "op3": "Third Plan",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "\u2018Globalisation of Indian Economy\u2019 means:",
+            "op1": "Stepping up external borrowings",
+            "op2": "Establishing Indian Shopping Malls in abroad",
+            "op3": "Giving up programmes of import substitution",
+            "op4": "Having minimum possible restrictions on economic relations with other countries",
+            "answer:": 4
+        },
+        {
+            "question": "National Development Council was set up in:",
+            "op1": "1952",
+            "op2": "1950",
+            "op3": "1949",
+            "op4": "1948",
+            "answer:": 1
+        },
+        {
+            "question": "\u2018Take off stage\u2019 in an economy means:",
+            "op1": "Economy is stagnant",
+            "op2": "Steady growth begins",
+            "op3": "Economy is about to collapse",
+            "op4": "All controls are removed",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following indicates economic growth through Five Year Plans ?",
+            "op1": "Rise in national income and per capita income",
+            "op2": "Development of railways and roadways",
+            "op3": "Development of education and health services",
+            "op4": "evelopment of industrial towns and industrial estate",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following Five-Year Plans recognised human development as the core of the developmental efforts ?",
+            "op1": "The Fourth Five-Year Plan",
+            "op2": "The Fifth Five-Year Plan",
+            "op3": "The Sixth Five-Year Plan",
+            "op4": "The Eighth Five-Year Plan",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following statements about the Indian Economy is correct ?",
+            "op1": "In India, single biggest employment is agriculture and allied activities",
+            "op2": "No physical targets were visualized",
+            "op3": "About 48% Indian workforce is employed in foreign countries or in organizations assisted by foreign capital",
+            "op4": "About 70% Indians are involved in some type of self- employment and are the owners of some or the other micro or small enterprise",
+            "answer:": 1
+        },
+        {
+            "question": "In the context of India\u2019s Five Year Plans, a shift in the pattern of industrialization, with lower emphasis on heavy industries and more on infrastructure begins in",
+            "op1": "Tenth Plan",
+            "op2": "Eighth Plan",
+            "op3": "Sixth Plan",
+            "op4": "Fourth Plan",
+            "answer:": 2
+        },
+        {
+            "question": "A \u201cclosed economy\u201d is a kind of economy in which",
+            "op1": "Only exports take place",
+            "op2": "The money supply is fully controlled",
+            "op3": "Deficit financing takes place",
+            "op4": "Neither exports nor imports take place",
+            "answer:": 4
+        },
+        {
+            "question": "Which statement is correct for Indian Planning Commission ?",
+            "op1": "Members do not require any minimum education",
+            "op2": "It is not defined in Indian Constitution",
+            "op3": "Members and Vice-hairman of it do not have fixed working duration",
+            "op4": "All of the these",
+            "answer:": 4
+        },
+        {
+            "question": "The author of the chapter on \u201cObjectives of Planned Development\u201d for the Third Five Year Plan was:",
+            "op1": "Jawaharlal Nehru",
+            "op2": "Morarji Desai",
+            "op3": ".D.Deshmukh",
+            "op4": "Lal Bahadur Shastri",
+            "answer:": 2
+        },
+        {
+            "question": "For internal financing of Five Year Plans, the government depends on:",
+            "op1": "Taxation only",
+            "op2": "Public borrowing and deficit financing",
+            "op3": "Taxation and public borrowing",
+            "op4": "Taxation, public borrowing and deficit financing",
+            "answer:": 1
+        },
+        {
+            "question": "The Five Year Plans of India intend to develop the country industrially through:",
+            "op1": "The private sector",
+            "op2": "The public sector",
+            "op3": "Increasing collaboration with non-resident Indians",
+            "op4": "The public, private, joint and Cooperative sectors",
+            "answer:": 4
+        },
+        {
+            "question": "In which sector, the Public Sector is most dominant in India ?",
+            "op1": "Transport",
+            "op2": "Commercial banking",
+            "op3": "Steel production",
+            "op4": "Organized term-lending financial institutions",
+            "answer:": 2
+        },
+        {
+            "question": "India had a plan holiday:",
+            "op1": "fter the China-India War of 1962",
+            "op2": "After the India-Pakistan War in 1965",
+            "op3": "After the drought of 1966",
+            "op4": "After the liberation of Bangladesh in 1971",
+            "answer:": 3
+        },
+        {
+            "question": "In India, the concepts of \u201cminimum needs\u201d and \u201cdirection anti-poverty programmes \u201d were the innovations of:",
+            "op1": "Fourth Five-year Plan",
+            "op2": "Fifth Five-Year Plan",
+            "op3": "Sixth Five-Year Plan",
+            "op4": "Eighth Five-Year Plan",
+            "answer:": 2
+        },
+        {
+            "question": "The leading steel plants at Durgapur, Bhilai and Rourkela of India were established during the period of:",
+            "op1": "First Five Year Plan",
+            "op2": "Second Five Year Plan",
+            "op3": "Third Five Year Plan",
+            "op4": "Fourth Five Year Plan",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is a driving force influencing the industrial growth of an economy ?",
+            "op1": "Economic Factors only",
+            "op2": "Investment only",
+            "op3": "Innovation/Market Base only",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The Nehru-Mahalanobis strategy of development guided the planning practice in India from the",
+            "op1": "First Five-Year Plan to the Sixth Five-Year Plan",
+            "op2": "First Five-Year Plan to the Eighth Five-Year Plan",
+            "op3": "Second Five-Year Plan to the Seventh Five-Year Plan",
+            "op4": "Fourth Five-Year Plan to the Eighth Five-Year Plan",
+            "answer:": 3
+        },
+        {
+            "question": "What is the correct sequence of the following strategies used for Five Year Plans in India ?",
+            "op1": "I, III, II",
+            "op2": "II, I, III",
+            "op3": "II, III, I",
+            "op4": "III, II, I",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is/ are a/ an indicator of the financial health of a country ?",
+            "op1": "Only I",
+            "op2": "Only II",
+            "op3": "Only III",
+            "op4": "All I, II & III",
+            "answer:": 4
+        },
+        {
+            "question": "Multiplier process in economic theory is conventionally taken to mean:",
+            "op1": "The manner in which prices increase",
+            "op2": "The manner in which banks create credit",
+            "op3": "The manner in which government expenditure increases",
+            "op4": "Income of an economy grows on account of an initial investment",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following concepts are most closely associated with J.M. Keynes?",
+            "op1": "Marginal utility theory",
+            "op2": "Control of money supply",
+            "op3": "Marginal efficiency of capital",
+            "op4": "Indifference curve analysis",
+            "answer:": 3
+        },
+        {
+            "question": "Evaluating all the options to find out most suitable solution to business problems is inter-displinary activities. It is called",
+            "op1": "Commercial research",
+            "op2": "Operational research",
+            "op3": "Management research",
+            "op4": "Professional research",
+            "answer:": 2
+        },
+        {
+            "question": "In a Laissez-faire economy",
+            "op1": "The Government controls the allocation of all the factors of production",
+            "op2": "The customers take all the decisions regarding production of all the commodities",
+            "op3": "The Government does not interfere in the free functioning of demand and supply forces in the market",
+            "op4": "The private sector takes all the decisions for price determination of various commodities produced",
+            "answer:": 3
+        },
+        {
+            "question": "In Economics, production means",
+            "op1": "Farming",
+            "op2": "Creating Utility",
+            "op3": "Making",
+            "op4": "Manufacturing",
+            "answer:": 2
+        },
+        {
+            "question": "With which form of economy is the term \u2018Laissez-faire\u2019 associated?",
+            "op1": "Command economy",
+            "op2": "Mixed economy",
+            "op3": "Socialist economy",
+            "op4": "Capitalist economy",
+            "answer:": 4
+        },
+        {
+            "question": "Who among the following is not a classical economist?",
+            "op1": "John Maynard Keynes",
+            "op2": "Thomas Malthus",
+            "op3": "John Stuart Mill",
+            "op4": "avid Ricardo",
+            "answer:": 1
+        },
+        {
+            "question": "In Economics the \u2018Utility\u2019 and \u2018Usefulness\u2019 have",
+            "op1": "Same meaning",
+            "op2": "Different meaning",
+            "op3": "Opposite meaning",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "\u201cEconomics is what it ought to be\u201d \u2013 This statement refers to",
+            "op1": "Fiscal economics",
+            "op2": "Monetary economics",
+            "op3": "Positive economics",
+            "op4": "Normative economics",
+            "answer:": 4
+        },
+        {
+            "question": "The problem of Economics arises from",
+            "op1": "Plenty",
+            "op2": "Scarcity of goods",
+            "op3": "More wants and less goods",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In public budgets, zero-base budgeting was first introduced in",
+            "op1": "UK",
+            "op2": "USA",
+            "op3": "France",
+            "op4": "Sweden",
+            "answer:": 2
+        },
+        {
+            "question": "Malthusian theory of population explored the relationship between",
+            "op1": "Optimum growth and resources",
+            "op2": "Population growth and development",
+            "op3": "Food supply and technology",
+            "op4": "Food supply and population growth",
+            "answer:": 4
+        },
+        {
+            "question": "In an economy, the sectors are classified into public and private on the basis of",
+            "op1": "Use of raw materials",
+            "op2": "Ownership of enterprises",
+            "op3": "Employment conditions",
+            "op4": "Nature of economic activities",
+            "answer:": 2
+        },
+        {
+            "question": "Human Development Index was developed by:",
+            "op1": "Friedman",
+            "op2": "Amartya Sen",
+            "op3": "Montek Singh",
+            "op4": "Mahbub-ul-Haq",
+            "answer:": 4
+        },
+        {
+            "question": "Wage fund theory was propounded by",
+            "op1": "J.B. Say",
+            "op2": "J.S. Mill",
+            "op3": "J.R. Hicks",
+            "op4": "J.M. Keynes",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is not a dimension of human development index?",
+            "op1": "Social status",
+            "op2": "Knowledge",
+            "op3": "Life expectancy",
+            "op4": "Standard of living",
+            "answer:": 1
+        },
+        {
+            "question": "The New Economic Policy was introduced by:",
+            "op1": "Lenin",
+            "op2": "Stalin",
+            "op3": "Kerensky",
+            "op4": "Khrushchev",
+            "answer:": 1
+        },
+        {
+            "question": "The system of \u201cMemorandum of Understanding\u201d (MOU) was introduced in",
+            "op1": "1988-89",
+            "op2": "1987-88",
+            "op3": "1990-91",
+            "op4": "1989-90",
+            "answer:": 2
+        },
+        {
+            "question": "An economic theory is a/an",
+            "op1": "xion",
+            "op2": "Hypothesis",
+            "op3": "Proposition",
+            "op4": "Tested hypothesis",
+            "answer:": 3
+        },
+        {
+            "question": "Externality theory is the basic theory of the following branch of Economics:",
+            "op1": "Environomics",
+            "op2": "Fiscal Economics",
+            "op3": "Macro Economics",
+            "op4": "International Economics",
+            "answer:": 1
+        },
+        {
+            "question": "\u201cFunctional Finance\u201d is associated with:",
+            "op1": "dams",
+            "op2": "Adam Smith",
+            "op3": "Adolph Wogner",
+            "op4": "Abba \u2018P\u2019 Lerner",
+            "answer:": 4
+        },
+        {
+            "question": "As per the TRIPS Agreement 1994, a good originating from a region with specific character/quality/reputation is covered/to be protected under the IPR as",
+            "op1": "Patent",
+            "op2": "Trademark",
+            "op3": "Trade sector",
+            "op4": "GI (Geographical Indicator)",
+            "answer:": 4
+        },
+        {
+            "question": "The economist who believed that unemployment is impossible and that market mechanism has a built in regulatory system to meet any ups and downs",
+            "op1": "Ohlin",
+            "op2": "J.. Say",
+            "op3": "Galbraith",
+            "op4": "J.M. Keynes",
+            "answer:": 2
+        },
+        {
+            "question": "An economy which does not have any relation with the rest of the world is known as",
+            "op1": "Mixed economy",
+            "op2": "Open economy",
+            "op3": "losed economy",
+            "op4": "Socialist economy",
+            "answer:": 3
+        },
+        {
+            "question": "A philosophy that the worker should share in industrial decisions is termed as",
+            "op1": "Worker dictatorship",
+            "op2": "Industrial socialism",
+            "op3": "Worker sovereignty",
+            "op4": "Industrial democracy",
+            "answer:": 4
+        },
+        {
+            "question": "According to Modern Theory of Rent, rent accrues to",
+            "op1": "ny factor",
+            "op2": "Capital only",
+            "op3": "Land only",
+            "op4": "Labour only",
+            "answer:": 1
+        },
+        {
+            "question": "The book which is at the centerpiece of the study of Macro-Economics was written by",
+            "op1": "Prof. Benham",
+            "op2": "Prof. aumol",
+            "op3": "Prof. Samuelson",
+            "op4": "Prof. J.M. Keynes",
+            "answer:": 4
+        },
+        {
+            "question": "The basic problem studied in Macro-Economics is",
+            "op1": "Usage of income",
+            "op2": "Flow of income",
+            "op3": "Production of income",
+            "op4": "istribution of income",
+            "answer:": 3
+        },
+        {
+            "question": "\u2018Take-off stage\u2019 in an economy means",
+            "op1": "Steady growth begins",
+            "op2": "Economy is stagnant",
+            "op3": "Economy is about to collapse",
+            "op4": "All controls are removed",
+            "answer:": 1
+        },
+        {
+            "question": "The relationship between the rate of interest and level of consumption was first visualized by",
+            "op1": "martya K. Sen",
+            "op2": "Irving Fisher",
+            "op3": "Milton Friedman",
+            "op4": "James uesenberry",
+            "answer:": 2
+        }
+    ]
+}

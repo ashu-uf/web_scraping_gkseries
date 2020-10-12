@@ -1,0 +1,30 @@
+{
+    "topic": "Data Modulation",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "ASK is rarely used in modems because",
+            "op1": "it shifts only between 'ON' and 'OFF' states",
+            "op2": "it is highly susceptible to noise",
+            "op3": "it takes care of amplitude only",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The qualifier differential to PSK means that",
+            "op1": "it uses phase shifts of multiple of 90 degree",
+            "op2": "it uses phase shifts of 180 degree",
+            "op3": "phase shift is with reference to the previous bit transmitted",
+            "op4": "none of these above",
+            "answer:": 2
+        },
+        {
+            "question": "One factor in the accuracy of a reconstructed PCM signal is the",
+            "op1": "Signal bandwidth",
+            "op2": "Carrier frequency",
+            "op3": "Number of bits used for quantization",
+            "op4": "Baud rate",
+            "answer:": 3
+        }
+    ]
+}

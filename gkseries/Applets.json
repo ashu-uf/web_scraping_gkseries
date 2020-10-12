@@ -1,0 +1,54 @@
+{
+    "topic": "Applets",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "Which of the following statement is false in view of the applets in Java?",
+            "op1": "pplets do not need a main() method",
+            "op2": "Applets must be run under an applet viewer or a java-compatible browser",
+            "op3": "User I/O is not accomplished with Java's stream I/O classes. Instead, applets use the interface provided by the AWT",
+            "op4": "All are true",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following methods is defined by the Applet class?",
+            "op1": "init()",
+            "op2": "paint()",
+            "op3": "start()",
+            "op4": "none of these above",
+            "answer:": 4
+        },
+        {
+            "question": "The class at the top of the AWT hierarchy is",
+            "op1": "Component",
+            "op2": "Window",
+            "op3": "ontainer",
+            "op4": "Frame",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following statements about hierarchy of the class java.awt.Applet is incorrect?",
+            "op1": "n applet is a kind of container",
+            "op2": "An applet is a kind of window",
+            "op3": "An applet is a kind of component",
+            "op4": "An applet is a kind of panel",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is a valid declaration of an applet?",
+            "op1": "public class Mypplet extends java.applet.pplet {",
+            "op2": "public Applet MyApplet {",
+            "op3": "public class MyApplet extends applet implements Runnable {",
+            "op4": "abstract class MyApplet extends java.applet.Applet {",
+            "answer:": 1
+        },
+        {
+            "question": "Java allows programmers to develop the following :",
+            "op1": "pplets, applications and Servlets.",
+            "op2": "Applets and applications.",
+            "op3": "Applets, applications, Servlets, JavaBeans and Distributed objects.",
+            "op4": "None of the above.",
+            "answer:": 1
+        }
+    ]
+}

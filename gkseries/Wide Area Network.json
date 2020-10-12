@@ -1,0 +1,118 @@
+{
+    "topic": "Wide Area Network",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "Which device in communication satellite listens to some portion of a spectrum, amplifies the incoming signal, and then rebroadcasts it at another frequency ?",
+            "op1": "Transponder",
+            "op2": "Repeater",
+            "op3": "Gateway",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which device is used at a receiving end of an optical fiber ?",
+            "op1": "Led",
+            "op2": "Interferometer",
+            "op3": "Photodiode",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "In optical fiber, light does not propagate best in \u2018window\u2019 centered at",
+            "op1": "850 nm",
+            "op2": "1300 nm",
+            "op3": "1500 nm",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "How many 64-kbps digital voice channels can be encoded by a 0-Mbps transponder in satellite communication ?",
+            "op1": "320",
+            "op2": "640",
+            "op3": "800",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Range of IP Address from 224.0.0.0 to 255.255.255.255 are",
+            "op1": "Reserved for loopback",
+            "op2": "Reserved for broadcast",
+            "op3": "Reserved for future addressing",
+            "op4": "Used for multicast packets",
+            "answer:": 4
+        },
+        {
+            "question": "In satellite communication, up link frequencies and down link frequencies are difference because",
+            "op1": "By this method, interference can be avoided",
+            "op2": "y this method, full duplex operation can be carried out",
+            "op3": "By this method, two frequencies are available to the user",
+            "op4": "This is the useful convention in satellite",
+            "answer:": 1
+        },
+        {
+            "question": "ARP is used to find",
+            "op1": "IP address",
+            "op2": "MAC address",
+            "op3": "Subnet address",
+            "op4": "Host address",
+            "answer:": 1
+        },
+        {
+            "question": "Throughput of simple ALOHA is",
+            "op1": "18%",
+            "op2": "18.8 %",
+            "op3": "36%",
+            "op4": "36.8%",
+            "answer:": 1
+        },
+        {
+            "question": "How much channel throughput of slotted ALOHA will be a comparison to pure ALOHA.",
+            "op1": "Same",
+            "op2": "Double",
+            "op3": "Three times",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "A communication network which is used by large organizations over regional, national or global area is called",
+            "op1": "LN",
+            "op2": "WAN",
+            "op3": "MAN",
+            "op4": "Intranet",
+            "answer:": 2
+        },
+        {
+            "question": "The amount of uncertainty is a system of symbol is called",
+            "op1": "Bandwidth",
+            "op2": "Loss",
+            "op3": "Entropy",
+            "op4": "Quantum",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following digits are known as the terminal number of the Network User Address (NUA) ?",
+            "op1": "5-7",
+            "op2": "1-4",
+            "op3": "8-12",
+            "op4": "13-14",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is a balanced interface ?",
+            "op1": "RS-232C",
+            "op2": "RS-423C",
+            "op3": "RS-449",
+            "op4": "RS-422",
+            "answer:": 4
+        },
+        {
+            "question": "A crossbar switch having n input lines and n output lines (i.e. n full duplex lines) has following number of intersections.",
+            "op1": "n",
+            "op2": "2n",
+            "op3": "n2",
+            "op4": "2n2",
+            "answer:": 3
+        }
+    ]
+}

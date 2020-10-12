@@ -1,0 +1,526 @@
+{
+    "topic": "Data Transmission Network",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "In ISDN, the channel having the lowest data rate is",
+            "op1": "B",
+            "op2": "C",
+            "op3": "D",
+            "op4": "H",
+            "answer:": 3
+        },
+        {
+            "question": "Primary rate for ISDN system is",
+            "op1": "1 + 1C",
+            "op2": "2 + 1D",
+            "op3": "23B + 1D",
+            "op4": "4B + 3C",
+            "answer:": 2
+        },
+        {
+            "question": "Digital Channel means that the channel",
+            "op1": "is digitized",
+            "op2": "is carrying digital data",
+            "op3": "accepts digital modulation techniques",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Video on demand, Live television, from many sources, full motion multimedia, electronic mail is offered by",
+            "op1": "X.25",
+            "op2": "Frame Relay",
+            "op3": "N-ISDN",
+            "op4": "B-ISN",
+            "answer:": 4
+        },
+        {
+            "question": "In digital data transmission",
+            "op1": "Baud rate is always smaller or equal to the bit rate",
+            "op2": "aud rate is equal to bit rate",
+            "op3": "Baud rate is always higher than bit rate",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The transmission signal coding method of TI carrier is called",
+            "op1": "Bipolar",
+            "op2": "NRZ",
+            "op3": "Manchester",
+            "op4": "Binary",
+            "answer:": 1
+        },
+        {
+            "question": "During transmission, the distortion of the signal depends on:",
+            "op1": "The duration of transmission",
+            "op2": "Frequency of the signal",
+            "op3": "Both (A) and (B)",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The simultaneous transmission of data to a number of stations is known as",
+            "op1": "Broadcast",
+            "op2": "andwidth",
+            "op3": "Aloha",
+            "op4": "Analog transmission",
+            "answer:": 1
+        },
+        {
+            "question": "In a telephone channel, voice signals are band limited to:",
+            "op1": "1 KHz",
+            "op2": "4 KHz",
+            "op3": "8 KHz",
+            "op4": "20 KHz",
+            "answer:": 2
+        },
+        {
+            "question": "Compared to analog signals, digital signals",
+            "op1": "are more accurate",
+            "op2": "allow faster transmission",
+            "op3": "both (A) and (B)",
+            "op4": "all of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The area of coverage of a satellite radio beam is known as",
+            "op1": "Identity",
+            "op2": "eam width",
+            "op3": "Footprint",
+            "op4": "Circular polarization",
+            "answer:": 3
+        },
+        {
+            "question": "In a synchronous modem, the receiver equalizer is known as",
+            "op1": "daptive equalizer",
+            "op2": "Impairment equalizer",
+            "op3": "Statistical equalizer",
+            "op4": "Compromise equalizer",
+            "answer:": 1
+        },
+        {
+            "question": "What are the data transmission channels available for carrying data from one location to another ?",
+            "op1": "Narrowband",
+            "op2": "Voiceband",
+            "op3": "Broadband",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In long distance data transmission system, the most preferable mode of communication is",
+            "op1": "Serial transmission",
+            "op2": "Parallel transmission",
+            "op3": "Either serial or parallel transmission",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Sharing of medium and its path is known as:",
+            "op1": "Encoding",
+            "op2": "Multiplexing",
+            "op3": "Modulation",
+            "op4": "Line discipline",
+            "answer:": 2
+        },
+        {
+            "question": "For carrying digital data over long distance using digital signal, at appropriately spaced points, we must have",
+            "op1": "mplifiers",
+            "op2": "Repeater",
+            "op3": "Either amplifiers or repeater",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "An example of digital, rather than analog communication is",
+            "op1": "DDD",
+            "op2": "WATS",
+            "op3": "DDT",
+            "op4": "S",
+            "answer:": 4
+        },
+        {
+            "question": "What are the most commonly used transmission speeds in BP used in data communication ?",
+            "op1": "300",
+            "op2": "1200",
+            "op3": "2400",
+            "op4": "9600",
+            "answer:": 4
+        },
+        {
+            "question": "In satellite communication, up-link frequency and downlink frequencies are different because:",
+            "op1": "By this method interference can be avoided",
+            "op2": "y this method full duplex operation can be carried out.",
+            "op3": "This is the usual convention in satellite communication.",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Frequency range of human voice and audible to human ears is usually in the range of",
+            "op1": "200 KHz to 600 KHz",
+            "op2": "400 Hz to 3.4 KHz",
+            "op3": "100 MHz to 400 MHz",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a bounded media of transmission of RF energy.",
+            "op1": "UTP",
+            "op2": "STP",
+            "op3": "Laser beam",
+            "op4": "Fiber optic cable",
+            "answer:": 3
+        },
+        {
+            "question": "The information to be communicated in a communication is the ________",
+            "op1": "message",
+            "op2": "medium",
+            "op3": "protocol",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "Networks are judged by",
+            "op1": "Security",
+            "op2": "Reliability",
+            "op3": "Performance",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In ARQ and NAK",
+            "op1": "is sent by the recipient if the message contains an error",
+            "op2": "is sent by the recipient if the message was received without error",
+            "op3": "means that the sender should continue with sending the next message",
+            "op4": "is sent by the sender at the same time as it sends a data packet",
+            "answer:": 2
+        },
+        {
+            "question": "A brute force attack against an encryption system:",
+            "op1": "is known as RC4",
+            "op2": "is also known as 3DES",
+            "op3": "always uses the Rijndael algorithm",
+            "op4": "tries to gain access by trying every possible key",
+            "answer:": 4
+        },
+        {
+            "question": "Usually telephone traffic is measured by",
+            "op1": "Blocking probabilities",
+            "op2": "Grade of service",
+            "op3": "Relative congestion",
+            "op4": "Erlangs",
+            "answer:": 4
+        },
+        {
+            "question": "The T1 carrier corresponding to time division multiplexing consists of following number of voice channels",
+            "op1": "24",
+            "op2": "12",
+            "op3": "20",
+            "op4": "32",
+            "answer:": 1
+        },
+        {
+            "question": "In Cellular Mobile Communication handoff means",
+            "op1": "To disturb the signal",
+            "op2": "To disturb the antenna",
+            "op3": "To switch off the MTSO",
+            "op4": "To switch to a new channel when call is in progress",
+            "answer:": 4
+        },
+        {
+            "question": "__________ is the IP address in the B class ?",
+            "op1": "125.123.123.2",
+            "op2": "191.023.21.54",
+            "op3": "192.128.32.56",
+            "op4": "10.14.12.34",
+            "answer:": 2
+        },
+        {
+            "question": "Data communication is related to ________",
+            "op1": "The use of telecommunication.",
+            "op2": "The transfer of encoded data between two locations.",
+            "op3": "The transfer of information between two locations.",
+            "op4": "The transfer of encoded information using telecommunication.",
+            "answer:": 2
+        },
+        {
+            "question": "A system uses 32 levels for data representation for transmission, the number of bits that this system can support is:",
+            "op1": "2",
+            "op2": "3",
+            "op3": "4",
+            "op4": "5",
+            "answer:": 4
+        },
+        {
+            "question": "In 16-QAM, there are 16",
+            "op1": "combination of phase and amplitude",
+            "op2": "amplitudes",
+            "op3": "phases",
+            "op4": "bps",
+            "answer:": 1
+        },
+        {
+            "question": "Category 1 UTP cable is most often used in",
+            "op1": "Fast Ethernet Networks",
+            "op2": "Telephone Networks",
+            "op3": "Infrared Networks",
+            "op4": "Traditional Ethernet Networks",
+            "answer:": 2
+        },
+        {
+            "question": "The scope of network connectivity includes",
+            "op1": "Hardware",
+            "op2": "Software",
+            "op3": "Data bases",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The procedure in which computer checks terminals to determine whether a message is ready to be sent is called",
+            "op1": "polling",
+            "op2": "synchronization",
+            "op3": "contention",
+            "op4": "handshaking",
+            "answer:": 1
+        },
+        {
+            "question": "Usually information security in a network is achieved by",
+            "op1": "Layering",
+            "op2": "Grade of service",
+            "op3": "Addressing",
+            "op4": "Cryptography",
+            "answer:": 4
+        },
+        {
+            "question": "Signal becomes weak with increase in distance travelled because of",
+            "op1": "Modulation",
+            "op2": "Attenuation",
+            "op3": "Switching",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Channel coding is used to",
+            "op1": "Secure the channel",
+            "op2": "Minimize interference in the channel",
+            "op3": "Protect the information against channel noise",
+            "op4": "Protect against unnecessary tapping of signal from the channel.",
+            "answer:": 4
+        },
+        {
+            "question": "European-based standard for all fiber system is",
+            "op1": "SDH",
+            "op2": "ADH",
+            "op3": "DTH",
+            "op4": "FTH",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following are the smallest and largest possible values for an IP octet ?",
+            "op1": "0 and 512",
+            "op2": "255 and 512",
+            "op3": "0 and 256",
+            "op4": "0 and 255",
+            "answer:": 4
+        },
+        {
+            "question": "The parameter Bit Error Rate (BER) plays more important role as compared to delay while transmitting",
+            "op1": "Data",
+            "op2": "Audio",
+            "op3": "Video",
+            "op4": "Compressed Video",
+            "answer:": 1
+        },
+        {
+            "question": "Seamless networking refers to",
+            "op1": "complete end-to-end digital network.",
+            "op2": "Use of single platform for end-to-end communication where geographical distance between communicating entities is hidden to the end user.",
+            "op3": "Use of single platform for end-to-end communication where geological distance between communication entities is visible to the end user.",
+            "op4": "Use of a single platform to transmit data, audio and video.",
+            "answer:": 3
+        },
+        {
+            "question": "In which of the following shape light pulses should be transmitted in order to cancel out nearly all the dispersion effects",
+            "op1": "Cosine",
+            "op2": "Triangular",
+            "op3": "Hyperbolic osine",
+            "op4": "Reciprocal of Hyperbolic Cosine",
+            "answer:": 1
+        },
+        {
+            "question": "If satellite is in geosynchronous orbit, it complete one orbit in",
+            "op1": "One day (24 hours)",
+            "op2": "One hour",
+            "op3": "One month",
+            "op4": "One year",
+            "answer:": 4
+        },
+        {
+            "question": "Suppose you want to send an e-mail note to someone on the Internet. Which of these do you NOT need ?",
+            "op1": "browser",
+            "op2": "internet service provider",
+            "op3": "at sign",
+            "op4": "address",
+            "answer:": 3
+        },
+        {
+            "question": "A signal with a power of 10 mw is transmitted through a co-axial cable. Signal level measured at the other end of the cable is 5 mw. What is the loss of the signal strength ?",
+            "op1": "-3 dB",
+            "op2": "3 d",
+            "op3": "2 dB",
+            "op4": "-2 dB",
+            "answer:": 3
+        },
+        {
+            "question": "The size of ATM cell in octets is",
+            "op1": "48",
+            "op2": "5",
+            "op3": "64",
+            "op4": "53",
+            "answer:": 4
+        },
+        {
+            "question": "The range of first octet of class B IP address is",
+            "op1": "0 to 127",
+            "op2": "128 to 191",
+            "op3": "192 to 223",
+            "op4": "224 to 239",
+            "answer:": 2
+        },
+        {
+            "question": "Sending an e-mail requires",
+            "op1": "Connection-oriented approach with timing relationship between sender and receiver",
+            "op2": "Connection-less approach with timing relationship between sender and receiver",
+            "op3": "onnection-oriented approach with no timing relationship between sender and receiver",
+            "op4": "Connection-less approach with no timing relationship between sender and receiver",
+            "answer:": 3
+        },
+        {
+            "question": "An application generates a traffic stream that requires ATM cells to be transmitted at almost uniform time spacing and expects that the receiver will receive the stream with a small delay jitter. This application requires",
+            "op1": "CBR",
+            "op2": "GR",
+            "op3": "UBR",
+            "op4": "ABR",
+            "answer:": 1
+        },
+        {
+            "question": "What is the minimum number of wires needed to send data over a serial communication link layer ?",
+            "op1": "1",
+            "op2": "2",
+            "op3": "3",
+            "op4": "4",
+            "answer:": 2
+        },
+        {
+            "question": "The velocity of transmission of energy in free space is given by:",
+            "op1": "C=f/1",
+            "op2": "C=f/2",
+            "op3": "=f",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A teleprocessing system may consist of",
+            "op1": "User systems",
+            "op2": "Communication systems",
+            "op3": "omputer center systems",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The ground wave eventually disappears as one moves away from the transmitted because of",
+            "op1": "Interference from the sky above",
+            "op2": "Loss of line of sight condition",
+            "op3": "Attenuation of energy by the ground",
+            "op4": "Maximum single hop distance limitation",
+            "answer:": 3
+        },
+        {
+            "question": "Microwave links are generally preferred to coaxial cable for television transmission because",
+            "op1": "They are cheaper",
+            "op2": "Of their greater bandwidths",
+            "op3": "They have less overall phase distortion",
+            "op4": "Of their relative immunity to impulse noise",
+            "answer:": 2
+        },
+        {
+            "question": "Communication between computers is almost always",
+            "op1": "Serial",
+            "op2": "Parallel",
+            "op3": "Direct",
+            "op4": "Series parallel",
+            "answer:": 1
+        },
+        {
+            "question": "An example of an analog communication method is",
+            "op1": "Laser beam",
+            "op2": "Microwave",
+            "op3": "Voice grade telephone line",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Usually, it takes 10-bits to represent one character. How many characters can be transmitted at a speed of 1200 BPS ?",
+            "op1": "10",
+            "op2": "12",
+            "op3": "120",
+            "op4": "1200",
+            "answer:": 3
+        },
+        {
+            "question": "Videotext is a combination of",
+            "op1": "Television",
+            "op2": "Communication",
+            "op3": "omputer technology",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The word telematics is a combination of",
+            "op1": "Computer",
+            "op2": "Telecommunication",
+            "op3": "Informatics",
+            "op4": "(B) and (C) only",
+            "answer:": 4
+        },
+        {
+            "question": "The sampling interval of a telephone voice signal is",
+            "op1": "125 x 10-6 sec",
+            "op2": "50 x 10-6 sec",
+            "op3": "100 x 10-6 sec",
+            "op4": "25 x 10-6 sec",
+            "answer:": 1
+        },
+        {
+            "question": "Communication between computer using standard telephone lines",
+            "op1": "is most efficient",
+            "op2": "requires a change to an analog signal",
+            "op3": "produces little noise and few disturbances",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Typical bandwidth of optical fibers is in the",
+            "op1": "Order of ghz",
+            "op2": "Order of kHz",
+            "op3": "Order of hz",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Sending a file from your personal computer\u2019s primary memory or disk to another computer is called",
+            "op1": "Logging on",
+            "op2": "Hang on",
+            "op3": "Uploading",
+            "op4": "ownloading",
+            "answer:": 3
+        },
+        {
+            "question": "A batch processing terminal would not include a",
+            "op1": "CPU",
+            "op2": "Card reader",
+            "op3": "ard punch",
+            "op4": "Line printer",
+            "answer:": 1
+        }
+    ]
+}

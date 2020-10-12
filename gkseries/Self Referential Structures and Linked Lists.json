@@ -1,0 +1,86 @@
+{
+    "topic": "Self Referential Structures and Linked Lists",
+    "Subject": "C Programming",
+    "data": [
+        {
+            "question": "In linked list representation, a node contains at least",
+            "op1": "node address field, data field",
+            "op2": "node number, data field",
+            "op3": "next address field, information field",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Underflow condition in linked list may occur when attempting to",
+            "op1": "insert a new node when there is no free space for it",
+            "op2": "delete a non-existent node in the list",
+            "op3": "delete a node in empty list",
+            "op4": "insert a new node in the empty list",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is true in case of a null pointer?",
+            "op1": "Marks the end of a node",
+            "op2": "Is equal to '\\0' in C",
+            "op3": "Is the address of some node",
+            "op4": "Is also called the void pointer in C",
+            "answer:": 1
+        },
+        {
+            "question": "To find out maximum element in a list of n numbers, one needs at least",
+            "op1": "n comparisons",
+            "op2": "n-1 comparisons",
+            "op3": "n(n-1) comparisons",
+            "op4": "2n-1 comparisons",
+            "answer:": 2
+        },
+        {
+            "question": "An array A[1][20] is stored in memory. Each element is of integer type. If ther base address is 600 determine the address of A[8][13] when the array is stored as row major wise",
+            "op1": "746",
+            "op2": "946",
+            "op3": "1146",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "To make a queue empty, elements can be deleted, till",
+            "op1": "Front=rear+1",
+            "op2": "Front=rear-1",
+            "op3": "Front=rear",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In which data structure direct or random access not possible?",
+            "op1": "rray",
+            "op2": "string",
+            "op3": "set",
+            "op4": "linked list",
+            "answer:": 4
+        },
+        {
+            "question": "A pointer in which a pointer variable contains the address of a variable that has already been allocated:",
+            "op1": "Null pointer",
+            "op2": "Generaic pointer",
+            "op3": "Dangling pointer",
+            "op4": "Wild pointer",
+            "answer:": 3
+        },
+        {
+            "question": "In a doubly linked list traversing comes to a halt at:",
+            "op1": "null",
+            "op2": "front",
+            "op3": "rear",
+            "op4": "rear-1",
+            "answer:": 1
+        },
+        {
+            "question": "Deletion of a node in linked list involves keeping track of address of node which comes immediately",
+            "op1": "after the node that is to be deleted",
+            "op2": "before the node that is to be deleted",
+            "op3": "afetr the middle node",
+            "op4": "None of the above",
+            "answer:": 1
+        }
+    ]
+}

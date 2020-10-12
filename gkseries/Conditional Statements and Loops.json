@@ -1,0 +1,102 @@
+{
+    "topic": "Conditional Statements and Loops",
+    "Subject": "C Programming",
+    "data": [
+        {
+            "question": "Find the error in the following program: main() { int m; char g; switch(m) { case 3: grade=\"P\";break; case : grade=\"Q\";break; case 1: grade=\"R\";break; default: grade=\"S\";break; } } What will be the output of the program?",
+            "op1": "Undefined symbol \"grade\"",
+            "op2": "switch statement cannot have more than three labels",
+            "op3": "case label cannot be numbers",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "How many times will the following loop be executed? ch = \u2018b\u2019 while (ch > = \u2018a\u2019 && ch <= \u2018z\u2019)",
+            "op1": "20",
+            "op2": "25",
+            "op3": "26",
+            "op4": "0",
+            "answer:": 2
+        },
+        {
+            "question": "Study the following \u2018C\u2019 program #include <stdio.h> void main () { int a = , b = 5; switch (a/a % b) { case 1 : a = a-b; case 2 : a = a+b; case 3 : a = a*b; case 4 : a = a/b; default : a = a; } } One the execution of above program, what will be the variable a?",
+            "op1": "2",
+            "op2": "5",
+            "op3": "7",
+            "op4": "12",
+            "answer:": 3
+        },
+        {
+            "question": "A switch statement is used to",
+            "op1": "To use switching variable",
+            "op2": "Switch between function in a programchar",
+            "op3": "Switch from one variable to another variable",
+            "op4": "To choose from multiple possibilities which may arise due to different values of a single variable",
+            "answer:": 4
+        },
+        {
+            "question": "Study the following \u2018C\u2019 program #include <stdio.h> void main () { static a, b; while (a > b ++) }",
+            "op1": "a = 0, b = 1",
+            "op2": "a = 0, b = 0",
+            "op3": "a = 1, b = 1",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "A labeled statement consist of an identifier followed by a",
+            "op1": ";",
+            "op2": ",",
+            "op3": ":",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "If the following loop is implemented void main() { int num = 0; do { - - num; printf (\u201c%d\u201d, num); num ++; } while (num >=0); }",
+            "op1": "run time error will be reported",
+            "op2": "The program will not enter into the loop",
+            "op3": "The loop will run infinitely many times",
+            "op4": "There will be a compilation error reported",
+            "answer:": 3
+        },
+        {
+            "question": "Consider the following code snippet marks = 80; switch (marks) { case 60: grade = \u2018C\u2019; break; case 70: grade = \u2018B\u2019; break; case 80: grade = \u2018A\u2019; break; default: grade = \u2018E\u2019; } What is the value of \u2018grade\u2019 after the switch statement is executed?",
+            "op1": "",
+            "op2": "",
+            "op3": "",
+            "op4": "E",
+            "answer:": 1
+        },
+        {
+            "question": "Consider the following program fragment: switch (input) { case \u20181\u2019: printf (\u201cone\u201d); case \u20183\u2019: printf (\u201cthree\u201d); case \u20184\u2019: printf (\u201cfive\u201d); default: printf (\u201codd\u201d); break; }",
+            "op1": "Three five odd",
+            "op2": "Three",
+            "op3": "Three odd",
+            "op4": "Three odd",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the following code fragment for(digit = 0; digit < 9; digit++) { digit = 2*digit; digit - -; }",
+            "op1": "Infinite",
+            "op2": "9",
+            "op3": "5",
+            "op4": "0",
+            "answer:": 1
+        },
+        {
+            "question": "The following program segment { int sum, index; index = 50; while (index > = 0) { sum =sum/index; -index; } }",
+            "op1": "Will give a run time error",
+            "op2": "Will give a compilation error",
+            "op3": "Will give a linking error",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The output of the following code segment will be char x = \u2018B\u2019 switch (x) { case \u2018A\u2019 : printf (\u201ca\u201d); case \u2018B\u2019 : printf (\u201cb\u201d); default : printf (\u201cc\u201d); }",
+            "op1": "B",
+            "op2": "a",
+            "op3": "",
+            "op4": "b",
+            "answer:": 4
+        }
+    ]
+}

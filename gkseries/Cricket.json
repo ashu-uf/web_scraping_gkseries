@@ -1,0 +1,198 @@
+{
+    "topic": "Cricket",
+    "Subject": "Sports",
+    "data": [
+        {
+            "question": "Cricket World cup 205 is jointly hosted by which two countries?",
+            "op1": "ustralia and New Zealand",
+            "op2": "India and angladesh",
+            "op3": "South Africa and Zimbabwe",
+            "op4": "Australia and West-Indies",
+            "answer:": 1
+        },
+        {
+            "question": "Which country is the winner of ICC Cricket world cup 2015?",
+            "op1": "New Zealand",
+            "op2": "England",
+            "op3": "India",
+            "op4": "Australia",
+            "answer:": 4
+        },
+        {
+            "question": "The number of teams participated in Cricket world cup 2015 is:",
+            "op1": "10",
+            "op2": "12",
+            "op3": "13",
+            "op4": "14",
+            "answer:": 4
+        },
+        {
+            "question": "Who became the man of the tournament in cricket world cup 201?",
+            "op1": "Rohit Sarma",
+            "op2": "Martin Guptil",
+            "op3": "Mitchell Starc",
+            "op4": "Brendon Mcullum",
+            "answer:": 3
+        },
+        {
+            "question": "The final match of Cricket world cup 2015 was played between which two countries?",
+            "op1": "ustralia and India",
+            "op2": "New Zealand and India",
+            "op3": "Australia and New Zealand",
+            "op4": "India and West-Indies",
+            "answer:": 3
+        },
+        {
+            "question": "Which two players made double century in cricket world cup 2015?",
+            "op1": "Virat Kohli and Chris Gayle",
+            "op2": "rendon McCollum and A de Villiers",
+            "op3": "Martin Guptil and hris Gayle",
+            "op4": "AB de Villiers and ale Steyn",
+            "answer:": 3
+        },
+        {
+            "question": "Who made the highest individual score in ICC Cricket world cup 2015?",
+            "op1": "Chris Gayle",
+            "op2": "Martin Guptil",
+            "op3": "AB de Villiers",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following players was the brand ambassador of Cricket world cup 2015?",
+            "op1": "Shane warne",
+            "op2": "Sachin Tendulkar",
+            "op3": "Brian Lara",
+            "op4": "Adam Gilchrist",
+            "answer:": 2
+        },
+        {
+            "question": "The total number of venues for ICC Cricket world cup 2015 were:",
+            "op1": "10",
+            "op2": "14",
+            "op3": "15",
+            "op4": "16",
+            "answer:": 2
+        },
+        {
+            "question": "In which ground, the final match of Cricket world cup 2015 was played ?",
+            "op1": "Melbourne cricket ground",
+            "op2": "Auckland cricket club",
+            "op3": "Sydney cricket ground",
+            "op4": "Wellington cricket ground",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the captain of team Australia in cricket world cup 2015?",
+            "op1": "Brad Haddin",
+            "op2": "Michael Clarke",
+            "op3": "Mitchell Johnson",
+            "op4": "George Bailey",
+            "answer:": 2
+        },
+        {
+            "question": "Who scored the fastest fifty in Cricket world cup 2015?",
+            "op1": "D Warner",
+            "op2": "RM Taylor",
+            "op3": "Brendon Mcullum",
+            "op4": "A Russell",
+            "answer:": 3
+        },
+        {
+            "question": "Who became the first cricketer to score four successive one day international centuries during world cup 2015?",
+            "op1": "Virat Kohli",
+            "op2": "Kumara Sangakkara",
+            "op3": "Martin Guptil",
+            "op4": "Hashim Amla",
+            "answer:": 2
+        },
+        {
+            "question": "Who took the highest number of wickets in ICC Cricket world cup 20?",
+            "op1": "Michell Starc",
+            "op2": "Trent oult",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which cricketer(s) took hat-trick in World cup 2015?",
+            "op1": "Steven Finn",
+            "op2": "JP Duminy",
+            "op3": "Both [A] and [B]",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the man of the match in the final match of cricket world cup 2015?",
+            "op1": "GJ Maxwell",
+            "op2": "Michael Clarke",
+            "op3": "James Faulkner",
+            "op4": "MJ Guptill",
+            "answer:": 3
+        },
+        {
+            "question": "Who scored the fastest 150 in Cricket world cup 2015?",
+            "op1": "Chris Gayle",
+            "op2": "A de Villiers",
+            "op3": "Rohit Sarma",
+            "op4": "Martin Guptill",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the wicketkeeper of ICC's World cup XI ?",
+            "op1": "Mahendra Singh Dhoni",
+            "op2": "rad Haddin",
+            "op3": "Kumara Sangakkara",
+            "op4": "Umar Akmal",
+            "answer:": 3
+        },
+        {
+            "question": "Who was choosen as the captain of ICC's World cup XI?",
+            "op1": "Brendon McCullum",
+            "op2": "Steven Smith",
+            "op3": "Daniel Vettori",
+            "op4": "Morne Morkel",
+            "answer:": 1
+        },
+        {
+            "question": "Which batsman hit the maximum number of sixes in Cricket World cup 2015?",
+            "op1": "B de Villiers",
+            "op2": "Chris Gayle",
+            "op3": "DA Miller",
+            "op4": "A Mathews",
+            "answer:": 2
+        },
+        {
+            "question": "The highest average score of a batsman in Cricket world cup 2015 is 124.00- who scored this?",
+            "op1": "Michael Clarke",
+            "op2": "James Faulkner",
+            "op3": "Kumara Sangakkara",
+            "op4": "A Warner",
+            "answer:": 3
+        },
+        {
+            "question": "Who scored the maximum number of fours(4's) in Cricket world cup 2015?",
+            "op1": "Martin Guptill",
+            "op2": "A de Villiers",
+            "op3": "hris Gayle",
+            "op4": "Steve Smith",
+            "answer:": 1
+        },
+        {
+            "question": "188.50 is the highest strike rate of a batsman in ICC Cricket World cup 2015. Who was the batsman?",
+            "op1": "Mahendra Singh Dhoni",
+            "op2": "rendon McCullum",
+            "op3": "Kumara Sangakkara",
+            "op4": "Andre Russell",
+            "answer:": 2
+        },
+        {
+            "question": "Which bowler bowled the best figure 7/33 in World cup cricket 2015?",
+            "op1": "Mitchell Starc",
+            "op2": "Tim Southee",
+            "op3": "Trent Boult",
+            "op4": "Mitchell Marsh",
+            "answer:": 2
+        }
+    ]
+}

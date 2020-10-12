@@ -1,0 +1,86 @@
+{
+    "topic": "Introduction to Programming",
+    "Subject": "C Programming",
+    "data": [
+        {
+            "question": "Step by step instructions written to solve any problem is called",
+            "op1": "pseducode",
+            "op2": "algorithm",
+            "op3": "assembler",
+            "op4": "class",
+            "answer:": 2
+        },
+        {
+            "question": "Diagramatic or symbolic representation of an algorithm is called",
+            "op1": "Data-Flow diagram",
+            "op2": "E-R diagram",
+            "op3": "Flowchart",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Object oriented programming method is followed in",
+            "op1": "C programming language",
+            "op2": "C++ programming language",
+            "op3": "# programming language",
+            "op4": "Both [B] and [C]",
+            "answer:": 4
+        },
+        {
+            "question": "Procedural programming method is followed in",
+            "op1": "C",
+            "op2": "COOL",
+            "op3": "obra",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Informal high level description of an algorithm in english is called",
+            "op1": "Function",
+            "op2": "Class",
+            "op3": "Pseudo code",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The geometrical figure shown below in flowchart represent",
+            "op1": "Start/Stop",
+            "op2": "Looping",
+            "op3": "Processing",
+            "op4": "Connector",
+            "answer:": 3
+        },
+        {
+            "question": "The geometrical figure shown below in flowchart represent",
+            "op1": "Input/Output",
+            "op2": "Terminator",
+            "op3": "Decision",
+            "op4": "Looping",
+            "answer:": 2
+        },
+        {
+            "question": "The geometrical figure shown below in flowchart represent",
+            "op1": "Input/Output",
+            "op2": "Alternate process",
+            "op3": "Looping",
+            "op4": "ecision",
+            "answer:": 4
+        },
+        {
+            "question": "The geometrical figure shown below in flowchart represent",
+            "op1": "Connector",
+            "op2": "Alternate process",
+            "op3": "Looping",
+            "op4": "ata",
+            "answer:": 1
+        },
+        {
+            "question": "The geometrical figure shown below in flowchart represent",
+            "op1": "Input/Output",
+            "op2": "Looping",
+            "op3": "Display",
+            "op4": "Alternate process",
+            "answer:": 1
+        }
+    ]
+}

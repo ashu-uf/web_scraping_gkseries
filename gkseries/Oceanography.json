@@ -1,0 +1,366 @@
+{
+    "topic": "Oceanography",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Which factors influence ocean currents ?",
+            "op1": "(I), (II) and (IV)",
+            "op2": "(II), (III) and (IV)",
+            "op3": "(I), (II) and (III)",
+            "op4": "(I), (II), (III) and (IV)",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following influence the oceanic salinity ?",
+            "op1": "land",
+            "op2": "wind",
+            "op3": "river",
+            "op4": "ash from volcanoes",
+            "answer:": 3
+        },
+        {
+            "question": "The names of four oceans are given below :",
+            "op1": "(II), (I), (IV), (III)",
+            "op2": "(IV), (I), (III), (II)",
+            "op3": "(I), (III), (II), (IV)",
+            "op4": "((III), (II), (I), (IV)",
+            "answer:": 2
+        },
+        {
+            "question": "Which two seas are connected by the Suez canal ?",
+            "op1": "Red Sea and rabian Sea",
+            "op2": "Red Sea and Mediterranean Sea",
+            "op3": "Arabian Sea and Mediterranean Sea",
+            "op4": "North Sea and Baltic Sea",
+            "answer:": 2
+        },
+        {
+            "question": "In which of the following the direction of Ocean currents are reversed with season ?",
+            "op1": "In the Pacific Ocean",
+            "op2": "In the Atlantic Ocean",
+            "op3": "In the Indian Ocean",
+            "op4": "In the Arctic Ocean",
+            "answer:": 3
+        },
+        {
+            "question": "'Kuroshio current' is a Oceanic current and it is available in",
+            "op1": "South tlantic Ocean",
+            "op2": "North Pacific Ocean",
+            "op3": "North Atlantic Ocean",
+            "op4": "North Indian Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "What is the highest waterfall in the world ?",
+            "op1": "ngel Falls of Venezuela",
+            "op2": "rowne Fall of New Zealand",
+            "op3": "atarata Gocta of Peru",
+            "op4": "Langfoss of Norway",
+            "answer:": 1
+        },
+        {
+            "question": "Which is the highest lake above the Sea level in the world ?",
+            "op1": "Lake Saiful-Muluk",
+            "op2": "Lake Tsomoriri",
+            "op3": "Lake Titicaca",
+            "op4": "Lake Panch Pokhari",
+            "answer:": 3
+        },
+        {
+            "question": "Which is the world's largest lake by surface area ?",
+            "op1": "Caspian Sea",
+            "op2": "Lake Superior",
+            "op3": "Lake Michigan-Huron",
+            "op4": "Black Sea",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following is not the part of North Atlantic Ocean current system ?",
+            "op1": "Gulf Stream",
+            "op2": "Antilles Current",
+            "op3": "anaries urrent",
+            "op4": "Benguela Current",
+            "answer:": 4
+        },
+        {
+            "question": "The Grand Canyon is located on the :",
+            "op1": "Niger River",
+            "op2": "Tapti River",
+            "op3": "Rhine River",
+            "op4": "Colorado River",
+            "answer:": 4
+        },
+        {
+            "question": "The sea bed sloping gradually and bordering the continent is known as :",
+            "op1": "Continental Platform",
+            "op2": "Continental Slope",
+            "op3": "ontinental Shelf",
+            "op4": "Coast",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following oceans has the shape of the English alphabet S ?",
+            "op1": "Pacific Ocean",
+            "op2": "Atlantic Ocean",
+            "op3": "Indian Ocean",
+            "op4": "Arctic Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is a landlocked sea ?",
+            "op1": "Greenland Sea",
+            "op2": "Timor Sea",
+            "op3": "Aral Sea",
+            "op4": "Arafura Sea",
+            "answer:": 3
+        },
+        {
+            "question": "A place where there is constant intermingling of salt water and fresh water is ___",
+            "op1": "Gulf",
+            "op2": "Estuary",
+            "op3": "Delta",
+            "op4": "Bay",
+            "answer:": 2
+        },
+        {
+            "question": "The deepest ocean of the world is",
+            "op1": "rctic Ocean",
+            "op2": "Pacific Ocean",
+            "op3": "Atlantic Ocean",
+            "op4": "Indian Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "The deepest surface depression on the earth is",
+            "op1": "Marina Trench",
+            "op2": "Tonga-Kermadec Trench",
+            "op3": "Bentley Subglacial",
+            "op4": "Kurile Trench",
+            "answer:": 1
+        },
+        {
+            "question": "Tides in the sea have stored in them :",
+            "op1": "Kinetic energy",
+            "op2": "Gravitational potential energy",
+            "op3": "Hydraulic energy",
+            "op4": "A combination of all the above three forms of energy",
+            "answer:": 4
+        },
+        {
+            "question": "Echo sounding is the technique applied to ___",
+            "op1": "record the density of air in the atmosphere",
+            "op2": "record earthquake waves",
+            "op3": "measure the amplitude of sound waves",
+            "op4": "measure the depth of the sea",
+            "answer:": 4
+        },
+        {
+            "question": "E1 Nino is",
+            "op1": "sea storm",
+            "op2": "tropical disturbance",
+            "op3": "a warm ocean current",
+            "op4": "another name of typhoon",
+            "answer:": 3
+        },
+        {
+            "question": "The narrow stretch of water connecting two Seas is called",
+            "op1": "Peninsula",
+            "op2": "Isthmus",
+            "op3": "Bay",
+            "op4": "Strait",
+            "answer:": 4
+        },
+        {
+            "question": "The largest ocean is",
+            "op1": "Indian Ocean",
+            "op2": "Pacific Ocean",
+            "op3": "Atlantic Ocean",
+            "op4": "Arctic Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "Which current is responsible for increasing in the temperature of the western Europe ?",
+            "op1": "Canary current",
+            "op2": "Gulf stream",
+            "op3": "Labrador current",
+            "op4": "North Equatorial current",
+            "answer:": 4
+        },
+        {
+            "question": "In which of the following is the Great Barrier Reef located ?",
+            "op1": "Solomon Sea",
+            "op2": "Coral Sea",
+            "op3": "Arafura Sea",
+            "op4": "Bismarck Sea",
+            "answer:": 2
+        },
+        {
+            "question": "Seismic sea waves which approach the coasts at greater force are known as",
+            "op1": "Tsunami",
+            "op2": "Current",
+            "op3": "yclone",
+            "op4": "Tides",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not a cold ocean current ?",
+            "op1": "Canary current",
+            "op2": "razil current",
+            "op3": "Humboldt current",
+            "op4": "Oyashio current",
+            "answer:": 2
+        },
+        {
+            "question": "The \u2018Pacific Ring of Fire\u2019 is associated with",
+            "op1": "thermal power station",
+            "op2": "volcanoes and earthquakes",
+            "op3": "forest fires",
+            "op4": "oil well fires",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the most stable ecosystem ?",
+            "op1": "Ocean",
+            "op2": "Mountain",
+            "op3": "Forest",
+            "op4": "esert",
+            "answer:": 1
+        },
+        {
+            "question": "Tsunamis are the waves generated by :",
+            "op1": "Moon\u2019s pull",
+            "op2": "High tides of the oceans",
+            "op3": "yclones",
+            "op4": "Earthquakes beneath the sea",
+            "answer:": 4
+        },
+        {
+            "question": "The coral reefs are the marine counterparts of",
+            "op1": "Tropical rain forests",
+            "op2": "Scrubland",
+            "op3": "Temperate forests",
+            "op4": "Savannahs",
+            "answer:": 1
+        },
+        {
+            "question": "Waves approaching the shore is known as",
+            "op1": "Tsunami",
+            "op2": "Currents",
+            "op3": "Tide",
+            "op4": "Swash",
+            "answer:": 1
+        },
+        {
+            "question": "Atoll is a kind of",
+            "op1": "sandbar",
+            "op2": "sand-dune",
+            "op3": "inland sea",
+            "op4": "lake",
+            "answer:": 3
+        },
+        {
+            "question": "The coastal part of water bodies of the oceans which is structurally part of the mainland of the continents is called the",
+            "op1": "Continental slope",
+            "op2": "Isthmus",
+            "op3": "Oceanic ridge",
+            "op4": "Continental shelf",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is not a cold ocean current ?",
+            "op1": "Kuroshio",
+            "op2": "California",
+            "op3": "Oyashio",
+            "op4": "Ganaries",
+            "answer:": 1
+        },
+        {
+            "question": "The term territorial water means",
+            "op1": "The water secured from other countries",
+            "op2": "The water found within the country in form of rivers and lakes",
+            "op3": "Water of the sea located close to the coast of a country",
+            "op4": "The water which is supplied to other countries",
+            "answer:": 3
+        },
+        {
+            "question": "The ocean which touches the Asian and American shores is",
+            "op1": "ntarctic",
+            "op2": "Pacific",
+            "op3": "Atlantic",
+            "op4": "Indian",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following ocean currents does not occur in Atlantic Ocean ?",
+            "op1": "Canary current",
+            "op2": "Gulf stream",
+            "op3": "Brazil current",
+            "op4": "Peru current",
+            "answer:": 4
+        },
+        {
+            "question": "Mariana Trench is found in",
+            "op1": "Pacific Ocean",
+            "op2": "Indian Ocean",
+            "op3": "Arctic Ocean",
+            "op4": "Atlantic Ocean",
+            "answer:": 1
+        },
+        {
+            "question": "In sea, plants are restricted up to the depth of",
+            "op1": "2000 m",
+            "op2": "1000 m",
+            "op3": "200 m",
+            "op4": "20 m",
+            "answer:": 3
+        },
+        {
+            "question": "E1 Nino occurs over",
+            "op1": "Mediterranean Sea",
+            "op2": "Pacific Ocean",
+            "op3": "Atlantic Ocean",
+            "op4": "Indian Ocean",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is a warm ocean current ?",
+            "op1": "Gulf Stream",
+            "op2": "Kurile",
+            "op3": "anary",
+            "op4": "Labrador",
+            "answer:": 1
+        },
+        {
+            "question": "The Sargasso sea is situated in the:",
+            "op1": "Indian Ocean",
+            "op2": "Arctic Ocean",
+            "op3": "Atlantic Ocean",
+            "op4": "Pacific Ocean",
+            "answer:": 3
+        },
+        {
+            "question": "The rhythmic rise and fall of ocean water twice in a day is called",
+            "op1": "Ocean current",
+            "op2": "Tide",
+            "op3": "Wave",
+            "op4": "Water cycle",
+            "answer:": 2
+        },
+        {
+            "question": "Sea water is saltier than rain water because",
+            "op1": "the air around the sea is salty",
+            "op2": "sea animals are salt producing",
+            "op3": "sea beds have salt producing mines",
+            "op4": "rivers wash away salts from earth and pour them into the sea",
+            "answer:": 4
+        },
+        {
+            "question": "Sea-waves are undulated movements of water on the surface of the sea sue to",
+            "op1": "rotation of earth",
+            "op2": "difference in temperature",
+            "op3": "friction of wind on the surface",
+            "op4": "None of these",
+            "answer:": 3
+        }
+    ]
+}

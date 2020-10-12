@@ -1,0 +1,78 @@
+{
+    "topic": "Memory Organization",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "Cache memory is used in a computer system to",
+            "op1": "Ensure fast booting",
+            "op2": "Replace static memory",
+            "op3": "Replace hard-disk",
+            "op4": "Speed-up memory access",
+            "answer:": 4
+        },
+        {
+            "question": "Virtual memory of a computer system may be",
+            "op1": "of unlimited size.",
+            "op2": "As big as maximum addressing capability of the computer system.",
+            "op3": "of size equivalent to total capacity of secondary storage plus size of RAM.",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not an advantage of Dynamic RAMs",
+            "op1": "High density",
+            "op2": "Low cost",
+            "op3": "High speed",
+            "op4": "No need of memory refresh",
+            "answer:": 4
+        },
+        {
+            "question": "A computer stores data in memory in",
+            "op1": "decimal form",
+            "op2": "octal form",
+            "op3": "hexadecimal form",
+            "op4": "binary form",
+            "answer:": 4
+        },
+        {
+            "question": "A nano control memory is implemented to",
+            "op1": "improve the speed of execution",
+            "op2": "reduce the overall control memory size",
+            "op3": "reduce the complexity of hardware",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "In the memory hierarchy the fastest memory is",
+            "op1": "SRM",
+            "op2": "Cache",
+            "op3": "Registers",
+            "op4": "RAM",
+            "answer:": 3
+        },
+        {
+            "question": "A memory device in which a bit is stored as a charge across the stray capacitance",
+            "op1": "SRM",
+            "op2": "EPROM",
+            "op3": "DRAM",
+            "op4": "Bubble memory",
+            "answer:": 3
+        },
+        {
+            "question": "Cache memory is implemented using",
+            "op1": "Dynamic RM",
+            "op2": "Static RAM",
+            "op3": "PROM",
+            "op4": "EPROM",
+            "answer:": 2
+        },
+        {
+            "question": "Given a 256*4 RAM chips, how many chips are required to provide a memory capacity of 1 KB of RAM",
+            "op1": "1",
+            "op2": "8",
+            "op3": "4",
+            "op4": "None of the above",
+            "answer:": 1
+        }
+    ]
+}

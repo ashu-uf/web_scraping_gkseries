@@ -1,0 +1,78 @@
+{
+    "topic": "Assembly Language Programming",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "For execution of an interrupt applied at INTR, number of states required by 8085 Microprocessor are",
+            "op1": "4",
+            "op2": "6",
+            "op3": "12",
+            "op4": "18",
+            "answer:": 3
+        },
+        {
+            "question": "In 8085 which is/are the 16 bit registers?",
+            "op1": "Program Counter",
+            "op2": "Stack Pointer",
+            "op3": "Both [A] & [B]",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "How many memory locations are required to store the instruction LXIH, 0800H in an 8085 assembly language program ?",
+            "op1": "1",
+            "op2": "2",
+            "op3": "3",
+            "op4": "4",
+            "answer:": 2
+        },
+        {
+            "question": "The instruction DEC N inform the assembler to",
+            "op1": "Decrement the content of N",
+            "op2": "Decrement the data addressed by N",
+            "op3": "onvert signed decimal number to binary",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "In 8085 microprocessor, the value of the most significant bit of the result following the execution of any arithmetic or Boolean instruction is stored in the",
+            "op1": "carry status flag",
+            "op2": "auxiliary carry status flag",
+            "op3": "sign status flag",
+            "op4": "zero status flag",
+            "answer:": 3
+        },
+        {
+            "question": "Instructions performing actions in assembly language are called",
+            "op1": "imperative statements",
+            "op2": "declarative statements",
+            "op3": "directive statements",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "What is the content of Stack Pointer ?",
+            "op1": "ddress of the current instruction",
+            "op2": "Address of the next instruction",
+            "op3": "Address of the top element of the stack",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following interrupt has highest Priority?",
+            "op1": "INTR",
+            "op2": "TRAP",
+            "op3": "RST 7.5",
+            "op4": "RST 6.5",
+            "answer:": 2
+        },
+        {
+            "question": "Number of machine cycles required for RET instruction in 8085 microprocessor is",
+            "op1": "1",
+            "op2": "2",
+            "op3": "3",
+            "op4": "5",
+            "answer:": 3
+        }
+    ]
+}

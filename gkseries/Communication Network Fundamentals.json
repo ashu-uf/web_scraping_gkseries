@@ -1,0 +1,126 @@
+{
+    "topic": "Communication Network Fundamentals",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "In which of the following networks, reassembly buffers are required ?",
+            "op1": "Packet-switched networks",
+            "op2": "Circuit-switched networks",
+            "op3": "Message-switched networks",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Switching systems",
+            "op1": "are limited to small data networks",
+            "op2": "require additional lines",
+            "op3": "are not used presently",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following networks supports pipelining effect ?",
+            "op1": "Circuit-switched networks",
+            "op2": "Message-switched networks",
+            "op3": "Packet-switched networks",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The physical connection between an end point and a switch or between two switches is",
+            "op1": "Transmission path",
+            "op2": "Virtual path",
+            "op3": "Virtual circuit",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The speed of Ethernet is",
+            "op1": "64 Kbps",
+            "op2": "64 Mbps",
+            "op3": "10 Kbps",
+            "op4": "10 Mbps",
+            "answer:": 4
+        },
+        {
+            "question": "In simplex mode of transmission",
+            "op1": "Data communication is one way",
+            "op2": "Data can be transmitted to small distances only",
+            "op3": "Data format is simple",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "An example of half duplex transmission is",
+            "op1": "Referee\u2019s whistle",
+            "op2": "Satellite channel",
+            "op3": "Broadcast radio",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "In half-duplex data transmission",
+            "op1": "Data can be transmitted in one direction only",
+            "op2": "Data can be transmitted to long distances only",
+            "op3": "Data can be transmitted in both directions",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The interactive transmission of data within a time sharing system may be best suited to",
+            "op1": "Simplex lines",
+            "op2": "Half-duplex lines",
+            "op3": "Full-duplex lines",
+            "op4": "Biflex-line",
+            "answer:": 2
+        },
+        {
+            "question": "Full duplex operation",
+            "op1": "Requires two pairs of cables",
+            "op2": "Can transfer data in both directions at once",
+            "op3": "Requires modems at both ends",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In order to transfer message in a computer network, we use the technique called",
+            "op1": "Circuit switching",
+            "op2": "Message switching",
+            "op3": "Packet switching",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Switching systems",
+            "op1": "require additional lines",
+            "op2": "are not used presently",
+            "op3": "are limited to small data networks",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A transmission medium in which one station is transmitter and the other station is receiver, is termed as",
+            "op1": "Simplex",
+            "op2": "Half duplex",
+            "op3": "Full duplex",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Communication between a computer and a keyboard involves ______ transmission.",
+            "op1": "utomatic",
+            "op2": "Simplex",
+            "op3": "Hard-duplex",
+            "op4": "Full-duplex",
+            "answer:": 2
+        },
+        {
+            "question": "In virtual circuit-switching, the path",
+            "op1": "To be followed depends on the length of message",
+            "op2": "Upto next intermediate node is allocated before the transmission of message begins",
+            "op3": "Upto destination is allocated before the transmission of message begins",
+            "op4": "None of the above",
+            "answer:": 3
+        }
+    ]
+}

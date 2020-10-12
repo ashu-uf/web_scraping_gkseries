@@ -1,0 +1,286 @@
+{
+    "topic": "SQL",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "Which command is used to remove all rows from a table ?",
+            "op1": "Delete",
+            "op2": "Remove",
+            "op3": "Truncate",
+            "op4": "Both [A] and [B]",
+            "answer:": 3
+        },
+        {
+            "question": "What is the language used by most of the DBMS for helping their users to access data ?",
+            "op1": "High level language",
+            "op2": "Query language",
+            "op3": "SQL",
+            "op4": "4GL",
+            "answer:": 2
+        },
+        {
+            "question": "The language used in application program to request data from the DBMS is referred to as the :",
+            "op1": "DML",
+            "op2": "DDL",
+            "op3": "Query language",
+            "op4": "All of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A command that lets you change one or more fields in a record is :",
+            "op1": "Insert",
+            "op2": "Modify",
+            "op3": "Look-up",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The modify operation is likely to be done after :",
+            "op1": "Delete",
+            "op2": "Look-up",
+            "op3": "Insert",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "This is an authorization command of SQL :",
+            "op1": "ccess",
+            "op2": "Grant",
+            "op3": "Allow",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is an aggregate function in SQL ?",
+            "op1": "Union",
+            "op2": "Like",
+            "op3": "Group By",
+            "op4": "Max",
+            "answer:": 4
+        },
+        {
+            "question": "The command used to create a database user :",
+            "op1": "Make user",
+            "op2": "Create user",
+            "op3": "ADD user to database",
+            "op4": "All of these",
+            "answer:": 3
+        },
+        {
+            "question": "An operation that will increase the length of a list is :",
+            "op1": "Insert",
+            "op2": "Look-up",
+            "op3": "Modify",
+            "op4": "All of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Grant is a command from SQL type :",
+            "op1": "DDL",
+            "op2": "DCL",
+            "op3": "DML",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which command is used to add a column to an existing table ?",
+            "op1": "Create",
+            "op2": "Update",
+            "op3": "Alter",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which one is not an aggregate function in SQL ?",
+            "op1": "Count",
+            "op2": "Mean",
+            "op3": "Min",
+            "op4": "All are aggregate function",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is a valid join type ?",
+            "op1": "natural",
+            "op2": "full outer join",
+            "op3": "on",
+            "op4": "using",
+            "answer:": 2
+        },
+        {
+            "question": "One of the following steps is not involved in processing a query :",
+            "op1": "parsing and translation",
+            "op2": "optimization",
+            "op3": "evaluation",
+            "op4": "distribution",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following statement on the view concept in SQL is invalid ?",
+            "op1": "all views are not updatable",
+            "op2": "the views may be referenced in an SQL statement whenever tables are referenced",
+            "op3": "the views are instantiated at the time they are referenced and not when they are defined",
+            "op4": "the definition of a view should not have GROUP BY clause in it",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following statement is not true about embedded SQL ?",
+            "op1": "Embedded SQL expressions for database modification always returns a result.",
+            "op2": "An embedded SQL program must be processed by a special processor prior to compilation.",
+            "op3": "The exact syntax for embedded SQL request depends on the language in which SQL is embedded.",
+            "op4": "In embedded SQL, all query processing is performed by the database system.",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is an aggregate function is SQL ?",
+            "op1": "Union",
+            "op2": "Like",
+            "op3": "Group",
+            "op4": "Min",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of these is an aggregate function in SQL ?",
+            "op1": "VG",
+            "op2": "SELECT",
+            "op3": "ORDER BY",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Language used by programmers to communicate with database is :",
+            "op1": "DML",
+            "op2": "DDL",
+            "op3": "QL",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is an authorization command of SQL ?",
+            "op1": "ccess",
+            "op2": "Secondary key",
+            "op3": "Foreign key",
+            "op4": "None of these",
+            "answer:": 4
+        },
+        {
+            "question": "Transactions are initiated by BEGIN TRANSACTION and terminated :",
+            "op1": "by COMMIT TRNSCTION",
+            "op2": "by ROLL ACK TRANSACTION",
+            "op3": "either by OMMIT TRANSATION or by ROLL BAK TRANSATION",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "Statement that uses a condition to control iterative execution of a statement block :",
+            "op1": "IF statement",
+            "op2": "WHILE statement",
+            "op3": "BREAK statement",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Complex calculations can be performed using the following operation :",
+            "op1": "Union",
+            "op2": "Aggregation",
+            "op3": "Nested IF",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "An alias is :",
+            "op1": "n alternate name given to a relation.",
+            "op2": "An alternate name given to an inner query.",
+            "op3": "An alternate name given to a user.",
+            "op4": "None of the above.",
+            "answer:": 2
+        },
+        {
+            "question": "One of the main heuristic rule for query optimization :",
+            "op1": "pplying a join first.",
+            "op2": "Applying any binary operation first.",
+            "op3": "Applying a select and a Project first.",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not an SQL command ?",
+            "op1": "CRETE",
+            "op2": "DROP",
+            "op3": "ALTER",
+            "op4": "All are SQL commands",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is correct ?",
+            "op1": "SQL query automatically eliminates duplicates.",
+            "op2": "SQL permits attribute names to be repeated in the same relation",
+            "op3": "A SQL query will not work if there are no indexes on the relations.",
+            "op4": "None of these",
+            "answer:": 4
+        },
+        {
+            "question": "The DMLs which require user to specify what data is needed and how to get it, is called :",
+            "op1": "DDL DMLs",
+            "op2": "Procedural DMLs",
+            "op3": "Non-procedural DMLs",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following clauses is used in the CREATE TRIGGER command to create a row level trigger ?",
+            "op1": "FOR ROW",
+            "op2": "ROW LEVEL",
+            "op3": "ROW LEVEL TRIGGER",
+            "op4": "None of the above.",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is used to evaluate a query execution strategy ?",
+            "op1": "Query tree",
+            "op2": "Access plan",
+            "op3": "Database catalog",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is a data query statement in QUEL ?",
+            "op1": "RETRIEVE",
+            "op2": "SELECT",
+            "op3": "GET",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which type of join returns all rows that satisfy the join condition ?",
+            "op1": "Inner join",
+            "op2": "Outer join",
+            "op3": "Semi Join",
+            "op4": "Anti join",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following aggregate SQL function returns number of rows ?",
+            "op1": "avg",
+            "op2": "min",
+            "op3": "count",
+            "op4": "sum",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not transaction characteristic in SQL ?",
+            "op1": "access mode",
+            "op2": "diagnnostics size",
+            "op3": "isolation level",
+            "op4": "commit",
+            "answer:": 4
+        },
+        {
+            "question": "Under which condition, the value R \u2329 S/S equal to R (here \u2329 stands natural join and/ denotes division).",
+            "op1": "When R and S are having at least one attribute common",
+            "op2": "The degree of S is less than the degree of R",
+            "op3": "The degree of R is less than the degree of S",
+            "op4": "When R and S are having no attribute in common",
+            "answer:": 1
+        }
+    ]
+}

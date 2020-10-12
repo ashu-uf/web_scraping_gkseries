@@ -1,0 +1,406 @@
+{
+    "topic": "World Organisations",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "The headquarters of IMF and World Bank are located at :",
+            "op1": "Geneva and Montreal",
+            "op2": "Geneva and Vienna",
+            "op3": "New York and Geneva",
+            "op4": "Washington",
+            "answer:": 4
+        },
+        {
+            "question": "Voting rights in the IMF are determined on the basis of :",
+            "op1": "one country, one vote",
+            "op2": "size of the economy",
+            "op3": "proportion to contributions given by each country",
+            "op4": "proportion to quota alloted to countries from time to time",
+            "answer:": 2
+        },
+        {
+            "question": "\u201cWorld development Report\u201d is an annual publication of :",
+            "op1": "World Bank",
+            "op2": "International ank of Reconstruction and Development",
+            "op3": "World Trade Organisation",
+            "op4": "International Monetary Fund",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following is not a member of Organization of the Petroleum Exporting Countries (OPEC)?",
+            "op1": "lgeria",
+            "op2": "razil",
+            "op3": "Ecuador",
+            "op4": "Nigeria",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following countries is not a member of SAARC ?",
+            "op1": "Bhutan",
+            "op2": "India",
+            "op3": "Thailand",
+            "op4": "Maldives",
+            "answer:": 3
+        },
+        {
+            "question": "Which country is the largest debtor of UNO ?",
+            "op1": "India",
+            "op2": "China",
+            "op3": "Japan",
+            "op4": "USA",
+            "answer:": 4
+        },
+        {
+            "question": "Special Drawing Rights is also known as :",
+            "op1": "Gold",
+            "op2": "Paper gold",
+            "op3": "Paper silver",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "G-77 summit is a forum for :",
+            "op1": "North-South Cooperation",
+            "op2": "East-West Cooperation",
+            "op3": "South-South ooperation",
+            "op4": "North-North cooperation",
+            "answer:": 3
+        },
+        {
+            "question": "The headquarters of World Trade Organisation is in :",
+            "op1": "Montreal",
+            "op2": "Seattle",
+            "op3": "Geneva",
+            "op4": "The Hague",
+            "answer:": 3
+        },
+        {
+            "question": "The headquarters of OPEC is located at",
+            "op1": "Vienna",
+            "op2": "Kuwait City",
+            "op3": "Algeria",
+            "op4": "Tehran",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following relates with PIIGS(A group of nations including Portugal, Ireland, Italy, Greece and Spain)?",
+            "op1": "Euro zone",
+            "op2": "Asia Pacific",
+            "op3": "SAAR",
+            "op4": "NATO",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following term is NOT associated with the World Trade Organisation (WTO)?",
+            "op1": "UNCTD",
+            "op2": "GATT",
+            "op3": "GATS",
+            "op4": "SEWA",
+            "answer:": 4
+        },
+        {
+            "question": "The International Development Association, a lending agency, is administered by the :",
+            "op1": "International Bank for Reconstruction and Development",
+            "op2": "International Fund of Agricultural Development",
+            "op3": "United Nations Development Programme",
+            "op4": "United Nations Industrial evelopment Organisation",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not United Nations organisation ?",
+            "op1": "Multilateral Investment Guarantee gency",
+            "op2": "International Finance Corporation",
+            "op3": "International entre for Settlement of Investment Disputes",
+            "op4": "Bank for International Settlements",
+            "answer:": 1
+        },
+        {
+            "question": "Regarding the International Monetary Fund, which one of the following statements is correct ?",
+            "op1": "It can grant loans to any country",
+            "op2": "It can grant loans to only developed countries",
+            "op3": "It grants loans to only member countries",
+            "op4": "It can grants loans to the central bank of a country",
+            "answer:": 4
+        },
+        {
+            "question": "The Headquarters of International Court of Justice is located in",
+            "op1": "The Hague (Netherlands)",
+            "op2": "Geneva (Switzerland)",
+            "op3": "Paris (France)",
+            "op4": "New York (USA)",
+            "answer:": 1
+        },
+        {
+            "question": "The Headquarters of United National Educational, Scientific and Cultural Organisation (UNESCO) is located at",
+            "op1": "New York (US)",
+            "op2": "angkok (Thailand)",
+            "op3": "Geneva (Switzerland)",
+            "op4": "Paris (France)",
+            "answer:": 4
+        },
+        {
+            "question": "G-15 a group of",
+            "op1": "Companies",
+            "op2": "Developing countries",
+            "op3": "Developed countries",
+            "op4": "Non-Aligned eveloping countries",
+            "answer:": 4
+        },
+        {
+            "question": "International Finance Corporation is an affiliate of",
+            "op1": "I.D..",
+            "op2": "I..R.D.",
+            "op3": "A.D.B.",
+            "op4": "I.M.F.",
+            "answer:": 2
+        },
+        {
+            "question": "The Headquarters of Inter National Atomic Energy Agency is in",
+            "op1": "Paris",
+            "op2": "Geneva",
+            "op3": "Vienna",
+            "op4": "Washington",
+            "answer:": 3
+        },
+        {
+            "question": "The main function of the World Trade Organisation (WTO) is:",
+            "op1": "Enforcing of Uruguay Round greements",
+            "op2": "Administering trade dispute settlement procedures",
+            "op3": "Facilitating multi-lateral trade relations of member countries and reviewing trade policies",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The Secretary \u2013 General of the UNO is appointed by the:",
+            "op1": "World Bank",
+            "op2": "Trusteeship Council",
+            "op3": "Security ouncil",
+            "op4": "General Assembly",
+            "answer:": 4
+        },
+        {
+            "question": "Special Drawing Rights (SDR) facility is available at",
+            "op1": "World Bank (IBRD)",
+            "op2": "International Monetary Fund (IMF)",
+            "op3": "International Development Association (IDA)",
+            "op4": "Organisation of Economic Cooperation and evelopment (OEC)",
+            "answer:": 2
+        },
+        {
+            "question": "The UN Secretary-General holds office for a period of",
+            "op1": "3 years",
+            "op2": "4 years",
+            "op3": "5 years",
+            "op4": "6 years",
+            "answer:": 3
+        },
+        {
+            "question": "In which year did the UN General-Assembly adopt the Universal Declaration of Human Rights?",
+            "op1": "1945",
+            "op2": "1948",
+            "op3": "1952",
+            "op4": "1955",
+            "answer:": 2
+        },
+        {
+            "question": "The International Criminal Police Organisation (INTERPOL) has its headquarters at",
+            "op1": "Montreal",
+            "op2": "onn",
+            "op3": "Paris",
+            "op4": "London",
+            "answer:": 3
+        },
+        {
+            "question": "Which Indian city has been chosen by the World Bank for setting up its back office operations?",
+            "op1": "Bangalore",
+            "op2": "Chennai",
+            "op3": "Kolkata",
+            "op4": "New elhi",
+            "answer:": 2
+        },
+        {
+            "question": "Which from the following countries is not a member of the European Union?",
+            "op1": "Lithuania",
+            "op2": "Finland",
+            "op3": "Sweden",
+            "op4": "Norway",
+            "answer:": 4
+        },
+        {
+            "question": "Where is headquarters of European Union located?",
+            "op1": "Bonn",
+            "op2": "russels",
+            "op3": "London",
+            "op4": "Paris",
+            "answer:": 2
+        },
+        {
+            "question": "Where is the headquarters of Botanical Survey of India located?",
+            "op1": "Kolkata",
+            "op2": "Lucknow",
+            "op3": "Ootacmund",
+            "op4": "arjeeling",
+            "answer:": 1
+        },
+        {
+            "question": "The International Court of Justice site in",
+            "op1": "Hague",
+            "op2": "Geneva",
+            "op3": "Rome",
+            "op4": "Vienna",
+            "answer:": 1
+        },
+        {
+            "question": "Which institution is known as \u2018soft loan window\u2019 of the World Bank?",
+            "op1": "Indian Development Forum",
+            "op2": "International Monetary Fund",
+            "op3": "International Development Agency",
+            "op4": "International Finance Corporation",
+            "answer:": 3
+        },
+        {
+            "question": "How many permanent members are there in the Security Council?",
+            "op1": "Three",
+            "op2": "Four",
+            "op3": "Five",
+            "op4": "Six",
+            "answer:": 3
+        },
+        {
+            "question": "Under the rules of the IMF, each member is required to declare the par value of its legal tender money in terms of U.S. dollars and",
+            "op1": "Gold",
+            "op2": "Silver",
+            "op3": "Diamond",
+            "op4": "Pound sterling",
+            "answer:": 1
+        },
+        {
+            "question": "As required by the WTO agreement, the Indian Patent Act was amended in 1999. The Act first came into force in the year",
+            "op1": "1965",
+            "op2": "1970",
+            "op3": "1975",
+            "op4": "1980",
+            "answer:": 2
+        },
+        {
+            "question": "Which country from the following is a permanent member of UN Security Council?",
+            "op1": "Japan",
+            "op2": "Ukraine",
+            "op3": "Switzerland",
+            "op4": "People\u2019s Republic of China",
+            "answer:": 4
+        },
+        {
+            "question": "The Headquarters of the Food and Agricultural Organisation (FAO) is at",
+            "op1": "Rome",
+            "op2": "Paris",
+            "op3": "Geneva",
+            "op4": "New York",
+            "answer:": 1
+        },
+        {
+            "question": "The United Nations officially came into existence on",
+            "op1": "January 1, 1942",
+            "op2": "October 3, 1944",
+            "op3": "October 24, 1945",
+            "op4": "June 26, 1945",
+            "answer:": 3
+        },
+        {
+            "question": "What is the full form of NATO?",
+            "op1": "North tlantic Treaty Organisation",
+            "op2": "North Asian Treaty Organisation",
+            "op3": "North American Treaty Organisation",
+            "op4": "North African Treaty Organisation",
+            "answer:": 1
+        },
+        {
+            "question": "The non-permanent members of the Security Council are elected for",
+            "op1": "One year",
+            "op2": "Two years",
+            "op3": "Three years",
+            "op4": "Six months",
+            "answer:": 2
+        },
+        {
+            "question": "The world Bank normally gives:",
+            "op1": "Short-term loans",
+            "op2": "Medium-term loans",
+            "op3": "Long-term loans",
+            "op4": "Medium and long-term loans",
+            "answer:": 2
+        },
+        {
+            "question": "Structural adjustment loans given by the World Bank are meant for:",
+            "op1": "Encouraging capital-intensive industries",
+            "op2": "Reducing inequalities of income distribution",
+            "op3": "Increasing employment in agriculture",
+            "op4": "Increasing export-earning capacity of the borrower country",
+            "answer:": 1
+        },
+        {
+            "question": "Which country decided to join the United Nations, as a Member, on the basis of the results of a referendum held in the country?",
+            "op1": "Finland",
+            "op2": "Austria",
+            "op3": "Switzerland",
+            "op4": "Belgium",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following organisations is not having its headquarters in Geneva?",
+            "op1": "World health Organisation",
+            "op2": "World Trade Organisation",
+            "op3": "International Labour Organisation",
+            "op4": "International Civil Aviation Organisation",
+            "answer:": 4
+        },
+        {
+            "question": "The first Secretary-General of the United Nations was",
+            "op1": "U. Thant",
+            "op2": "Dr. Kurt Waldheim",
+            "op3": "Trygve Lie",
+            "op4": "ag Hammarskjold",
+            "answer:": 3
+        },
+        {
+            "question": "The Headquarters of International Labour Organisation is located at",
+            "op1": "Geneva",
+            "op2": "Rome",
+            "op3": "Paris",
+            "op4": "New York",
+            "answer:": 1
+        },
+        {
+            "question": "Which International Agency is working for the protection of the environment?",
+            "op1": "UNO",
+            "op2": "NASA",
+            "op3": "hipko",
+            "op4": "Greenpeace",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following organisations is directly related to child welfare?",
+            "op1": "WTO",
+            "op2": "WHO",
+            "op3": "UNIEF",
+            "op4": "UNESCO",
+            "answer:": 3
+        },
+        {
+            "question": "Where is the headquarters of INTERPOL?",
+            "op1": "Geneva",
+            "op2": "Lyons",
+            "op3": "London",
+            "op4": "Paris",
+            "answer:": 2
+        },
+        {
+            "question": "Non-alignment basically implies",
+            "op1": "Bring a third world power",
+            "op2": "Choosing its own policy",
+            "op3": "Neutrality towards power blocks",
+            "op4": "Bringing peace and unity to the world",
+            "answer:": 3
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "topic": "Preamble",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "The Constitution of India borrowed the scheme of Indian Federation from the Constitution of",
+            "op1": "Ireland",
+            "op2": "UK",
+            "op3": "anada",
+            "op4": "USA",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following Constitutional System India follows ?",
+            "op1": "US",
+            "op2": "UK",
+            "op3": "Switzerland",
+            "op4": "Russia",
+            "answer:": 2
+        },
+        {
+            "question": "The inspiration of 'Liberty, Equality and Fraternity' was derived from",
+            "op1": "merican revolution",
+            "op2": "Russian revolution",
+            "op3": "French revolution",
+            "op4": "Italy revolution",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following describes India as a secular state ?",
+            "op1": "Fundamental Rights",
+            "op2": "Directive Principles of State Policy",
+            "op3": "Fifth Schedule",
+            "op4": "Preamble of the Constitution",
+            "answer:": 4
+        },
+        {
+            "question": "In a parliamentary form of government, real powers of the State are vested in the",
+            "op1": "President",
+            "op2": "Chief Justice of Supreme Court",
+            "op3": "ouncil of Ministers headed by the Prime Minister",
+            "op4": "Parliament",
+            "answer:": 3
+        },
+        {
+            "question": "The Constitution of India has borrowed Fundamental duties from which one of the following countries ?",
+            "op1": "Canada",
+            "op2": "Erstwhile USSR",
+            "op3": "UK",
+            "op4": "Ireland",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following statement describes that the Indian Constitution is federal ?",
+            "op1": "written and rigid Constitution",
+            "op2": "An independent Judiciary",
+            "op3": "Distribution of powers between the entre and States",
+            "op4": "Vesting of residuary powers with the Centre",
+            "answer:": 3
+        },
+        {
+            "question": "What is the meaning of Secularism ?",
+            "op1": "Freedom of worship to minorities",
+            "op2": "Suppression of Religions",
+            "op3": "A system of political and social philosophy that does not favour any particular religious faith",
+            "op4": "Separation of Religion from State",
+            "answer:": 3
+        },
+        {
+            "question": "Which among the following is true about Federal State ?",
+            "op1": "Centre is more powerful than States",
+            "op2": "States are more powerful than the Centre",
+            "op3": "Equal powers for entre and States",
+            "op4": "A Presidential form of government functions",
+            "answer:": 2
+        },
+        {
+            "question": "The source of India's sovereignty lies in the :",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "Directive Principles of State Policy",
+            "op4": "Preamble to the Constitution",
+            "answer:": 4
+        },
+        {
+            "question": "The Preamble of the Indian Constitution was for the first time amended by the",
+            "op1": "24th mendment",
+            "op2": "42nd Amendment",
+            "op3": "44th Amendment",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Of the following words in the Preamble of the Constitution of India, which was not inserted through the Constitution (Forty Second Amendment) Act, 1976 ?",
+            "op1": "Socialist",
+            "op2": "Secular",
+            "op3": "Dignity",
+            "op4": "Integrity",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not mentioned in the Preamble to the Constitution of India ?",
+            "op1": "Justice",
+            "op2": "Fraternity",
+            "op3": "Adult franchise",
+            "op4": "Equality of position",
+            "answer:": 3
+        },
+        {
+            "question": "The Preamble of our Constitution reads India as",
+            "op1": "Socialist, Democratic, Secular Republic",
+            "op2": "Democratic, Sovereign, Secular, Socialist Republic",
+            "op3": "Sovereign, Democratic, Socialist, Secular Republic",
+            "op4": "Sovereign, Socialist, Secular, emocratic Republic",
+            "answer:": 4
+        },
+        {
+            "question": "Who proposed the Preamble before the drafting committee of the Constitution ?",
+            "op1": "Jawaharlal Nehru",
+            "op2": ".R. Ambedkar",
+            "op3": "B.N. Rao",
+            "op4": "Mahatma Gandhi",
+            "answer:": 1
+        },
+        {
+            "question": "According to Preamble, the ultimate power lies in hands of:",
+            "op1": "President",
+            "op2": "Parliament",
+            "op3": "People",
+            "op4": "Constitution",
+            "answer:": 3
+        },
+        {
+            "question": "The Preamble of the Indian Constitution makes no mention of",
+            "op1": "Fraternity",
+            "op2": "Equality of status",
+            "op3": "Justice",
+            "op4": "Adult franchise",
+            "answer:": 4
+        }
+    ]
+}

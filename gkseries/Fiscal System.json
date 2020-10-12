@@ -1,0 +1,406 @@
+{
+    "topic": "Fiscal System",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "Income tax, corporate tax, inheritance tax etc. are incident on the person or organisation. These taxes are called :",
+            "op1": "local tax",
+            "op2": "indirect tax",
+            "op3": "direct tax",
+            "op4": "rate",
+            "answer:": 3
+        },
+        {
+            "question": "Rate of growth of an economy is measured in terms of :",
+            "op1": "per capita income",
+            "op2": "industrial development",
+            "op3": "number of people who have been lifted above the poverty line",
+            "op4": "national income",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following represent the standard of living in a country ?",
+            "op1": "National income",
+            "op2": "Per capita income",
+            "op3": "Poverty ratio",
+            "op4": "Unemployment rate",
+            "answer:": 2
+        },
+        {
+            "question": "Which is the best measure of economic growth of a country ?",
+            "op1": "GNP",
+            "op2": "GDP",
+            "op3": "Net revenue",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "By which bill does the government make arrangement for the collection of revenues for a year ?",
+            "op1": "Supplementary Budget",
+            "op2": "Finance ill",
+            "op3": "Fiscal Budget",
+            "op4": "Economic Bill",
+            "answer:": 2
+        },
+        {
+            "question": "National income of a country is determind on the basis of:",
+            "op1": "Total revenue of the state",
+            "op2": "Net profit earned and expenditure incurred by the state",
+            "op3": "Production of goods and services",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a method of estimating national income ?",
+            "op1": "income method",
+            "op2": "Value-added method",
+            "op3": "Expenditure method",
+            "op4": "Export-import method",
+            "answer:": 4
+        },
+        {
+            "question": "The national income of India is calculated mainly through :",
+            "op1": "production method alone",
+            "op2": "expenditure method alone",
+            "op3": "production and expenditure methods",
+            "op4": "production and income method",
+            "answer:": 4
+        },
+        {
+            "question": "An ad valorem duty is a tax on the basis of :",
+            "op1": "the price of a commodity",
+            "op2": "the value added",
+            "op3": "the advertisement expenditure",
+            "op4": "the unit of the commodity",
+            "answer:": 1
+        },
+        {
+            "question": "The system of the budget was introduced in india during the viceroyalty of :",
+            "op1": "Canning",
+            "op2": "Dalhouseie",
+            "op3": "Ripon",
+            "op4": "Elgin",
+            "answer:": 1
+        },
+        {
+            "question": "Fiscal Responsibility and Budget Management Act (FRBMA) ACT 2003 concerns :",
+            "op1": "fiscal deficit only",
+            "op2": "revenue deficit only",
+            "op3": "both fiscal and revenue deficit",
+            "op4": "neither fiscal nor revenue deficit",
+            "answer:": 3
+        },
+        {
+            "question": "The temporary tax levied to obtain additional revenue is called :",
+            "op1": "cess",
+            "op2": "rate",
+            "op3": "fee",
+            "op4": "surcharge",
+            "answer:": 4
+        },
+        {
+            "question": "What are the two main attributes of a formal organization ?",
+            "op1": "esteern and prestige",
+            "op2": "role and duties",
+            "op3": "dominance and supremacy",
+            "op4": "rules and regulations",
+            "answer:": 4
+        },
+        {
+            "question": "Which is correct with respect to the following ?",
+            "op1": "rises",
+            "op2": "falls",
+            "op3": "remains constant",
+            "op4": "can be any of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The existence of a Parallel Economy or Black Money :",
+            "op1": "makes the economy more competitive",
+            "op2": "makes the monetary policies less effective",
+            "op3": "ensures a better distribution of income and wealth",
+            "op4": "ensures increasing productive investment",
+            "answer:": 2
+        },
+        {
+            "question": "The cause of low per capita income in India is :",
+            "op1": "of population growth",
+            "op2": "of price rise",
+            "op3": "more people are in rural areas",
+            "op4": "of regional imbalances",
+            "answer:": 1
+        },
+        {
+            "question": "Which among the following formulates fiscal policy ?",
+            "op1": "RBI",
+            "op2": "Finance Ministry",
+            "op3": "President",
+            "op4": "Planning Commission",
+            "answer:": 2
+        },
+        {
+            "question": "Dear Money Policy relates to :",
+            "op1": "high price level",
+            "op2": "large money supply",
+            "op3": "high production",
+            "op4": "high interest rate",
+            "answer:": 4
+        },
+        {
+            "question": "One of the problem in calculating the national income in India correctly is :",
+            "op1": "under-er-employment",
+            "op2": "inflation",
+            "op3": "non-monetised consumption",
+            "op4": "low saving",
+            "answer:": 3
+        },
+        {
+            "question": "Companies pay Corporation Tax on their :",
+            "op1": "investment",
+            "op2": "production",
+            "op3": "sales proceeds",
+            "op4": "incomes",
+            "answer:": 4
+        },
+        {
+            "question": "The term \u2018Balanced Growth\u2019 refers to:",
+            "op1": "Growth which brings about a balance between the owner and employee",
+            "op2": "Growth which brings about a balance between the public and private sectors",
+            "op3": "Growth which brings about a balance between the traditional and modern sector",
+            "op4": "Growth pattern on which simultaneous investments are made in all the sectors of the economy, viz. Agriculture, Industry, Transport, Communication, etc.",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following indicates the progress of a country ?",
+            "op1": "Growth of GNP",
+            "op2": "Reduction of unemployment",
+            "op3": "Reduction in inequalities",
+            "op4": "Growth of per capital income",
+            "answer:": 1
+        },
+        {
+            "question": "The term \u2018Invisible trade\u2019 refers to the trade:",
+            "op1": "of government with public institutions",
+            "op2": "of government with other countries",
+            "op3": "of the non-tangible services like the customer service, bank, marine companies and shipping companies",
+            "op4": "of corporate and financial institutions with government",
+            "answer:": 3
+        },
+        {
+            "question": "What is \u2018Recession\u2019 ?",
+            "op1": "Rise in the cost of production, especially because of wage increase",
+            "op2": "Reduction of Gross Domestic Product(GDP) lasts hardly for few months",
+            "op3": "Increase in money supply without a matching increase in production",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Buyer\u2019s market is a situation where:",
+            "op1": "The supply exceeds the demand",
+            "op2": "The demand exceeds the supply",
+            "op3": "The demand and supply are well balanced",
+            "op4": "Commodities are available at competitive rates",
+            "answer:": 1
+        },
+        {
+            "question": "The rate of growth of per capita income is equal to:",
+            "op1": "Rate of growth of national income",
+            "op2": "Rate of growth of national income minus the rate of demographic inflation",
+            "op3": "Growth in national income divided by the increase in population",
+            "op4": "Rate of growth of national income divided by the rate of growth of population",
+            "answer:": 2
+        },
+        {
+            "question": "The per capita income is obtained by:",
+            "op1": "Summing up the income of all the citizens of the country",
+            "op2": "Dividing national income by the population",
+            "op3": "Estimating the minimum income of the individual citizens",
+            "op4": "ividing the total national capital with the profit earned",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following taxes is not levied by the Union Government ?",
+            "op1": "Income Tax",
+            "op2": "Land Revenue",
+            "op3": "Excise Duty",
+            "op4": "Wealth Tax",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not a source of state government tax ?",
+            "op1": "Land revenue",
+            "op2": "Entertainment tax",
+            "op3": "Sales and purchase of newspapers",
+            "op4": "Stamp duty other than financial documents",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is a indirect tax ?",
+            "op1": "Tax on income",
+            "op2": "Tax on wealth",
+            "op3": "Tax on expenditure",
+            "op4": "Tax on entertainment",
+            "answer:": 4
+        },
+        {
+            "question": "The main reason for low growth rate in India, inspite of high rate of saving and capital formation is:",
+            "op1": "High capital/output ratio",
+            "op2": "Low capital/output ratio",
+            "op3": "High birth rate",
+            "op4": "Low level of foreign investment",
+            "answer:": 1
+        },
+        {
+            "question": "The situation \u2018Liquidity trap\u2019 refers to:",
+            "op1": "Because of price rate declination people wish to hold only cash",
+            "op2": "People want to hold only cash because there is too much of liquidity in the economy",
+            "op3": "The rate of interest is so low that no one wants to hold interest bearing assets and people wants to hold cash",
+            "op4": "There is an excess of foreign exchange reserves in the economy leading to excess of money supply",
+            "answer:": 3
+        },
+        {
+            "question": "The tax whose share in overall taxation revenue has gone up rapidly during the planning period is:",
+            "op1": "Income tax",
+            "op2": "Wealth tax",
+            "op3": "Land revenue tax",
+            "op4": "Tax on production",
+            "answer:": 4
+        },
+        {
+            "question": "The most appropriate measure of a country\u2019s economic growth is the:",
+            "op1": "Per capita real income",
+            "op2": "Net domestic product",
+            "op3": "Gross domestic product",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Value-added tax is:",
+            "op1": "special tax levied by states on products from other states",
+            "op2": "Tax on final consumption collected at the consumption stage",
+            "op3": "An ad valorem tax on final consumption collected at the manufacturing level",
+            "op4": "An indirect tax on the domestic consumption of goods collected at all stages between production and the point of final sale",
+            "answer:": 4
+        },
+        {
+            "question": "How does the consumer benefit with VAT ?",
+            "op1": "With the abolition of the sales tax",
+            "op2": "As compared to other taxes, there is a less chance of tax evasion. VAT minimizes tax evasion due to its catch-up effect. It reduces the cost of production",
+            "op3": "Due to the exemption of small businesses from the tax within certain limits prescribed by the State",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "The expenditure expensed immediately is known as:",
+            "op1": "Revenue expenditure",
+            "op2": "capital expenditure",
+            "op3": "current expenditure",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "When the Reserve Bank of India announces an increase of the Cash Reserve Ratio, what does it mean ?",
+            "op1": "The commercial banks will have more money to lend",
+            "op2": "The commercial banks will have less money to lend",
+            "op3": "The Reserve Bank of India will have less money to lend",
+            "op4": "The Union Government will have less money to lend",
+            "answer:": 2
+        },
+        {
+            "question": "Economically developed countries are referred to as:",
+            "op1": "Countries earning huge industrial profits",
+            "op2": "Countries proficient in trade and export",
+            "op3": "ountries having large per capita income",
+            "op4": "Countries advanced in technology",
+            "answer:": 3
+        },
+        {
+            "question": "Usually two months advanced grants made by the house to enable the government functions to carry on until the voting of the demands for grants and passing of the General Appropriation Bill is called:",
+            "op1": "Vote on account",
+            "op2": "Complementary budget",
+            "op3": "Supplementary budget",
+            "op4": "Contingency budget",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is a true statement about India Since 1951 ?",
+            "op1": "National and per capita incomes have both increased fast",
+            "op2": "National income has increased but per capita income has decreased",
+            "op3": "National income and per capita income have increased every year",
+            "op4": "National income has increased and per capita income has also increased but at a slower rate",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is the updated base for Wholesale Price Index (WPI) ?",
+            "op1": "2002 - 2003",
+            "op2": "2004 - 2005",
+            "op3": "2005 - 2006",
+            "op4": "2006 - 2007",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is not a feature of \u201cValue Added Tax\u201d ?",
+            "op1": "It is a multi-point destination-based system of taxation",
+            "op2": "It is a tax levied on value addition at each stage of transaction in the production-distribution chain",
+            "op3": "It is a tax on the final consumption of goods or services and must ultimately be borne by the consumer",
+            "op4": "It is basically a subject of the Central Government and the State Governments are only a facilitator for its successful implementation",
+            "answer:": 4
+        },
+        {
+            "question": "A rapid increase in the rate of inflation is sometimes attributed to the \u201cbase effect\u201d. What is \u201cbase effect\u201d ?",
+            "op1": "It is the impact of drastic deficiency in supply due to failure of crops",
+            "op2": "It is the impact of the surge in demand due to rapid economic growth",
+            "op3": "It is the impact of the price levels of previous year on the calculation of inflation rate",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following statements appropriately describes the \u201cfiscal stimulus\u201d ?",
+            "op1": "It is a massive investment by the Government in manufacturing sector to ensure the supply of goods to meet the demand surge caused by rapid economic growth",
+            "op2": "It is an intense affirmative action of the Government to boost economic activity in the country",
+            "op3": "It is Government\u2019s intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation",
+            "op4": "It is an extreme affirmative action by the Government to pursue its policy of financial inclusion",
+            "answer:": 2
+        },
+        {
+            "question": "Economic growth is usually coupled with",
+            "op1": "inflation",
+            "op2": "stagflation",
+            "op3": "deflation",
+            "op4": "All of these",
+            "answer:": 1
+        },
+        {
+            "question": "Under increasing returns the supply curve is",
+            "op1": "positively sloped from left to right",
+            "op2": "negatively sloped from left to right",
+            "op3": "parallel to the quantity-axis",
+            "op4": "parallel to the price-axis",
+            "answer:": 1
+        },
+        {
+            "question": "In India, the tax proceeds of which one of the following as a percentage of gross tax revenue has significantly declined in the last five years",
+            "op1": "Service tax",
+            "op2": "Personal income tax",
+            "op3": "Excise duty",
+            "op4": "Corporation tax",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following are the main causes of slow rate of growth of per capita income in India ?",
+            "op1": "Only I",
+            "op2": "I and II only",
+            "op3": "I and III only",
+            "op4": "All of these",
+            "answer:": 2
+        },
+        {
+            "question": "In terms of economics visiting various places of India by foreign tourists is :",
+            "op1": "Export",
+            "op2": "Import",
+            "op3": "Production",
+            "op4": "Consumption",
+            "answer:": 1
+        }
+    ]
+}

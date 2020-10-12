@@ -1,0 +1,206 @@
+{
+    "topic": "Backup and Recovery",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "A deadlock exists in the system if and only if the wait for graph :",
+            "op1": "has a cycle in it",
+            "op2": "has a path from first node to last node",
+            "op3": "is a tree",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Data processing cycle consists of :",
+            "op1": "Input cycle and output cycle",
+            "op2": "Input cycle, output cycle, storage and processing cycle",
+            "op3": "Output cycle and processing cycle",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a proper state of transaction ?",
+            "op1": "Partially aborted",
+            "op2": "Partially committed",
+            "op3": "Aborted",
+            "op4": "Committed",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following concurrency-control schemes is not based on the serializability Property ?",
+            "op1": "Two-phase locking",
+            "op2": "Graph-based locking",
+            "op3": "Timestamp-based locking",
+            "op4": "None of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Rollback of transactions is normally used to :",
+            "op1": "recover from transaction failure",
+            "op2": "update the transaction",
+            "op3": "retrieve old records",
+            "op4": "repeat a transaction",
+            "answer:": 1
+        },
+        {
+            "question": "Which commands are used to control which users have which privilege over which objects ?",
+            "op1": "QUE and QUIST",
+            "op2": "GRANT and REVOKE",
+            "op3": "ASEADE and MVD",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "When a deadlock is detected the recovery is normally accomplished by :",
+            "op1": "rollback of transaction",
+            "op2": "locking of data",
+            "op3": "consistency checking",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which is not a desirable property of a transaction ?",
+            "op1": "Isolation",
+            "op2": "Atomicity",
+            "op3": "Durability",
+            "op4": "All are desirable",
+            "answer:": 4
+        },
+        {
+            "question": "A directed graph which represents the deadlock is called :",
+            "op1": "cycle graph",
+            "op2": "deadlock graph",
+            "op3": "wait-for graph",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Transaction Throughput is :",
+            "op1": "Elapsed Time between submitting a transaction and receiving a transaction.",
+            "op2": "Average no. of transaction processed per second.",
+            "op3": "No. of resources used by a transaction.",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A transaction performs on the isolation level of the Read Uncommitted if :",
+            "op1": "dirty read occurs",
+            "op2": "Non-repeatable read occurs",
+            "op3": "Phantom reads occurs",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "One common approach of preventing deadlocks, before beginning an update is :",
+            "op1": "lock the DBMS",
+            "op2": "lock the database",
+            "op3": "lock the one row",
+            "op4": "lock all the rows and/or table",
+            "answer:": 2
+        },
+        {
+            "question": "Media recovery refers to recovering database :",
+            "op1": "after a system crash.",
+            "op2": "after some individual transaction has failed.",
+            "op3": "after database has been physically damaged.",
+            "op4": "none of the above.",
+            "answer:": 3
+        },
+        {
+            "question": "Which one is true statement ?",
+            "op1": "With finer degree of granularity of locking a high degree of concurrency is possible.",
+            "op2": "Locking prevents non-serializable schedules.",
+            "op3": "Locking cannot take place at level.",
+            "op4": "An exclusive lock on data item X is granted even if a shared lock in already held on X.",
+            "answer:": 2
+        },
+        {
+            "question": "Assume transaction A holds a share lock R. If a transaction B also requests for a shared lock on R.",
+            "op1": "it will result in deadlock situation.",
+            "op2": "it will immediately be granted.",
+            "op3": "it will immediately be rejected.",
+            "op4": "it will be granted as soon as it is released by A.",
+            "answer:": 4
+        },
+        {
+            "question": "A race condition occurs when :",
+            "op1": "Two concurrent activities interact to cause a processing error.",
+            "op2": "Two users of the DMS are interacting with different files at the same time.",
+            "op3": "Both [A] and [B]",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "In multiuser database, if two users wish to update the same record at the same time, they are prevented by doing so by",
+            "op1": "jamming",
+            "op2": "password",
+            "op3": "documentation",
+            "op4": "record-lock",
+            "answer:": 4
+        },
+        {
+            "question": "One of the following steps is not involved in processing a query :",
+            "op1": "Parsing and transaction",
+            "op2": "Optimization",
+            "op3": "Evaluation",
+            "op4": "istribution",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following describes the timestamp-based protocols correctly ?",
+            "op1": "This protocol requires that each transaction issue lock and unlock requests in two phases.",
+            "op2": "This protocol employs only exclusive locks.",
+            "op3": "This protocol selects an ordering among transaction in advance.",
+            "op4": "None of the above.",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following can enhance database system throughput ?",
+            "op1": "Database system throughput can be enhanced by locking the smallest sized objects possible.",
+            "op2": "Database system throughput can be enhanced by reducing the time that transaction that hold locks.",
+            "op3": "Database system throughput can be enhanced by reducing the hot spots (frequently accessed and modified database objects).",
+            "op4": "Increasing the main memory capacity can enhance database system throughput.",
+            "answer:": 4
+        },
+        {
+            "question": "A statement that is executed automatically by the system as a side effect of a modification to the database is known as :",
+            "op1": "ssertion",
+            "op2": "Triggers",
+            "op3": "Referential constraints",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "An audit trail :",
+            "op1": "Can be used to restore lost information",
+            "op2": "is used to make backup copies",
+            "op3": "is the recovered history of operations performed on a file",
+            "op4": "all of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Assume transaction A holds a shared lock R. If transaction B also requests for a shared lock on R.",
+            "op1": "it will result in a deadlock situation",
+            "op2": "it will immediately be granted",
+            "op3": "it will immediately be rejected",
+            "op4": "it will immediately be rejected",
+            "answer:": 4
+        },
+        {
+            "question": "Which technique is used to restore a database upto the last consistent state after system failure ?",
+            "op1": "Backup",
+            "op2": "Recovery",
+            "op3": "Both [A] and [B]",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "What is log in log based recovery system ?",
+            "op1": "Filter",
+            "op2": "Records",
+            "op3": "Blocks",
+            "op4": "Numbers",
+            "answer:": 2
+        }
+    ]
+}

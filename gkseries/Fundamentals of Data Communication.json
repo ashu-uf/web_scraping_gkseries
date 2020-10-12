@@ -1,0 +1,198 @@
+{
+    "topic": "Fundamentals of Data Communication",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "A digital channel implies that the channel",
+            "op1": "is digitized",
+            "op2": "is carrying digital data",
+            "op3": "is without carrier",
+            "op4": "none of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Twisting of wire reduces",
+            "op1": "interference",
+            "op2": "impulse noise",
+            "op3": "low frequency interference",
+            "op4": "none of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following transmission is concerned with content of the data ?",
+            "op1": "nalog transmission",
+            "op2": "Digital transmission",
+            "op3": "Both analog and digital transmission",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following medium does not use metallic conductor for transmission ?",
+            "op1": "Twisted pair",
+            "op2": "Coaxial cable",
+            "op3": "Optical fiber",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "Dual cable and signal cable are the two types of",
+            "op1": "Broadband networks",
+            "op2": "Radio networks",
+            "op3": "Baseband networks",
+            "op4": "Satellite networks",
+            "answer:": 1
+        },
+        {
+            "question": "Light is confined within the core of a simple optical fiber by ________",
+            "op1": "Refraction",
+            "op2": "Reflection from the fiber\u2019s plastic coating",
+            "op3": "Total internal reflection at the core cladding boundary",
+            "op4": "Total internal reflection at the outer edge of the cladding",
+            "answer:": 3
+        },
+        {
+            "question": "Of the following communications channels, which does not provide a physical link between terminal and the computer ?",
+            "op1": "Optical fiber",
+            "op2": "Telephone line",
+            "op3": "oaxial cable",
+            "op4": "Microwave",
+            "answer:": 4
+        },
+        {
+            "question": "The highest data rate is provided by the transmission medium",
+            "op1": "Microwave",
+            "op2": "Twisted pairs",
+            "op3": "Optical fiber",
+            "op4": "Coaxial cable",
+            "answer:": 3
+        },
+        {
+            "question": "Computer in a computer network are connected by",
+            "op1": "Satellite channel only",
+            "op2": "Telephone line only",
+            "op3": "Either telephone line or satellite channel",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In ______ transmission, a start bit and stop bit from a character byte.",
+            "op1": "Parallel",
+            "op2": "Asynchronous",
+            "op3": "Synchronous",
+            "op4": "ata transfer",
+            "answer:": 2
+        },
+        {
+            "question": "Communication system is a combination of",
+            "op1": "Hardware",
+            "op2": "Software",
+            "op3": "Data transfer links",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The slowest transmission speeds are those of",
+            "op1": "Coaxial cable",
+            "op2": "Twisted pair wire",
+            "op3": "Fiber-optic cable",
+            "op4": "Microwave",
+            "answer:": 2
+        },
+        {
+            "question": "Fiber optic communication system uses:",
+            "op1": "Simplex communication",
+            "op2": "Full-duplex",
+            "op3": "Both (A) and (B)",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Transmission media are usually categorized as",
+            "op1": "Determinate and indeterminate",
+            "op2": "Guided or unguided",
+            "op3": "Fixed or unfixed",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which transmission mode is used for data communication along telephone line ?",
+            "op1": "Parallel",
+            "op2": "Asynchronous",
+            "op3": "Synchronous",
+            "op4": "Serial",
+            "answer:": 4
+        },
+        {
+            "question": "In fiber optic, the signal source is",
+            "op1": "Light",
+            "op2": "Radio",
+            "op3": "Very low frequency",
+            "op4": "Microwave frequency",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not a guided medium ?",
+            "op1": "Coaxial cable",
+            "op2": "Twisted pair wire",
+            "op3": "Fiber-optic cable",
+            "op4": "Atmosphere",
+            "answer:": 4
+        },
+        {
+            "question": "The inner core of an optical fiber is ______",
+            "op1": "Copper",
+            "op2": "Glass or plastic",
+            "op3": "Liquid",
+            "op4": "Bimetallic",
+            "answer:": 2
+        },
+        {
+            "question": "Coaxial cables are widely used in",
+            "op1": "Cable TV networks",
+            "op2": "Telephone networks",
+            "op3": "Both (A) and (B)",
+            "op4": "Computer networks",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is a voiceband channel ?",
+            "op1": "Telephone line",
+            "op2": "Coaxial cable",
+            "op3": "Microwave systems",
+            "op4": "Telegraph line",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not a transmission medium ?",
+            "op1": "Microwave systems",
+            "op2": "Telephone lines",
+            "op3": "oaxial cable",
+            "op4": "Modem",
+            "answer:": 4
+        },
+        {
+            "question": "Coaxial cable has conductors with",
+            "op1": "Equal resistance",
+            "op2": "The same diameter",
+            "op3": "(A) and (B) both",
+            "op4": "A common axis",
+            "answer:": 4
+        },
+        {
+            "question": "The following medium does not use metallic conductor for transmission",
+            "op1": "Coaxial cable",
+            "op2": "Optical fiber",
+            "op3": "Twisted pair",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "What is the name of the device that connect two computers by means of a telephone line ?",
+            "op1": "Cable",
+            "op2": "us",
+            "op3": "Modem",
+            "op4": "Tape",
+            "answer:": 3
+        }
+    ]
+}

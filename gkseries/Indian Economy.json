@@ -1,0 +1,406 @@
+{
+    "topic": "Indian Economy",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "The symbol of Reserve Bank of India is",
+            "op1": "Tiger before a Palm tree",
+            "op2": "Capitol of Asokan Pillar",
+            "op3": "Kuber with a purse of money",
+            "op4": "A og sitting in a defensive state",
+            "answer:": 1
+        },
+        {
+            "question": "The achieve high rates of growth of national output, the economy has to",
+            "op1": "Borrow foreign capital",
+            "op2": "Step up the rate of savings",
+            "op3": "Reduce the rate of growth of population",
+            "op4": "Increase the rate of investment and reduce the capital output ratio",
+            "answer:": 4
+        },
+        {
+            "question": "National income refers to",
+            "op1": "Money value of stocks and shares of a country during a year",
+            "op2": "Money value of capital goods produced by a country during a year",
+            "op3": "Money value of consumer goods produced by a country during a year",
+            "op4": "Money value of goods and services produced in a country during a year",
+            "answer:": 2
+        },
+        {
+            "question": "Why did the Government ban the import of \u201cTerminator seeds\u201d?",
+            "op1": "To contain a virus which can destroy local crops",
+            "op2": "These seeds multiply at very slow rates",
+            "op3": "These seeds are injurious to human and animal health",
+            "op4": "These seeds contain genetically engineered properties to prevent further multiplication",
+            "answer:": 4
+        },
+        {
+            "question": "Merchant Banking is an institution which provides finances to:",
+            "op1": "International trade among countries",
+            "op2": "Domestic retail trade among",
+            "op3": "International aid agencies",
+            "op4": "omestic whole sale trade",
+            "answer:": 1
+        },
+        {
+            "question": "Which amidst the following taxes collected by the Union is NOT mandated to be assigned to the States?",
+            "op1": "Service Tax",
+            "op2": "Taxes on consignment of goods",
+            "op3": "Taxes on railway fares and freights",
+            "op4": "Terminal taxes on goods or passengers carried by railway, sea or air",
+            "answer:": 1
+        },
+        {
+            "question": "Inflation is caused by:",
+            "op1": "Increase in supply of goods",
+            "op2": "Decrease in money supply",
+            "op3": "Increase in money supply",
+            "op4": "Increase in cash with the government",
+            "answer:": 3
+        },
+        {
+            "question": "Open market operation refers to",
+            "op1": "Purchase and sale of Government securities by the R.B.I.",
+            "op2": "Purchase and sale of bounds and securities by the Central Govt.",
+            "op3": "Borrowing by commercial banks from the R.B.I.",
+            "op4": "Lending by scheduled banks to non-scheduled banks",
+            "answer:": 1
+        },
+        {
+            "question": "What is the main function of Central Statistical Organisation (CSO)?",
+            "op1": "Determination of money supply",
+            "op2": "Price determination",
+            "op3": "ollection of estimates of national income",
+            "op4": "Collection of detail data regarding employment",
+            "answer:": 3
+        },
+        {
+            "question": "What does National Income mean?",
+            "op1": "The total value of all consumer goods produced in the country during a period of one year",
+            "op2": "The total value of all capital goods produced in the country during a period of one year",
+            "op3": "The total value of all stocks and shares in the country during a period of one year",
+            "op4": "The total value of all goods and services produced in the country during a period of one year",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is the most important domestic source of planned finance?",
+            "op1": "dditional taxation",
+            "op2": "Domestic private savings",
+            "op3": "Profit from public sector units",
+            "op4": "Balance of current revenue",
+            "answer:": 2
+        },
+        {
+            "question": "What is the name of the electronic communication network of the Reserve Bank of India?",
+            "op1": "BOLT",
+            "op2": "RISAT",
+            "op3": "RBINET",
+            "op4": "RBIOT",
+            "answer:": 3
+        },
+        {
+            "question": "Which authority decides about the States\u2019 share in central taxes?",
+            "op1": "Finance Ministry",
+            "op2": "Election Commission",
+            "op3": "Planning ommission",
+            "op4": "Finance Commission",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is has the sole right of issuing currency (except one rupee coins and notes) in India?",
+            "op1": "The Reserve Bank of India",
+            "op2": "The State ank of India",
+            "op3": "The Planning ommission",
+            "op4": "The Government of India",
+            "answer:": 1
+        },
+        {
+            "question": "RBI does not transact the business of which State Government?",
+            "op1": "ssam",
+            "op2": "ihar",
+            "op3": "Jammu and Kashmir",
+            "op4": "Nagaland",
+            "answer:": 3
+        },
+        {
+            "question": "ICI is the name associated with",
+            "op1": "private sector bank",
+            "op2": "Indian Cement Industry",
+            "op3": "hamber of ommerce and Industry",
+            "op4": "A MNC which manufactures chemicals",
+            "answer:": 4
+        },
+        {
+            "question": "Reserve Bank of India was nationalized in",
+            "op1": "1948",
+            "op2": "1949",
+            "op3": "1950",
+            "op4": "1951",
+            "answer:": 2
+        },
+        {
+            "question": "Per capita income is obtained by dividing National Income by",
+            "op1": "rea of the country",
+            "op2": "Volume of capital used",
+            "op3": "Total working population",
+            "op4": "Total population of the country",
+            "answer:": 4
+        },
+        {
+            "question": "GDP at Factor Cost is",
+            "op1": "GDP minus indirect taxes plus subsidies",
+            "op2": "GDP minus subsidies plus indirect taxes",
+            "op3": "NNP plus depreciation allowances",
+            "op4": "GP minus depreciation allowances",
+            "answer:": 1
+        },
+        {
+            "question": "NREGP is the abbreviated form of",
+            "op1": "National Rapid Employment Guarantee Programme",
+            "op2": "National Rapid Educational Guarantee Programme",
+            "op3": "National Rural Employment Guarantee Programme",
+            "op4": "National Rural Educational Guarantee Programme",
+            "answer:": 3
+        },
+        {
+            "question": "Gross Domestic Product is defined as the value of all",
+            "op1": "Goods produced in an economy in a year",
+            "op2": "Goods and services produced in an economy in a year",
+            "op3": "Final goods produced in an economy in a year",
+            "op4": "Final goods and services produced in an economy in a year",
+            "answer:": 4
+        },
+        {
+            "question": "Which is the biggest tax paying sector in India?",
+            "op1": "Banking sector",
+            "op2": "Transport sector",
+            "op3": "Industrial sector",
+            "op4": "Agriculture sector",
+            "answer:": 3
+        },
+        {
+            "question": "The abbreviation \u2018SEBI\u2019 stands for",
+            "op1": "Survey of essential business in India",
+            "op2": "Savings and Exchange ank of India",
+            "op3": "Securities and Exchange Bank of India",
+            "op4": "Securities and Exchange Board of India",
+            "answer:": 4
+        },
+        {
+            "question": "The Annapurna Scheme was implemented in the year",
+            "op1": "1998",
+            "op2": "2000",
+            "op3": "2004",
+            "op4": "2004",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a part of national income?",
+            "op1": "Rent",
+            "op2": "Profits",
+            "op3": "Wages and Salaries",
+            "op4": "Interest on national debt",
+            "answer:": 1
+        },
+        {
+            "question": "To achieve economic self-reliance was the main objective of which Five Year Plan?",
+            "op1": "First Five Year Plan",
+            "op2": "Second Five Year Plan",
+            "op3": "Third Five Year Plan",
+            "op4": "Fourth Five Year Plan",
+            "answer:": 4
+        },
+        {
+            "question": "Commercial banking system in India is",
+            "op1": "Branch banking",
+            "op2": "Mixed banking",
+            "op3": "Unit banking",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is the largest employer in India?",
+            "op1": "Steel uthority of India",
+            "op2": "Indian Railways",
+            "op3": "Food orporation of India",
+            "op4": "Posts and Telegraphs epartment",
+            "answer:": 2
+        },
+        {
+            "question": "In Centre-State Financial relations in India, Gadgil Formula is used in",
+            "op1": "Division of tax revenue",
+            "op2": "Writing off States indebtedness to the Centre",
+            "op3": "Formulating the policy for fresh borrowings",
+            "op4": "Allocating Central Plan assistance between States",
+            "answer:": 1
+        },
+        {
+            "question": "The most important source of revenue for the states in India is",
+            "op1": "Excise duties",
+            "op2": "Income tax",
+            "op3": "Sales tax",
+            "op4": "Corporation tax",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not an industrial finance institution?",
+            "op1": "UTI",
+            "op2": "SFCs",
+            "op3": "III",
+            "op4": "NABAR",
+            "answer:": 4
+        },
+        {
+            "question": "The largest source of revenue to the Union Government is",
+            "op1": "Central Excise Duty",
+            "op2": "Customs Duty",
+            "op3": "Income Tax",
+            "op4": "Wealth Tax",
+            "answer:": 1
+        },
+        {
+            "question": "Which bank in India performs duties of Central Bank?",
+            "op1": "State Bank of India",
+            "op2": "Central ank of India",
+            "op3": "Reserve Bank of India",
+            "op4": "Above (A) and (B)",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not the source of the revenue of central Government?",
+            "op1": "Income Tax",
+            "op2": "Excise Duty",
+            "op3": "orporate Tax",
+            "op4": "Agricultural Income Tax",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is not an objective of Fiscal Policy in India?",
+            "op1": "Price Stability",
+            "op2": "Full Employment",
+            "op3": "Regulation of International Trade",
+            "op4": "Equitable istribution of Wealth and Incomes",
+            "answer:": 3
+        },
+        {
+            "question": "The best example of a capital intensive industry in India is",
+            "op1": "Steel Industry",
+            "op2": "Tourism Industry",
+            "op3": "Textile Industry",
+            "op4": "Sports Goods Industry",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following is not included while estimating national income through income method?",
+            "op1": "Rent",
+            "op2": "Pension",
+            "op3": "Mixed Income",
+            "op4": "Undistributed profits",
+            "answer:": 4
+        },
+        {
+            "question": "Who advocated the adoption of \u2018PURA\u2019 model to eradicate rural poverty?",
+            "op1": ".M. Khusro",
+            "op2": "Dr. A.P.J. Abdul Kalam",
+            "op3": "M.S. Swami Nathan",
+            "op4": "Maulana Abul Kalam Azad",
+            "answer:": 2
+        },
+        {
+            "question": "The main difference between Gross Domestic Product (GDP) and Gross National Product (GNP) is",
+            "op1": "Capital gains",
+            "op2": "Transfer payments",
+            "op3": "Net foreign income from abroad",
+            "op4": "Capital consumption allowance",
+            "answer:": 3
+        },
+        {
+            "question": "The Community Development Programme was launched in the year",
+            "op1": "1950",
+            "op2": "1952",
+            "op3": "1954",
+            "op4": "1956",
+            "answer:": 2
+        },
+        {
+            "question": "For which tax, was constitutional status given much later after its introduction in a small way in 1994-95?",
+            "op1": "Income Tax",
+            "op2": "Taxes on Services",
+            "op3": "orporation Tax",
+            "op4": "Customers uty",
+            "answer:": 2
+        },
+        {
+            "question": "Social accounting system in India is classified into",
+            "op1": "Enterprise, households and government",
+            "op2": "Assets, liabilities and debt position",
+            "op3": "Income, product and expenditure",
+            "op4": "Public sector, private sector and joint sector",
+            "answer:": 3
+        },
+        {
+            "question": "Which Five Year Plan duration was of four years only?",
+            "op1": "Third",
+            "op2": "Fourth",
+            "op3": "Fifth",
+            "op4": "Seventh",
+            "answer:": 3
+        },
+        {
+            "question": "The First Five Year Plan of the Government of India was based on",
+            "op1": "Harrod-Domar model",
+            "op2": "Mahalanobis four-sector model",
+            "op3": "Leontief input-output model",
+            "op4": "Mahalanobis two-sector model",
+            "answer:": 1
+        },
+        {
+            "question": "SEBI was set up in",
+            "op1": "1985",
+            "op2": "1986",
+            "op3": "1987",
+            "op4": "1988",
+            "answer:": 4
+        },
+        {
+            "question": "What is NABARD\u2019s primary role?",
+            "op1": "To act as re-finance institution",
+            "op2": "To provide term loans to state co-operative banks",
+            "op3": "To assist state governments for share capital contribution",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following PSUs has been privatized?",
+            "op1": "HZL",
+            "op2": "CMC",
+            "op3": "NALO",
+            "op4": "Hotel Corporation of India",
+            "answer:": 1
+        },
+        {
+            "question": "What is the purpose of the India Brand Equity Fund?",
+            "op1": "To organize trade fairs",
+            "op2": "To make \u2018Made in India\u2019 a label of quality",
+            "op3": "To promote in-bound tourism",
+            "op4": "To provide venture capital to IT sector",
+            "answer:": 2
+        },
+        {
+            "question": "The best way, a bank can avoid loss is to",
+            "op1": "ccept sound collateral",
+            "op2": "Give only short-term loans",
+            "op3": "Lend only to bank\u2019s old customers",
+            "op4": "Lend only to individuals known to the bank",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not an objective of the monetary policy of the RBI?",
+            "op1": "Boost economic development",
+            "op2": "Control inflationary pressure",
+            "op3": "Ensure social justice",
+            "op4": "irect credit in desirable direction",
+            "answer:": 3
+        }
+    ]
+}

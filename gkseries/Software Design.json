@@ -1,0 +1,126 @@
+{
+    "topic": "Software Design",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "An ER diagram depicts :",
+            "op1": "Entities",
+            "op2": "Keys",
+            "op3": "Relationship",
+            "op4": "All of these above",
+            "answer:": 4
+        },
+        {
+            "question": "In an ER diagram noun is treated as :",
+            "op1": "Entity",
+            "op2": "Relationship",
+            "op3": "Primary key",
+            "op4": "Foreign key",
+            "answer:": 1
+        },
+        {
+            "question": "Data Flow Diagrams are used for :",
+            "op1": "Process modelling",
+            "op2": "Modelling interactions in a real time environment",
+            "op3": "Data modelling",
+            "op4": "None of these above",
+            "answer:": 1
+        },
+        {
+            "question": "Requirements to develop a software :",
+            "op1": "Model business",
+            "op2": "Analyze",
+            "op3": "Design",
+            "op4": "All of these above",
+            "answer:": 4
+        },
+        {
+            "question": "The basic tool used in structured design is a :",
+            "op1": "Structure Chart",
+            "op2": "Data flow diagram",
+            "op3": "ER diagram",
+            "op4": "Program flowchart",
+            "answer:": 1
+        },
+        {
+            "question": "At highest level, a DFD is referred to as :",
+            "op1": "Scope diagram",
+            "op2": "Context diagram",
+            "op3": "Level 1 DFD",
+            "op4": "Level 2 F",
+            "answer:": 2
+        },
+        {
+            "question": "In a DFD, an originator or data receiver is usually designated by",
+            "op1": "square box",
+            "op2": "A circle",
+            "op3": "A rectangle",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "ER diagram is related with :",
+            "op1": "Entity relationship",
+            "op2": "Data flow",
+            "op3": "Foreign key",
+            "op4": "System testing",
+            "answer:": 1
+        },
+        {
+            "question": "The output of System Design stage is represented by",
+            "op1": "State diagram",
+            "op2": "Structure chart",
+            "op3": "ER diagram",
+            "op4": "Context diagram",
+            "answer:": 2
+        },
+        {
+            "question": "A Zero level DFD describes :",
+            "op1": "The fully blown up System Design",
+            "op2": "Data flow in all the modules",
+            "op3": "Overview of processes, inputs and output",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The database design activity deals with the design of the",
+            "op1": "Logical database",
+            "op2": "Physical database",
+            "op3": "Both [A] and [B]",
+            "op4": "Only [B]",
+            "answer:": 3
+        },
+        {
+            "question": "At the most detailed level of the Data flow diagram involves which one of following process ?",
+            "op1": "Functional primitives",
+            "op2": "Data flows",
+            "op3": "Interfaces",
+            "op4": "Transform descriptions",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following defines the rules of DFD ?",
+            "op1": "ll data flows must contain data",
+            "op2": "All data flows must begin and/or end at a process",
+            "op3": "Only processes can connect to data storages",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following is not related to DFD ?",
+            "op1": "Bubble (Process)",
+            "op2": "Arrow (Flow)",
+            "op3": "Secondary storage",
+            "op4": "ata store",
+            "answer:": 3
+        },
+        {
+            "question": "Entities, attributes and relationships are associated with",
+            "op1": "logical concepts of data",
+            "op2": "physical concepts of data",
+            "op3": "programming",
+            "op4": "none of these",
+            "answer:": 1
+        }
+    ]
+}

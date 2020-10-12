@@ -1,0 +1,62 @@
+{
+    "topic": "Fundamental Programming Structures in Java",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "The new operator",
+            "op1": "returns a pointer to a variable",
+            "op2": "creates a variable called new",
+            "op3": "obtains memory for a new variable",
+            "op4": "tells how much memory is available",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following statement is correct?",
+            "op1": "For positive numbers, result of operators >> and >>> are same",
+            "op2": "Java provides two operators to do left shift <<< and <<",
+            "op3": ">> is the zero fill right shift operator",
+            "op4": ">>> is the signed right shift operator",
+            "answer:": 1
+        },
+        {
+            "question": "Command to execute a compiled java program is :",
+            "op1": "javac",
+            "op2": "java",
+            "op3": "run",
+            "op4": "execute",
+            "answer:": 2
+        },
+        {
+            "question": "The java compiler",
+            "op1": "creates executable",
+            "op2": "translates java source code to byte code",
+            "op3": "creates classes",
+            "op4": "produces java Interpreter",
+            "answer:": 2
+        },
+        {
+            "question": "The order of the three top level elements of the java source file are",
+            "op1": "Import, Package, Class",
+            "op2": "Class, Import, Package",
+            "op3": "Package, Import, lass",
+            "op4": "Random order",
+            "answer:": 3
+        },
+        {
+            "question": "Java uses ___ to represent characters",
+            "op1": "SCII code",
+            "op2": "Unicode",
+            "op3": "Byte code",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Java programs are",
+            "op1": "Platform-dependent",
+            "op2": "Interpreter-dependent",
+            "op3": "Platform-independent",
+            "op4": "Interpreter-independent",
+            "answer:": 3
+        }
+    ]
+}

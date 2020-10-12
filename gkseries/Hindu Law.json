@@ -1,0 +1,286 @@
+{
+    "topic": "Hindu Law",
+    "Subject": "Law",
+    "data": [
+        {
+            "question": "According to Hindu Marriage Act marriage is termed as",
+            "op1": "a contract",
+            "op2": "a sacrament",
+            "op3": "both [A] and [B}",
+            "op4": "only [A]",
+            "answer:": 2
+        },
+        {
+            "question": "How to become a Hindu ?",
+            "op1": "By conversion",
+            "op2": "y re-conversion",
+            "op3": "Both [A] and [B]",
+            "op4": "Only [A]",
+            "answer:": 3
+        },
+        {
+            "question": "Section 26 of Hindu Marriage Act, 1955 provides",
+            "op1": "custody of minor children",
+            "op2": "maintenance of minor children",
+            "op3": "education of minor children",
+            "op4": "all these above",
+            "answer:": 4
+        },
+        {
+            "question": "Under which section of Hindu Marriage Act included prohibited relationships ?",
+            "op1": "Section 2(d)",
+            "op2": "Section 2(e)",
+            "op3": "Section 2(f)",
+            "op4": "Section 2(g)",
+            "answer:": 4
+        },
+        {
+            "question": "The marriage may be solemnized between two Hindus if",
+            "op1": "bride completes the age of 18 years and bridegroom completes the age of 21 years",
+            "op2": "bride completes the age of 21 years and bridegroom completes the age of 18 years",
+            "op3": "bride completes the age of 14 years and bridegroom completes the age of 18 years",
+            "op4": "bride completes the age of 18 years and bridegroom completes the age of 18 years",
+            "answer:": 1
+        },
+        {
+            "question": "Degrees of prohibited relationships is applicable between two persons if they are related by",
+            "op1": "full blood",
+            "op2": "half or uterine blood",
+            "op3": "adoption",
+            "op4": "all the above",
+            "answer:": 4
+        },
+        {
+            "question": "Bigamy under the Hindu Marriage Act, 1955 includes",
+            "op1": "Polygamy i.e. having more than one wife",
+            "op2": "Polyandry i.e. havng more than one husband",
+            "op3": "Both [A] and [B]",
+            "op4": "Only [B]",
+            "answer:": 3
+        },
+        {
+            "question": "Bigamy laws are not applicable to",
+            "op1": "Hindus",
+            "op2": "Muslims",
+            "op3": "Sikhs",
+            "op4": "Jains",
+            "answer:": 2
+        },
+        {
+            "question": "The Hindu succession Act, 156, abolishes",
+            "op1": "the doctrine of acquisition of right by birth",
+            "op2": "the doctrine of the right survivorship",
+            "op3": "both [A] and [B]",
+            "op4": "none of these",
+            "answer:": 4
+        },
+        {
+            "question": "Desertion is a",
+            "op1": "total repudiation of obligation of marriage",
+            "op2": "partial repudiation of the obligation of marriage",
+            "op3": "both [A] and [B]",
+            "op4": "only [A]",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is provided in the section 7 of Hindu Marriage Act, 1955?",
+            "op1": "Registration",
+            "op2": "Ceremonies for a Hindu marriage",
+            "op3": "Adoption of child",
+            "op4": "All the above",
+            "answer:": 2
+        },
+        {
+            "question": "Section 8 of Hindu Marriage Act, 1955 is related to:",
+            "op1": "Celebration in marriages",
+            "op2": "Dowry",
+            "op3": "Registration of Hindu Marriages",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is correct with respect to Section 5(i) of Hindu Marriage Act, 1955?",
+            "op1": "neither party has a spouse living at the time of the marriage",
+            "op2": "neither party has living children at the time of the marriage",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these above",
+            "answer:": 1
+        },
+        {
+            "question": "Presumption that the younger survived the elder under Section 21 of the Hindu Succession Act 1956 is a :",
+            "op1": "Presumption of fact",
+            "op2": "Presumption of fact and law",
+            "op3": "Rebuttable presumption of law",
+            "op4": "irrebuttable presumption of law",
+            "answer:": 3
+        },
+        {
+            "question": "Section 14 of the Hindu Succession Act. 1956 applies to :",
+            "op1": "Movable property",
+            "op2": "Immovable property",
+            "op3": "Both movable and immovable property",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "'Heir' has been defined under:",
+            "op1": "Section 3(d) of the Hindu Succession ct",
+            "op2": "Section 3(e) of the Hindu Succession Act",
+            "op3": "Section 3(f) of the Hindu Succession Act",
+            "op4": "Section 3(g) of the Hindu Succession Ac",
+            "answer:": 3
+        },
+        {
+            "question": "Hindu Succession Amendment Act, 2005 came into effect on",
+            "op1": "9th June, 2005",
+            "op2": "9th August, 2005",
+            "op3": "9th July, 2005",
+            "op4": "9th September, 2005",
+            "answer:": 4
+        },
+        {
+            "question": "Under the Hindu Succession Act, the property of a male Hindu dying intestate shall devolve according to the provisions of",
+            "op1": "Section 8",
+            "op2": "Section 9",
+            "op3": "Section 6",
+            "op4": "Section 14",
+            "answer:": 3
+        },
+        {
+            "question": "A dies after the commencement of the Hindu Succession Act leaving behind three sons B, C and D. The interest in the property passes to by :",
+            "op1": "Sapind relationship",
+            "op2": "Testamentary succession",
+            "op3": "Survivorship",
+            "op4": "Limited estate",
+            "answer:": 3
+        },
+        {
+            "question": "Any property possessed by a female hindu whether acquired before or after commencement of the Act shall be held by her as :",
+            "op1": "Limited owner",
+            "op2": "Ancestral property",
+            "op3": "Stridhana property",
+            "op4": "Full owner",
+            "answer:": 4
+        },
+        {
+            "question": "A Hindu dies leaving behind father and son's daughter's son. They are",
+            "op1": "Class I heirs",
+            "op2": "Class II heirs",
+            "op3": "Preferencial heirs",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "On which date the Hindu Succession Act, 1956 came into force ?",
+            "op1": "17th, May",
+            "op2": "17th, June",
+            "op3": "17th, July",
+            "op4": "17th, April",
+            "answer:": 2
+        },
+        {
+            "question": "The Hindu Succession Act does not have territorial jurisdiction over :",
+            "op1": "Only Hindus of Jammu and Kashmir",
+            "op2": "Only Hindus of Goa, Daman and Diu",
+            "op3": "Only Hindus of Renocants of Pondicherry",
+            "op4": "Hindus all the above areas",
+            "answer:": 1
+        },
+        {
+            "question": "A Hindu female W dies and is survived by her husband H, one son S and two unmarried daughters D1 and D2. How the property of W will be divided?",
+            "op1": "into four equal parts",
+            "op2": "1/2 to husband and remaining 1/2 to son and daughters",
+            "op3": "1/2 to son and remaining half to husband and daughters",
+            "op4": "1/3 to husband, 1/3 to son and remaining 1/3 to daughters",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following can be a ground for disqualification under Hindu Succession Act, 1956 ?",
+            "op1": "Mental infirmity",
+            "op2": "Physical defects",
+            "op3": "onversion to other religion",
+            "op4": "iseases",
+            "answer:": 3
+        },
+        {
+            "question": "The general rules of succession of a Hindu male dying intestate are contained in Section _________ of the Hindu Succession Act, 1956?",
+            "op1": "Section 7",
+            "op2": "Section 8",
+            "op3": "Section 14",
+            "op4": "Section 15",
+            "answer:": 2
+        },
+        {
+            "question": "Husband in Entry (a) of Section 15(1) of the Hindu Succession Act, 1956 includes:",
+            "op1": "Husband of a subsisting marriage",
+            "op2": "A divorced husband",
+            "op3": "Both [A] and [B]",
+            "op4": "Neither [A] or [B]",
+            "answer:": 1
+        },
+        {
+            "question": "Under S 19 of the Hindu Succession Act, 1956 if two or more heirs succeed together to the property of an intestate, they shall take the property as :",
+            "op1": "Tenants in Common",
+            "op2": "Joint Tenants",
+            "op3": "Either [A] or [B]",
+            "op4": "Neither [A] nor [B]",
+            "answer:": 1
+        },
+        {
+            "question": "The right of a child in the womb at the time of the death of the intestate are provided under the Hindu Succession Act in :",
+            "op1": "Section 19",
+            "op2": "Section 20",
+            "op3": "Section 21",
+            "op4": "Section 22",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following properties will be covered under Section 14(2) of the Hindu Succession Act, 1956?",
+            "op1": "husband created a will, giving his wife absolute right to property",
+            "op2": "A husband created a will, giving his wife limited rights to property",
+            "op3": "Both [A] and [B]",
+            "op4": "Neither [A] nor [B]",
+            "answer:": 4
+        },
+        {
+            "question": "Which of te following statements hold true regarding the Hindu Succession (Amendment) Act, 2005 ?",
+            "op1": "Women can now act as karta of the joint Hindu family",
+            "op2": "Women cannot act as a karta of the joint Hindu family before or after passing of the Hindu Succession (Amendment) Act, 2005",
+            "op3": "Women can now become karta of joint Hindu family",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "A widow 'W' held some properties as 'Widows estate'. She sold the properties to X before the commencement of the Hindu Succession Act, 1956. Which of the following statements will be true?",
+            "op1": "X will get full ownership by virtue of Section 14 of the ct.",
+            "op2": "X will not get full ownership. W will get full ownership by virtue of Section 14 of the Act.",
+            "op3": "Property will revert to W after the death of X",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "If a male Hindu died possessed property after the Hindu Succession Act, 1956, came into force leaving his widow W as his sole heir. Which of the following statements will apply ?",
+            "op1": "The widow will inherit an absolute estate under Section 14 of the ct.",
+            "op2": "The section 14 of the Act will not be applicable. She will inherit under Section 8 of the Act.",
+            "op3": "She will inherit under Section 8 of the Act and her estate will become absolute under Section 14 of the Act.",
+            "op4": "None of the above will apply.",
+            "answer:": 3
+        },
+        {
+            "question": "In case of the order under Section 22 of the Hindu Succession Act, 1956 which of the following will be true?",
+            "op1": "It can be appeared against under the Hindu Succession ct, 1956",
+            "op2": "It can only be reviewed under Section 115 of Cr.P.C.",
+            "op3": "Only it can be issued not under Section 226 of the onstitution",
+            "op4": "Further remedy is revision under Section 115 C.P.C. of",
+            "answer:": 1
+        },
+        {
+            "question": "For the purpose of Section 14(2) of the Hindu Succession Act, 1956 Civil Court include :",
+            "op1": "Deputy Commissioner",
+            "op2": "Deputy Commissioner as a Revenue Court",
+            "op3": "Both [A] and [B]",
+            "op4": "Neither [A] nor [B]",
+            "answer:": 1
+        }
+    ]
+}

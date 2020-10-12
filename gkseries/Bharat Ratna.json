@@ -1,0 +1,246 @@
+{
+    "topic": "Bharat Ratna",
+    "Subject": "Awards/Honours/Prizes",
+    "data": [
+        {
+            "question": "Who is the first non-Indian to receive the Bharat Ratna ?",
+            "op1": "Martin Luther King",
+            "op2": "Mother Teresa",
+            "op3": "Khan Abdul Gaffar Khan",
+            "op4": "Nelson Mandela",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following has received highest civilian awards of two countries, Bharat Ratna from India and Nishan-e-Pakistan from Pakistan ?",
+            "op1": "Morarji Desai",
+            "op2": "Mahatma Gandhi",
+            "op3": "Ayub Khan",
+            "op4": "Maulana Abdul Kalam Azad",
+            "answer:": 1
+        },
+        {
+            "question": "Dr. A.P.J. Abdul Kalam, the former Indian President, received the prestigiuos Bharat Ratna Award in the year :",
+            "op1": "1992",
+            "op2": "1995",
+            "op3": "1997",
+            "op4": "1998",
+            "answer:": 3
+        },
+        {
+            "question": "Who is the first recipient of Bharat Ratna Award ?",
+            "op1": "C. V. Raman",
+            "op2": "S. Chandrasekhar",
+            "op3": ". Rajagopalachari",
+            "op4": "Gobind Ballabh Pant",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the first musician to be felicitated with 'Bharat Ratna' ?",
+            "op1": "Lata Mangeshkar",
+            "op2": "M.S. Subhulakshmi",
+            "op3": "Pt. Ravi Shankar",
+            "op4": "Pt. Bhimsen Joshi",
+            "answer:": 2
+        },
+        {
+            "question": "Which industrialist has been honored with Bharat Ratna?",
+            "op1": "JRD Tata",
+            "op2": "Sir Shriram",
+            "op3": "Dhirubhai Ambani",
+            "op4": "Ghanshyamdas Birla",
+            "answer:": 1
+        },
+        {
+            "question": "Who among the following is a non-Indian who was conferred \u201cBharat Ratna\u201d?",
+            "op1": "Lord Mountbatten",
+            "op2": "Nelson Mandela",
+            "op3": "Mother Teresa",
+            "op4": "Sheikh Mujibur Rahman",
+            "answer:": 2
+        },
+        {
+            "question": "How many person distinguished in the field of music have so far been awarded \u201cBharat Ratna\u201d?",
+            "op1": "2",
+            "op2": "3",
+            "op3": "4",
+            "op4": "5",
+            "answer:": 4
+        },
+        {
+            "question": "Bharat Ratna is designed like the leaf of",
+            "op1": "Coconut tree",
+            "op2": "anyan tree",
+            "op3": "Peepal tree",
+            "op4": "Sandalwood tree",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the first posthumous recipient of Bharat Ratna?",
+            "op1": "K. Kamraj",
+            "op2": ".R. Ambedkar",
+            "op3": "M.G. Ramachandran",
+            "op4": "Lal Bahadur Shastri",
+            "answer:": 4
+        },
+        {
+            "question": "The first woman to get Bharat Ratna Award is",
+            "op1": "Sarojini Naidu",
+            "op2": "Mother Teresa",
+            "op3": "Lata Mangeshkar",
+            "op4": "Indira Gandhi",
+            "answer:": 4
+        },
+        {
+            "question": "Which is the highest civilian award of India?",
+            "op1": "Bharat Ratna",
+            "op2": "Padmashri",
+            "op3": "Padma Bhushan",
+            "op4": "Bharat Bhushan",
+            "answer:": 1
+        },
+        {
+            "question": "Bharat Ratna Award is awarded by __________ of India.",
+            "op1": "President",
+            "op2": "Chief Justise",
+            "op3": "Prime Minister",
+            "op4": "Vice President",
+            "answer:": 1
+        },
+        {
+            "question": "Who is first Vice President of India to won Bharat Ratna Award?",
+            "op1": "Zakir Husain",
+            "op2": "Vallabhbhai Patel",
+            "op3": "Varahagiri Venkata Giri",
+            "op4": "Sarvepalli Radhakrishnan",
+            "answer:": 4
+        },
+        {
+            "question": "Who was first prime minister of India awarded with Bharat Ratna?",
+            "op1": "Rajiv Gandhi",
+            "op2": "Jawaharlal Nehru",
+            "op3": "Indira Gandhi",
+            "op4": "Atal Bihari Vajpayee",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following personality has been awarded with Bharat Ratna and later award being withdrawn?",
+            "op1": "runa saf li",
+            "op2": "Abul Kalam Azad",
+            "op3": "Jagadish handra Bose",
+            "op4": "Netaji Subhas Chandra Bose",
+            "answer:": 4
+        },
+        {
+            "question": "Bharat Ratna is awarded for exceptional service towards advancement of-",
+            "op1": "rt",
+            "op2": "Literature and Science",
+            "op3": "Public Service of the highest order",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The Bharat Ratna Award was established by the first President of India, __________",
+            "op1": "Zakir Husain",
+            "op2": "Rajendra Prasad",
+            "op3": "Dr. Sarvepalli Radhakrishnan",
+            "op4": "Chandrasekhara Venkata Raman",
+            "answer:": 2
+        },
+        {
+            "question": "Bharat Ratna Award was instituted in the year _________.",
+            "op1": "1948",
+            "op2": "1952",
+            "op3": "1954",
+            "op4": "1956",
+            "answer:": 3
+        },
+        {
+            "question": "First Indian person who promptly decline Bharat Ratna Award was ____________.",
+            "op1": "bul Kalam zad",
+            "op2": "Lata Mangeshkar",
+            "op3": "Bismillah Khan",
+            "op4": "Asha Bhosale",
+            "answer:": 1
+        },
+        {
+            "question": "Governor-General who has been awarded with Bharat Ratna Award?",
+            "op1": "Bhagwan Das",
+            "op2": "Sir C. V. Raman",
+            "op3": "hakravarti Rajgopalachari",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The number of annual awards is restricted to a maximum of _______ in a particular year.",
+            "op1": "1",
+            "op2": "2",
+            "op3": "3",
+            "op4": "4",
+            "answer:": 3
+        },
+        {
+            "question": "Prime Minister of India who receive Bharat Ratna Award Posthumously?",
+            "op1": "Rajiv Gandhi",
+            "op2": "Zakir Husain",
+            "op3": "Indira Gandhi",
+            "op4": "Morarji esai",
+            "answer:": 1
+        },
+        {
+            "question": "Who was first Indian to be awarded with Bharat Ratna and Nobel Prize?",
+            "op1": "Satyajit Ray",
+            "op2": "Mother Teresa",
+            "op3": "B. R. Ambedkar",
+            "op4": "Sir C. V. Raman",
+            "answer:": 4
+        },
+        {
+            "question": "The recommendations for Bharat Ratna are made by the ________ to the _________.",
+            "op1": "President, Loksabha",
+            "op2": "Prime Minister, President",
+            "op3": "President , Vice President",
+            "op4": "Chief Justise, President",
+            "answer:": 2
+        },
+        {
+            "question": "On the conferment of the award, the recipient receives a __________ and a Medallion.",
+            "op1": "Certificate signed by the President",
+            "op2": "Certificate signed by the Prime Minister",
+            "op3": "ertificate signed by the Supreme ourt Judge",
+            "op4": "Certificate signed by the President and Vice President",
+            "answer:": 1
+        },
+        {
+            "question": "First Bharat Ratna Award was distributed on ______________.",
+            "op1": "2 January 1954",
+            "op2": "26 January 1954",
+            "op3": "15 August 1954",
+            "op4": "2 October 1954",
+            "answer:": 1
+        },
+        {
+            "question": "Interim Prime Minister who has been awarded with Bharat Ratna?",
+            "op1": "Morarji Desai",
+            "op2": "Inder Kumar Gujral",
+            "op3": "Gulzarilal Nanda",
+            "op4": "Chandra Shekhar",
+            "answer:": 3
+        },
+        {
+            "question": "Who was first film maker to receive Bharat Ratna Award?",
+            "op1": "Mahesh Bhatt",
+            "op2": "Ramesh Sippy",
+            "op3": "Yash hopra",
+            "op4": "Satyajit Ray",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following personality related to Sitar has been awarded with Bharat Ratna?",
+            "op1": "Bismillah Khan",
+            "op2": "Ravi Shankar",
+            "op3": "Vilayat Khan",
+            "op4": "Nikhil Banerjee",
+            "answer:": 2
+        }
+    ]
+}

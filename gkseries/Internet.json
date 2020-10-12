@@ -1,0 +1,406 @@
+{
+    "topic": "Internet",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "The equipment needed to allow home computers to connect to the Internet is called a",
+            "op1": "Modem",
+            "op2": "Gateway",
+            "op3": "Monitor",
+            "op4": "Peripheral",
+            "answer:": 1
+        },
+        {
+            "question": "The process of keeping addresses in memory for future use is called",
+            "op1": "Routing",
+            "op2": "Resolving",
+            "op3": "aching",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The server on the Internet is also known as a",
+            "op1": "Hub",
+            "op2": "Host",
+            "op3": "Gateway",
+            "op4": "Repeater",
+            "answer:": 2
+        },
+        {
+            "question": "A user can get files from another computer on the Internet by using",
+            "op1": "HTTP",
+            "op2": "TELNET",
+            "op3": "UTP",
+            "op4": "FTP",
+            "answer:": 4
+        },
+        {
+            "question": "The communication protocol used by Internet is:",
+            "op1": "HTTP",
+            "op2": "WWW",
+            "op3": "TP/IP",
+            "op4": "FTP",
+            "answer:": 3
+        },
+        {
+            "question": "The first network that planted the seeds of Internet was:",
+            "op1": "RPNET",
+            "op2": "NSFnet",
+            "op3": "Vnet",
+            "op4": "Both (A) and (B)",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following protocols is used for WWW ?",
+            "op1": "ftp",
+            "op2": "http",
+            "op3": "w3",
+            "op4": "all of the above",
+            "answer:": 2
+        },
+        {
+            "question": "TCP is a commonly used protocol at",
+            "op1": "pplication layer",
+            "op2": "Transport layer",
+            "op3": "Network layer",
+            "op4": "ata Link layer",
+            "answer:": 2
+        },
+        {
+            "question": "The first page that you normally view at a Website is its:",
+            "op1": "Home page",
+            "op2": "Master page",
+            "op3": "First page",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Voice mail, E-mail, Online service, the Internet and the WWW are all example of",
+            "op1": "Computer categories",
+            "op2": "Connectivity",
+            "op3": "Telecommuting",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Web site is a collection of",
+            "op1": "HTML documents",
+            "op2": "Graphic files",
+            "op3": "Audio and video files",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Internet is governed by",
+            "op1": "I & B",
+            "op2": "IETF",
+            "op3": "Inter NI",
+            "op4": "None of these",
+            "answer:": 4
+        },
+        {
+            "question": "Internet is",
+            "op1": "Dynamic system",
+            "op2": "Complex system",
+            "op3": "Decentralized system",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In MODEMS",
+            "op1": "Digital signal is amplified",
+            "op2": "Several digital signals are multiplexed",
+            "op3": "A digital signal changes some characteristic of a carrier wave",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In reality, Internet Protocol recognizes only",
+            "op1": "n IP address",
+            "op2": "A location of the host",
+            "op3": "A postal mail address",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The ground station in VSAT communication is called",
+            "op1": "HTTP",
+            "op2": "Hub",
+            "op3": "Multiplexer",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A small network making up the Internet and also having a small numbers of computers within it is called",
+            "op1": "Host",
+            "op2": "Address",
+            "op3": "Subdomain",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Computers on the Internet owned and operated by education institution form part of the",
+            "op1": "com domain",
+            "op2": "edu domain",
+            "op3": "mil domain",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following networking solution is suitable for networking in a building?",
+            "op1": "WN",
+            "op2": "MAN",
+            "op3": "LAN",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following networking solution is suitable for networking in a building?",
+            "op1": "LN",
+            "op2": "MAN",
+            "op3": "WAN",
+            "op4": "All of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following topology share a single channel on which all station can receive and transmit?",
+            "op1": "Ring",
+            "op2": "us",
+            "op3": "Tree",
+            "op4": "Star",
+            "answer:": 2
+        },
+        {
+            "question": "Main protocol used in Internet",
+            "op1": "X.25",
+            "op2": "IPX/SPX",
+            "op3": "TP/IP",
+            "op4": "Token Bus",
+            "answer:": 3
+        },
+        {
+            "question": "Cell based architecture is known as",
+            "op1": "TM",
+            "op2": "FDDI",
+            "op3": "LAN",
+            "op4": "Client Server",
+            "answer:": 1
+        },
+        {
+            "question": "The network where all the nodes are around a central server is a",
+            "op1": "Bus network",
+            "op2": "Star network",
+            "op3": "Ring network",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following topology is least affected by addition/removal of a node?",
+            "op1": "RING",
+            "op2": "US",
+            "op3": "STAR",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "For a small Web site, one needs to buy space from the",
+            "op1": "ISP",
+            "op2": "Telephone exchange",
+            "op3": "Network administrator",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A host on the Internet finds another host by its",
+            "op1": "Postal address",
+            "op2": "IP address",
+            "op3": "Electronic Address",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "World Wide Web pages can be described as multimedia pages. This means that the pages may contain",
+            "op1": "Text, pictures, sound",
+            "op2": "Text and pictures only",
+            "op3": "Video clips, sound, text, pictures",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The Internet Protocol (IP)",
+            "op1": "Handles software computer addresses",
+            "op2": "Finds the quickest route between two computers",
+            "op3": "Ensures that connections are maintained between computers",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "FTP is used for",
+            "op1": "Uploading files only",
+            "op2": "Downloading files only",
+            "op3": "Both (A) and (B)",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The Internet standard is",
+            "op1": "MIME",
+            "op2": "IN HEX",
+            "op3": "UNENODING",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "File to the Web site is transferred by using:",
+            "op1": "HTTP",
+            "op2": "ASCII",
+            "op3": "FTP",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The Telnet protocol assumes that each end of the connection \u2013 the client and the server \u2013 is",
+            "op1": "NDDT",
+            "op2": "HotDog",
+            "op3": "Network Virtual Terminal (NVT)",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "To use Telnet and the host\u2019s resources, you will need to know",
+            "op1": "TCP/IP address",
+            "op2": "Electronic address",
+            "op3": "The address of the Internet host",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Name the software which comes with a basic telnet client package:",
+            "op1": "Excel",
+            "op2": "Word for Windows",
+            "op3": "Windows 98",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The Unix command tty (option) that displays the pathname of your terminals and prints synchronous line number of the device is given by the option:",
+            "op1": "I",
+            "op2": "Q",
+            "op3": "S",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Telnet is no versatile that you can establish Telnet session on one of the following types of communication:",
+            "op1": "Radio connection",
+            "op2": "TV connection",
+            "op3": "Phone connection",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "IRC stands for",
+            "op1": "Internet Resource Channel",
+            "op2": "Internet Routing Channel",
+            "op3": "Internet Rights ouncil",
+            "op4": "Internet Relay Chat",
+            "answer:": 4
+        },
+        {
+            "question": "What is Usenet?",
+            "op1": "It is a provider of news",
+            "op2": "It is a low-cost dial-up-network",
+            "op3": "It is used to forward jobs and files through several hosts",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Most new readers present newsgroups articles in",
+            "op1": "mail",
+            "op2": "column",
+            "op3": "threads",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "SMTP is a simple",
+            "op1": "TCP protocol",
+            "op2": "TCP/ IP protocol",
+            "op3": "IP protocol",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A simple protocol used for fetching e-mail from a mailbox is",
+            "op1": "POP2",
+            "op2": "POP3",
+            "op3": "IMAP",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A popular application of computer networking is the world wide web of newsgroup called",
+            "op1": "News",
+            "op2": "Gateway",
+            "op3": "Netnews",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "E-mail address is made up of",
+            "op1": "Single part",
+            "op2": "Two parts",
+            "op3": "Three parts",
+            "op4": "Four parts",
+            "answer:": 2
+        },
+        {
+            "question": "The program supplied by VSNL when you ask for Internet connection for the e-mail access is",
+            "op1": "ISP",
+            "op2": "PINE",
+            "op3": "HotDog",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "SMTP stands for",
+            "op1": "Short Mail Transmission Protocol",
+            "op2": "Small Mail Transmission Protocol",
+            "op3": "Server Mail Transfer Protocol",
+            "op4": "Simple Mail Transfer Protocol",
+            "answer:": 4
+        },
+        {
+            "question": "The E-mail component of Internet Explorer is called",
+            "op1": "Message box",
+            "op2": "Outlook Express",
+            "op3": "Messenger Mailbox",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Messenger Mailbox is present in",
+            "op1": "Internet Explorer",
+            "op2": "Netscape Communicator",
+            "op3": "Both (A) and (B)",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The convenient place to store contact information for quick retrieval is",
+            "op1": "ddress box",
+            "op2": "Message box",
+            "op3": "Address book",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following statement is not correct for Digital signature?",
+            "op1": "It is mechanism for authentication",
+            "op2": "It cannot be duplicated",
+            "op3": "It is created by encrypting information",
+            "op4": "It is the scanned image of one\u2019s signature",
+            "answer:": 4
+        }
+    ]
+}

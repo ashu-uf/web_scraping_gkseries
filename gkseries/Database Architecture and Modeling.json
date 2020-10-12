@@ -1,0 +1,446 @@
+{
+    "topic": "Database Architecture and Modeling",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "The data model which describes how the data is actually stored is :",
+            "op1": "internal model",
+            "op2": "external model",
+            "op3": "logical model",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "Data about data is normally termed as :",
+            "op1": "directory",
+            "op2": "data bank",
+            "op3": "meta data",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The scheme for hierarchical database is :",
+            "op1": "a tree",
+            "op2": "a graph",
+            "op3": "a B-tree",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which one is an example for network database ?",
+            "op1": "Unify",
+            "op2": "Ingress",
+            "op3": "IDMS",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "One of the following is a valid record-based data model :",
+            "op1": "Object-oriented model",
+            "op2": "Relational model",
+            "op3": "Entity-relationship model",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "In an object-oriented model, one object can access data of another object by passing :",
+            "op1": "Instance variable",
+            "op2": "Message",
+            "op3": "Variable",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "SET concept is used in :",
+            "op1": "Network model",
+            "op2": "Hierarchical model",
+            "op3": "Relational model",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A view of database that appears to an application program is known as :",
+            "op1": "schema",
+            "op2": "subschema",
+            "op3": "virtual table",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Choose the DBMS, which supports full-fledged client server application development ?",
+            "op1": "dBSEIV",
+            "op2": "Oracle 7.1",
+            "op3": "FoxPro 2.1",
+            "op4": "Ingress",
+            "answer:": 2
+        },
+        {
+            "question": "A top-to-bottom relationship among the items in a database is established by a :",
+            "op1": "Hierarchical schema",
+            "op2": "Network schema",
+            "op3": "Relational schema",
+            "op4": "All of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The level of data abstraction which describes how the data is actually stored is :",
+            "op1": "conceptual level",
+            "op2": "physical level",
+            "op3": "file level",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "Collection of information stored in a database at a particular moment is :",
+            "op1": "view",
+            "op2": "schema",
+            "op3": "instance",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The syntax of a user query is verified by :",
+            "op1": "query optimizer",
+            "op2": "DA",
+            "op3": "parser",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "A data model is :",
+            "op1": "Used to describe structure of a database",
+            "op2": "Set of basic operations on the database",
+            "op3": "Both [A] and [B]",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In a hierarchical database, a hashing function is used to locate the :",
+            "op1": "Root",
+            "op2": "Collisions",
+            "op3": "Primary key",
+            "op4": "uplicate records",
+            "answer:": 1
+        },
+        {
+            "question": "DBA stands for :",
+            "op1": "Data Bank ccess",
+            "op2": "Database Access",
+            "op3": "Data Bank Administration",
+            "op4": "atabase Administrator",
+            "answer:": 4
+        },
+        {
+            "question": "Which of following are the properties of entities ?",
+            "op1": "Groups",
+            "op2": "Table",
+            "op3": "Attributes",
+            "op4": "Switchboards",
+            "answer:": 3
+        },
+        {
+            "question": "Between the users and the database itself, a DBMS will act as :",
+            "op1": "barrier",
+            "op2": "interface",
+            "op3": "referee",
+            "op4": "obstacle",
+            "answer:": 2
+        },
+        {
+            "question": "Which of these is not a database object ?",
+            "op1": "index",
+            "op2": "sequence",
+            "op3": "cursor",
+            "op4": "trigger",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not an object-based logical model ?",
+            "op1": "The binary model",
+            "op2": "The entity-relational model",
+            "op3": "The infological model",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following design is both software and hardware independent ?",
+            "op1": "Logical",
+            "op2": "Physical",
+            "op3": "onceptual",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Object based data models are used in describing the abstraction of the following level :",
+            "op1": "Only physical",
+            "op2": "Conceptual and view",
+            "op3": "Physical and conceptual",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A schema describes :",
+            "op1": "Record Relationship",
+            "op2": "Data Elements",
+            "op3": "Record and files",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "An abstraction concept for building composite object from their component object is called :",
+            "op1": "Specialization",
+            "op2": "Normalization",
+            "op3": "Generalization",
+            "op4": "Aggregation",
+            "answer:": 4
+        },
+        {
+            "question": "Manager\u2019s salary details are hidden from the employee. This is :",
+            "op1": "Conceptual level data hiding",
+            "op2": "Physical level data hiding",
+            "op3": "External level data hiding",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which one is an incorrect statement about a view ?",
+            "op1": "view is derived from other tables",
+            "op2": "It can be updated like a table",
+            "op3": "DROP VIEW is used to dispose it",
+            "op4": "All are correct statement",
+            "answer:": 4
+        },
+        {
+            "question": "Which one is lowest level data model ?",
+            "op1": "physical data model",
+            "op2": "logical data model",
+            "op3": "external data model",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of these is not TRUE in case of responsibilities of Database Administrator (DBA) ?",
+            "op1": "cquiring hardware and software resources",
+            "op2": "Authorizing access to database",
+            "op3": "Data entry in to the database",
+            "op4": "All the above statements are true",
+            "answer:": 4
+        },
+        {
+            "question": "In order to use a DBMS, it is important to understand :",
+            "op1": "the physical schema",
+            "op2": "all subschemas that the system supports",
+            "op3": "one subschema",
+            "op4": "both [A] and [B]",
+            "answer:": 3
+        },
+        {
+            "question": "Data items grouped together for storage purposes are called a :",
+            "op1": "record",
+            "op2": "title",
+            "op3": "list",
+            "op4": "string",
+            "answer:": 1
+        },
+        {
+            "question": "A computer file contains several records. What does each record contain ?",
+            "op1": "Bytes",
+            "op2": "Words",
+            "op3": "Fields",
+            "op4": "atabase",
+            "answer:": 3
+        },
+        {
+            "question": "A report generator is used to :",
+            "op1": "update files",
+            "op2": "print files on paper",
+            "op3": "data entry",
+            "op4": "all of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Data are :",
+            "op1": "Raw facts and figures",
+            "op2": "Information",
+            "op3": "Electronic representation of facts",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Data processing cycle consists of :",
+            "op1": "Input cycle and output cycle",
+            "op2": "Input cycle, output cycle and processing cycle",
+            "op3": "Output cycle and processing cycle",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Top level manager uses :",
+            "op1": "Internal information only",
+            "op2": "External information only",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "DBMS is used to :",
+            "op1": "Eliminate data redundancy",
+            "op2": "Maintain data integrity",
+            "op3": "Establish relationships among different files",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "A large computer information system maintains many different computer files. Which amongst them is called a perpetual file ?",
+            "op1": "Specialized file",
+            "op2": "Log file",
+            "op3": "Master file",
+            "op4": "Update file",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following types of information is used by the top level managers ?",
+            "op1": "Operational information",
+            "op2": "Technical information",
+            "op3": "Both [A] and [B]",
+            "op4": "Strategic information",
+            "answer:": 4
+        },
+        {
+            "question": "Which is not a DBMS package?",
+            "op1": "Unify",
+            "op2": "Ingress",
+            "op3": "IDMS",
+            "op4": "All are BMS packages",
+            "answer:": 4
+        },
+        {
+            "question": "A set of objects that share a common structure and a common behavior is called :",
+            "op1": "Object",
+            "op2": "Class",
+            "op3": "Entity",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "The data dictionary tells the DBMS :",
+            "op1": "What files are in the database",
+            "op2": "What attributes are possessed by the data",
+            "op3": "What these files contain",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "An association between students and courses is :",
+            "op1": "1:1 relationship",
+            "op2": "1:M relationship",
+            "op3": "M:M relationship",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The database environment has all of the following components except :",
+            "op1": "users",
+            "op2": "separate files",
+            "op3": "database",
+            "op4": "database administrator",
+            "answer:": 2
+        },
+        {
+            "question": "The key to a cost-effective data input operation is :",
+            "op1": "OCR equipment",
+            "op2": "validity checks",
+            "op3": "validation",
+            "op4": "employee motivation",
+            "answer:": 4
+        },
+        {
+            "question": "Complex entities can be constructed using the following operation :",
+            "op1": "SUM",
+            "op2": "Union",
+            "op3": "Aggregation",
+            "op4": "Collection",
+            "answer:": 3
+        },
+        {
+            "question": "The logical data structure with a one-to-many relationship is a :",
+            "op1": "network",
+            "op2": "tree",
+            "op3": "chain",
+            "op4": "relationship",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is an example for network database ?",
+            "op1": "IDBS",
+            "op2": "Ingress",
+            "op3": "Oracle",
+            "op4": "BMS",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is a hierarchical database ?",
+            "op1": "Oracle",
+            "op2": "DII",
+            "op3": "Ingress",
+            "op4": "SYSTEM2000",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not an element of Database ?",
+            "op1": "Schema objects",
+            "op2": "Indexes",
+            "op3": "Tables",
+            "op4": "atabase Administrator",
+            "answer:": 4
+        },
+        {
+            "question": "Data processing comprises of :",
+            "op1": "Capturing of data",
+            "op2": "Storing of data",
+            "op3": "Updating and retrieving data",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In an object-oriented model, one object can access data of another object by passing :",
+            "op1": "Instance variable",
+            "op2": "Message",
+            "op3": "Variable",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "SET concept is used in :",
+            "op1": "Network model",
+            "op2": "Hierarchical model",
+            "op3": "Relational model",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A view of database that appears to an application program is known as :",
+            "op1": "schema",
+            "op2": "subschema",
+            "op3": "virtual table",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Choose the DBMS, which supports full-fledged client server application development ?",
+            "op1": "dBSEIV",
+            "op2": "Oracle 7.1",
+            "op3": "FoxPro 2.1",
+            "op4": "Ingress",
+            "answer:": 2
+        },
+        {
+            "question": "A top-to-bottom relationship among the items in a database is established by a :",
+            "op1": "Hierarchical schema",
+            "op2": "Network schema",
+            "op3": "Relational schema",
+            "op4": "All of the above",
+            "answer:": 1
+        }
+    ]
+}

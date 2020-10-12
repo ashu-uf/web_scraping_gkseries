@@ -1,0 +1,662 @@
+{
+    "topic": "The Judiciary",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "The highest and final judicial tribunal of India is :",
+            "op1": "President",
+            "op2": "Parliament",
+            "op3": "Supreme ourt",
+            "op4": "Union cabinet",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following High Court has jurisdiction over more than one State/ Union Territories ?",
+            "op1": "Mumbai",
+            "op2": "Guwahati",
+            "op3": "Kolkata",
+            "op4": "Chandigarh",
+            "answer:": 2
+        },
+        {
+            "question": "Who of the following decides the number judges in a High Court ?",
+            "op1": "The President",
+            "op2": "Chief Minister of the State",
+            "op3": "Prime Minister",
+            "op4": "Parliament",
+            "answer:": 1
+        },
+        {
+            "question": "The Chief Justice and other Judges of the High Court are appointed by the :",
+            "op1": "President",
+            "op2": "Chief Justice of the Supreme Court",
+            "op3": "Governor of the concerned state",
+            "op4": "Attorney General of India.",
+            "answer:": 1
+        },
+        {
+            "question": "The oath to a High Court Judge is administered by the :",
+            "op1": "Chief Justice of India",
+            "op2": "Chief Justice of High Court",
+            "op3": "President",
+            "op4": "Governor of the concerned state",
+            "answer:": 4
+        },
+        {
+            "question": "The Supreme Court of India was set up under which of the following Act ?",
+            "op1": "Pitt\u2019s India ct, 1784",
+            "op2": "Charter Act of 1833",
+            "op3": "Regulating Act, 1773",
+            "op4": "Indian Councils Act, 1892",
+            "answer:": 3
+        },
+        {
+            "question": "In India, the power to increase the number of judges in the Supreme Court lies with :",
+            "op1": "The President of India",
+            "op2": "The Chief Justice of India",
+            "op3": "The Union Ministry of Law",
+            "op4": "The Parliament of India",
+            "answer:": 4
+        },
+        {
+            "question": "Disputes between States of India comes to the Supreme Court under",
+            "op1": "Original jurisdiction",
+            "op2": "Appellate jurisdiction",
+            "op3": "Advisory jurisdiction",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following statements is correct with respect to retired judge of a High Court ?",
+            "op1": "Cannot practice in the Supreme Court",
+            "op2": "Cannot practice in any High Court of India",
+            "op3": "annot practice in the High ourt from where he has retired",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the Chief Justice of India when public interest litigation (PIL) was introduced to the Indian Judicial System ?",
+            "op1": "M. Hidayataullah",
+            "op2": "A. M. Ahmadi",
+            "op3": "A. S. Anand",
+            "op4": "P. N. Bhagwati",
+            "answer:": 4
+        },
+        {
+            "question": "The civil affairs like marriage, divorce, inheritance etc. which has been authorized by the Constitution to make legal laws?",
+            "op1": "States, by the State List of the Constitution",
+            "op2": "Centre, by the Union List of the Constitution",
+            "op3": "entre and States, by the oncurrent List of the onstitution",
+            "op4": "Religious authorities which have relation to individual affairs",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following writs/orders of the High Court/Supreme Court is sought to get an order of an authority quashed?",
+            "op1": "Certiorari",
+            "op2": "Mandamus",
+            "op3": "Habeas orpus",
+            "op4": "Quo Warranto",
+            "answer:": 1
+        },
+        {
+            "question": "Why did one of the High Courts in India decree that \u201cbandhs are unconstitutional and punitive\u201d?",
+            "op1": "It adversely affects production",
+            "op2": "It is not part of a right to protest",
+            "op3": "It is not in exercise of a fundamental freedom",
+            "op4": "It infringes on the fundamental rights of some groups of people",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is at the apex of the subordinate criminal courts?",
+            "op1": "Supreme Court",
+            "op2": "High Court",
+            "op3": "ourt of District Judge",
+            "op4": "Court of Sessions Judge",
+            "answer:": 4
+        },
+        {
+            "question": "Preventive detention means-",
+            "op1": "Detention for interrogation",
+            "op2": "Detention after interrogation",
+            "op3": "Detention without interrogation",
+            "op4": "etention for cognizable offence",
+            "answer:": 3
+        },
+        {
+            "question": "Who is empowered to transfer a Judge from one High Court to another High Court?",
+            "op1": "President of India",
+            "op2": "Law Minister of India",
+            "op3": "The Union abinet",
+            "op4": "Chief Justice of India",
+            "answer:": 1
+        },
+        {
+            "question": "The main function of the judiciary is:",
+            "op1": "Law execution",
+            "op2": "Law formulation",
+            "op3": "Law application",
+            "op4": "Law adjudication",
+            "answer:": 4
+        },
+        {
+            "question": "The salaries and emoluments of the judges of the Supreme Court are changed on:",
+            "op1": "The Finance Commission",
+            "op2": "The Consolidated Fund of India",
+            "op3": "The ontingency Fund of India",
+            "op4": "The Reserve Bank of India",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following \u201cwrits\u201d of the High Court or the Supreme Court is sought to produce in the court a person, suspected to be missing/ in custody?",
+            "op1": "Certiorari",
+            "op2": "Mandamus",
+            "op3": "Quo Warranto",
+            "op4": "Habeas Corpus",
+            "answer:": 4
+        },
+        {
+            "question": "Where the High Courts in India first set up?",
+            "op1": "Delhi and Calcutta",
+            "op2": "ombay, Madras, Calcutta",
+            "op3": "Bombay, Delhi and alcutta",
+            "op4": "Madras and Bombay",
+            "answer:": 2
+        },
+        {
+            "question": "What does the \u201cJudicial Review\u201d function of the Supreme Court mean?",
+            "op1": "Review its own judge-ment",
+            "op2": "Review the functioning of judiciary in the country",
+            "op3": "Undertake periodic review of the onstitution",
+            "op4": "Examine the constitutional validity of the laws",
+            "answer:": 4
+        },
+        {
+            "question": "A writ of Mandamus can be issued by the Supreme Court to",
+            "op1": "n official to perform public duty",
+            "op2": "The company to raise wages",
+            "op3": "The Prime Minister to dissolve the abinet",
+            "op4": "The Government to pay the salaries to employees",
+            "answer:": 1
+        },
+        {
+            "question": "An appeal to the High Court lies in case the Session Court has awarded the punishment of",
+            "op1": "One year or more",
+            "op2": "Two years or more",
+            "op3": "Three years or more",
+            "op4": "Four years or more",
+            "answer:": 4
+        },
+        {
+            "question": "Under the Constitution, the power to issue a writ of Habeas Corpus is vested in",
+            "op1": "High Court alone",
+            "op2": "Supreme Court alone",
+            "op3": "Both Supreme ourt and High ourts",
+            "op4": "All Courts down to the istrict Courts",
+            "answer:": 3
+        },
+        {
+            "question": "A writ issued by the Supreme Court compelling a quasi-Judicial/public authority to perform its mandatory duty is",
+            "op1": "Mandamus",
+            "op2": "Certiorari",
+            "op3": "Prohibition",
+            "op4": "Quo Warranto",
+            "answer:": 1
+        },
+        {
+            "question": "How many types of writs can be issued by the Supreme Court?",
+            "op1": "Three",
+            "op2": "Four",
+            "op3": "Five",
+            "op4": "Six",
+            "answer:": 3
+        },
+        {
+            "question": "The Supreme Court of India enjoys",
+            "op1": "dvisory jurisdictions",
+            "op2": "Original jurisdictions",
+            "op3": "Appellate and advisory jurisdictions",
+            "op4": "Original, appellate and advisory jurisdictions",
+            "answer:": 4
+        },
+        {
+            "question": "The Judges of the High Court hold office",
+            "op1": "During the pleasure of the Chief Justice of India",
+            "op2": "Till they have attained 62 years of age",
+            "op3": "Till they have attained 65 years of age",
+            "op4": "As long as they desire",
+            "answer:": 2
+        },
+        {
+            "question": "Indian Penal Code came into operation in",
+            "op1": "1858",
+            "op2": "1860",
+            "op3": "1859",
+            "op4": "1862",
+            "answer:": 4
+        },
+        {
+            "question": "In which case did the Supreme Court restore the primacy of the Fundamental Rights over the Directive Principles of State policy?",
+            "op1": "Golaknath Case",
+            "op2": "Minerva Mills Case",
+            "op3": "Keshavananda Bharti ase",
+            "op4": "All the above cases",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not the essential qualification for appointment as a Judge of the Supreme Court of India?",
+            "op1": "Should be a citizen of India",
+            "op2": "Should be at least 35 years of age",
+            "op3": "Should be an eminent jurist",
+            "op4": "Should have practiced for at least 10 years as an advocate in one or more High Courts",
+            "answer:": 2
+        },
+        {
+            "question": "Judicial review in the Indian Constitution is based on:",
+            "op1": "Rule of Law",
+            "op2": "Due process of Law",
+            "op3": "Precedents and onventions",
+            "op4": "Procedure established by Law",
+            "answer:": 4
+        },
+        {
+            "question": "The Judges of the Supreme Court retire at the age of:",
+            "op1": "58 years",
+            "op2": "60 years",
+            "op3": "62 years",
+            "op4": "65 years",
+            "answer:": 4
+        },
+        {
+            "question": "The first Act permitting legal marriage with a person not belonging to one\u2019s endogamous group is",
+            "op1": "Hindu Marriage Validity ct",
+            "op2": "Special Marriage Act",
+            "op3": "Abolition of Untouchability Act",
+            "op4": "Arya Samaj Marriage Validity Act",
+            "answer:": 1
+        },
+        {
+            "question": "The State which have a common High Court are",
+            "op1": "Gujarat and Orissa",
+            "op2": "Maharashtra and Goa",
+            "op3": "Madhya Pradesh and Rajasthan",
+            "op4": "Karnataka and Andhra Pradesh",
+            "answer:": 2
+        },
+        {
+            "question": "The Supreme Court is empowered to settle election disputes of President and Vice- President. This is its",
+            "op1": "Miscellaneous Jurisdiction",
+            "op2": "Advisory Jurisdiction",
+            "op3": "Appellate Jurisdiction",
+            "op4": "Original Jurisdiction",
+            "answer:": 4
+        },
+        {
+            "question": "Which two States have a common High Court?",
+            "op1": "Haryana and Punjab",
+            "op2": "Kerala and Tamil Nadu",
+            "op3": "Gujarat and Maharashtra",
+            "op4": "Himachal Pradesh and Uttar Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "A writ issued by the High Court or the Supreme Court to protect the fundamental rights of the citizens is known as",
+            "op1": "Certiorari",
+            "op2": "Mandamus",
+            "op3": "Habeas orpus",
+            "op4": "Quo warranto",
+            "answer:": 3
+        },
+        {
+            "question": "Of the following, who held the Offices of Judge of the Supreme Court and the Speaker of the Lok Sabha",
+            "op1": "Subba Rao",
+            "op2": "K.S. Hegde",
+            "op3": "P.N. Bhagwati",
+            "op4": "M. Hidayatullah",
+            "answer:": 2
+        },
+        {
+            "question": "Implementing laws is the function of",
+            "op1": "Cabinet",
+            "op2": "Judiciary",
+            "op3": "Legislative",
+            "op4": "Executive",
+            "answer:": 4
+        },
+        {
+            "question": "No person can be employed in factories or mines unless he is above the age of",
+            "op1": "12 years",
+            "op2": "14 years",
+            "op3": "16 years",
+            "op4": "18 years",
+            "answer:": 2
+        },
+        {
+            "question": "The first woman judge to be appointed to Supreme Court was",
+            "op1": "M. Fathima Beevi",
+            "op2": "Leila Seth",
+            "op3": "Rani Jethmalani",
+            "op4": "Anna George Malhotra",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the first woman Chief Justice of a High Court of a state in India?",
+            "op1": "nna Chandy",
+            "op2": "Leila Seth",
+            "op3": "Fathima Beevi",
+            "op4": "Sunanda Bhandare",
+            "answer:": 2
+        },
+        {
+            "question": "The writ of \u2018Habeas Corpus\u2019 is issued in the event of",
+            "op1": "Loss of property",
+            "op2": "Refund of excess taxes",
+            "op3": "Wrongful police detention",
+            "op4": "Violation of the freedom of speech",
+            "answer:": 3
+        },
+        {
+            "question": "Under which one of the following writs an official can be prevented from taking an action which he is officially not entitled?",
+            "op1": "Quo warranto",
+            "op2": "Habeas Corpus",
+            "op3": "ertiorari",
+            "op4": "Mandamus",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following writs is issued to courts, corporations, government servants or persons directing them to perform their public duty?",
+            "op1": "Prohibition",
+            "op2": "Mandamus",
+            "op3": "Quo warranto",
+            "op4": "Habeas Corpus",
+            "answer:": 2
+        },
+        {
+            "question": "Which is the highest law of the land?",
+            "op1": "Criminal Procedure Code",
+            "op2": "Civil Procedure Code",
+            "op3": "Indian onstitution",
+            "op4": "Indian Penal Code",
+            "answer:": 3
+        },
+        {
+            "question": "The Supreme Court of India acts as a Federal Court when it deals with",
+            "op1": "Civil cases",
+            "op2": "Inter-State disputes",
+            "op3": "Election petitions",
+            "op4": "Appeals from lower courts",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following writs literally means \u2018what is your authority\u2019?",
+            "op1": "Prohibition",
+            "op2": "Certiorari",
+            "op3": "Quo warranto",
+            "op4": "Habeas Corpus",
+            "answer:": 3
+        },
+        {
+            "question": "A law made by the Judiciary is known as",
+            "op1": "Case law",
+            "op2": "Ordinary law",
+            "op3": "Rule of law",
+            "op4": "Administrative law",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following writs can lie only against a person holding a public office?",
+            "op1": "Certiorari",
+            "op2": "Prohibition",
+            "op3": "Mandamus",
+            "op4": "Habeas Corpus",
+            "answer:": 3
+        },
+        {
+            "question": "The Judges of High Court are administered oath of office by",
+            "op1": "Governor of the State",
+            "op2": "The Chief Justice of India",
+            "op3": "The President of India",
+            "op4": "The Chief Justice of High Court",
+            "answer:": 1
+        },
+        {
+            "question": "The Pension of a High Court Judge is charged on the",
+            "op1": "Consolidated Fund of India",
+            "op2": "Public Accounts of the State",
+            "op3": "onsolidated Fund of the State",
+            "op4": "Public Accounts of India",
+            "answer:": 1
+        },
+        {
+            "question": "The High Court which has the distinction of having the first woman Chief Justice is:",
+            "op1": "Delhi High Court",
+            "op2": "Allahabad High Court",
+            "op3": "Guwahati High ourt",
+            "op4": "Himachal Pradesh High Court",
+            "answer:": 4
+        },
+        {
+            "question": "Writs are issued by",
+            "op1": "The President",
+            "op2": "High Courts",
+            "op3": "Supreme ourt",
+            "op4": "Supreme Court and High Courts",
+            "answer:": 4
+        },
+        {
+            "question": "The Judges of the Supreme Court hold office till they reach the age of",
+            "op1": "62 years",
+            "op2": "65 years",
+            "op3": "68 years",
+            "op4": "70 years",
+            "answer:": 2
+        },
+        {
+            "question": "Supreme Court is the guardian for",
+            "op1": "Fundamental Rights",
+            "op2": "Directive Principles",
+            "op3": "entre and State disputes",
+            "op4": "Preamble",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is protected under Wildlife (Protection) Act, 1972?",
+            "op1": "Squirrel",
+            "op2": "andicoot rat",
+            "op3": "Gerbil",
+            "op4": "Porcupine",
+            "answer:": 4
+        },
+        {
+            "question": "Judges of the district court are appointed by:",
+            "op1": "President",
+            "op2": "Law Minister",
+            "op3": "Governor",
+            "op4": "Chief Minister",
+            "answer:": 3
+        },
+        {
+            "question": "District Judges is under the control of",
+            "op1": "Governor",
+            "op2": "High Court",
+            "op3": "Supreme ourt",
+            "op4": "State Government",
+            "answer:": 2
+        },
+        {
+            "question": "What is meant by social justice?",
+            "op1": "ll should have same political rights",
+            "op2": "All should have same economic rights",
+            "op3": "All should be granted right to freedom of religion",
+            "op4": "All kinds of discrimination based on caste, creed, colour and sex should be eliminated",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is issued by the court in case of an illegal detention of a person?",
+            "op1": "Habeas Corpus",
+            "op2": "Quo warranto",
+            "op3": "ertiorari",
+            "op4": "Mandamus",
+            "answer:": 1
+        },
+        {
+            "question": "Under which Article of the Indian Constitution, the decision of the Central Administrative Tribunal can be challenged in the Supreme Court?",
+            "op1": "323",
+            "op2": "329",
+            "op3": "343",
+            "op4": "343 K",
+            "answer:": 1
+        },
+        {
+            "question": "Division of powers and Independent Judiciary are the two important features of",
+            "op1": "Federal form of Government",
+            "op2": "Democratic form of Government",
+            "op3": "Unitary form of Government",
+            "op4": "Socialist form of Government",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following statements about the Chief Justice of India (CJI) is not correct?",
+            "op1": "He appoints the Chief Justice of all High Court",
+            "op2": "The CJI administers the oath of office to the President",
+            "op3": "The JI can hold his office till he attains the age of 65 years",
+            "op4": "When both the offices of the President and Vice- President fall vacant simultaneously, the CJI discharges the duties of the President",
+            "answer:": 1
+        },
+        {
+            "question": "The Indian Judiciary is headed by:",
+            "op1": "The Parliament",
+            "op2": "The Supreme Court",
+            "op3": "The President",
+            "op4": "The Prime Minister",
+            "answer:": 2
+        },
+        {
+            "question": "Who had played key role in the formation of Lokpal bill in India?",
+            "op1": "Medha Patekar",
+            "op2": "aba Amte",
+            "op3": "Anna Hajare",
+            "op4": "Vipin Hazarika",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following article of IPC is related to unnatural sex?",
+            "op1": "370",
+            "op2": "374",
+            "op3": "376",
+            "op4": "377",
+            "answer:": 4
+        },
+        {
+            "question": "Who appoints the judges of the Indian Supreme Court?",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "hief Justice",
+            "op4": "Council of Minister",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following High Courts had legalized gay sex in India during 2009?",
+            "op1": "Goa",
+            "op2": "Assam",
+            "op3": "Delhi",
+            "op4": "Chandigarh",
+            "answer:": 3
+        },
+        {
+            "question": "Consumer protection Act 1986, was amended in:",
+            "op1": "1991",
+            "op2": "1992",
+            "op3": "1993",
+            "op4": "1994",
+            "answer:": 1
+        },
+        {
+            "question": "Section of IPC, which deals with LGBT (Lesbian, Gay, Bisexual and Transgender) community is:",
+            "op1": "376",
+            "op2": "370",
+            "op3": "377",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The concept of \u201cRule of Law\u201d is a special feature of constitutional system of",
+            "op1": "Switzerland",
+            "op2": "France",
+            "op3": "U.S.A.",
+            "op4": "Britain",
+            "answer:": 4
+        },
+        {
+            "question": "How liberty can be limited?",
+            "op1": "By Rule",
+            "op2": "y Law",
+            "op3": "By Authority",
+            "op4": "By Equality",
+            "answer:": 2
+        },
+        {
+            "question": "Most important safeguard of liberty is",
+            "op1": "Declaration of rights",
+            "op2": "Decentralization of power",
+            "op3": "Well-knit party system",
+            "op4": "Bold and impartial judiciary",
+            "answer:": 4
+        },
+        {
+            "question": "What is the ancient school of law?",
+            "op1": "The Sociological School",
+            "op2": "The Philosophical School",
+            "op3": "The Historical School",
+            "op4": "The Analytical School",
+            "answer:": 2
+        },
+        {
+            "question": "Which among the following is not a preventive detention act?",
+            "op1": "Foreign Exchange Regulation ct (FER)",
+            "op2": "Preventive of Terrorism Act (POTA)",
+            "op3": "Terrorist and Disruptive Activities (Prevention) Act (TADA)",
+            "op4": "Conservation of Foreign Exchange and Prevention of Smuggling Activities Act (COFEPOSA)",
+            "answer:": 1
+        },
+        {
+            "question": "Wildlife Protection Act was implemented in India in",
+            "op1": "1956",
+            "op2": "1972",
+            "op3": "1964",
+            "op4": "1986",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not dealt under Section 3 (3) of the Environment (Protection) Act, 1986?",
+            "op1": "The Biodiversity uthority",
+            "op2": "The Coastal Zone Management Authority",
+            "op3": "Protection of Plant Varieties and Farmers Right Authority",
+            "op4": "Authority set-up to monitor the State of Notified Ecologically Sensitive Areas",
+            "answer:": 3
+        },
+        {
+            "question": "On which date did the Rajya Sabha pass \u201cThe Marriage Laws\u201d (Amendment) Bill 2012?",
+            "op1": "18th ugust, 2013",
+            "op2": "5th August, 2013",
+            "op3": "26th August, 2013",
+            "op4": "23rd August, 2013",
+            "answer:": 3
+        },
+        {
+            "question": "The power to decide an Election Petition for the State is vested in the",
+            "op1": "High Court",
+            "op2": "Supreme Court",
+            "op3": "Parliament",
+            "op4": "Election Commission",
+            "answer:": 1
+        },
+        {
+            "question": "In which year was the Prevention of Terrorism Act (POTA) enacted?",
+            "op1": "2000",
+            "op2": "2001",
+            "op3": "2002",
+            "op4": "2003",
+            "answer:": 3
+        }
+    ]
+}

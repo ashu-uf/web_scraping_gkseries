@@ -1,0 +1,126 @@
+{
+    "topic": "Football",
+    "Subject": "Sports",
+    "data": [
+        {
+            "question": "Which Country is the winner of FIFA World Cup 204?",
+            "op1": "Brazil",
+            "op2": "Argentina",
+            "op3": "Germany",
+            "op4": "Netherlands",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the winner of Golden Ball award in the FIFA World Cup 014?",
+            "op1": "Thomas Muller",
+            "op2": "Lionel Messi",
+            "op3": "Neymar Jr",
+            "op4": "Ronaldo",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the winner of the Silver Ball in the FIFA World Cup 2014?",
+            "op1": "Miroslav Klose",
+            "op2": "Arjen Robben",
+            "op3": "Thomas Muller",
+            "op4": "Mesut Ozil",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the winner of the Bronze Ball in the FIFA World Cup 201?",
+            "op1": "Bastian Schweinsteiger",
+            "op2": "Mesut Ozil",
+            "op3": "Wesley Sneijder",
+            "op4": "Arjen Robben",
+            "answer:": 4
+        },
+        {
+            "question": "Who was the winner of the Golden Boot in the FIFA World Cup 2014?",
+            "op1": "James Rodr\u00edguez",
+            "op2": "Fernando Torres",
+            "op3": "David Villa",
+            "op4": "Wayne Rooney",
+            "answer:": 1
+        },
+        {
+            "question": "What is the name of the venue where the FIFA World Cup 2014 final match was played?",
+            "op1": "Estadio das Dunas",
+            "op2": "Estadio Do Maracana",
+            "op3": "Arena Pantanal",
+            "op4": "Arena de Sao Paulo",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the winner of Golden Glove award in the FIFA World Cup 2014 ?",
+            "op1": "Sergio Romario",
+            "op2": "Karim enzema",
+            "op3": "Manuel Neuer",
+            "op4": "Lionel Messi",
+            "answer:": 3
+        },
+        {
+            "question": "What is the name of football in FIFA World Cup 2014?",
+            "op1": "Telstar",
+            "op2": "razuca",
+            "op3": "Teamgeist",
+            "op4": "Jabulani",
+            "answer:": 2
+        },
+        {
+            "question": "Which country ranked in the third place in FIFA world cup 2014?",
+            "op1": "Brazil",
+            "op2": "Italy",
+            "op3": "Netherlands",
+            "op4": "France",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the winner of Hyundai Young Player award in FIFA World Cup 2014?",
+            "op1": "Paul Pogba",
+            "op2": "Wayne Rooneys",
+            "op3": "David Villa",
+            "op4": "Mario Balotelli",
+            "answer:": 1
+        },
+        {
+            "question": "Where the final match of the FIFA World Cup 2014 was played?",
+            "op1": "Mineirao Stadium",
+            "op2": "Maracan\u00e3 Stadium",
+            "op3": "Arena de S\u00e3o Paulo",
+            "op4": "Est\u00e1dio Nacional de Brasilia",
+            "answer:": 2
+        },
+        {
+            "question": "Who sang the theme song of FIFA World Cup 2014?",
+            "op1": "Pitbull and Jennifer Lopez",
+            "op2": "Kesha Rose Sebert",
+            "op3": "Lady Gaga",
+            "op4": "Enrique Iglesias",
+            "answer:": 1
+        },
+        {
+            "question": "How many goals scored in world cup 2014?",
+            "op1": "160",
+            "op2": "167",
+            "op3": "171",
+            "op4": "175",
+            "answer:": 3
+        },
+        {
+            "question": "Who scored the highest individual goals in FIFA World Cup 20?",
+            "op1": "james rodriguez",
+            "op2": "Mesut Ozil",
+            "op3": "Bastian Schweinsteiger",
+            "op4": "Arjen Robben",
+            "answer:": 1
+        },
+        {
+            "question": "Who scored the only goal in the final of FIFA World Cup 2014?",
+            "op1": "Mario Gotze",
+            "op2": "Fernando Torres",
+            "op3": "David Villa",
+            "op4": "Miroslav Klose",
+            "answer:": 1
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "topic": "Nobel Prize",
+    "Subject": "Awards/Honours/Prizes",
+    "data": [
+        {
+            "question": "Who amidst the following won the Nobel Prize in Science in two different disciplines ?",
+            "op1": "David Lee",
+            "op2": "Madam Curie",
+            "op3": "Russel Hulse",
+            "op4": "Enrico Fermi",
+            "answer:": 2
+        },
+        {
+            "question": "Who amongst the following was awarded Nobel Prize for developing the technology used in integrated circuits used in PCs ?",
+            "op1": "Robert F. Furchgott",
+            "op2": "Horst L. Stormer",
+            "op3": "Jack Kilby",
+            "op4": "Lev Landau",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following Nobel laureates facilitated the development of MRI as an important diagnostic tool ?",
+            "op1": "Sydney Brenner",
+            "op2": "Paul C. Lauterbur",
+            "op3": "John E. Sulton",
+            "op4": "H. Robert Horvitz",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the first nobel prize winner from India ?",
+            "op1": "Sir C. V. Raman",
+            "op2": "Mother Teresa",
+            "op3": "S. handrashekar",
+            "op4": "Rabindranath Tagore",
+            "answer:": 4
+        },
+        {
+            "question": "Amartya Sen was awarded the Nobel Prize for his contribution to :",
+            "op1": "Econometrics",
+            "op2": "Development Economics",
+            "op3": "Monetary Economics",
+            "op4": "Welfare Economics",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following pairs won the Nobel Peace Prize in 2014?",
+            "op1": "Paul L. Modrich and ziz Sancar",
+            "op2": "Kailash Satyarthi and Malala Yousafzai",
+            "op3": "Serge Haroche and David J. Wineland",
+            "op4": "Alvin E. Roth and Lloyd S. Shapley",
+            "answer:": 2
+        },
+        {
+            "question": "In 2015 Nobel Peace Prize was awarded to:",
+            "op1": "Tunisian National Dialogue Quartet",
+            "op2": "Jean Tirole",
+            "op3": "Alice Munro",
+            "op4": "Takaaki Kajita and Arthur B. Mconald",
+            "answer:": 1
+        },
+        {
+            "question": "The Nobel Prize for Economics was instituted by:",
+            "op1": "lfred Nobel",
+            "op2": "Sweden's Central ank",
+            "op3": "The Nobel ommittee",
+            "op4": "World Bank",
+            "answer:": 2
+        },
+        {
+            "question": "In which of the following fields Nobel Prize is not given?",
+            "op1": "Mathematics",
+            "op2": "Chemistry",
+            "op3": "Medicine",
+            "op4": "Physics",
+            "answer:": 1
+        },
+        {
+            "question": "Biologist of Indian origin who received the Nobel Prize was",
+            "op1": "C.V. Raman",
+            "op2": "Raja Ramanna",
+            "op3": "Hargovind Khorana",
+            "op4": "Jagadish Chandra Bose",
+            "answer:": 3
+        },
+        {
+            "question": "Nobel Prize winning India, Amartya Sen, is known for his work in which area?",
+            "op1": "Chemistry",
+            "op2": "Economics",
+            "op3": "Physics",
+            "op4": "Environmental Protection",
+            "answer:": 2
+        },
+        {
+            "question": "Which India-born scientist was awarded the Nobel Prize in Astrophysics?",
+            "op1": "Sir. C.V. Raman",
+            "op2": "Satyendra Nath ose",
+            "op3": "Vikram Sarabhai",
+            "op4": "Prof. Chandrashekhar",
+            "answer:": 4
+        },
+        {
+            "question": "Nobel Prize in which field is not paid out of the endowment set up by Dr. Alfred Nobel?",
+            "op1": "Peace",
+            "op2": "Medicine",
+            "op3": "Economics",
+            "op4": "Chemistry",
+            "answer:": 3
+        },
+        {
+            "question": "The Nobel Prize was instituted by the country",
+            "op1": "UK",
+            "op2": "USA",
+            "op3": "Russia",
+            "op4": "Sweden",
+            "answer:": 4
+        },
+        {
+            "question": "The Indian representing an international organization who shared the Nobel Peace Prize with Al Gore of U.S. was",
+            "op1": "R.N. Tagore",
+            "op2": "Rajendra Pachauri",
+            "op3": "Mother Teresa",
+            "op4": "Viswanathan Subramanian",
+            "answer:": 2
+        },
+        {
+            "question": "In which year did Amartya Kumar Sen receive the Nobel Prize in Economics?",
+            "op1": "1998",
+            "op2": "1995",
+            "op3": "1990",
+            "op4": "2000",
+            "answer:": 1
+        },
+        {
+            "question": "Among the following Nobel laureates, who was not a recipient of the Nobel Prize for Peace?",
+            "op1": "Norman Eanest Borlaug",
+            "op2": "Linus C. Pauling",
+            "op3": "Woodrow Wilson",
+            "op4": "Sir Winston Churchill",
+            "answer:": 4
+        },
+        {
+            "question": "Sir C.V. Raman was awarded Nobel Prize for his work on:",
+            "op1": "Sonometer",
+            "op2": "Cryogenics",
+            "op3": "Light Scattering",
+            "op4": "Radio activity",
+            "answer:": 3
+        },
+        {
+            "question": "Who was first Nobel Prize winner in the field of Physics?",
+            "op1": "CV Raman",
+            "op2": "Lord Rayleigh",
+            "op3": "Wilhelm R\u00f6ntgen",
+            "op4": "Thomas Alva Edison",
+            "answer:": 3
+        },
+        {
+            "question": "Who won first Nobel Prize in the field of Chemistry?",
+            "op1": "Hermann Emil Fischer",
+            "op2": "Sir William Ramsay",
+            "op3": "Eduard Buchner",
+            "op4": "Jacobus H. van't Hoff",
+            "answer:": 4
+        },
+        {
+            "question": "Who was first Nobel Prize winner for peace in India?",
+            "op1": "CV Raman",
+            "op2": "Mother Teressa",
+            "op3": "Kailash Satyarthi",
+            "op4": "r. Har Gobind Khorana",
+            "answer:": 2
+        },
+        {
+            "question": "Maximum number of Literature awards goes to __________ language?",
+            "op1": "English",
+            "op2": "Portuguese",
+            "op3": "German",
+            "op4": "French",
+            "answer:": 1
+        },
+        {
+            "question": "Mother Theresa Won Nobel Prize in year _______.",
+            "op1": "1975",
+            "op2": "1977",
+            "op3": "1979",
+            "op4": "1981",
+            "answer:": 3
+        },
+        {
+            "question": "Rabindranath Tagore was awarded by Nobel Prize for Literature in Year?",
+            "op1": "1913",
+            "op2": "1914",
+            "op3": "1915",
+            "op4": "1916",
+            "answer:": 1
+        },
+        {
+            "question": "Alfred Nobel has invented _________.",
+            "op1": "tom Bomb",
+            "op2": "Dynamite",
+            "op3": "Nuclear Wapone",
+            "op4": "Satellite Launching Machine",
+            "answer:": 2
+        },
+        {
+            "question": "When was the first Nobel Prize awarded?",
+            "op1": "In Year 1901",
+            "op2": "In Year 1905",
+            "op3": "In Year 1909",
+            "op4": "In Year 1911",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following lady won Nobel Prize in two fields Physics as well as Chemistry?",
+            "op1": "Marie Curie",
+            "op2": "Herta M\u00fcller",
+            "op3": "Maria Goeppert Mayer",
+            "op4": "Elizabeth H. Blackburn",
+            "answer:": 1
+        }
+    ]
+}

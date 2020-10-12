@@ -1,0 +1,86 @@
+{
+    "topic": "Other Awards & Honours",
+    "Subject": "Awards/Honours/Prizes",
+    "data": [
+        {
+            "question": "The Kalinga Prize is given by which of the following organisations ?",
+            "op1": "UNESCO",
+            "op2": "World Health Organisation",
+            "op3": "Jahawarlal Nehru Peace Foundation",
+            "op4": "Councial of Scientific and Industrial Research",
+            "answer:": 1
+        },
+        {
+            "question": "In which field Kalinga Prize is given ?",
+            "op1": "Journalism",
+            "op2": "Science",
+            "op3": "Art",
+            "op4": "Literature",
+            "answer:": 2
+        },
+        {
+            "question": "Shanti Swaroop Bhatnagar Awards are given to those people who have excellence in Science and Technology. The institute Professor Shanti Swaroop Bhatnagar is :",
+            "op1": "CSIR",
+            "op2": "DST",
+            "op3": "IMR",
+            "op4": "IISC",
+            "answer:": 1
+        },
+        {
+            "question": "The prestigious National Tansen Sanman is instituted by the state government of :",
+            "op1": "Uttar Pradesh",
+            "op2": "Madhya Pradesh",
+            "op3": "Kerela",
+            "op4": "Maharashtra",
+            "answer:": 2
+        },
+        {
+            "question": "Saraswati Sanman Sanman is awarded by K. K. Birla foundation for outstanding contribution to :",
+            "op1": "Literature",
+            "op2": "Coaching",
+            "op3": "Fine arts",
+            "op4": "Classical music",
+            "answer:": 1
+        },
+        {
+            "question": "Goldman Awards are instituted to recognize those people who have outstanding contribution in the field of :",
+            "op1": "Population control",
+            "op2": "Popularisation of science",
+            "op3": "onservation of energy",
+            "op4": "Protection of environment",
+            "answer:": 4
+        },
+        {
+            "question": "'Moortidevi Sahitya Puraskar' is instituted by :",
+            "op1": "Ministry of Human Resource Development, Government of India",
+            "op2": "Sahitya Academy",
+            "op3": "Bharatiya Jnanpeeth Trust",
+            "op4": "Bharatiya Vidya Bhavan",
+            "answer:": 3
+        },
+        {
+            "question": "In which field Pulitzer Prize is given ?",
+            "op1": "Journalism",
+            "op2": "Technology",
+            "op3": "Medicine",
+            "op4": "Sports",
+            "answer:": 1
+        },
+        {
+            "question": "Grammy Award is given in the field of :",
+            "op1": "Literature",
+            "op2": "Music",
+            "op3": "Science",
+            "op4": "Photography",
+            "answer:": 2
+        },
+        {
+            "question": "International Simon Bolivar Prize was recently awarded to Aung San Suu Kyi by the government of :",
+            "op1": "Mauritius",
+            "op2": "China",
+            "op3": "Venezuela",
+            "op4": "Cuba",
+            "answer:": 3
+        }
+    ]
+}

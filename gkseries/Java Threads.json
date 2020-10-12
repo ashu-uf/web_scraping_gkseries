@@ -1,0 +1,14 @@
+{
+    "topic": "Java Threads",
+    "Subject": "Java",
+    "data": [
+        {
+            "question": "What will be the result of invoking the wait() method on an object without ensuring that the current thread holds the lock of the object?",
+            "op1": "The code will fail to compile",
+            "op2": "Nothing special will happen",
+            "op3": "An IllegalMonitorStateException will be thrown if the wait() method is called, while the current thread does not hold the lock of the object",
+            "op4": "The thread will be blocked until it gains the lock of the object",
+            "answer:": 3
+        }
+    ]
+}

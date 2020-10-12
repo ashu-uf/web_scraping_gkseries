@@ -1,0 +1,206 @@
+{
+    "topic": "Local Area Network",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "Which of the following cabling techniques is considered best between buildings for establishing LANs ?",
+            "op1": "10Base5",
+            "op2": "10ase-F",
+            "op3": "10Base2",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "For optical fiber used in point to point transmission, the repeater spacing is",
+            "op1": "10-100 km",
+            "op2": "2-10 km",
+            "op3": "1-10 km",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Optical fiber uses principle of total internal reflection, which can occur in any transparent medium that has",
+            "op1": "Lower index of refraction than the surrounding medium",
+            "op2": "An equal index of refraction of the surrounding medium",
+            "op3": "Higher index of refraction than the surrounding medium",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Connections to the thick Ethernet cable are generally made using",
+            "op1": "RJ-45",
+            "op2": "NC connectors",
+            "op3": "Vampire taps",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The 10Base-T scheme can support segments of up to",
+            "op1": "500 m",
+            "op2": "100 m",
+            "op3": "200 m",
+            "op4": "50 m",
+            "answer:": 2
+        },
+        {
+            "question": "Which topology of LAN uses circuit switching ?",
+            "op1": "Ring",
+            "op2": "Tree",
+            "op3": "Star",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The maximum number of nodes per segment supported by 10Base-F is",
+            "op1": "1024",
+            "op2": "512",
+            "op3": "100",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following topologies cannot be used for a local area network ?",
+            "op1": "Star",
+            "op2": "Ring",
+            "op3": "Bus",
+            "op4": "None of the above",
+            "answer:": 4
+        },
+        {
+            "question": "In a network with 25 computers, which topology would require the most extensive cabling ?",
+            "op1": "Mesh",
+            "op2": "us",
+            "op3": "Ring",
+            "op4": "Star",
+            "answer:": 1
+        },
+        {
+            "question": "Which device is used to handle carrier detection and collision detection in LANs ?",
+            "op1": "Bridge",
+            "op2": "Repeater",
+            "op3": "Transreceiver",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "On a Ethernet LAN implementation with 10 Base 5 the maximum number of segments can be",
+            "op1": "Three",
+            "op2": "Four",
+            "op3": "Five",
+            "op4": "Any number",
+            "answer:": 3
+        },
+        {
+            "question": "Switches are",
+            "op1": "Limited to small data networks",
+            "op2": "Inefficient",
+            "op3": "Are not used presently",
+            "op4": "Better than hub",
+            "answer:": 4
+        },
+        {
+            "question": "For establishing LANs between building, which of the following cabling techniques is considered best:",
+            "op1": "10Base5",
+            "op2": "10ase2",
+            "op3": "10Base-F",
+            "op4": "10Base-T",
+            "answer:": 2
+        },
+        {
+            "question": "IEEE 802.5 is ____________",
+            "op1": "Token bus",
+            "op2": "Ethernet",
+            "op3": "Token ring",
+            "op4": "Voice data transmissions",
+            "answer:": 3
+        },
+        {
+            "question": "A conventional LAN bridge specifies only the functions of",
+            "op1": "Layers 1 and 2",
+            "op2": "Layers 1 through 3",
+            "op3": "All layers",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following device copies electrical signals from one Ethernet to another ?",
+            "op1": "Bridge",
+            "op2": "Repeater",
+            "op3": "Hub",
+            "op4": "Passive hub",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following items is not used in Local Area Networks (LANs) ?",
+            "op1": "Computer",
+            "op2": "Modem",
+            "op3": "Printer",
+            "op4": "Cable",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following device is used to connect two systems, especially if the systems use different protocols ?",
+            "op1": "Hub",
+            "op2": "ridge",
+            "op3": "Gateway",
+            "op4": "Repeater",
+            "answer:": 3
+        },
+        {
+            "question": "A device that links two homogeneous packet broadcast local networks, is",
+            "op1": "Hub",
+            "op2": "ridge",
+            "op3": "Repeater",
+            "op4": "Gateway",
+            "answer:": 2
+        },
+        {
+            "question": "Network topology, consisting of modes attached in a ring without a host computer, is known as",
+            "op1": "Star",
+            "op2": "us",
+            "op3": "Ring",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which out of the following topologies is the most reliable ?",
+            "op1": "Ring",
+            "op2": "Star",
+            "op3": "Bus",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Ethernet uses",
+            "op1": "Ring topology",
+            "op2": "Tree topology",
+            "op3": "Bus topology",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In a network with 25 computer, which one of the following topologies would require the least cabling ?",
+            "op1": "Mesh topology",
+            "op2": "Star topology",
+            "op3": "Bus topology",
+            "op4": "Ring topology",
+            "answer:": 4
+        },
+        {
+            "question": "Which topology requires a central controller or hub ?",
+            "op1": "Mesh topology",
+            "op2": "Star topology",
+            "op3": "Bus topology",
+            "op4": "Ring topology",
+            "answer:": 2
+        },
+        {
+            "question": "The speed of Ethernet is",
+            "op1": "64 Kbps",
+            "op2": "64 Mbps",
+            "op3": "10 Kbps",
+            "op4": "10 Mbps",
+            "answer:": 4
+        }
+    ]
+}

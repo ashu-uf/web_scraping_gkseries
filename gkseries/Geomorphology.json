@@ -1,0 +1,446 @@
+{
+    "topic": "Geomorphology",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Residual hill in the desert region is known as :",
+            "op1": "Inlier",
+            "op2": "Inselberg",
+            "op3": "Playa",
+            "op4": "Pediment",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following represents a process of chemical weathering ?",
+            "op1": "Thermal expansion and contraction",
+            "op2": "Mass exfoliation",
+            "op3": "Hydration and Hydrolysis",
+            "op4": "Frost action and crystal growth",
+            "answer:": 3
+        },
+        {
+            "question": "The most ideal conditions for the chemical weathering are found in :",
+            "op1": "cold and dry regions",
+            "op2": "cold and humid regions",
+            "op3": "hot and dry regions",
+            "op4": "hot and humid regions",
+            "answer:": 4
+        },
+        {
+            "question": "The instrument used for recording earthquake waves is :",
+            "op1": "barograph",
+            "op2": "hydrograph",
+            "op3": "pantograph",
+            "op4": "seismograph",
+            "answer:": 4
+        },
+        {
+            "question": "When the wind is deflected due to the rotation of the Earth, it is called as :",
+            "op1": "geostrophic wind",
+            "op2": "polar wind",
+            "op3": "westerlies",
+            "op4": "trade winds",
+            "answer:": 1
+        },
+        {
+            "question": "The Sea breeze blows during :",
+            "op1": "day from land to sea",
+            "op2": "day from sea to land",
+            "op3": "right from land to sea",
+            "op4": "right from sea to land",
+            "answer:": 2
+        },
+        {
+            "question": "Very strong and cold icy winds that blow in the Polar regions are called :",
+            "op1": "typhoons",
+            "op2": "tornadoes",
+            "op3": "blizzards",
+            "op4": "polar winds",
+            "answer:": 3
+        },
+        {
+            "question": "Warm dry winds blowing down the east slopes of Rockies are known as :",
+            "op1": "Mistral",
+            "op2": "Norwesters",
+            "op3": "Foehn",
+            "op4": "Chinook",
+            "answer:": 4
+        },
+        {
+            "question": "The hot dry local winds that blow on the eastern side of the Alps Mountain are known as :",
+            "op1": "Chinook",
+            "op2": "Foehn",
+            "op3": "Khamsin",
+            "op4": "Sirocco",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is the highest Plateau in the world ?",
+            "op1": "Colorado Plateau",
+            "op2": "Pamir Plateau",
+            "op3": "Patagonia Plateau",
+            "op4": "Potwar Plateau",
+            "answer:": 2
+        },
+        {
+            "question": "The reason behind the drifting away of continents is :",
+            "op1": "volcanic eruptions",
+            "op2": "tectonic activities",
+            "op3": "folding and faulting of rocks",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "What kind of soils formed by wind dust in and around hot deserts ?",
+            "op1": "Silty soil",
+            "op2": "Loamy soil",
+            "op3": "Sandy soil",
+            "op4": "loess soil",
+            "answer:": 4
+        },
+        {
+            "question": "The largest temperate desert of the world is :",
+            "op1": "Iranian desert",
+            "op2": "Patagonian desert",
+            "op3": "Taklamakan desert",
+            "op4": "Turkmen desert",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following rocks is transformed into marble ?",
+            "op1": "Granite",
+            "op2": "Kimberlite",
+            "op3": "Limestone",
+            "op4": "Norite",
+            "answer:": 3
+        },
+        {
+            "question": "The example of acid igneous rocks is :",
+            "op1": "Granite",
+            "op2": "Dolerite",
+            "op3": "Gabbro",
+            "op4": "Pumice",
+            "answer:": 1
+        },
+        {
+            "question": "Which form of coal is usually used in Thermal Power Plants ?",
+            "op1": "nthracite",
+            "op2": "Lignite",
+            "op3": "Bituminous",
+            "op4": "Peat",
+            "answer:": 3
+        },
+        {
+            "question": "What is the scale of earthquake intensity ?",
+            "op1": "Beaufort scale",
+            "op2": "Seismic scale",
+            "op3": "Secant scale",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "The removal of curved plates of rocks layer by layer due to mechanical weathering is called :",
+            "op1": "block disintegration",
+            "op2": "deflation",
+            "op3": "exfoliation",
+            "op4": "partitioning",
+            "answer:": 3
+        },
+        {
+            "question": "Mid-ocean ridge is formed due to the plate movement which is called :",
+            "op1": "Convergent movement",
+            "op2": "Divergent movement",
+            "op3": "Transform fault movement",
+            "op4": "Lateral slipping plate movement",
+            "answer:": 2
+        },
+        {
+            "question": "What causes an Earthquake ?",
+            "op1": "Frequent occurrence of cyclones",
+            "op2": "Movement of plates of earth, which float on the hot volcanic mantle below the Earth's surface",
+            "op3": "Underground nuclear explosions",
+            "op4": "rilling of crude oil",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following processes are involved in formation of sedimentary rocks ?",
+            "op1": "Mountain building",
+            "op2": "Lithification",
+            "op3": "Fractional crystallization",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is related to Shield volcano formation ?",
+            "op1": "Explosive lava eruptions",
+            "op2": "Repeated lava flows",
+            "op3": "Loose, grainy cinders",
+            "op4": "Ejection of a wide range of pyroclastic materials",
+            "answer:": 2
+        },
+        {
+            "question": "Which type of volcanic eruption is the most explosive ?",
+            "op1": "Strombolian Eruption",
+            "op2": "Vulcanian Eruption",
+            "op3": "Plinian Eruption",
+            "op4": "Surtseyan Eruption",
+            "answer:": 3
+        },
+        {
+            "question": "What kind of volcanic eruption is least explosive ?",
+            "op1": "Hawaiian Eruption",
+            "op2": "Strombolian Eruption",
+            "op3": "Lava Domes",
+            "op4": "Surtseyan Eruption",
+            "answer:": 1
+        },
+        {
+            "question": "What is the longest mountain range in the world ?",
+            "op1": "ndes",
+            "op2": "Coast mountain",
+            "op3": "Himalayas",
+            "op4": "Western Ghats",
+            "answer:": 1
+        },
+        {
+            "question": "The study of movement inside Earth's crust is called :",
+            "op1": "Geology",
+            "op2": "Geodesy",
+            "op3": "Seismology",
+            "op4": "Plate tectonics",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is the source of soil material ?",
+            "op1": "Sedimentary rocks",
+            "op2": "Metamorphic rocks",
+            "op3": "Igneous rocks",
+            "op4": "Biological action",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following things come out of a volcano eruption ?",
+            "op1": "solid, gas, liquid",
+            "op2": "only liquid",
+            "op3": "gas and solid",
+            "op4": "liquid and gas",
+            "answer:": 1
+        },
+        {
+            "question": "The coal and petroleum are found in which type of rocks ?",
+            "op1": "Latite rock",
+            "op2": "Sedimentary rocks",
+            "op3": "Granite rocks",
+            "op4": "Pyroxenite rocks",
+            "answer:": 2
+        },
+        {
+            "question": "The gold and copper are mostly found in which type of rocks ?",
+            "op1": "Old igneous",
+            "op2": "New sedimentary",
+            "op3": "New metamorphic",
+            "op4": "Old metamorphic",
+            "answer:": 1
+        },
+        {
+            "question": "Rift valley is formed due to",
+            "op1": "Warping",
+            "op2": "Faulting",
+            "op3": "Folding",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Exogenic geological process includes",
+            "op1": "Erosion",
+            "op2": "Mass wasting",
+            "op3": "Weathering",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The work of river in middle course is mainly",
+            "op1": "Erosion",
+            "op2": "Deposition",
+            "op3": "Transportation",
+            "op4": "Both (B) and (C)",
+            "answer:": 1
+        },
+        {
+            "question": "Mass of the earth is estimated to be",
+            "op1": "5.880 x 1021 tons",
+            "op2": "5.760 x 1019 tons",
+            "op3": "5.800 x 1025 tons",
+            "op4": "5.880 x 1020 tons",
+            "answer:": 1
+        },
+        {
+            "question": "Prime Meridian passes through",
+            "op1": "Greenwich",
+            "op2": "New York",
+            "op3": "Tokyo",
+            "op4": "UK",
+            "answer:": 1
+        },
+        {
+            "question": "Himalayas is an example of",
+            "op1": "Fold mountains",
+            "op2": "Fault mountains",
+            "op3": "Rift valley",
+            "op4": "All of the above",
+            "answer:": 1
+        },
+        {
+            "question": "A lagoon is formed by",
+            "op1": "Wind deposition",
+            "op2": "Wind erosion",
+            "op3": "Wave erosion",
+            "op4": "Wave deposition",
+            "answer:": 3
+        },
+        {
+            "question": "Islands are formed by",
+            "op1": "Glaciation",
+            "op2": "Wave action",
+            "op3": "Volcanic activity",
+            "op4": "River action",
+            "answer:": 2
+        },
+        {
+            "question": "Hanging valleys are very common in",
+            "op1": "Karst regions",
+            "op2": "Dry area",
+            "op3": "Plain area",
+            "op4": "Snow covered area",
+            "answer:": 4
+        },
+        {
+            "question": "A fast flowing river forms",
+            "op1": "Col",
+            "op2": "Deltas",
+            "op3": "Flood-plains",
+            "op4": "Sink-holes",
+            "answer:": 3
+        },
+        {
+            "question": "Horns are made by",
+            "op1": "Wind erosion",
+            "op2": "River erosion",
+            "op3": "Glacial deposition",
+            "op4": "Glacial erosion",
+            "answer:": 4
+        },
+        {
+            "question": "Ox-bow lakes are formed due to",
+            "op1": "Flooding",
+            "op2": "Wave erosion",
+            "op3": "Intense meandering",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The shape of the river valley is generally like",
+            "op1": "V",
+            "op2": "U",
+            "op3": "Both (A) and (B)",
+            "op4": "None of them",
+            "answer:": 1
+        },
+        {
+            "question": "Sedimentary rocks are also called",
+            "op1": "Stratified rocks",
+            "op2": "Aqueous rocks",
+            "op3": "Both (A) and (B)",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "\u2018U\u2019 shaped valley is formed by",
+            "op1": "Glacier",
+            "op2": "A river in plains",
+            "op3": "A river in mountainous areas",
+            "op4": "All of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following constituents of the Pelagic sediment is maximum in area wise distribution ?",
+            "op1": "Red clay",
+            "op2": "Diatom",
+            "op3": "Radiolarian ooze",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Continental drift refers to",
+            "op1": "The vertical movement of the continents on a small scale",
+            "op2": "The vertical movement of the continents on a vast scale",
+            "op3": "The horizontal movement of the continents on a small scale",
+            "op4": "The horizontal movement of the continents on a vast scale",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following waves are responsible for most of the destructive force of earthquake ?",
+            "op1": "R-wave",
+            "op2": "S-wave",
+            "op3": "L-wave",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Lave cones are",
+            "op1": "Fold mountains",
+            "op2": "Fault mountains",
+            "op3": "Mountains of accumulation",
+            "op4": "Relict mountains",
+            "answer:": 3
+        },
+        {
+            "question": "Processes that shape the earth\u2019s surface include",
+            "op1": "Hypogene processes",
+            "op2": "Geomorphic processes",
+            "op3": "Tetra-tonsorial processes",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The Sea breeze blows during :",
+            "op1": "day from land to sea",
+            "op2": "day from sea to land",
+            "op3": "right from land to sea",
+            "op4": "right from sea to land",
+            "answer:": 2
+        },
+        {
+            "question": "Very strong and cold icy winds that blow in the Polar regions are called :",
+            "op1": "typhoons",
+            "op2": "tornadoes",
+            "op3": "blizzards",
+            "op4": "polar winds",
+            "answer:": 3
+        },
+        {
+            "question": "Warm dry winds blowing down the east slopes of Rockies are known as :",
+            "op1": "Mistral",
+            "op2": "Norwesters",
+            "op3": "Foehn",
+            "op4": "Chinook",
+            "answer:": 4
+        },
+        {
+            "question": "The hot dry local winds that blow on the eastern side of the Alps Mountain are known as :",
+            "op1": "Chinook",
+            "op2": "Foehn",
+            "op3": "Khamsin",
+            "op4": "Sirocco",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is the highest Plateau in the world ?",
+            "op1": "Colorado Plateau",
+            "op2": "Pamir Plateau",
+            "op3": "Patagonia Plateau",
+            "op4": "Potwar Plateau",
+            "answer:": 2
+        }
+    ]
+}

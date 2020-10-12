@@ -1,0 +1,806 @@
+{
+    "topic": "Union and State Executive",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "How the President of India is elected ?",
+            "op1": "By the way of people representation",
+            "op2": "y an electoral college consisting of the elected members of both the Houses of Parliament and by the representatives of Central and State Legislature",
+            "op3": "By an electoral college consisting of the elected members of both the Houses of Parliament",
+            "op4": "The Prime Minister of India appoints him",
+            "answer:": 2
+        },
+        {
+            "question": "Who is the Supreme Commander of Indian Armed Forces ?",
+            "op1": "The Prime Minister of India",
+            "op2": "The President of India",
+            "op3": "The Defence Minister",
+            "op4": "Chief of Army Staff",
+            "answer:": 2
+        },
+        {
+            "question": "In which of the following situations does the President of India act in his own discretion ?",
+            "op1": "In returning a proposal to the Council of Ministers for recommendation",
+            "op2": "In appointing the Prime Minister",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "In the election of the President, the value of the vote of the Lok Sabha Members :",
+            "op1": "differs according to the geographical size of the respective State",
+            "op2": "is same",
+            "op3": "differs according to the number of votes a member represents",
+            "op4": "none of these",
+            "answer:": 3
+        },
+        {
+            "question": "The oath is administered to the President of India by :",
+            "op1": "Prime Minister of India",
+            "op2": "The Speaker of Lok Sabha",
+            "op3": "hief Justice of Supreme ourt",
+            "op4": "Chief Justice of High Court",
+            "answer:": 3
+        },
+        {
+            "question": "What is the minimum age limit to contest in President election in India ?",
+            "op1": "25 Years",
+            "op2": "30 Years",
+            "op3": "35 Years",
+            "op4": "40 Years",
+            "answer:": 3
+        },
+        {
+            "question": "Who acts as the President of India when neither the President nor the Vice-President is available ?",
+            "op1": "Chief of rmy Staff",
+            "op2": "Speaker of Lok Sabha",
+            "op3": "hief Justice of India",
+            "op4": "efence Advisor of India",
+            "answer:": 3
+        },
+        {
+            "question": "The power of the President of India to issue an ordinance is a :",
+            "op1": "Legislative power",
+            "op2": "Executive power",
+            "op3": "onstituent power",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The resolution for removing Vice-President of India can be moved to the :",
+            "op1": "Joint sitting of Parliament",
+            "op2": "Rajya Sabha",
+            "op3": "Lok Sabha",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "When a Chief Minister of a State loses his eligibility to vote in Presidential election of India ?",
+            "op1": "He is yet to prove his majority on the floor of the lower house of the State Legislature",
+            "op2": "He is a member of the Upper House of the State Legislature",
+            "op3": "He himself is a candidate",
+            "op4": "He holds many other Ministries in his hand",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following Standing Committees of Parliament has no MP from Rajya Sabha?",
+            "op1": "Estimates Committee",
+            "op2": "Public Accounts Committee",
+            "op3": "ommittee on Public Undertakings",
+            "op4": "Committee on Government Assurances",
+            "answer:": 1
+        },
+        {
+            "question": "For which period the Finance Commission is formed?",
+            "op1": "Every year",
+            "op2": "2 years",
+            "op3": "5 years",
+            "op4": "According to the wishes of Parliament",
+            "answer:": 3
+        },
+        {
+            "question": "The minimum number of workers who can form a Trade Union and get it registered under Trade Union Act?",
+            "op1": "7",
+            "op2": "11",
+            "op3": "25",
+            "op4": "50",
+            "answer:": 1
+        },
+        {
+            "question": "No money bill can be introduced in the Lok Sabha without the prior approval of the",
+            "op1": "Vice-President",
+            "op2": "Prime Minister",
+            "op3": "Finance Minister",
+            "op4": "President",
+            "answer:": 4
+        },
+        {
+            "question": "The deciding authority of States share in central taxes is the",
+            "op1": "Finance Minister",
+            "op2": "Election Commission",
+            "op3": "Planning ommission",
+            "op4": "Finance Commission",
+            "answer:": 4
+        },
+        {
+            "question": "When was the Public Service Commission, the original version of the U.P.S.C. set up?",
+            "op1": "1st pril, 1937",
+            "op2": "1st October, 1926",
+            "op3": "15th August, 1947",
+            "op4": "26th January, 1950",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following non-members of Parliament has the right to address it?",
+            "op1": "Chief Justice of India",
+            "op2": "Solicitor- General of India",
+            "op3": "Attorney-General of India",
+            "op4": "Chief Election Commissioner",
+            "answer:": 3
+        },
+        {
+            "question": "Which authority recommends the principles governing the grants-in-aid of the revenues of the States out of the Consolidated Fund of India?",
+            "op1": "Finance Commission",
+            "op2": "Inter-State Council",
+            "op3": "Union Ministry of Finance",
+            "op4": "Public Accounts Committee",
+            "answer:": 1
+        },
+        {
+            "question": "Who is competent to dissolve the Rajya Sabha?",
+            "op1": "The President",
+            "op2": "The Chairman, Rajya Sabha",
+            "op3": "The Joint-session of Parliament",
+            "op4": "No one",
+            "answer:": 4
+        },
+        {
+            "question": "The Comptroller and Auditor General of India acts as the chief accountant and auditor for the",
+            "op1": "State Government",
+            "op2": "Union Government",
+            "op3": "Union and State Governments",
+            "op4": "Neither Union nor State Governments",
+            "answer:": 3
+        },
+        {
+            "question": "To whom can a case of dispute in the election of the President of India be referred to?",
+            "op1": "Cabinet",
+            "op2": "Parliament",
+            "op3": "Election ommission",
+            "op4": "Supreme Court of India",
+            "answer:": 4
+        },
+        {
+            "question": "The \u201cResiduary Powers\u201d (not mentioned in the Union, State or Concurrent lists of the Constitution) are vested in",
+            "op1": "President of India",
+            "op2": "State Legislature",
+            "op3": "Lok Sabha",
+            "op4": "Both Rajya Sabha and Lok Sabha",
+            "answer:": 4
+        },
+        {
+            "question": "The Finance Commission is mainly concerned with recommending to the President about",
+            "op1": "Distributing net proceeds of taxes between the Centre and the States",
+            "op2": "Principles Governing the grants-in-aid to be given to States",
+            "op3": "Both (A) and (B)",
+            "op4": "Neither (A) and (B)",
+            "answer:": 3
+        },
+        {
+            "question": "What is the maximum period upto which a proclamation issued by the President under Article 356 of the Constitution and approved/extended by the Parliament may, normally, remain in force?",
+            "op1": "Six months",
+            "op2": "One year",
+            "op3": "Two years",
+            "op4": "Unit is repealed by the Parliament",
+            "answer:": 2
+        },
+        {
+            "question": "The function of Protem Speaker is to",
+            "op1": "check if the election certificates of members are in order",
+            "op2": "conduct the proceedings of the House in the absence of the Speaker",
+            "op3": "swearing in members and hold change till a regular Speaker is elected",
+            "op4": "officiate as Speaker when a Speaker is unlikely to be elected",
+            "answer:": 3
+        },
+        {
+            "question": "Which among the following presides over the Lok Sabha in the absence of Speaker or Deputy Speaker of the Lok Sabha?",
+            "op1": "senior most member of the House",
+            "op2": "A member appointed by the President",
+            "op3": "A person from the panel formed by the Speaker of the Lok Sabha",
+            "op4": "A member nominated by the members of the parliament present in the House",
+            "answer:": 3
+        },
+        {
+            "question": "The Presidential Government operates on the principle of:",
+            "op1": "Separation of Powers",
+            "op2": "alance of Powers",
+            "op3": "entralization of Powers",
+            "op4": "ivision of Powers between Centre and States",
+            "answer:": 1
+        },
+        {
+            "question": "Who constitutes the Finance Commission after every five years?",
+            "op1": "The Comptroller and uditor General",
+            "op2": "The Council of Ministers",
+            "op3": "The Parliament",
+            "op4": "The President",
+            "answer:": 4
+        },
+        {
+            "question": "The President\u2019s Rule is imposed on a State in India, when",
+            "op1": "The Elections are announced",
+            "op2": "The Governor of the State dies",
+            "op3": "The State abinet of Ministers resigns",
+            "op4": "There is a constitutional breakdown",
+            "answer:": 4
+        },
+        {
+            "question": "Members of the Union Public Service Commission can be removed by the",
+            "op1": "President on recommendation from Central dministrative Tribunal",
+            "op2": "President on the basis of an inquiry and report by the Supreme Court",
+            "op3": "President on a unanimous recommendation from the Union ouncil of Ministers",
+            "op4": "Parliament after a resolution adopted with 2/3rds majority",
+            "answer:": 2
+        },
+        {
+            "question": "In Indian Parliament, a bill may be sent to a select committee",
+            "op1": "fter the first reading",
+            "op2": "After the second reading",
+            "op3": "After general discussion during second reading",
+            "op4": "At any stage at the discretion of the Speaker",
+            "answer:": 4
+        },
+        {
+            "question": "Which is the source of political power in India?",
+            "op1": "We, the People",
+            "op2": "The Constitution",
+            "op3": "The Parliament",
+            "op4": "The Parliament and the State Legislatives",
+            "answer:": 1
+        },
+        {
+            "question": "If the Election Commission is satisfied that a candidate has failed to lodge an account of election expenses, within the prescribed time and in the manner, for no good reason or justification, what is the period for which the EC can disqualify him to be a member or from continuing to be a member of the elected office from the date of the order?",
+            "op1": "2 years",
+            "op2": "3 years",
+            "op3": "4 years",
+            "op4": "5 years",
+            "answer:": 2
+        },
+        {
+            "question": "The salaries and allowances payable to the Members of the Parliament are decided by the",
+            "op1": "Parliament",
+            "op2": "President",
+            "op3": "abinet",
+            "op4": "Finance Commission",
+            "answer:": 1
+        },
+        {
+            "question": "The authority to prorogue the two Houses of the Parliament rests with the",
+            "op1": "Speaker",
+            "op2": "Prime Minster",
+            "op3": "Vice- President",
+            "op4": "President",
+            "answer:": 4
+        },
+        {
+            "question": "Judges of the Supreme Court and High Court can be removed by",
+            "op1": "Parliament",
+            "op2": "The President",
+            "op3": "Union ouncil of Ministers",
+            "op4": "Chief Justice of the Supreme court",
+            "answer:": 2
+        },
+        {
+            "question": "Who is the competent to dissolve the Parliament?",
+            "op1": "The President",
+            "op2": "y resolution in both Houses of Parliament",
+            "op3": "The abinet with the concurrence of the Leader of the Opposition",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "The Secretary General of the Lok Sabha is the Chief of its Secretariat and is:",
+            "op1": "ppointed by the President",
+            "op2": "Elected by the Lok Sabha",
+            "op3": "Appointed by the Speaker",
+            "op4": "Elected by both Houses of Parliament",
+            "answer:": 3
+        },
+        {
+            "question": "To which of the following Bills the President must accord his sanction without sending it back for fresh consideration?",
+            "op1": "Money Bills",
+            "op2": "Ordinary ills",
+            "op3": "Bill seeking amendment to the onstitution",
+            "op4": "Bills passed by both Houses of the Parliament",
+            "answer:": 1
+        },
+        {
+            "question": "What is the period of appointment of the Comptroller and Auditor \u2013 General of India?",
+            "op1": "6 years",
+            "op2": "Up to 65 years of age",
+            "op3": "Up to 64 years of age",
+            "op4": "6 years or 65 years of age whichever is earlier",
+            "answer:": 4
+        },
+        {
+            "question": "When the offices of both the President and Vice President of India are vacant, who will discharge their functions?",
+            "op1": "Chief Justice of India",
+            "op2": "Prime Minister",
+            "op3": "hief Minister",
+            "op4": "The Speaker of the Lok Sabha",
+            "answer:": 1
+        },
+        {
+            "question": "Who is eligible to cast the deciding vote over a bill in a Joint Parliamentary session?",
+            "op1": "Prime Minister",
+            "op2": "Speaker of Lok Sabha",
+            "op3": "Deputy Speaker of Lok Sabha",
+            "op4": "Chairman of the Rajya Sabha",
+            "answer:": 2
+        },
+        {
+            "question": "The Electoral College that elects the President of India consists of",
+            "op1": "Members of the Lok Sabha and State ssemblies",
+            "op2": "Elected members of all the State Legislatures",
+            "op3": "Elected members of the Rajya Sabha and State Legislatures",
+            "op4": "Elected members of the Lok Sabha, Rajya Sabha and State Assemblies",
+            "answer:": 4
+        },
+        {
+            "question": "The Balwant Rai Mehta Committee was associated with-",
+            "op1": "Panchayati Raj",
+            "op2": "anking reforms",
+            "op3": "Industrial Policy",
+            "op4": "Centre-State relations",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the Chairman of the Drafting Committee of the Constitution?",
+            "op1": "J.L. Nehru",
+            "op2": "Rajendra Prasad",
+            "op3": "B.R. Ambedkar",
+            "op4": "J.B. Kripalani",
+            "answer:": 3
+        },
+        {
+            "question": "Which Government agency is responsible for the mapping and exploration of minerals in India?",
+            "op1": "Survey of India",
+            "op2": "Geological survey of India",
+            "op3": "School of Mines",
+            "op4": "Minerals evelopment Corporation",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the First Speaker of Independent India\u2019s Lok Sabha?",
+            "op1": "Rabi Ray",
+            "op2": "Hukam Singh",
+            "op3": "Bali Ram Bhagat",
+            "op4": "G.V. Mavalankar",
+            "answer:": 4
+        },
+        {
+            "question": "In which country Financial Legislation is introduced in the Upper House of the Legislature?",
+            "op1": "Germany",
+            "op2": "Australia",
+            "op3": "France",
+            "op4": "Japan",
+            "answer:": 1
+        },
+        {
+            "question": "The Vice- President of India is also the",
+            "op1": "Head of the State",
+            "op2": "Head of the Government",
+            "op3": "Speaker of Lok Sabha",
+            "op4": "Ex-officio Chairman of Rajya Sabha",
+            "answer:": 4
+        },
+        {
+            "question": "The Bureaucracy performs",
+            "op1": "Only judicial functions",
+            "op2": "Only Legislature functions",
+            "op3": "Only administrative functions",
+            "op4": "Administrative as well as quasi-judicial and quasi-legislative functions",
+            "answer:": 4
+        },
+        {
+            "question": "The President of the Union of India has the same constitutional authority as the",
+            "op1": "President of France",
+            "op2": "President of Pakistan",
+            "op3": "President of USA",
+            "op4": "British Monarch",
+            "answer:": 4
+        },
+        {
+            "question": "A member of the Union Public Service Commission can be removed by the",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "hairman of the UPS",
+            "op4": "Chief Justice of the Supreme Court",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the first Deputy Prime Minister of India?",
+            "op1": "Devi Lal",
+            "op2": "G. . Pant",
+            "op3": "Morarji Desai",
+            "op4": "Vallabhbhai Patel",
+            "answer:": 4
+        },
+        {
+            "question": "Who was the President of the Republic of India who consistently described Indian Secularism as \u2018Sarva Dharma Samabhav\u2019?",
+            "op1": "Dr. Zakir Hussain",
+            "op2": "Dr. S. Radhakrishnan",
+            "op3": "Gaini Zail Singh",
+            "op4": "r. Rajendra Prasad",
+            "answer:": 2
+        },
+        {
+            "question": "Who is the Chief Law Officer of the Government of India?",
+            "op1": "The Chief Justice of India",
+            "op2": "The Law Minister of India",
+            "op3": "The Attorney General of India",
+            "op4": "The Registrar of the Supreme Court",
+            "answer:": 3
+        },
+        {
+            "question": "Which is NOT a central Service?",
+            "op1": "Indian Revenue Service",
+            "op2": "Indian Audit & Accounts Service",
+            "op3": "Indian Foreign Service",
+            "op4": "Indian Police Service",
+            "answer:": 4
+        },
+        {
+            "question": "Who is the highest civil servant of the Union Government?",
+            "op1": "Home Secretary",
+            "op2": "Cabinet Secretary",
+            "op3": "Attorney-General",
+            "op4": "Principal Secretary to the Prime Minister",
+            "answer:": 2
+        },
+        {
+            "question": "Which functionary can be invited to give his opinion in the Parliament?",
+            "op1": "Chief Justice of India",
+            "op2": "Attorney-General of India",
+            "op3": "hief Election ommissioner of India",
+            "op4": "Comptroller & Auditor General of India",
+            "answer:": 2
+        },
+        {
+            "question": "The planning Commission of India is",
+            "op1": "Statutory body",
+            "op2": "A constitutional body",
+            "op3": "An independent and autonomous body",
+            "op4": "A non-statutory body",
+            "answer:": 4
+        },
+        {
+            "question": "Being the non-member, who among the following can participate in the proceeding of either house of the Parliament without having right to vote?",
+            "op1": "President of India",
+            "op2": "Chief Justice of India",
+            "op3": "Attorney-General",
+            "op4": "Comptroller and Auditor General",
+            "answer:": 3
+        },
+        {
+            "question": "Dr. Rajendra Prasad was elected as the first President of India by",
+            "op1": "Parliament",
+            "op2": "People of India",
+            "op3": "Electoral ollege",
+            "op4": "Constituent Assembly",
+            "answer:": 4
+        },
+        {
+            "question": "The members of Estimates Committee are",
+            "op1": "Elected from Lok Sabha only",
+            "op2": "Elected from Rajya Sabha only",
+            "op3": "Nominated by the Speaker of the Lok Sabha",
+            "op4": "Elected from both Lok Sabha Rajya Sabha",
+            "answer:": 1
+        },
+        {
+            "question": "Who is the chief advisor to the Governor?",
+            "op1": "President",
+            "op2": "Chief Minister",
+            "op3": "Speaker of the Lok Sabha",
+            "op4": "Chief Justice of Indian Supreme Court",
+            "answer:": 2
+        },
+        {
+            "question": "The term of office of the member of the UPSC is",
+            "op1": "4 years, or till they attain 58 years of age",
+            "op2": "5 years, or till they attain 60 years of age",
+            "op3": "6 years, or till they attain 65 years of age",
+            "op4": "6 years",
+            "answer:": 3
+        },
+        {
+            "question": "The authority which is not established by the constitutional provisions is",
+            "op1": "UPSC",
+            "op2": "Planning Commission",
+            "op3": "Election ommission",
+            "op4": "Finance Commission",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following President of India served for two terms?",
+            "op1": "V. V. Giri",
+            "op2": "Zakir Hussain",
+            "op3": "Rajendra Prasad",
+            "op4": "S. Radhakrishnan",
+            "answer:": 3
+        },
+        {
+            "question": "By which Bill does the Government propose collection of revenues for a year?",
+            "op1": "Finance Bill",
+            "op2": "Economic ill",
+            "op3": "Supplementary Bill",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The President of India enjoys emergency powers of",
+            "op1": "Two types",
+            "op2": "Three types",
+            "op3": "Four types",
+            "op4": "Five types",
+            "answer:": 2
+        },
+        {
+            "question": "The Vice-President of India is elected by",
+            "op1": "The members of the Rajya Sabha",
+            "op2": "The members of the Parliament",
+            "op3": "The elected and nominated members of the Lok Sabha and Rajya Sabha",
+            "op4": "The members of the Parliament and State Legislature",
+            "answer:": 3
+        },
+        {
+            "question": "When was the comprehensive reorganization of Indian States completed in accordance with the recommendations of States Reorganisation Commission?",
+            "op1": "1953",
+            "op2": "1954",
+            "op3": "1955",
+            "op4": "1956",
+            "answer:": 4
+        },
+        {
+            "question": "Who is the constitutional head of the Government of India?",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "Attorney General",
+            "op4": "Chief Justice of India",
+            "answer:": 1
+        },
+        {
+            "question": "Who certifies a Bill to be a Money Bill in India?",
+            "op1": "President",
+            "op2": "Prime Minister",
+            "op3": "Finance Minister",
+            "op4": "Speaker of the Lok Sabha",
+            "answer:": 4
+        },
+        {
+            "question": "In case the President wishes to resign, to whom he is to address his resignation letter?",
+            "op1": "Prime Minister",
+            "op2": "Vice President",
+            "op3": "Secretary of ok Sabha",
+            "op4": "Chief Justice of India",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following are Financial Committee of Parliament in India?",
+            "op1": "I and III",
+            "op2": "I and II",
+            "op3": "II and III",
+            "op4": "I, II and III",
+            "answer:": 4
+        },
+        {
+            "question": "The convention that \u201conce a speaker always a speaker\u201d is followed in",
+            "op1": "UK",
+            "op2": "USA",
+            "op3": "France",
+            "op4": "India",
+            "answer:": 1
+        },
+        {
+            "question": "The Sarkaria Commission was appointed to review the question of",
+            "op1": "Tribal areas",
+            "op2": "Legislative problems",
+            "op3": "entre/state relations",
+            "op4": "Union territories problems",
+            "answer:": 3
+        },
+        {
+            "question": "The English Crown is an example of",
+            "op1": "Nominated executive",
+            "op2": "Nominal executive",
+            "op3": "Quasi-real executive",
+            "op4": "Real executive",
+            "answer:": 2
+        },
+        {
+            "question": "The annual report of the UPSC is submitted to",
+            "op1": "The President",
+            "op2": "The Supreme Court",
+            "op3": "The Prime Minister",
+            "op4": "The Chairman of the Union Public Service Commission",
+            "answer:": 1
+        },
+        {
+            "question": "Finance Commission is constituted",
+            "op1": "Every year",
+            "op2": "Once in two years",
+            "op3": "Once in four years",
+            "op4": "Once in five years",
+            "answer:": 4
+        },
+        {
+            "question": "National Income Estimates in India are prepared by",
+            "op1": "Planning Commission",
+            "op2": "Ministry of Finance",
+            "op3": "entral Statistical Organisation",
+            "op4": "Nation evelopment Council",
+            "answer:": 3
+        },
+        {
+            "question": "The Council of Ministers does not include",
+            "op1": "Cabinet Ministers",
+            "op2": "Cabinet Secretary",
+            "op3": "Ministers of State",
+            "op4": "Ministers without Portfolio",
+            "answer:": 2
+        },
+        {
+            "question": "How many times the President of India can seek re-election to his post?",
+            "op1": "Once",
+            "op2": "2 times",
+            "op3": "3 times",
+            "op4": "Any number of times",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following appointments is not made by the President of India?",
+            "op1": "Chief of rmy",
+            "op2": "Chief of Air Staff",
+            "op3": "Speaker of the Lok Sabha",
+            "op4": "Chief Justice of India",
+            "answer:": 3
+        },
+        {
+            "question": "The Cabinet Committee on Economic Affairs has recently raised the emoluments of the President, the Vice-President and the Governors. The emolument payable to the President has been raised to",
+            "op1": "Rs. 1.00 lakh from Rs. 50.00 per month",
+            "op2": "Rs. 1.50 lakh from Rs. 50.00 per month",
+            "op3": "Rs. 1.75 lakh from Rs. 75.00 per month",
+            "op4": "Rs. 2.00 lakh from Rs. 1.00 lakh per month",
+            "answer:": 2
+        },
+        {
+            "question": "For which period the Finance Commission is formed?",
+            "op1": "3 years",
+            "op2": "4 years",
+            "op3": "5 years",
+            "op4": "6 years",
+            "answer:": 3
+        },
+        {
+            "question": "Only one of the following can be the ex-officio Chairman of the Planning Commission. He is the",
+            "op1": "Minister for Planning and Development",
+            "op2": "Finance Minister",
+            "op3": "Home Minister",
+            "op4": "Prime Minister",
+            "answer:": 4
+        },
+        {
+            "question": "What is the tenure of the Prime Minister of India?",
+            "op1": "Five years",
+            "op2": "Conterminous with the tenure of the Lok Sabha",
+            "op3": "onterminous with the tenure of the President",
+            "op4": "As long as he enjoys the support of a majority in the Lok Sabha",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not a Panchayati Raj Institution?",
+            "op1": "Gram Sabha",
+            "op2": "Gram Panchayat",
+            "op3": "Nyaya Panchayat",
+            "op4": "Gram Cooperative Society",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is an extra-constitutional and non-statutory body?",
+            "op1": "Planning Commission",
+            "op2": "Finance Commission",
+            "op3": "Election ommission",
+            "op4": "Union Public Service Commission",
+            "answer:": 1
+        },
+        {
+            "question": "The Finance Commission",
+            "op1": "Formulates Monetary Policy",
+            "op2": "Draws up Five Year Plans",
+            "op3": "Recommends pay revision of entral Government Employees",
+            "op4": "Adjudicates on the sharing of resources between Centre and the States",
+            "answer:": 4
+        },
+        {
+            "question": "Rashtrapati Bhawan was designed by",
+            "op1": "Edwin Lutyens",
+            "op2": "Le Corbusier",
+            "op3": "Edward Stone",
+            "op4": "Tarun utt",
+            "answer:": 1
+        },
+        {
+            "question": "Who held the office of the Vice President of India for two consecutive terms?",
+            "op1": "Mr. V.V. Giri",
+            "op2": "Dr. Shankar Dayal Sharma",
+            "op3": "Mr. R. Venkataraman",
+            "op4": "r. S. Radhakrishnan",
+            "answer:": 4
+        },
+        {
+            "question": "When there is a vacancy in the office of the President and the Vice President at the same time, the office is held temporarily by",
+            "op1": "The Chief Justice of India",
+            "op2": "The Speaker of Lok Sabha",
+            "op3": "The Deputy hairman of Rajya Sabha",
+            "op4": "A person nominated by both the Houses of Parliament",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the first Woman Governor of a State in free India From out of the following?",
+            "op1": "Mrs. Indira Gandhi",
+            "op2": "Mrs. Sucheta Kriplani",
+            "op3": "Mrs. Sarojini Naidu",
+            "op4": "Mrs. Vijay Laxmi Pandit",
+            "answer:": 3
+        },
+        {
+            "question": "The Parliamentary Committee which scrutinizes the report of the Comptroller and Auditor General of India is",
+            "op1": "Select Committee",
+            "op2": "Estimates Committee",
+            "op3": "Public Accounts ommittee",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "The Prime Minister of India is",
+            "op1": "Selected",
+            "op2": "Nominated",
+            "op3": "Appointed",
+            "op4": "Elected",
+            "answer:": 3
+        },
+        {
+            "question": "Which is not an All India Service?",
+            "op1": "Indian Forest Service",
+            "op2": "Indian Foreign Service",
+            "op3": "Indian Police Service",
+            "op4": "Indian Administration Service",
+            "answer:": 2
+        },
+        {
+            "question": "Sarkaria Commission was concerned with",
+            "op1": "Centre-State relations",
+            "op2": "Financial Reforms",
+            "op3": "Electoral Reforms",
+            "op4": "Administrative Reforms",
+            "answer:": 1
+        },
+        {
+            "question": "A Presidential Ordinance can remain in force",
+            "op1": "For three months",
+            "op2": "For six months",
+            "op3": "For nine months",
+            "op4": "Indefinitely",
+            "answer:": 2
+        },
+        {
+            "question": "Who can initiate impeachment of the President?",
+            "op1": "1/4th members of either House of Parliament",
+            "op2": "Half of the members of either House of Parliament",
+            "op3": "Half of the State Legislatures",
+            "op4": "1/3rd members of any State Legislature",
+            "answer:": 1
+        }
+    ]
+}

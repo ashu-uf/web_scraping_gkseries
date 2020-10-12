@@ -1,0 +1,174 @@
+{
+    "topic": "Directive Principles of State Policy",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "The purpose of Directive Principles of State Policy is to :",
+            "op1": "lay down positive instructions which would guide State policy at all levels.",
+            "op2": "implement Ganhiji's idea for a decentralized state.",
+            "op3": "check the use of arbitrary powers by the government.",
+            "op4": "promote welfare of the backward section of the society.",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following Directive Principles is based on Gandhian ideology?",
+            "op1": "Equal pay for equal work for men and women.",
+            "op2": "Guarding the children against exploitation and moral degradation.",
+            "op3": "Uniform civil code for all citizens.",
+            "op4": "Promotion of Cottage industries.",
+            "answer:": 4
+        },
+        {
+            "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy ?",
+            "op1": "Part III",
+            "op2": "Part IV",
+            "op3": "Part V",
+            "op4": "Part VI",
+            "answer:": 2
+        },
+        {
+            "question": "The enforcement of Directive Principles depends most on",
+            "op1": "the President",
+            "op2": "the Court",
+            "op3": "resources available to the government",
+            "op4": "Chief Justice of India",
+            "answer:": 3
+        },
+        {
+            "question": "One of the objectives of Directive Principles of State Policy is :",
+            "op1": "total prohibition",
+            "op2": "prevention of gambling and lotteries.",
+            "op3": "making effective provisions for securing the right to work, education and public assistance in case of unemployment, old age, sickness and disablement.",
+            "op4": "all of these",
+            "answer:": 3
+        },
+        {
+            "question": "Directive Principles of State Policy are fundamental for :",
+            "op1": "governance of the Country.",
+            "op2": "upliftment of backward classes.",
+            "op3": "protection of onstitution.",
+            "op4": "protection of individual rights.",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following cannot be termed as Gandhian principle among the Directive Principles of State Policy?",
+            "op1": "To organize village Panchayats.",
+            "op2": "To prohibit intoxicating drinks and drugs that are injurious to health.",
+            "op3": "To preserve and improve the breeds of the cattle and prohibit slaughter of cows, calves and other milch and drought animals.",
+            "op4": "Provision for early childhood care and education to children below the age of six years.",
+            "answer:": 4
+        },
+        {
+            "question": "Directive Principles are :",
+            "op1": "Justifiable as Fundamental Rights.",
+            "op2": "Justifiable but not as Fundamenta Rights.",
+            "op3": "Decorative portions of Indian onstitution.",
+            "op4": "Not Justifiable yet fundamental in governance of the Country.",
+            "answer:": 4
+        },
+        {
+            "question": "The architects of Indian Constitution borrowed the concept of Directive Principles from :",
+            "op1": "the Constitution of US.",
+            "op2": "the Constitution of UK.",
+            "op3": "the onstitution of Ireland.",
+            "op4": "Government of India Act, 1935",
+            "answer:": 3
+        },
+        {
+            "question": "The term 'equal pay for equal work' is a :",
+            "op1": "Directive Principle of State Policy.",
+            "op2": "Statutory provisions in Labour Law.",
+            "op3": "Fundamental Rights.",
+            "op4": "Matter of State to pass Bill.",
+            "answer:": 1
+        },
+        {
+            "question": "Under the Directive Principles of State Policy, up to what age of the children, they are expected to be provided free and compulsory education?",
+            "op1": "14 years",
+            "op2": "15 years",
+            "op3": "16 years",
+            "op4": "18 years",
+            "answer:": 1
+        },
+        {
+            "question": "\u2018Directive Principles\u2019 in our Constitution are",
+            "op1": "Quasi-enforceable",
+            "op2": "Party non \u2013 enforceable",
+            "op3": "Enforceable in the courts of law",
+            "op4": "Non \u2013 enforceable in the courts of law",
+            "answer:": 4
+        },
+        {
+            "question": "The Directive Principles of State Policy was adopted from the",
+            "op1": "British Constitution",
+            "op2": "Irish Constitution",
+            "op3": "U.S. onstitution",
+            "op4": "Swiss Constitution",
+            "answer:": 2
+        },
+        {
+            "question": "The idea of \u2018Directive Principles of State Policy\u2019 was borrowed by the framers of the Indian Constitution from the Constitution of",
+            "op1": "Canada",
+            "op2": "South Africa",
+            "op3": "The Republic of Ireland",
+            "op4": "The Republic of Germany",
+            "answer:": 3
+        },
+        {
+            "question": "Which part of the Constitution deals with the Directive Principles of State Policy?",
+            "op1": "Part-III",
+            "op2": "Part-IV",
+            "op3": "Part-I",
+            "op4": "Part-II",
+            "answer:": 2
+        },
+        {
+            "question": "The main purpose of including the Directive Principles of State Policy in the Indian Constitution is to",
+            "op1": "Establish a welfare State",
+            "op2": "Establish a secular State",
+            "op3": "heck the arbitrary action of the Government",
+            "op4": "Provide best opportunities of development by the Government",
+            "answer:": 1
+        },
+        {
+            "question": "Political equality is found in",
+            "op1": "The absence of privileges",
+            "op2": "Equal distribution of wealth",
+            "op3": "Universal adult suffrage",
+            "op4": "The rationality of the individual",
+            "answer:": 3
+        },
+        {
+            "question": "\u2018Equality before law\u2019 in India is derived from",
+            "op1": "Constitution",
+            "op2": "Case Law",
+            "op3": "Political onventions",
+            "op4": "Gandhian Philosophy",
+            "answer:": 1
+        },
+        {
+            "question": "Directive Principles of State Policy in the Indian Constitution were taken from the Constitution of",
+            "op1": "Britain",
+            "op2": "Ireland",
+            "op3": "USA",
+            "op4": "Canada",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following kinds of equality is not compatible with the liberal nation of equality?",
+            "op1": "Legal Equality",
+            "op2": "Political Equality",
+            "op3": "Social Equality",
+            "op4": "Economic Equality",
+            "answer:": 4
+        },
+        {
+            "question": "Political liberty implies",
+            "op1": "Votes can make and unmake their government",
+            "op2": "Co-operation between politics and democracy",
+            "op3": "Free political activities of the people",
+            "op4": "People\u2019s control over the government",
+            "answer:": 3
+        }
+    ]
+}

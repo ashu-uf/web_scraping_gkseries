@@ -1,0 +1,166 @@
+{
+    "topic": "Agricultural Geography",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Which one of the following is an important crop of the Barak Valley ?",
+            "op1": "Cotton",
+            "op2": "Sugarcane",
+            "op3": "Tea",
+            "op4": "Jute",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following agricultural practices is eco-friendly ?",
+            "op1": "Organic farming",
+            "op2": "Shifting cultivation",
+            "op3": "Growing plants in glass-house",
+            "op4": "Cultivation of high yielding varieties",
+            "answer:": 1
+        },
+        {
+            "question": "Dalbergia species is associated with which one of the following ?",
+            "op1": "Tea",
+            "op2": "Rosewood",
+            "op3": "offee",
+            "op4": "Cashewnut",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the following crops:",
+            "op1": "(I) and (II)",
+            "op2": "(I), (II) and (III)",
+            "op3": "(III) and (IV)",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is the chief characteristic of \u2018mix farming\u2019 ?",
+            "op1": "Rearing of animals and cultivation of crops together",
+            "op2": "Cultivation of both cash crops and food crops",
+            "op3": "ultivation of two or more crops in the same field",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "In India, markets in agriculture productions are regulated under the",
+            "op1": "Essential Commodities ct, 1955",
+            "op2": "Agricultural Produce Act, 1937",
+            "op3": "Food Product Order, 1956 and Meat and Food Products Order, 1973",
+            "op4": "Agricultural Produce Market Committee Act enacted by States",
+            "answer:": 4
+        },
+        {
+            "question": "Given below are the names of four energy crops. Which one of them can be cultivated for ethanol ?",
+            "op1": "Sunflower",
+            "op2": "Jatropha",
+            "op3": "Maize",
+            "op4": "Pongamia",
+            "answer:": 3
+        },
+        {
+            "question": "The high density of population in Nile valley and Islands of Java is primarily due to:",
+            "op1": "Intensive agriculture",
+            "op2": "Topographic limitation",
+            "op3": "Industrialization",
+            "op4": "Urbanization",
+            "answer:": 1
+        },
+        {
+            "question": "The following is the are the major oilseeds produced in India:",
+            "op1": "I, II, III, IV",
+            "op2": "III, II, IV, I",
+            "op3": "II, IV, III, I",
+            "op4": "III, IV, II, I",
+            "answer:": 3
+        },
+        {
+            "question": "Coffee cultivation in Sri Lanka was abandoned because of the disease:",
+            "op1": "Rut",
+            "op2": "Leaf spot",
+            "op3": "Leaf blight",
+            "op4": "Leaf rust",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is cultivated by transplanting seedlings ?",
+            "op1": "Onion",
+            "op2": "Soyabean",
+            "op3": "Sorghum",
+            "op4": "Maize",
+            "answer:": 1
+        },
+        {
+            "question": "Salinization occurs when the irrigation water accumulation in the soil evaporates, leaving behind salts and minerals. What are the effects of salinization on the irrigation land ?",
+            "op1": "It raises the water table",
+            "op2": "It greatly increase the crop production",
+            "op3": "It makes some soils impermeable",
+            "op4": "It fills the air spaces in the soil with water",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following sets of conditions is necessary for good crop of wheat ?",
+            "op1": "Low temperature and low rainfall",
+            "op2": "High temperature and moderate rainfall",
+            "op3": "High temperature and heavy rainfall",
+            "op4": "Moderate temperature and moderate rainfall",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the following crops in India:",
+            "op1": "I and II only",
+            "op2": "II only",
+            "op3": "I and III only",
+            "op4": "I, II and III",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the following statement",
+            "op1": "Only I",
+            "op2": "Only II",
+            "op3": "Both I and II",
+            "op4": "Neither I and II",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is not a form of shifting cultivation",
+            "op1": "Jhuming",
+            "op2": "ush fallow agriculture",
+            "op3": "Slash and Burn agriculture",
+            "op4": "Nomadic Herding",
+            "answer:": 4
+        },
+        {
+            "question": "In \u2018Odisha\u2019 slash and burn agriculture is known as",
+            "op1": "Bringa",
+            "op2": "Watra",
+            "op3": "Jhuming",
+            "op4": "eppa",
+            "answer:": 1
+        },
+        {
+            "question": "In Meghalaya shifting cultivation is known as",
+            "op1": "Deppa",
+            "op2": "Jhuming",
+            "op3": "Bringa",
+            "op4": "Watra",
+            "answer:": 2
+        },
+        {
+            "question": "In southern Rajasthan slash and burn agriculture is known as",
+            "op1": "Jhuming",
+            "op2": "ringa",
+            "op3": "Watra",
+            "op4": "eppa",
+            "answer:": 3
+        },
+        {
+            "question": "In Chhatisgarh slash and burn agriculture is locally known as",
+            "op1": "Deppa",
+            "op2": "Jhuming",
+            "op3": "Bringa",
+            "op4": "Watra",
+            "answer:": 1
+        }
+    ]
+}

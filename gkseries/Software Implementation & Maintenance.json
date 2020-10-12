@@ -1,0 +1,78 @@
+{
+    "topic": "Software Implementation & Maintenance",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "In the implementation phase of System Analysis and Design, following are included :",
+            "op1": "Parallel run",
+            "op2": "Sizing",
+            "op3": "Specification freeze",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "System Implementation is necessary because :",
+            "op1": "Human never gets it right the first time",
+            "op2": "The deployment may change over time",
+            "op3": "The user's needs may change over time",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is/are true about Close-out review or Post-implementation review ?",
+            "op1": "understanding of cost-benefits",
+            "op2": "goals achieved vis-a-vis targets",
+            "op3": "user friendliness of the system",
+            "op4": "all of these",
+            "answer:": 4
+        },
+        {
+            "question": "Unit implementation of software does not involve :",
+            "op1": "source coding and compiling",
+            "op2": "linking and creation of machine code files",
+            "op3": "writing program codes for interfaces and compilation",
+            "op4": "all of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The process of hiding internal and implementation details and just representing major functionalities is known as :",
+            "op1": "bstraction",
+            "op2": "Encapsulation",
+            "op3": "Dynamic Binding",
+            "op4": "Static Binding",
+            "answer:": 1
+        },
+        {
+            "question": "In which phase of the System Development Life Cycle(SDLC), users or developers may discover errors or problems that cause the entire process to start over again?",
+            "op1": "System analysis",
+            "op2": "System design",
+            "op3": "System implementation",
+            "op4": "System maintenance",
+            "answer:": 4
+        },
+        {
+            "question": "Which type of maintenance deals with the problems arise during use of the software ?",
+            "op1": "Corrective",
+            "op2": "Adaptive",
+            "op3": "Preventive",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "Software maintenance takes inputs from",
+            "op1": "SRS",
+            "op2": "Customer feedback reports",
+            "op3": "SDD",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Changes made periodically, to a system after it's implementation, is called :",
+            "op1": "System analysis",
+            "op2": "System review",
+            "op3": "System maintenance",
+            "op4": "None of these",
+            "answer:": 3
+        }
+    ]
+}

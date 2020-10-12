@@ -1,0 +1,430 @@
+{
+    "topic": "Fundamental Rights",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "Which one of the following right of Indian Constitution guarantees all the fundamental rights to every resident of country ?",
+            "op1": "Right against exploitation",
+            "op2": "Right to freedom",
+            "op3": "Right to equality",
+            "op4": "Right to constitutional remedies",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is true with respect to Fundamental Rights of Indian Constitution ?",
+            "op1": "Sovereignty of the people",
+            "op2": "Equality of opportunity for all resident",
+            "op3": "Limited government",
+            "op4": "emocracy",
+            "answer:": 2
+        },
+        {
+            "question": "Dr. B. R. Ambedkar termed Article 2 of the Indian Constitution as the \"Heart and Soul of the Indian Constitution\". Which one of the following fundamental right it contains ?",
+            "op1": "Right to freedom",
+            "op2": "Right to constitutional remedies",
+            "op3": "Right to elementary education",
+            "op4": "Right to freedom of religion",
+            "answer:": 2
+        },
+        {
+            "question": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth is a fundamental right classifiable under",
+            "op1": "Right to freedom of religion",
+            "op2": "Right to equality",
+            "op3": "Right against expolitation",
+            "op4": "None of these",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is correct with respect to \"Right against exploitation\" ?",
+            "op1": "Prohibition of traffic in human beings and forced labour",
+            "op2": "Freedom as to payment of taxes for promotion of any particular religion",
+            "op3": "Protection of interests of minorities",
+            "op4": "Equality before law",
+            "answer:": 1
+        },
+        {
+            "question": "Which fundamental right of Indian constitution has been deleted by the 44th Amendment Act ?",
+            "op1": "Right against exploitation",
+            "op2": "Right to property",
+            "op3": "Right to protest",
+            "op4": "Right to speak",
+            "answer:": 2
+        },
+        {
+            "question": "Which Article of the Constitution envisages free and compulsory education for children upto the age of 14 years ?",
+            "op1": "rticle 19",
+            "op2": "Article 31",
+            "op3": "Article 32",
+            "op4": "Article 45",
+            "answer:": 4
+        },
+        {
+            "question": "In which part of Indian Constitution Fundamental rights are provided ?",
+            "op1": "Part II",
+            "op2": "Part III",
+            "op3": "Part IV",
+            "op4": "Part V",
+            "answer:": 2
+        },
+        {
+            "question": "The Constitution guarantees that all citizens will be equal before law. It is provided in",
+            "op1": "rticle 11 of Indian Constitution",
+            "op2": "Article 12 of Indian Constitution",
+            "op3": "Article 13 of Indian onstitution",
+            "op4": "Article 14 of Indian Constitution",
+            "answer:": 4
+        },
+        {
+            "question": "Which Article of Indian Constitution ensures that the State cannot discriminate against a citizen on the basis of religion, race, caste, sex or place of birth ?",
+            "op1": "rticle 13",
+            "op2": "Article 14",
+            "op3": "Article 15",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "Which of these is NOT included as a Fundamental Right in the Indian Constitution ?",
+            "op1": "Right to equal wages for equal work",
+            "op2": "Right to Constitutional Remedies",
+            "op3": "Right to Equality before the Law",
+            "op4": "Right to Freedom of Speech",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following can a court issue for enforcement of Fundamental Rights ?",
+            "op1": "decree",
+            "op2": "A writ",
+            "op3": "An Ordinance",
+            "op4": "A notification",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a Fundamental Rights ?",
+            "op1": "Right to equality",
+            "op2": "Right to liberty",
+            "op3": "Right against Exploitation",
+            "op4": "Right to Property",
+            "answer:": 4
+        },
+        {
+            "question": "What is the category in which the negotiating strategy of a strike by the Government employees falls ?",
+            "op1": "Legal Right",
+            "op2": "Trade Union right as common law",
+            "op3": "Fundamental Rights of freedom of association and expression",
+            "op4": "There is no right",
+            "answer:": 1
+        },
+        {
+            "question": "On which of the following day, United Nations General Assembly ratified its universal declaration on human rights ?",
+            "op1": "October 24, 1945",
+            "op2": "December 10, 1948",
+            "op3": "December 16, 1966",
+            "op4": "April 25, 1995",
+            "answer:": 2
+        },
+        {
+            "question": "Fundamental Rights in India are guaranteed by it through",
+            "op1": "The Right to Equality",
+            "op2": "Right against Exploitation",
+            "op3": "Right to onstitutional Remedies",
+            "op4": "Education and Cultural Rights",
+            "answer:": 3
+        },
+        {
+            "question": "How many Fundamental Duties are included in Indian Constitution ?",
+            "op1": "Nine",
+            "op2": "Ten",
+            "op3": "Eleven",
+            "op4": "Twelve",
+            "answer:": 3
+        },
+        {
+            "question": "The Fundamental Rights in our Constitution are inspired by the Constitution of",
+            "op1": "Canada",
+            "op2": "Switzerland",
+            "op3": "United Kingdom",
+            "op4": "United State of America",
+            "answer:": 4
+        },
+        {
+            "question": "Right to property was removed from the list of Fundamental Rights during the rule of",
+            "op1": "Indira Gandhi Government",
+            "op2": "Morarji Desai Government",
+            "op3": "Narasimha Rao Government",
+            "op4": "Vajpayee Government",
+            "answer:": 2
+        },
+        {
+            "question": "The writs for the enforcement of Fundamental Rights are issued by",
+            "op1": "The Parliament",
+            "op2": "The President",
+            "op3": "The Supreme ourt",
+            "op4": "The Election Commission",
+            "answer:": 3
+        },
+        {
+            "question": "In which of the following cases, the Supreme Court held that fundamental rights are unamendable ?",
+            "op1": ".K. Gopalan\u2019s case",
+            "op2": "Keshvananda harti\u2019s case",
+            "op3": "M.. Mehta\u2019s case",
+            "op4": "Golak Nath\u2019s case",
+            "answer:": 2
+        },
+        {
+            "question": "The chapter on Fundamental Duties includes",
+            "op1": "Duty to cherish and follow the noble ideals which inspired out freedom movement",
+            "op2": "Duty to vote in General Election",
+            "op3": "Duty to promote the sense of fraternity among the people",
+            "op4": "uty to stick to the political party on whose ticket one contested election",
+            "answer:": 1
+        },
+        {
+            "question": "Who is the guardian of Fundamental Rights enumerated in Indian Constitution",
+            "op1": "President",
+            "op2": "Constitution",
+            "op3": "Parliament",
+            "op4": "Supreme Court",
+            "answer:": 4
+        },
+        {
+            "question": "Which part of the Indian Constitution deals with \u2018Fundamental Rights\u2019 ?",
+            "op1": "Part I",
+            "op2": "Part II",
+            "op3": "Part III",
+            "op4": "Part IV",
+            "answer:": 3
+        },
+        {
+            "question": "Fundamental Rights are not given to",
+            "op1": "liens",
+            "op2": "ankrupt persons",
+            "op3": "Political sufferers",
+            "op4": "Persons suffering from incurable diseases",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following is the guardian of Fundamental Rights ?",
+            "op1": "Legislature",
+            "op2": "Executive",
+            "op3": "Political parties",
+            "op4": "Judiciary",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following Fundamental Rights is available to Indian citizens only ?",
+            "op1": "Equality before law",
+            "op2": "Protection of life and personal liberty against any action without authority of law",
+            "op3": "Protection from discrimination on grounds of religion, race, caste, sex or place of birth",
+            "op4": "Freedom of religion",
+            "answer:": 3
+        },
+        {
+            "question": "Fundamental Duties were added to the Constitution by",
+            "op1": "24th mendment",
+            "op2": "39thAmendment",
+            "op3": "42nd Amendment",
+            "op4": "44th Amendment",
+            "answer:": 3
+        },
+        {
+            "question": "Fundamental Rights granted to the Indian citizens",
+            "op1": "Cannot be suspended",
+            "op2": "Can be suspended",
+            "op3": "an never be suspended under any circumstance",
+            "op4": "None of the above is correct",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following Fundamental Rights was described by Dr. B.R. Ambedkar as the heart and soul of the Constitution ?",
+            "op1": "Right to religion",
+            "op2": "Right to property",
+            "op3": "Right to education",
+            "op4": "Right to constitutional remedies",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is a Fundamental Rights guaranteed by the Constitution of India ?",
+            "op1": "Right to govern",
+            "op2": "Right to property",
+            "op3": "Right to equality",
+            "op4": "Right to information",
+            "answer:": 3
+        },
+        {
+            "question": "Right to free education within certain limits is",
+            "op1": "Guaranteed as a Fundamental Right",
+            "op2": "Ignored by the Constitution",
+            "op3": "Outlined in the Preamble of the onstitution",
+            "op4": "Enshrined in the irective Principles of State Policy",
+            "answer:": 1
+        },
+        {
+            "question": "The two basic principles of the liberal theory of democracy as emphasized by John Locke, are",
+            "op1": "Women suffrage and popular sovereignty",
+            "op2": "Representative Democracy and Workers\u2019 Right",
+            "op3": "Universal Adult Franchise and the Right to property",
+            "op4": "Popular Sovereignty and constitution government",
+            "answer:": 3
+        },
+        {
+            "question": "List of Fundamental Duties were added to the Indian Constitution as Part",
+            "op1": "Two",
+            "op2": "Three",
+            "op3": "Four",
+            "op4": "Five",
+            "answer:": 3
+        },
+        {
+            "question": "Socialist thinkers advocate the extension of the right to equality in",
+            "op1": "Legal sphere",
+            "op2": "Economic sphere",
+            "op3": "Political sphere",
+            "op4": "Social sphere",
+            "answer:": 2
+        },
+        {
+            "question": "In the Constitution of India, the Fundamental Rights",
+            "op1": "were added under the forty second mendment",
+            "op2": "were added by the Parliament in 152",
+            "op3": "were added by the Fourth Amendment",
+            "op4": "formed a part of the original Constitution",
+            "answer:": 4
+        },
+        {
+            "question": "In India, the right to property is now recognized as",
+            "op1": "legal right",
+            "op2": "A natural right",
+            "op3": "A political right",
+            "op4": "A fundamental right",
+            "answer:": 1
+        },
+        {
+            "question": "Right to vote is a",
+            "op1": "Economic right",
+            "op2": "Legal right",
+            "op3": "Political right",
+            "op4": "Civil right",
+            "answer:": 3
+        },
+        {
+            "question": "Which Fundamental Right according to Dr. Ambedkar is like the heart of the Constitution ?",
+            "op1": "Right to freedom",
+            "op2": "Right to equality",
+            "op3": "Right to religion",
+            "op4": "Right of Constitutional remedies",
+            "answer:": 4
+        },
+        {
+            "question": "What is the status of the Right to Property now ?",
+            "op1": "Legal Right",
+            "op2": "Natural Right",
+            "op3": "Human Right",
+            "op4": "Fundamental Right",
+            "answer:": 1
+        },
+        {
+            "question": "A court enforces enjoyment of a Fundamental Right by issuing",
+            "op1": "decree",
+            "op2": "A notification",
+            "op3": "A writ",
+            "op4": "An ordinance",
+            "answer:": 3
+        },
+        {
+            "question": "Political Right does not include which of the following ?",
+            "op1": "Right to life",
+            "op2": "Right to vote",
+            "op3": "Right to contest in election",
+            "op4": "Right to lodge complaint with executive bodies of the Government",
+            "answer:": 1
+        },
+        {
+            "question": "When were the Fundamental Duties of the Indian citizens incorporated in the constitution ?",
+            "op1": "1952",
+            "op2": "1976",
+            "op3": "1979",
+            "op4": "1981",
+            "answer:": 2
+        },
+        {
+            "question": "\u2018The Right to Public office\u2019 is a",
+            "op1": "Political right",
+            "op2": "Moral right",
+            "op3": "Economic right",
+            "op4": "Civil right",
+            "answer:": 4
+        },
+        {
+            "question": "Which case is related to Fundamental Right ?",
+            "op1": "Sharma vs. Krishna (1959)",
+            "op2": "Golakhnath vs. State of Punjab (1967)",
+            "op3": "State of Bombay vs. Balsara (1951)",
+            "op4": "West Bengal vs. Union of India (1963)",
+            "answer:": 2
+        },
+        {
+            "question": "The chief Minister is appointed by",
+            "op1": "Governor",
+            "op2": "President of India",
+            "op3": "President of the Party",
+            "op4": "Chief Justice of High Court",
+            "answer:": 1
+        },
+        {
+            "question": "The success of democracy depends upon the",
+            "op1": "Right to property",
+            "op2": "Right to criticise",
+            "op3": "Right to personal liberty",
+            "op4": "Right to association",
+            "answer:": 3
+        },
+        {
+            "question": "Right to Education became a fundamental right on",
+            "op1": "March 15, 2010",
+            "op2": "April 1, 2010",
+            "op3": "July 17, 2010",
+            "op4": "October 10, 2010",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is a political right ?",
+            "op1": "Right to Work",
+            "op2": "Right to Education",
+            "op3": "Right to Vote",
+            "op4": "Right to Freedom of Expression",
+            "answer:": 3
+        },
+        {
+            "question": "How many Fundamental Rights were granted initially ?",
+            "op1": "Four",
+            "op2": "Five",
+            "op3": "Six",
+            "op4": "Seven",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is an item included in the list of Fundamental Duties of an Indian citizen in the Constitution ?",
+            "op1": "To practice secularism",
+            "op2": "To pay all taxes to government regularly and correctly",
+            "op3": "To develop scientific temper humanism and the spirit of enquiry and reform",
+            "op4": "Not to assault any public servant in the (during)performance of his duties",
+            "answer:": 3
+        },
+        {
+            "question": "When were the Fundamental Duties incorporated in the Constitution ?",
+            "op1": "1975",
+            "op2": "1976",
+            "op3": "1977",
+            "op4": "1979",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a fundamental right as per the Indian Constitution ?",
+            "op1": "Right to Education",
+            "op2": "Right to Information",
+            "op3": "Right to Speech",
+            "op4": "Right to Life",
+            "answer:": 2
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "topic": "Entity Relationship Model",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "Every weak entity set can be converted into a strong entity set by :",
+            "op1": "using generalization",
+            "op2": "adding appropriate attributes",
+            "op3": "using aggregation",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A weak entity set in an E-R diagram is an entity set that :",
+            "op1": "has a primary key",
+            "op2": "must be part of a one to many relationship set",
+            "op3": "is not existence dependent on a dominant entity",
+            "op4": "must not participate as owner in an identifying relationship with another entity set",
+            "answer:": 2
+        },
+        {
+            "question": "E-R model uses which symbol to represent weak entity set :",
+            "op1": "Dotted rectangle",
+            "op2": "Diamond",
+            "op3": "Doubly outlined rectangle",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In an E-R, Y is the dominant entity and X is a subordinate entity. Then which of the following is incorrect ?",
+            "op1": "operationally, If Y is deleted, so is X",
+            "op2": "X existence is dependent on Y",
+            "op3": "operationally, if X is deleted, so is Y",
+            "op4": "operationally, if X is deleted, Y remains the same",
+            "answer:": 2
+        },
+        {
+            "question": "The ER model includes additional concepts like :",
+            "op1": "Specialization",
+            "op2": "Generalization",
+            "op3": "ategorization",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Choose the most appropriate choice with respect to conceptual design.",
+            "op1": "Conceptual design is a documentation technique. Once the relation schemes are defined one can draw E-R diagrams from the relation schemes for documentation",
+            "op2": "Conceptual design needs data volumn and processing frequencies to determine the size of the database",
+            "op3": "Output of any conceptual design is an E-R diagram",
+            "op4": "Conceptual design involves modeling the data requirements independent of the BMS, operating system and the hardware.",
+            "answer:": 4
+        },
+        {
+            "question": "E-R modeling technique is a :",
+            "op1": "Top-down approach",
+            "op2": "ottom-up approach",
+            "op3": "Left-right approach",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "In an E-R model Oval represents :",
+            "op1": "entity sets",
+            "op2": "attributes",
+            "op3": "relationships",
+            "op4": "links",
+            "answer:": 2
+        },
+        {
+            "question": "The number of entities to which another entity can be associated via a relationship set is expressed as :",
+            "op1": "Entity",
+            "op2": "Cardinality",
+            "op3": "Schema",
+            "op4": "Attributes",
+            "answer:": 2
+        },
+        {
+            "question": "Every weak entity set can be converted to a strong entity set by :",
+            "op1": "Simply adding appropriate attribute",
+            "op2": "Using generalization",
+            "op3": "Using aggregation",
+            "op4": "Repeating the entity set several times",
+            "answer:": 2
+        },
+        {
+            "question": "Relations produced from an E-R model will always be in :",
+            "op1": "First normal form",
+            "op2": "Second normal form",
+            "op3": "Third normal form",
+            "op4": "Fourth normal form",
+            "answer:": 3
+        },
+        {
+            "question": "An association of several entities in an Entity-Relation model is called :",
+            "op1": "Tuple",
+            "op2": "Record",
+            "op3": "Relationship",
+            "op4": "Field",
+            "answer:": 3
+        },
+        {
+            "question": "The attributes made up of more than one single attributes are called :",
+            "op1": "Derived attribute",
+            "op2": "Composite attribute",
+            "op3": "Single value attribute",
+            "op4": "Multi value attribute",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following keys uniquely identifies the entity set ?",
+            "op1": "Primary key",
+            "op2": "Super key",
+            "op3": "andidate key",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "In ER model the details of the entities are hidden from the user. This process is called :",
+            "op1": "generalization",
+            "op2": "specialization",
+            "op3": "abstraction",
+            "op4": "none of these above",
+            "answer:": 3
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "topic": "Software Engineering Fundamentals",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "The first step in Software Development Life Cycle(SDLC) is",
+            "op1": "Preliminary investigation and nalysis",
+            "op2": "System Design",
+            "op3": "System Testing",
+            "op4": "Coding",
+            "answer:": 1
+        },
+        {
+            "question": "The detailed study of existing system is referred to as :",
+            "op1": "System Planning",
+            "op2": "System Analysis",
+            "op3": "Feasibility Study",
+            "op4": "esign F",
+            "answer:": 2
+        },
+        {
+            "question": "System analysis and design phase of Software Development Life Cycle (SDLC) includes which of the following ?",
+            "op1": "Parallel run",
+            "op2": "Sizing",
+            "op3": "Specification Freeze",
+            "op4": "All of these",
+            "answer:": 4
+        },
+        {
+            "question": "Prototyping aims at :",
+            "op1": "end user understanding and approval",
+            "op2": "program logic",
+            "op3": "planning of dataflow organization",
+            "op4": "none of these",
+            "answer:": 1
+        },
+        {
+            "question": "What is a prototype ?",
+            "op1": "Mini-model of existing system",
+            "op2": "Mini-model of the proposed system",
+            "op3": "Working model of the existing system",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Risk analysis of a project is done in :",
+            "op1": "System nalysis phase",
+            "op2": "Feasibility Study",
+            "op3": "Implementation phase",
+            "op4": "Maintenance phase",
+            "answer:": 2
+        },
+        {
+            "question": "In which step of SDLC project termination could be done ?",
+            "op1": "Design phase",
+            "op2": "System Maintenance phase",
+            "op3": "Feasibility Study phase",
+            "op4": "Coding phase",
+            "answer:": 3
+        },
+        {
+            "question": "The fundamental objective of system analysis is to :",
+            "op1": "understand computer hardware",
+            "op2": "train managers in mathematical analysis",
+            "op3": "study and understand a complex system and modify it in some way",
+            "op4": "run simulation programmes",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following is not stage of SDLC ?",
+            "op1": "System analysis",
+            "op2": "Problem identification",
+            "op3": "System Design",
+            "op4": "Feasibility study",
+            "answer:": 2
+        },
+        {
+            "question": "An iterative process of system development in which requirements are converted to a working system that is continually revised through close work between an analyst and user is called",
+            "op1": "Waterfall modeling",
+            "op2": "Iterative modeling",
+            "op3": "Spiral modeling",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "The phase of System Development associated with creation of the test data is :",
+            "op1": "System analysis",
+            "op2": "Physical design",
+            "op3": "System acceptance",
+            "op4": "Logical design",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a named phase in the System development life cycle ?",
+            "op1": "ssessment",
+            "op2": "Maintenance",
+            "op3": "Development",
+            "op4": "Testing",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is a true statement regarding the SDLC phases ?",
+            "op1": "The SDLC is not iterative",
+            "op2": "The life cycle is always a sequentially ordered set of phases",
+            "op3": "It is not possible to completed some activities in one phase in parallel with those of another phase",
+            "op4": "The life cycle may be thought of a circular process",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is the most important phase of SDLC ?",
+            "op1": "Requirements analysis",
+            "op2": "Design",
+            "op3": "Testing",
+            "op4": "Coding",
+            "answer:": 1
+        },
+        {
+            "question": "Which step of SDLC performs cost/ benefit analysis ?",
+            "op1": "Feasibility study",
+            "op2": "Analysis",
+            "op3": "Design",
+            "op4": "None of these above",
+            "answer:": 1
+        }
+    ]
+}

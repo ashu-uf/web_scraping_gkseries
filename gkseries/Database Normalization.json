@@ -1,0 +1,166 @@
+{
+    "topic": "Database Normalization",
+    "Subject": "DBMS",
+    "data": [
+        {
+            "question": "A function that has no partial functional dependencies is in _______ form :",
+            "op1": "3NF",
+            "op2": "2NF",
+            "op3": "4NF",
+            "op4": "BCNF",
+            "answer:": 2
+        },
+        {
+            "question": "4NF is designed to cope with :",
+            "op1": "Transitive dependency",
+            "op2": "Join dependency",
+            "op3": "Multi valued dependency",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "5NF is designed to cope with :",
+            "op1": "Transitive dependency",
+            "op2": "Join dependency",
+            "op3": "Multi valued dependency",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A BCNF is :",
+            "op1": "loss less join and dependency preserving",
+            "op2": "loss less join but not dependency preserving",
+            "op3": "not loss less join but dependency preserving",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "Every Boyee-Codd normal form is in",
+            "op1": "First normal form",
+            "op2": "Second normal form",
+            "op3": "Third normal form",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which one is not true ?",
+            "op1": "relation is in BCNF if it is in 4NF",
+            "op2": "CNF is stricter than 3NF",
+            "op3": "A relation is in BNF if ever determinate of the relation is a candidate key",
+            "op4": "All are true",
+            "answer:": 4
+        },
+        {
+            "question": "If every non-key attribute is functionally dependent on the primary key, then the relation will be in :",
+            "op1": "1NF",
+            "op2": "2NF",
+            "op3": "3NF",
+            "op4": "4NF",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the schema R(S,T,U,V) and the dependencies S\u2192T, T\u2192U, U\u2192V, V\u2192S. Let R= {R1,R2} such that R1\u2229R2=\u03a6. Then the decomposition is :",
+            "op1": "not in 2NF",
+            "op2": "in 2NF but not in 3NF",
+            "op3": "in 3NF but not in 2NF",
+            "op4": "in both 2NF and 3NF",
+            "answer:": 2
+        },
+        {
+            "question": "A table is in 2NF if it is in 1NF and if :",
+            "op1": "no column that is not a part of the primary key is dependent on only a portion of the alternate key.",
+            "op2": "no column that is not a part of the primary key is dependent on only a portion of the primary key",
+            "op3": "no column that is not a part of the primary key is dependent on only a portion of the foreign key",
+            "op4": "none of these",
+            "answer:": 2
+        },
+        {
+            "question": "A normal form in which every determinant is a key :",
+            "op1": "2NF",
+            "op2": "3NF",
+            "op3": "BNF",
+            "op4": "4NF",
+            "answer:": 3
+        },
+        {
+            "question": "Third normal form is based on the concept of _________",
+            "op1": "Closure Dependency",
+            "op2": "Transitive Dependency",
+            "op3": "Normal Dependency",
+            "op4": "Functional ependency",
+            "answer:": 2
+        },
+        {
+            "question": "Third normal form is inadequate in situations where the relation :",
+            "op1": "has multiple candidate keys",
+            "op2": "has candidate keys that are composite",
+            "op3": "has overlapped candidate keys",
+            "op4": "none of the above",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following statements is/are true ?",
+            "op1": "relation is in BCNF if it is not in 4NF",
+            "op2": "CNF is stricter than 3NF",
+            "op3": "A relation is in BNF if every determinant of the relation is a candidate key.",
+            "op4": "All are true",
+            "answer:": 4
+        },
+        {
+            "question": "Which normal form is considered as adequate for usual database design ?",
+            "op1": "2NF",
+            "op2": "3NF",
+            "op3": "4NF",
+            "op4": "5NF",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is true ?",
+            "op1": "relation in BCNf is always in 3NF.",
+            "op2": "A relation in 3NF is always in CNF.",
+            "op3": "BNF and 3NF are same.",
+            "op4": "A relation in BCNF is not in 3NF",
+            "answer:": 1
+        },
+        {
+            "question": "Functional dependencies are a generalization of :",
+            "op1": "Key dependencies",
+            "op2": "Relation dependencies",
+            "op3": "Database dependencies",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "R(A,B,C,D) is a relation, Which of the following does not have a lossless join dependency preserving BCNF decomposition",
+            "op1": "\u2192B, B\u2192CD",
+            "op2": "A\u2192, \u2192C, C\u2192D",
+            "op3": "AB\u2192, \u2192AD",
+            "op4": "A\u2192BC",
+            "answer:": 1
+        },
+        {
+            "question": "A property which ensures that each functional dependency is represented in some individual relational resulting after decomposition",
+            "op1": "Loss less join",
+            "op2": "Dependency preservation",
+            "op3": "Both [A] and [B]",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "A functional dependency of the form X\u2192Y is trivial if",
+            "op1": "X\u2286X",
+            "op2": "Y\u2282X",
+            "op3": "X\u2286Y",
+            "op4": "X\u2282Y and Y\u2282X",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the following set of functional dependencies on the scheme (A, B, C)",
+            "op1": "\u2192BC and B\u2192C",
+            "op2": "A\u2192C and A\u2192C",
+            "op3": "A\u2192B and A\u2192B",
+            "op4": "A\u2192B and B\u2192C",
+            "answer:": 4
+        }
+    ]
+}

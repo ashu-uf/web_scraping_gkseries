@@ -1,0 +1,446 @@
+{
+    "topic": "Economic Geography",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "The Vindhyan system of rocks is important for the production of :",
+            "op1": "iron ore and manganese",
+            "op2": "precious stone and building materials",
+            "op3": "copper and mica",
+            "op4": "uranium and aluminium",
+            "answer:": 2
+        },
+        {
+            "question": "Omkareshwar project is associated with which of the following rivers ?",
+            "op1": "Narmada",
+            "op2": "Ganga",
+            "op3": "Brahmaputra",
+            "op4": "Tapi",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following rivers is associated with Mahatma Gandhi Hydroelectric Project ?",
+            "op1": "Godavari",
+            "op2": "Sharavati",
+            "op3": "Subansiri",
+            "op4": "Krishna",
+            "answer:": 2
+        },
+        {
+            "question": "In which of the following states the largest coal reserves of India are found ?",
+            "op1": "ssam",
+            "op2": "Jharkhand",
+            "op3": "Madhya Pradesh",
+            "op4": "Orissa",
+            "answer:": 2
+        },
+        {
+            "question": "Rana Pratap Sagar Plant (Rajasthan) is associated with :",
+            "op1": "crude oil",
+            "op2": "nuclear power",
+            "op3": "solar energy",
+            "op4": "hydroelectricity",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of tea in India ?",
+            "op1": "ssam",
+            "op2": "West engal",
+            "op3": "Tripura",
+            "op4": "Sikkim",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of wheat in India ?",
+            "op1": "Maharashtra",
+            "op2": "Gujarat",
+            "op3": "Punjab",
+            "op4": "Uttar Pradesh",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of rice in India ?",
+            "op1": "West Bengal",
+            "op2": "Uttar Pradesh",
+            "op3": "Andhra Pradesh",
+            "op4": "Punjab",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of cotton in India ?",
+            "op1": "Maharashtra",
+            "op2": "Gujarat",
+            "op3": "Haryana",
+            "op4": "Tamil Nadu",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of potato in India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Assam",
+            "op3": "Uttar Pradesh",
+            "op4": "Karnataka",
+            "answer:": 3
+        },
+        {
+            "question": "Which state is the largest producer of coffee in India ?",
+            "op1": "Odisha",
+            "op2": "Karnataka",
+            "op3": "Andhra Pradesh",
+            "op4": "Telangana",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of onion in India ?",
+            "op1": "Maharashtra",
+            "op2": "Madhya Pradesh",
+            "op3": "Karnataka",
+            "op4": "Andhra Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of jute in India ?",
+            "op1": "Bihar",
+            "op2": "Assam",
+            "op3": "West Bengal",
+            "op4": "Andhra Pradesh",
+            "answer:": 3
+        },
+        {
+            "question": "Which state is the largest producer of bajra in India ?",
+            "op1": "Kerala",
+            "op2": "Gujarat",
+            "op3": "Madhya Pradesh",
+            "op4": "Himachal Pradesh",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of rubber in India ?",
+            "op1": "Tamil Nadu",
+            "op2": "Maharashtra",
+            "op3": "Nagaland",
+            "op4": "Kerala",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of mustard in India ?",
+            "op1": "Rajasthan",
+            "op2": "Karnataka",
+            "op3": "Madhya Pradesh",
+            "op4": "Uttar Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of sugarcane in India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Assam",
+            "op3": "Uttar Pradesh",
+            "op4": "Punjab",
+            "answer:": 3
+        },
+        {
+            "question": "Which state is the largest producer of barley in India ?",
+            "op1": "Karnataka",
+            "op2": "Andhra Pradesh",
+            "op3": "Kerala",
+            "op4": "Rajasthan",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of banana in India ?",
+            "op1": "Tamil Nadu",
+            "op2": "Gujarat",
+            "op3": "Andhra Pradesh",
+            "op4": "Himachal Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of coconut in India ?",
+            "op1": "Karnataka",
+            "op2": "Kerala",
+            "op3": "Tamil Nadu",
+            "op4": "Andhra Pradesh",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of groundnut in India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Maharashtra",
+            "op3": "Uttar Pradesh",
+            "op4": "Gujarat",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of iron ore in India ?",
+            "op1": "Karnataka",
+            "op2": "Odisha",
+            "op3": "hhattisgarh",
+            "op4": "Goa",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of bauxite in India ?",
+            "op1": "West Bengal",
+            "op2": "Jharkhand",
+            "op3": "Odisha",
+            "op4": "Bihar",
+            "answer:": 3
+        },
+        {
+            "question": "Which state is the largest producer of mica in India ?",
+            "op1": "Jharkhand",
+            "op2": "Haryana",
+            "op3": "Sikkim",
+            "op4": "Madhya Pradesh",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the only producer of tin in India ?",
+            "op1": "Uttar Pradesh",
+            "op2": "Chhattisgarh",
+            "op3": "Meghalaya",
+            "op4": "Andhra Pradesh",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of petroleum in India ?",
+            "op1": "Gujarat",
+            "op2": "Maharashtra",
+            "op3": "Assam",
+            "op4": "Tamil Nadu",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of copper in India ?",
+            "op1": "Nagaland",
+            "op2": "Jharkhand",
+            "op3": "Madhya Pradesh",
+            "op4": "Mizoram",
+            "answer:": 3
+        },
+        {
+            "question": "Which state is the largest producer of gold in India ?",
+            "op1": "ndhra Pradesh",
+            "op2": "Karnataka",
+            "op3": "Jharkhand",
+            "op4": "Kerala",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of zinc in India ?",
+            "op1": "ndhra Pradesh",
+            "op2": "ihar",
+            "op3": "Odisha",
+            "op4": "Rajasthan",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of limestone in India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Andhra Pradesh",
+            "op3": "Rajasthan",
+            "op4": "Gujarat",
+            "answer:": 1
+        },
+        {
+            "question": "India is the \u2026\u2026\u2026\u2026\u2026\u2026.largest producer of cement in the world.",
+            "op1": "First",
+            "op2": "Second",
+            "op3": "Third",
+            "op4": "Fourth",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of cement in India ?",
+            "op1": "ndhra Pradesh",
+            "op2": "Uttar Pradesh",
+            "op3": "Rajasthan",
+            "op4": "Gujarat",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of salt in India ?",
+            "op1": "Rajasthan",
+            "op2": "Tamil Nadu",
+            "op3": "Gujarat",
+            "op4": "Odisha",
+            "answer:": 3
+        },
+        {
+            "question": "Which state is the largest producer of maize in India ?",
+            "op1": "ndhra Pradesh",
+            "op2": "ihar",
+            "op3": "Odisha",
+            "op4": "Rajasthan",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of soybean in India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Andhra Pradesh",
+            "op3": "kerala",
+            "op4": "Gujarat",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of mango in India ?",
+            "op1": "ndhra Pradesh",
+            "op2": "Uttar Pradesh",
+            "op3": "Bihar",
+            "op4": "West Bengal",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of sugar in India ?",
+            "op1": "Maharashtra",
+            "op2": "Uttar Pradesh",
+            "op3": "Karnataka",
+            "op4": "Gujarat",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of grapes in India ?",
+            "op1": "Mizoram",
+            "op2": "Tamil Nadu",
+            "op3": "Karnataka",
+            "op4": "Maharashtra",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of coal in India ?",
+            "op1": "Bihar",
+            "op2": "Uttar Pradesh",
+            "op3": "Jharkhand",
+            "op4": "Meghalaya",
+            "answer:": 3
+        },
+        {
+            "question": "India is the second largest fruit producer in the world. Which country is holding the rank first ?",
+            "op1": "Russia",
+            "op2": "China",
+            "op3": "USA",
+            "op4": "Canada",
+            "answer:": 2
+        },
+        {
+            "question": "Which country is the largest producer of cotton in the world ?",
+            "op1": "China",
+            "op2": "USA",
+            "op3": "India",
+            "op4": "Pakistan",
+            "answer:": 1
+        },
+        {
+            "question": "Which country is the largest exporter of coal ?",
+            "op1": "Poland",
+            "op2": "Australia",
+            "op3": "India",
+            "op4": "Czechoslovakia",
+            "answer:": 2
+        },
+        {
+            "question": "Which country is the largest producer of tea in the world ?",
+            "op1": "Mexico",
+            "op2": "India",
+            "op3": "hina",
+            "op4": "Canada",
+            "answer:": 3
+        },
+        {
+            "question": "Which country is the largest producer of coffee in the world ?",
+            "op1": "USSR",
+            "op2": "Zambia",
+            "op3": "Zaire",
+            "op4": "Brazil",
+            "answer:": 4
+        },
+        {
+            "question": "Which country is the leading exporter of iron-ore ?",
+            "op1": "US",
+            "op2": "India",
+            "op3": "Brazil",
+            "op4": "Australia",
+            "answer:": 4
+        },
+        {
+            "question": "Kirkuk is the most important oil field in",
+            "op1": "Russia",
+            "op2": "Kuwait",
+            "op3": "Iraq",
+            "op4": "Iran",
+            "answer:": 3
+        },
+        {
+            "question": "Which country is the largest producer of nitrogenous fertilizers ?",
+            "op1": "Russia",
+            "op2": "Australia",
+            "op3": "Germany",
+            "op4": "China",
+            "answer:": 4
+        },
+        {
+            "question": "Which country is the leading producer of all kinds of fertilizers ?",
+            "op1": "US",
+            "op2": "China",
+            "op3": "hina",
+            "op4": "Germany",
+            "answer:": 2
+        },
+        {
+            "question": "Who is the largest exporter of raw silk in the world ?",
+            "op1": "Japan",
+            "op2": "India",
+            "op3": "hina",
+            "op4": "France",
+            "answer:": 3
+        },
+        {
+            "question": "The largest exporter of mineral oil is",
+            "op1": "Iran",
+            "op2": "Venezuela",
+            "op3": "Iraq",
+            "op4": "Saudi Arabia",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of tea in India ?",
+            "op1": "ssam",
+            "op2": "West engal",
+            "op3": "Tripura",
+            "op4": "Sikkim",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of wheat in India ?",
+            "op1": "Maharashtra",
+            "op2": "Gujarat",
+            "op3": "Punjab",
+            "op4": "Uttar Pradesh",
+            "answer:": 4
+        },
+        {
+            "question": "Which state is the largest producer of rice in India ?",
+            "op1": "West Bengal",
+            "op2": "Uttar Pradesh",
+            "op3": "Andhra Pradesh",
+            "op4": "Punjab",
+            "answer:": 1
+        },
+        {
+            "question": "Which state is the largest producer of cotton in India ?",
+            "op1": "Maharashtra",
+            "op2": "Gujarat",
+            "op3": "Haryana",
+            "op4": "Tamil Nadu",
+            "answer:": 2
+        },
+        {
+            "question": "Which state is the largest producer of potato in India ?",
+            "op1": "Madhya Pradesh",
+            "op2": "Assam",
+            "op3": "Uttar Pradesh",
+            "op4": "Karnataka",
+            "answer:": 3
+        }
+    ]
+}

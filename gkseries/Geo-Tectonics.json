@@ -1,0 +1,486 @@
+{
+    "topic": "Geo-Tectonics",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Instrument used to measure earthquake is known as",
+            "op1": "seismograph",
+            "op2": "quake meter",
+            "op3": "barometer",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Magnitude of energy released by an earthquake is calculated using",
+            "op1": "Earthquake scale",
+            "op2": "Seismic scale",
+            "op3": "Richter scale",
+            "op4": "Temblor scale",
+            "answer:": 3
+        },
+        {
+            "question": "The point within the Earth where earthquakes originate is:",
+            "op1": "comma",
+            "op2": "origin",
+            "op3": "epicenter",
+            "op4": "focus",
+            "answer:": 4
+        },
+        {
+            "question": "Place directly above focus on Earth's surface is known as",
+            "op1": "strike",
+            "op2": "comma",
+            "op3": "epicenter",
+            "op4": "origin",
+            "answer:": 3
+        },
+        {
+            "question": "In general, the most destructive earthquake waves are the __________ .",
+            "op1": "P waves",
+            "op2": "S waves",
+            "op3": "Surface waves",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "P Waves are also said to be __________ waves.",
+            "op1": "push-pull",
+            "op2": "side-side",
+            "op3": "up-down",
+            "op4": "none of the above",
+            "answer:": 1
+        },
+        {
+            "question": "P Waves can pass through ______",
+            "op1": "crust and core only",
+            "op2": "liquids and gases only",
+            "op3": "solids, gases, and liquids",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Earthquakes occur most frequently at",
+            "op1": "plate boundaries",
+            "op2": "plate surface",
+            "op3": "ocean beds",
+            "op4": "all of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Amount of energy released by an earthquake is also known as",
+            "op1": "wave",
+            "op2": "scale",
+            "op3": "unit",
+            "op4": "magnitude",
+            "answer:": 4
+        },
+        {
+            "question": "How many seismograph stations are needed to locate the epicenter of an earthquake ?",
+            "op1": "2",
+            "op2": "3",
+            "op3": "4",
+            "op4": "5",
+            "answer:": 2
+        },
+        {
+            "question": "S Waves can pass through ________.",
+            "op1": "solids only",
+            "op2": "gases only",
+            "op3": "liquids only",
+            "op4": "all of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The _____Waves are said to the most damaging to humans.",
+            "op1": "S",
+            "op2": "P",
+            "op3": "L",
+            "op4": "Q",
+            "answer:": 3
+        },
+        {
+            "question": "Vibrations radiate from focus in all direction as",
+            "op1": "Seismic waves",
+            "op2": "Transverse waves",
+            "op3": "Longitudinal waves",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The amount of ground displacement in an earthquake is called the _________",
+            "op1": "focus",
+            "op2": "slip",
+            "op3": "dip",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The _____Waves are the slowest.",
+            "op1": "Q",
+            "op2": "P",
+            "op3": "S",
+            "op4": "L",
+            "answer:": 4
+        },
+        {
+            "question": "The _____ Waves are the fastest",
+            "op1": "P",
+            "op2": "L",
+            "op3": "S",
+            "op4": "Q",
+            "answer:": 1
+        },
+        {
+            "question": "Earthquakes occur when there is a sudden release of stored up energy in Earth's",
+            "op1": "outer core",
+            "op2": "inner core",
+            "op3": "upper mantle",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Body waves consist of the:",
+            "op1": "S waves only",
+            "op2": "P waves only",
+            "op3": "Surface waves",
+            "op4": "Both (A) and (B)",
+            "answer:": 4
+        },
+        {
+            "question": "P waves are:",
+            "op1": "tensional surface waves.",
+            "op2": "transverse surface waves.",
+            "op3": "compressional body waves.",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Earthquakes usually occur at boundary of",
+            "op1": "coral plate",
+            "op2": "crustal plates",
+            "op3": "volcanic beds",
+            "op4": "all of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Magma which is forced onto Earth's surface is known as",
+            "op1": "Lava",
+            "op2": "Vent",
+            "op3": "one",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Volcanoes that erupt frequently are known as",
+            "op1": "ctive volcanoes",
+            "op2": "Extinct volcanoes",
+            "op3": "Instinct volcanoes",
+            "op4": "ormant volcanoes",
+            "answer:": 1
+        },
+        {
+            "question": "Volcanoes that haven't erupted in historic times are known as",
+            "op1": "ctive volcanoes",
+            "op2": "Instinct volcanoes",
+            "op3": "Dormant volcanoes",
+            "op4": "Extinct volcanoes",
+            "answer:": 4
+        },
+        {
+            "question": "Basic lava erupts out of volcano, throwing out mainly",
+            "op1": "CO",
+            "op2": "dust",
+            "op3": "ash",
+            "op4": "all of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Shield volcanoes are _____ in size:",
+            "op1": "Small",
+            "op2": "Medium",
+            "op3": "Huge",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "A hole in Earth's crust through which magma comes to Earth's surface is known as",
+            "op1": "Crater",
+            "op2": "Vent",
+            "op3": "one",
+            "op4": "Pipe",
+            "answer:": 2
+        },
+        {
+            "question": "Layers of volcanic materials that build up around vent to form a cone-shaped structure are known as",
+            "op1": "Crater",
+            "op2": "Vent",
+            "op3": "one",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Fluidity of lava is determined by amount of",
+            "op1": "silica",
+            "op2": "copper",
+            "op3": "iron",
+            "op4": "zinc",
+            "answer:": 1
+        },
+        {
+            "question": "Top of magma is forced onto Earth's surface is known as",
+            "op1": "Pipe",
+            "op2": "Cone",
+            "op3": "Vent",
+            "op4": "Crater",
+            "answer:": 4
+        },
+        {
+            "question": "Volcanoes that have erupted in historic times and are still likely to erupt, are known as",
+            "op1": "Instinct volcanoes",
+            "op2": "Active volcanoes",
+            "op3": "Dormant volcanoes",
+            "op4": "Extinct volcanoes",
+            "answer:": 3
+        },
+        {
+            "question": "This is the scale used to measure the size of volcanic eruptions",
+            "op1": "Richter Scale",
+            "op2": "Volcanic Explosivity Index",
+            "op3": "Volcano Eruptivity Scale",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Eruptions from composite volcanoes are usually",
+            "op1": "light and less violent",
+            "op2": "loud but less violent",
+            "op3": "soft and more violent",
+            "op4": "loud and more violent",
+            "answer:": 4
+        },
+        {
+            "question": "Acid lava flows slowly as it is highly",
+            "op1": "dense",
+            "op2": "viscous",
+            "op3": "sensitive",
+            "op4": "all of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Passageway which joins vent to crater of volcano is known as",
+            "op1": "Crater",
+            "op2": "Vent",
+            "op3": "one",
+            "op4": "Pipe",
+            "answer:": 4
+        },
+        {
+            "question": "Eruptions of composite volcanoes are loud and violent because that contain",
+            "op1": "basic lava",
+            "op2": "viscous composite lava",
+            "op3": "viscous acid lava",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "In which direction the Earth rotates around its axis ?",
+            "op1": "north to south",
+            "op2": "east to west",
+            "op3": "west to east",
+            "op4": "randomly",
+            "answer:": 3
+        },
+        {
+            "question": "Mohs scale is used to determine :",
+            "op1": "degree of brightness of a substance",
+            "op2": "degree of hardness of minerals",
+            "op3": "degree of viscosity of a liquid",
+            "op4": "degree of elasticity of a material",
+            "answer:": 2
+        },
+        {
+            "question": "In which situation Spring tides can occur :",
+            "op1": "the moon, sun and the earth are at right angles with the earth at the apex",
+            "op2": "the moon is farthest from the earth",
+            "op3": "the sun is closest to the earth",
+            "op4": "the moon, the sun and the earth in the same line",
+            "answer:": 4
+        },
+        {
+            "question": "Total surface area of the earth in square kilometer is :",
+            "op1": "510.1 million square kilometer",
+            "op2": "512.8 million square kilometer",
+            "op3": "520 million square kilometer",
+            "op4": "525.7 million square kilometer",
+            "answer:": 1
+        },
+        {
+            "question": "The Earth while rotates around the Sun It always keeps its axis pointed towards :",
+            "op1": "the moon",
+            "op2": "the pole star",
+            "op3": "Venus",
+            "op4": "the sun",
+            "answer:": 2
+        },
+        {
+            "question": "The greatest amount of isolation is received by which place of Earth's surface ?",
+            "op1": "Tropical rainforest",
+            "op2": "Tropical deserts",
+            "op3": "Savanna region",
+            "op4": "Equatorial region",
+            "answer:": 2
+        },
+        {
+            "question": "What is the actual shape of the Earth ?",
+            "op1": "flat",
+            "op2": "circle",
+            "op3": "sphere",
+            "op4": "oblate spheroid",
+            "answer:": 4
+        },
+        {
+            "question": "What is the circumference of the Earth in kilometers ?",
+            "op1": "38005 KM",
+            "op2": "40075 KM",
+            "op3": "41000 KM",
+            "op4": "41075 KM",
+            "answer:": 2
+        },
+        {
+            "question": "Tides in the sea have stored in them :",
+            "op1": "hydraulic energy",
+            "op2": "kinetic energy",
+            "op3": "gravitional potential energy",
+            "op4": "a combination of all the above three forms of energy",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the following statements :",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither I nor II",
+            "answer:": 3
+        },
+        {
+            "question": "Tropic of Cancer does not pass through which one of the following countries ?",
+            "op1": "Bangladesh",
+            "op2": "China",
+            "op3": "Nepal",
+            "op4": "India",
+            "answer:": 3
+        },
+        {
+            "question": "The upper part of the mantle upon which the crust of the Earth floats is called :",
+            "op1": "barysphere",
+            "op2": "mesosphere",
+            "op3": "Mohorovicic discontinuity",
+            "op4": "asthenosphere",
+            "answer:": 4
+        },
+        {
+            "question": "Who among the following was the first to measure the circumference of the Earth ?",
+            "op1": "Eratosthenes",
+            "op2": "Aristotle",
+            "op3": "Hecataeus",
+            "op4": "Herodotus",
+            "answer:": 1
+        },
+        {
+            "question": "The International Date line passes through :",
+            "op1": "Bering strait",
+            "op2": "Gibraltar strait",
+            "op3": "Florida strait",
+            "op4": "Malacca strait",
+            "answer:": 1
+        },
+        {
+            "question": "What happens when a ship crosses International Date Line from west to east ?",
+            "op1": "It gains one day",
+            "op2": "It loses one day",
+            "op3": "It loses 10 hrs",
+            "op4": "It gains half a day",
+            "answer:": 2
+        },
+        {
+            "question": "What is the time difference between longitudes ?",
+            "op1": "5 minutes",
+            "op2": "5 minutes 20 seconds",
+            "op3": "4 minutes",
+            "op4": "4 minutes 20 seconds",
+            "answer:": 3
+        },
+        {
+            "question": "The time required for the earth to return to a given point in its orbit with reference to fixed star is :",
+            "op1": "Lunar year",
+            "op2": "Solar year",
+            "op3": "Tropcal year",
+            "op4": "Sidereal year",
+            "answer:": 4
+        },
+        {
+            "question": "The Earth is an oblate spheroid and not a perfect sphere. This is because :",
+            "op1": "I only",
+            "op2": "I and II",
+            "op3": "III only",
+            "op4": "I, II and III",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the following statements :",
+            "op1": "I and II",
+            "op2": "III and IV",
+            "op3": "I, II and III",
+            "op4": "II, III and IV",
+            "answer:": 4
+        },
+        {
+            "question": "How many kilometers are represented by 1 degree of latitude ?",
+            "op1": "191 KM",
+            "op2": "161 KM",
+            "op3": "141 KM",
+            "op4": "111 KM",
+            "answer:": 4
+        },
+        {
+            "question": "The Tropic of Cancer passes through :",
+            "op1": "India and Iran",
+            "op2": "Iran and Pakistan",
+            "op3": "India and Saudi Arabia",
+            "op4": "Iran and Iraq",
+            "answer:": 3
+        },
+        {
+            "question": "The Core of the Earth is made up of :",
+            "op1": "mainly of iron in the liquid form",
+            "op2": "mainly of nickel in the liquid form",
+            "op3": "both iron and silica in the liquid form",
+            "op4": "both iron and magnesium in the plastic state",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following minerals occurs abundantly in the earth's crust ?",
+            "op1": "Bauxite",
+            "op2": "Silica",
+            "op3": "Manganese",
+            "op4": "Iron",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following elements is the most abundant in the Earth's crust ?",
+            "op1": "Oxygen",
+            "op2": "Sulpher",
+            "op3": "Silicon",
+            "op4": "Carbon",
+            "answer:": 1
+        },
+        {
+            "question": "The approximate circumference of the Earth is :",
+            "op1": "13000 km",
+            "op2": "20000 km",
+            "op3": "25000 km",
+            "op4": "40075 km",
+            "answer:": 4
+        }
+    ]
+}

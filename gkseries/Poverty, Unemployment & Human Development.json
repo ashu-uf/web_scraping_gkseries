@@ -1,0 +1,246 @@
+{
+    "topic": "Poverty, Unemployment & Human Development",
+    "Subject": "Indian Economy",
+    "data": [
+        {
+            "question": "What does absolute Poverty means ?",
+            "op1": "Poverty in terms of the prevailing price level",
+            "op2": "Poverty in terms of absolute number of people",
+            "op3": "Poverty in terms of the absolute level of unemployment",
+            "op4": "Poverty in terms of the basic minimum calorie requirements",
+            "answer:": 4
+        },
+        {
+            "question": "What is the \u2018Slack Season\u2019 in Indian Economy ?",
+            "op1": "March-pril",
+            "op2": "Sept-Dec",
+            "op3": "Jan-June",
+            "op4": "Feb-April",
+            "answer:": 3
+        },
+        {
+            "question": "India\u2019s occupational structure remaining more or less the same over the years. Which one of the following is a reason for this ?",
+            "op1": "Investment pattern has been directed towards capital intensive industries",
+            "op2": "Productivity in agriculture has been high enough to induce people to stay with agriculture",
+            "op3": "People are largely unaware of the significance of transition from agriculture to industry for economic development",
+            "op4": "Ceilings on land holdings have enabled more people to own land and hence their preference to stay with agriculture",
+            "answer:": 3
+        },
+        {
+            "question": "The term \u201cCyclical unemployment\u201d refers to:",
+            "op1": "Disguised unemployment",
+            "op2": "Voluntary unemployment",
+            "op3": "Seasonal unemployment",
+            "op4": "Unemployment during recessionary phase of a trade cycle",
+            "answer:": 4
+        },
+        {
+            "question": "Pradhan Mantri Gramodaya Yojana aims at:",
+            "op1": "Establishing small industries in rural areas",
+            "op2": "Alleviating poverty through micro-enterprises",
+            "op3": "Strengthening the Panchayati Raj System in rural areas",
+            "op4": "Meeting rural needs like Primary education; health care, drinking water, housing, rural roads",
+            "answer:": 4
+        },
+        {
+            "question": "The main objective of Antyodaya programme is:",
+            "op1": "Uplift the poor",
+            "op2": "Uplift the farmer",
+            "op3": "Uplift the urban poor",
+            "op4": "Uplift the landless labour",
+            "answer:": 1
+        },
+        {
+            "question": "Operation Blackboard aims at:",
+            "op1": "Providing education to urban slum dwellers",
+            "op2": "Promoting adult literacy",
+            "op3": "Opening of new schools specially for female children",
+            "op4": "Providing primary education in an educationally backward area",
+            "answer:": 4
+        },
+        {
+            "question": "Who amongst the following can take benefit of the Social Security Fund established by the Govt. of India for unorganized workers ?",
+            "op1": "Rickshaw Puller",
+            "op2": "Clerk in a factory",
+            "op3": "Textile Mazdoor",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Poverty in less developed countries is large because of:",
+            "op1": "Lack of intelligence of the people",
+            "op2": "Lack of cultural activities",
+            "op3": "Income inequality",
+            "op4": "Voluntary idleness",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is NOT an economic empowerment scheme launched by the Govt. of India for the benefit of various sections of society ?",
+            "op1": "Swadhar",
+            "op2": "STEP",
+            "op3": "KALPANA-1",
+            "op4": "Swayamsidha",
+            "answer:": 3
+        },
+        {
+            "question": "Unemployment which occurs when workers move from one job to another job is known as:",
+            "op1": "Cyclical unemployment",
+            "op2": "Seasonal unemployment",
+            "op3": "Technological unemployment",
+            "op4": "Frictional unemployment",
+            "answer:": 4
+        },
+        {
+            "question": "Unemployment in a developing country generally takes place due to:",
+            "op1": "Natural disasters",
+            "op2": "Lack of effective demand",
+            "op3": "Lack of complementary factors of production",
+            "op4": "Switch over from one job to another",
+            "answer:": 3
+        },
+        {
+            "question": "The Food For Work Programme was later renamed as:",
+            "op1": "Jawahar Rozgar Yojana (JRY)",
+            "op2": "National Rural Employment Programme (NREP)",
+            "op3": "Integrated Rural Development Programme (IRDP)",
+            "op4": "Rural Landless Employment Guarantee Programme (RLEGP)",
+            "answer:": 2
+        },
+        {
+            "question": "Swarnajayantri Gram Swarozgar Yojana launched in:",
+            "op1": "pril 1999",
+            "op2": "April 1997",
+            "op3": "April 1995",
+            "op4": "April 1993",
+            "answer:": 1
+        },
+        {
+            "question": "The Swarna Jayanti Swarozgar Yojana (SGSY) has been renamed as:",
+            "op1": "Gramin Bhandaran Yojana",
+            "op2": "Pradhan Mantri Kaushal Vikas Yojana",
+            "op3": "Integrated Rural Development Program",
+            "op4": "National Rural Livelihood Mission (NRLM).",
+            "answer:": 4
+        },
+        {
+            "question": "Under Indira Gandhi National Old Age Pension Scheme (IGNOAPS), the benefits are available to the people having minimum age of ......",
+            "op1": "55 Years",
+            "op2": "60 Years",
+            "op3": "65 Years",
+            "op4": "70 Years",
+            "answer:": 3
+        },
+        {
+            "question": "Full form of DWCRA:",
+            "op1": "Development of Women and Children in Rural reas",
+            "op2": "Direct Welfare of Children in Rural Areas",
+            "op3": "Development and Welfare of atchment Rural Areas",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The Govt. of India does not provide any direct financial assistance to which of the following schemes ?",
+            "op1": "Rural Health Mission",
+            "op2": "Sukanya Samridhi Yojana",
+            "op3": "Jeevan Sathi Yojana",
+            "op4": "Mahatma Gandhi National Rural Employment Guarantee scheme",
+            "answer:": 3
+        },
+        {
+            "question": "Among the following the eligible beneficiary of the \u201cMahatma Gandhi National Rural Employment Guarantee Act\u201d are:",
+            "op1": "dult members of any household",
+            "op2": "Adult members of households of all backward communities",
+            "op3": "Adult members of below poverty line (BPL) households",
+            "op4": "Adult members of only the scheduled caste and scheduled tribe households",
+            "answer:": 1
+        },
+        {
+            "question": "Indian\u2019s wage policy is based on:",
+            "op1": "Savings",
+            "op2": "Productivity",
+            "op3": "ost of living",
+            "op4": "Standard of living",
+            "answer:": 3
+        },
+        {
+            "question": "The classification of persons below the poverty line in India are based on whether:",
+            "op1": "Their daily wages fall below the prescribed minimum wages",
+            "op2": "They are entitled to a minimum prescribed food basket",
+            "op3": "They get work for a prescribed minimum number of days in a year",
+            "op4": "They belong to agricultural labourer household and the scheduled caste/tribe social group",
+            "answer:": 2
+        },
+        {
+            "question": "Poverty Gap reflects:",
+            "op1": "Gap between the rich and the poor",
+            "op2": "Gap between developed nations and developing nations",
+            "op3": "Gap in infrastructural facilities between developed nations",
+            "op4": "The difference between poverty line and actual income levels of all those living below that line",
+            "answer:": 4
+        },
+        {
+            "question": "Consider the following statements with reference to Indira Gandhi National Old Age Pension Scheme:",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither I nor II",
+            "answer:": 4
+        },
+        {
+            "question": "Find the incorrect statement with respect to Sampoorna Grameen Rozgar Yojana ?",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither I nor II",
+            "answer:": 2
+        },
+        {
+            "question": "The type of unemployment mostly found in India can be characterized as:",
+            "op1": "Disguised",
+            "op2": "Cyclical",
+            "op3": "Frictional",
+            "op4": "Structural",
+            "answer:": 1
+        },
+        {
+            "question": "When the productive capacity of the economic system of a State is inadequate to create sufficient number of jobs, it is called",
+            "op1": "Cyclical unemployment",
+            "op2": "Disguised unemployment",
+            "op3": "Structural unemployment",
+            "op4": "Seasonal unemployment",
+            "answer:": 3
+        },
+        {
+            "question": "Among the reasons for disguised unemployment in the rural areas is:",
+            "op1": "high illiteracy rate",
+            "op2": "low levels of technological development in the country",
+            "op3": "choice of a heavy industry model for economic development",
+            "op4": "heavy pressure of population along with slow implementation of land reforms",
+            "answer:": 2
+        },
+        {
+            "question": "In India, present trend of rapid urbanization is due to:",
+            "op1": "abolition of zamindari system",
+            "op2": "break up of joint family system",
+            "op3": "influence of cinema and electronic media",
+            "op4": "lack of employment opportunities in rural areas",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following is a revamp of the Integrated Rural Development Programme ?",
+            "op1": "Community-based Pro-poor Initiative",
+            "op2": "Jawahar Gram Samridhi Yojana",
+            "op3": "National Social Assistance Programme",
+            "op4": "Swarnajayanti Gram Swarozgar Yojana",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a Poverty Eradication Programme launched by the Govt. of India ?",
+            "op1": "DHR",
+            "op2": "National Social Assistance Programme",
+            "op3": "Jawahar Gram Samridhi Yojana",
+            "op4": "Swarnajayanti Gram Swarozgar Yojana",
+            "answer:": 1
+        }
+    ]
+}

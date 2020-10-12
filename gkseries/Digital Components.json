@@ -1,0 +1,38 @@
+{
+    "topic": "Digital Components",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "Which of the following is not a universal building block ?",
+            "op1": "2 input NND gate",
+            "op2": "L3 input NAND gate",
+            "op3": "2 input XOR gate",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "A NAND gate has inputs A and B. It's output is connected to the both of the inputs of another NAND gate. An equivalent gate for these two NAND gates is",
+            "op1": "OR gate",
+            "op2": "AND gate",
+            "op3": "NOR gate",
+            "op4": "XOR gate",
+            "answer:": 2
+        },
+        {
+            "question": "The operation which commutative but not associative is",
+            "op1": "ND",
+            "op2": "OR",
+            "op3": "XOR",
+            "op4": "NAN",
+            "answer:": 4
+        },
+        {
+            "question": "In which of the following gates, the output is 1 if and only if at least one input is 1?",
+            "op1": "OR",
+            "op2": "NOR",
+            "op3": "AND",
+            "op4": "NAN",
+            "answer:": 1
+        }
+    ]
+}

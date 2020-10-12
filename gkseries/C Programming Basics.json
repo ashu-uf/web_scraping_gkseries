@@ -1,0 +1,230 @@
+{
+    "topic": "C Programming Basics",
+    "Subject": "C Programming",
+    "data": [
+        {
+            "question": "The words if, else, auto, float etc. hasve predefined meaning and users cannot use them as variables. These words are called",
+            "op1": "constant",
+            "op2": "identifier",
+            "op3": "data types",
+            "op4": "keywords",
+            "answer:": 4
+        },
+        {
+            "question": "What is/are the type/types of numeric constant/constants used in c programming language?",
+            "op1": "Integer constant",
+            "op2": "Real constant",
+            "op3": "Both [A] & [B]",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which is/are the integer constant/constants?",
+            "op1": "Decimal integer constant",
+            "op2": "Octal integer constant",
+            "op3": "Hexadecimal integer constant",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "What is/are the number of operand/operands needed to unary operator logical not(!)?",
+            "op1": "4",
+            "op2": "3",
+            "op3": "2",
+            "op4": "1",
+            "answer:": 4
+        },
+        {
+            "question": "While assigning a value to a variable, which operators are used to perform artithmetic operations?",
+            "op1": "Logical operator",
+            "op2": "Assignment operator",
+            "op3": "Increment operator",
+            "op4": "Conditional operator",
+            "answer:": 2
+        },
+        {
+            "question": "An operator used to check a condition and select a value depending on the value of the condition is called",
+            "op1": "Logical operator",
+            "op2": "Decrement operator",
+            "op3": "onditional or Ternary operator",
+            "op4": "Bitwise operator",
+            "answer:": 3
+        },
+        {
+            "question": "Which operators perform operations on data in binary level?",
+            "op1": "Logical operator",
+            "op2": "itwise operator",
+            "op3": "Additional operators",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "The operator \"&\" is used for",
+            "op1": "Bitwise ND",
+            "op2": "itwise OR",
+            "op3": "Logical AND",
+            "op4": "Logical OR",
+            "answer:": 1
+        },
+        {
+            "question": "Which are built-in data structures in C programming?",
+            "op1": "rrays",
+            "op2": "Structures",
+            "op3": "Files",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The size of a character variable in C is",
+            "op1": "8 bytes",
+            "op2": "4 bytes",
+            "op3": "2 bytes",
+            "op4": "1 byte",
+            "answer:": 4
+        },
+        {
+            "question": "An expression contains relational, assignment and arithmetic operators. If parenthesis are not specified, the order of evaluation of the operators would be:",
+            "op1": "assignment, arithmetic, relational",
+            "op2": "relational, assignment, arithmetic",
+            "op3": "assignment, relational, arithmetic",
+            "op4": "arithmetic, relational, assignment",
+            "answer:": 4
+        },
+        {
+            "question": "What is the output of the following code segment(assuming sizeof(int) returns 4)? int i=0x1 << sizeof(int)*8-1; printf(\"\\n%x\",i); i=i>>sizeof(int)*8-1; printf(\"%d\",i);",
+            "op1": "0x8000000-1",
+            "op2": "80000000-1",
+            "op3": "-1 0x0000000",
+            "op4": "-1 0000000",
+            "answer:": 2
+        },
+        {
+            "question": "Which is the valid statement in C?",
+            "op1": "#define half(x)((x)/2.0)",
+            "op2": "#define STREQ(s1,s2)(strcmp((s1),(s2))==0);",
+            "op3": "#define MAX=5",
+            "op4": "#define INTEREST 5, LOAN 5000",
+            "answer:": 1
+        },
+        {
+            "question": "Maximum value of an unsigned integer is",
+            "op1": "65535",
+            "op2": "32767",
+            "op3": "-32767",
+            "op4": "-65535",
+            "answer:": 1
+        },
+        {
+            "question": "What will happen if an element is assigned a value to an element of an array whose subscript exceeds the size of the array?",
+            "op1": "It will not be allowed, but no error message will be generated",
+            "op2": "Compiler will generate an error message suggesting the name",
+            "op3": "The element will be assigned NULL VALUE",
+            "op4": "Some other data may be overwritten",
+            "answer:": 4
+        },
+        {
+            "question": "By default a real number is treated as a",
+            "op1": "float",
+            "op2": "double",
+            "op3": "long double",
+            "op4": "integer",
+            "answer:": 1
+        },
+        {
+            "question": "In an assignment statement a=b; which of the following statement is true ?",
+            "op1": "The variable a and the variable b are same.",
+            "op2": "The value of b is assigned to variable a but if b changes later, it will not effect the value of variable a.",
+            "op3": "The value of b is assigned to variable a but if b changes later, it will effect the value of variable a",
+            "op4": "The value of variable a is assigned to variable b, and the value of variable b is asssigned to variable a.",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is not a valid relational operator?",
+            "op1": "*",
+            "op2": "==",
+            "op3": ">=",
+            "op4": "<=",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is responsible for conversion of C programs to machine language ?",
+            "op1": "Operating system",
+            "op2": "An editor",
+            "op3": "A compiler",
+            "op4": "An interpreter",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a basic data type in 'C' language?",
+            "op1": "double",
+            "op2": "float",
+            "op3": "char",
+            "op4": "array",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is a valid identifier?",
+            "op1": "Ireturn",
+            "op2": "returnI",
+            "op3": "return",
+            "op4": "$return_I",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is a valid string constant?",
+            "op1": "\"programming\"",
+            "op2": "\"programming",
+            "op3": "'programming",
+            "op4": "$programming$",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following language is predecessor to 'C' Programming language?",
+            "op1": "",
+            "op2": "",
+            "op3": "ADA",
+            "op4": "C++",
+            "answer:": 2
+        },
+        {
+            "question": "Identify the correct sequence of steps to run a program",
+            "op1": "link, load, code, compile and execute",
+            "op2": "code, compile, link, execute and load",
+            "op3": "code, compile, link, load and execute",
+            "op4": "compile, code, link, load and execute",
+            "answer:": 3
+        },
+        {
+            "question": "What will be the output of the following code segment? int x=24, y=, z=45 z=x+y; y=z-y; x=z-y; printf(\"\\n%d%d%d\",x,y,z);",
+            "op1": "24 39 63",
+            "op2": "39 24 63",
+            "op3": "24 39 45",
+            "op4": "39 24 45",
+            "answer:": 2
+        },
+        {
+            "question": "In the passage of text, individual words and punctuation marks are known as:",
+            "op1": "Constants",
+            "op2": "Operators",
+            "op3": "Keywords",
+            "op4": "Tokens",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not valid variable names in 'C'?",
+            "op1": "float_int, keyword, 1",
+            "op2": "ANSI, ascii, cpu",
+            "op3": "valid, variable, name",
+            "op4": "None of these",
+            "answer:": 4
+        },
+        {
+            "question": "What is the return type of ftell function?",
+            "op1": "double",
+            "op2": "int",
+            "op3": "long",
+            "op4": "float",
+            "answer:": 3
+        }
+    ]
+}

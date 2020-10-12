@@ -1,0 +1,14 @@
+{
+    "topic": "Digital Logic Circuits",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "Which Logic circuit would you use for addressing memory ?",
+            "op1": "Full adder",
+            "op2": "Multiplexer",
+            "op3": "Decoder",
+            "op4": "irect memory access circuit",
+            "answer:": 3
+        }
+    ]
+}

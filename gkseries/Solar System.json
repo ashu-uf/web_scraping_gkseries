@@ -1,0 +1,246 @@
+{
+    "topic": "Solar System",
+    "Subject": "Geography",
+    "data": [
+        {
+            "question": "Identify the planet whose length of the days and tilt of its axis are almost identical to those of the earth.",
+            "op1": "Uranus",
+            "op2": "Neptune",
+            "op3": "Saturn",
+            "op4": "Mars",
+            "answer:": 4
+        },
+        {
+            "question": "Among the following planets, which is the brightest planet ?",
+            "op1": "Mercury",
+            "op2": "Venus",
+            "op3": "Mars",
+            "op4": "Jupiter",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following planets of the solar system has the longest day ?",
+            "op1": "Mercury",
+            "op2": "Jupiter",
+            "op3": "Venus",
+            "op4": "Earth",
+            "answer:": 3
+        },
+        {
+            "question": "Which planet is called the red planet in our solar system ?",
+            "op1": "Mercury",
+            "op2": "Mars",
+            "op3": "Jupiter",
+            "op4": "Neptune",
+            "answer:": 2
+        },
+        {
+            "question": "The largest planet in our solar system is :",
+            "op1": "Jupiter",
+            "op2": "Earth",
+            "op3": "Venus",
+            "op4": "Mercury",
+            "answer:": 1
+        },
+        {
+            "question": "What is the fifth largest planet in our solar system ?",
+            "op1": "Venus",
+            "op2": "Saturn",
+            "op3": "Earth",
+            "op4": "Mars",
+            "answer:": 3
+        },
+        {
+            "question": "Who discovered that the Earth revolves around the Sun ?",
+            "op1": "Galileo Galilei",
+            "op2": "Isaac Newton",
+            "op3": "Albert Einstein",
+            "op4": "Johannes Kepler",
+            "answer:": 1
+        },
+        {
+            "question": "The exact time taken by the earth for single rotation on its own axis is :",
+            "op1": "24 hrs",
+            "op2": "24 hrs 30 ms",
+            "op3": "23 hrs 54 minutes 7.8 sec",
+            "op4": "23 hrs 56 minutes 4.09 sec",
+            "answer:": 4
+        },
+        {
+            "question": "What do you mean by 'Black Hole' in our solar system ?",
+            "op1": "Contracted star with intense gravitational pull",
+            "op2": "Collapsing of low density",
+            "op3": "Holes occurring in heavenly bodies",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "In which year did Galileo state that the Earth revolves around the Sun ?",
+            "op1": "1632",
+            "op2": "1634",
+            "op3": "1638",
+            "op4": "1641",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is correct with respect to 'Great Bear' ?",
+            "op1": "Planet",
+            "op2": "Galaxy",
+            "op3": "Star",
+            "op4": "Constellation",
+            "answer:": 4
+        },
+        {
+            "question": "What do you mean by Sunspots ?",
+            "op1": "visible irregular dark patches on the photosphere of the sun resulting from a localised fall in the temperature to about 4000K",
+            "op2": "desert areas on the sun",
+            "op3": "dark patches on the surface of the sun which are cooler areas",
+            "op4": "all of these",
+            "answer:": 1
+        },
+        {
+            "question": "Who discovered the laws of planetary orbits ?",
+            "op1": "Galileo Galilei",
+            "op2": "Nicholas Copernicus",
+            "op3": "Johannes Kepler",
+            "op4": "None of them",
+            "answer:": 3
+        },
+        {
+            "question": "If there is no sun the colour of the sky would be :",
+            "op1": "Blue",
+            "op2": "Orange",
+            "op3": "Black",
+            "op4": "Green",
+            "answer:": 3
+        },
+        {
+            "question": "What is a Supernova ?",
+            "op1": "an asteriod",
+            "op2": "a black hole",
+            "op3": "a comet",
+            "op4": "a dying star",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is the best proof to say that comets are members of our solar system ?",
+            "op1": "their composition",
+            "op2": "their effect on the lives of man",
+            "op3": "the shape of their orbits",
+            "op4": "the shape and length of their tails",
+            "answer:": 1
+        },
+        {
+            "question": "Foucault experiment is proof of which one of the following ?",
+            "op1": "Revolution of sun",
+            "op2": "Revolution of moon",
+            "op3": "Rotation of Earth",
+            "op4": "Revolution of Earth",
+            "answer:": 3
+        },
+        {
+            "question": "While Venus is seen only for one to two hours either after sunset or before sunrise. Jupiter is seen for the whole night whenever it is visible in the sky.",
+            "op1": "Venus is much smaller than Jupiter",
+            "op2": "Venus is far from the Earth than Jupiter",
+            "op3": "Venus reflects lesser light of sun than Jupiter",
+            "op4": "he orbit of Venus is inside the earth's orbit whereas the orbit of Jupiter lies outside the orbit of the earth",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following statements is/are correct with respect to Milky Way ?",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "Both I and II",
+            "op4": "Neither 1 nor II",
+            "answer:": 3
+        },
+        {
+            "question": "What is the difference between asteroids and comets ?",
+            "op1": "I and II only",
+            "op2": "I and III only",
+            "op3": "III only",
+            "op4": "I, II and III",
+            "answer:": 2
+        },
+        {
+            "question": "Select the correct statement with respect to solar system ?",
+            "op1": "The Earth is the densest of all the planets in our solar system.",
+            "op2": "The predominant element in the composition of Earth is silicon.",
+            "op3": "The Sun contains 75 percent of the mass of the solar system.",
+            "op4": "The diameter of the Sun is 190 times that of the Earth.",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following statements is/are correct ?",
+            "op1": "1 only",
+            "op2": "2 only",
+            "op3": "Both 1 and 2",
+            "op4": "Neither 1 nor 2",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following gases is most predominant in the Sun ?",
+            "op1": "Mithen",
+            "op2": "Nitrogen",
+            "op3": "Hydrogen",
+            "op4": "Ozone",
+            "answer:": 3
+        },
+        {
+            "question": "Revolution around the Sun is maximum for :",
+            "op1": "Venus",
+            "op2": "Jupiter",
+            "op3": "Mars",
+            "op4": "Saturn",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the following statements :",
+            "op1": "I only",
+            "op2": "II only",
+            "op3": "both I and II",
+            "op4": "neither I nor II",
+            "answer:": 1
+        },
+        {
+            "question": "The speed of rotation of the earth is the highest",
+            "op1": "along the Equator",
+            "op2": "at the North-Pole",
+            "op3": "along the Tropic of ancer",
+            "op4": "along the Arctic Circle",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following planets of the solar system has the longest day ?",
+            "op1": "Mercury",
+            "op2": "Jupiter",
+            "op3": "Venus",
+            "op4": "Earth",
+            "answer:": 3
+        },
+        {
+            "question": "Comets revolve around :",
+            "op1": "Sun",
+            "op2": "Earth",
+            "op3": "Venus",
+            "op4": "No single heavenly body",
+            "answer:": 1
+        },
+        {
+            "question": "The hottest planet is",
+            "op1": "Mercury",
+            "op2": "Venus",
+            "op3": "Jupiter",
+            "op4": "Saturn",
+            "answer:": 2
+        },
+        {
+            "question": "In order of their distances from the Sun, which of the following planets lie between Mars and Uranus ?",
+            "op1": "Earth and Jupiter",
+            "op2": "Jupiter and Saturn",
+            "op3": "Saturn and Earth",
+            "op4": "Saturn and Neptune",
+            "answer:": 2
+        }
+    ]
+}

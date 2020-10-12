@@ -1,0 +1,878 @@
+{
+    "topic": "Indian National Movement",
+    "Subject": "Indian History",
+    "data": [
+        {
+            "question": "Which of the following was a revolutionary who later turned into a yogi and a philosopher?",
+            "op1": "Lala Lajpat Rai",
+            "op2": "al Gangadhar Tilak",
+            "op3": "Agarkara",
+            "op4": "Aurodindo Ghosh",
+            "answer:": 4
+        },
+        {
+            "question": "Delhi became the capital of India in :",
+            "op1": "1916",
+            "op2": "1910",
+            "op3": "1931",
+            "op4": "1911",
+            "answer:": 3
+        },
+        {
+            "question": "With reference to Indian Freedom Struggle, who of the following was the lady representative of India at the Second Round Table Conference?",
+            "op1": "Sucheta Hriplani",
+            "op2": "Aruna Asaf Ali",
+            "op3": "Vijayalakshmi Pandit",
+            "op4": "Sarojini Naidu",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following institutions was not founded by Mahatma Gandhi?",
+            "op1": "Sabarmati shram",
+            "op2": "Sevagram Ashram",
+            "op3": "Vishwa Bharati",
+            "op4": "Phoenix Ashram",
+            "answer:": 3
+        },
+        {
+            "question": "Swaraj as a national demand was first made by:",
+            "op1": "Bal Gangadhar Tilak",
+            "op2": "Dadabhai Naoraji",
+            "op3": "Jawaharlal Nehru",
+            "op4": "Chittaranjan as",
+            "answer:": 2
+        },
+        {
+            "question": "Who was the Viceroy of India at the time of Jallianwala Bagh Massacre?",
+            "op1": "Lord Irwin",
+            "op2": "Lord Chelmsford",
+            "op3": "Lord Hardinge",
+            "op4": "Lord Curzon",
+            "answer:": 2
+        },
+        {
+            "question": "The Indian Independence League was set up by:",
+            "op1": "Jayaprakash Narayan",
+            "op2": "Aruna Asaf Ali",
+            "op3": "S.M. Joshi",
+            "op4": "Rash Behari Bose",
+            "answer:": 4
+        },
+        {
+            "question": "Who among the following Urdu poets was invited to the Second and Third round Table Conference?",
+            "op1": "Josh Malihabadi",
+            "op2": "Muhammad Iqbal",
+            "op3": "Faiz Ahmad Faiz",
+            "op4": "Firaq Gorakhpuri",
+            "answer:": 2
+        },
+        {
+            "question": "The first movement launched against the British in India was :",
+            "op1": "Swadeshi Movement",
+            "op2": "Khilafat Movement",
+            "op3": "Quit India Movement",
+            "op4": "Non-Cooperation Movement",
+            "answer:": 1
+        },
+        {
+            "question": "The first women\u2019s university in India was founded by :",
+            "op1": "Dhondo Keshave Karve",
+            "op2": "Rani Ahilya Devi",
+            "op3": "J.. Kumarappa",
+            "op4": "Gandhiji",
+            "answer:": 1
+        },
+        {
+            "question": "Who among the following led vaikom Satyagraha in 1924 ?",
+            "op1": "Periyar E. V. Ramasamy",
+            "op2": "K.P. Kesava Menon",
+            "op3": "N. Kumaran Asan",
+            "op4": "Shri Narayana Guru",
+            "answer:": 2
+        },
+        {
+            "question": "\u2018Mahatma\u2019 was added before Gandhiji\u2019s name during :",
+            "op1": "Rowlatt satyagraha",
+            "op2": "Amritsar session of INC in 1919",
+            "op3": "Initial stages of Khilafat movement",
+            "op4": "Champaran Satyagraha",
+            "answer:": 4
+        },
+        {
+            "question": "The name of the famous person of India who returned the knighthood conferred on him by the British Government as a token of protest against the atrocities in Punjab in 1919 was:",
+            "op1": "Syed hmed Khan",
+            "op2": "Rabindra Nath Tagore",
+            "op3": "Ashutosh Mukherjee",
+            "op4": "Tej Bahadur Sapru",
+            "answer:": 2
+        },
+        {
+            "question": "M.C. Setalvad, B.N. Rao and Alladi Krishnaswamy lyer were distinguished members of the :",
+            "op1": "Madras Labour Union",
+            "op2": "Swaraj Party",
+            "op3": "All India National Liberal Federation",
+            "op4": "Servants of India Society",
+            "answer:": 4
+        },
+        {
+            "question": "At which congress session did Dadabhai Naoroji announce that Swaraj was the goal of India\u2019s political efforts?",
+            "op1": "1906 Calcutta session",
+            "op2": "1905 anaras session",
+            "op3": "1893 Lahore session",
+            "op4": "1906 Calcutta session",
+            "answer:": 1
+        },
+        {
+            "question": "Who said \u201cI therefore want freedom immediately, this very night, before dawn if it can be had\u201d?",
+            "op1": "Mahatma Gandhi",
+            "op2": "Pt. Jawaharlal Nehru",
+            "op3": "Annie Besant",
+            "op4": "r. Rajendra Prasad",
+            "answer:": 1
+        },
+        {
+            "question": "Ancient Monuments Preservation Act was passed during the Viceroyalty of :",
+            "op1": "Curzon",
+            "op2": "Ripon",
+            "op3": "Lansdowne",
+            "op4": "Monto",
+            "answer:": 1
+        },
+        {
+            "question": "The Haripura Congress (1938) remains a milestone in Indian freedom struggles, because",
+            "op1": "of the introduction of the idea of a planning commission",
+            "op2": "of the acceptance of the Government of India Act, 1935 by the Congress",
+            "op3": "it declared war on the British Empire",
+            "op4": "it appointed Jawaharlal Nehru as the future Prime Minister of India",
+            "answer:": 1
+        },
+        {
+            "question": "The birth and death years of Dr. B.R. Ambedker are :",
+            "op1": "1889, 1961",
+            "op2": "1877, 1961",
+            "op3": "1891, 1956",
+            "op4": "1886, 1951",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following was elected as the President of All-India Khilafat Conference when it met at Delhi in 1919?",
+            "op1": "Shaukat li",
+            "op2": "M.A. Jinnah",
+            "op3": "Mahatma Gandhi",
+            "op4": "Motilal Nehru",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following pioneered Khilafat Movement?",
+            "op1": "M.. Jinnah",
+            "op2": "Sir Syed Ahmed Khan",
+            "op3": "Mahatma Gandhi",
+            "op4": "Ali Brothers",
+            "answer:": 4
+        },
+        {
+            "question": "Who was called by British rulers as \u2018Father of Indian unrest\u2019?",
+            "op1": "M. K. Gandhi",
+            "op2": "al Gangadhar Tilak",
+            "op3": "Subhash handra Bose",
+            "op4": "Gopal Krishna Gokhale",
+            "answer:": 2
+        },
+        {
+            "question": "Those who joined Mahatma Gandhi during the Champaran struggle included :",
+            "op1": "Jawaharlal Nehru and Rajendra Prasad",
+            "op2": "Vallabhbhai Patel and Vinoba have",
+            "op3": "Mahadev Desai and Maniben Patel",
+            "op4": "Rajendra Prasad and Anugraha Narayan Sinha",
+            "answer:": 4
+        },
+        {
+            "question": "In 1921, the session of the Indian National Congress was held when its President was in prison and with some other leader acting as president, who was the Congress President in prison?",
+            "op1": "bul Kalam zad",
+            "op2": "Deshbandhu Chittaranjan Das",
+            "op3": "Mohammad Ali",
+            "op4": "Mahatma Gandhi",
+            "answer:": 2
+        },
+        {
+            "question": "Who amongst the following was involved in the Alipore Bomb case?",
+            "op1": "Jatin Das",
+            "op2": "Aurobindo Ghosh",
+            "op3": "Bipin handra Pal",
+            "op4": "S.N. Benerjee",
+            "answer:": 2
+        },
+        {
+            "question": "The title \u2018Punjab Kesari\u2019 was conferred on :",
+            "op1": "Sarder Baldev Singh",
+            "op2": "Lala Lajpat Rai",
+            "op3": "Bhagat Singh",
+            "op4": "Ranjit Singh",
+            "answer:": 2
+        },
+        {
+            "question": "Mahatma Gandhi\u2019s first attempt at leading an All India struggle was his call for a satyagraha against which one of the following ?",
+            "op1": "Rowlatt ct",
+            "op2": "The Public Safety ill",
+            "op3": "The Trade Disputes Act",
+            "op4": "The Governmentof India Act, 1919",
+            "answer:": 1
+        },
+        {
+            "question": "In March 1925, who of the following was elected as the President of the Central Legislative Assembly?",
+            "op1": "Madan Mohan Malaviya",
+            "op2": "CR Das",
+            "op3": "Vithalbhai Patel",
+            "op4": "Motilal Nehru",
+            "answer:": 3
+        },
+        {
+            "question": "Mahatma Gandhi returned to India, leaving South Africa for ever in :",
+            "op1": "1919",
+            "op2": "1916",
+            "op3": "1915",
+            "op4": "1914",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following attended all the three Round Table Conferences?",
+            "op1": "B.R. mbedkar",
+            "op2": "Mahatma Gandhi",
+            "op3": "Annie Besant",
+            "op4": "Madan Mohan Malviya",
+            "answer:": 1
+        },
+        {
+            "question": "The most important feature of the Government of India Act of 1919 was the introduction of :",
+            "op1": "dult franchise",
+            "op2": "Separate electorate",
+            "op3": "Provincial autonomy",
+            "op4": "yarchy",
+            "answer:": 4
+        },
+        {
+            "question": "The Champaran Satyagraha was started by Mahatma Gandhi in the year :",
+            "op1": "1915",
+            "op2": "1917",
+            "op3": "1919",
+            "op4": "1930",
+            "answer:": 2
+        },
+        {
+            "question": "The first woman President of the Indian National Congress was :",
+            "op1": "nnie Besant",
+            "op2": "Sarojini Naidu",
+            "op3": "Vijayalakshmi Pandit",
+            "op4": "Kasturba Gandhi",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the founder of Muslim League in India?",
+            "op1": "Nawab Salimulla",
+            "op2": "M.A. Jinnah",
+            "op3": "Sir Syed Ahmad Khan",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Ram Prasad Bismil was associated with",
+            "op1": "Kanpur Conspiracy Case",
+            "op2": "Meetut Conspiracy Case",
+            "op3": "Alipore Bomb ase",
+            "op4": "Kakori Conspiracy Case",
+            "answer:": 4
+        },
+        {
+            "question": "The Chauri-Chaura incident (during Non-Cooperation Movement) relates to :",
+            "op1": "a major offensive by underground revolutionaries",
+            "op2": "massive police firing on unarmed Satyagrahis",
+            "op3": "the burning of a police post by a mob",
+            "op4": "large scale looting of government property by Congress workers",
+            "answer:": 3
+        },
+        {
+            "question": "The Cripps Mission visited India during the regime of :",
+            "op1": "Lord Linlithgow",
+            "op2": "Lord Wavell",
+            "op3": "Lord Wellington",
+            "op4": "Lord Mountbatten",
+            "answer:": 1
+        },
+        {
+            "question": "Jallianwala Bagh massacre occurred on :",
+            "op1": "January 15, 1919",
+            "op2": "April 13, 1919",
+            "op3": "August 14, 1919",
+            "op4": "July 3, 1919",
+            "answer:": 2
+        },
+        {
+            "question": "Burma was separated from India in :",
+            "op1": "1932",
+            "op2": "1935",
+            "op3": "1937",
+            "op4": "1939",
+            "answer:": 3
+        },
+        {
+            "question": "Which one of the following suggested the reconstitution of the Viceroy\u2019s Executive Council in which all the portfolios including that of War Members were to be held by the Indian leaders?",
+            "op1": "Cabinet Mission",
+            "op2": "Cripps Proposal",
+            "op3": "Simla onference",
+            "op4": "Simon Commission",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following factors influenced the British to transfer power to the Indians?",
+            "op1": "The Indian armed forces could no longer be relied upon for their loyalty to the British",
+            "op2": "Revolutionary activities had affected law and order system",
+            "op3": "Large scale labour unrest and hostile public mood",
+            "op4": "The second world war had weakened Britain economically and politically",
+            "answer:": 4
+        },
+        {
+            "question": "Militant nationalism found expression for the first time on a large scale in the movement against :",
+            "op1": "Non-Cooperation Movement",
+            "op2": "Official Secret Act",
+            "op3": "Partition of Bengal",
+            "op4": "Rowlatt Act Agitation",
+            "answer:": 2
+        },
+        {
+            "question": "During the Indian Freedom Struggle who of the following raised an army called Free Indian Legion?",
+            "op1": "Subhas Chandra Bose",
+            "op2": "V. D. Savarkar",
+            "op3": "Lala Hardayal",
+            "op4": "Rashbehari Bose",
+            "answer:": 1
+        },
+        {
+            "question": "\u201cIf a God were to tolerate untouchability I would not recognize him as God at all\u201d. These words were spoken by:",
+            "op1": "Gandhi",
+            "op2": "Tilak",
+            "op3": "Vivekananda",
+            "op4": "Gokhale",
+            "answer:": 1
+        },
+        {
+            "question": "The Cripps Mission failed mainly because :",
+            "op1": "there was nothing said about a constitution making body for India",
+            "op2": "the Congress was no longer willing to trust the ritish",
+            "op3": "it offered a clear programme for partitioning India",
+            "op4": "the Congress demand for effective transfer of power to Indians was not met",
+            "answer:": 4
+        },
+        {
+            "question": "Which revolutionary died after a 64-day fast in jail, demanding treatment not as criminals but as political prisoners?",
+            "op1": "Pulin Das",
+            "op2": "Jatin Das",
+            "op3": "Ananta Gupta",
+            "op4": "Both (a) and (b)",
+            "answer:": 2
+        },
+        {
+            "question": "When Gandhiji was arrested during Salt Satyagraha who took his place as the leader of movement?",
+            "op1": "bdul Kalam zad",
+            "op2": "Abbas Tyyabji",
+            "op3": "Sardar Patel",
+            "op4": "Jawaharlal Nehru",
+            "answer:": 2
+        },
+        {
+            "question": "Consider the following statement and identify with the help of the code given below the Viceroy who made the statement and when : In my belief, Congress is tottering to its fall one of my great ambitions while in India is to assist it to a peaceful demise.",
+            "op1": "Lord Minto, while addressing the Muslim delegation which met him at Simla in 1906",
+            "op2": "Lord Dufferin, during the farewell speech at Calcutta",
+            "op3": "Lord urzon, while announcing the partition of Bengal",
+            "op4": "Lord Curzon, in a letter to the Secretary of States in 1900",
+            "answer:": 4
+        },
+        {
+            "question": "The Royal Indian Navy ratings revolted in February 1946 to protest against :",
+            "op1": "the firing on some ratings of the HMS Talwar",
+            "op2": "the Government\u2019s suppression of Congress activities",
+            "op3": "the punishment meted out to the INA officials",
+            "op4": "the treatment meted out to them",
+            "answer:": 4
+        },
+        {
+            "question": "The INA trials took place in the :",
+            "op1": "Parliament House, Delhi",
+            "op2": "Ahmednagar Fort",
+            "op3": "Red Fort, Delhi",
+            "op4": "Old Secretary, elhi",
+            "answer:": 3
+        },
+        {
+            "question": "In which of the following movements Bande Mataram was adopted as a slogan for agitation :",
+            "op1": "Quit India movement in 1942",
+            "op2": "Non-Cooperation movement in 1922",
+            "op3": "Partition of Bengal in 1905",
+            "op4": "Revolt of 1857",
+            "answer:": 3
+        },
+        {
+            "question": "The achievement of the Non-Cooperation Movement of 1921 was that:",
+            "op1": "it stopped the injustice done to the Khilafat",
+            "op2": "India obtained some political rights",
+            "op3": "the Hindus and the Muslims came closer in political pursuit",
+            "op4": "it avenged the Punjab atrocities",
+            "answer:": 2
+        },
+        {
+            "question": "Who of the following took the burning of the foreign clothes during the Non-Cooperation Movement as \u2018insensate waste\u2019?",
+            "op1": "Lord Reading",
+            "op2": "Motilal Nehru",
+            "op3": "Rabindra Nath Tagore",
+            "op4": "Mohammad Ali",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the founder of All India Harijan Sangh in 1932?",
+            "op1": "Jagjivan Ram",
+            "op2": "M. K. Gandhi",
+            "op3": "B.R. Ambedkar",
+            "op4": "Vinoba Bhave",
+            "answer:": 2
+        },
+        {
+            "question": "During the Indian Freedom Struggle, the Simon Commission was appointed to :",
+            "op1": "explore the possibility of granting dominion status to India",
+            "op2": "review the provisions of the Rowlatt Act",
+            "op3": "determine the relations of the British Government with the Indian states",
+            "op4": "examine the working of the reforms of 1919",
+            "answer:": 4
+        },
+        {
+            "question": "Who started the Bhoodan Movement ?",
+            "op1": "Swami Vivekananda",
+            "op2": "Jayaprakash Narayan",
+            "op3": "Mahatma Gandhi",
+            "op4": "Acharya Vinoba Bhave",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following was continuous movement based on the philosophy of Gandhiji, and not a specific movement?",
+            "op1": "Swadeshi Movement",
+            "op2": "Quit India Movement",
+            "op3": "ivil Disobedience Movement",
+            "op4": "Non-Cooperation Movement",
+            "answer:": 1
+        },
+        {
+            "question": "The Indian National Congress celebrated the Independence Day for the first time on :",
+            "op1": "January 10, 1930",
+            "op2": "January 26, 1930",
+            "op3": "August 15, 1947",
+            "op4": "August 26, 1930",
+            "answer:": 2
+        },
+        {
+            "question": "Who among the following rejected the title of Knighthood and refused to accept a position in the Council of the Secretary of State of India?",
+            "op1": "G.K. Gokhale",
+            "op2": "Motilal Nehru",
+            "op3": "M.G. Ranade",
+            "op4": "B.G. Tilak",
+            "answer:": 1
+        },
+        {
+            "question": "Who advocated the policy of abolishing princely states in free India?",
+            "op1": "Vallabhbhai Patel",
+            "op2": "Jawaharlal Nehru",
+            "op3": ". Rajgopalachari",
+            "op4": "Mahatma Gandhi",
+            "answer:": 2
+        },
+        {
+            "question": "Who among the following were considered constitutionalist within the Indian National Congress?",
+            "op1": "Satyamurty and K.M. Munshi",
+            "op2": "Subhash Chandra ose and Maulana",
+            "op3": "Sarojini Naidu and Annie Beasamt",
+            "op4": "Jawaharlal Nehru and J.B.Kripalani",
+            "answer:": 1
+        },
+        {
+            "question": "Moplah rebellion of 1921 took place in :",
+            "op1": "North-East Frontier Province",
+            "op2": "Kerala",
+            "op3": "Kashmir",
+            "op4": "Assam",
+            "answer:": 2
+        },
+        {
+            "question": "Who among the following Gandhian followers was a teacher by profession?",
+            "op1": "Rajendra Prasad",
+            "op2": "J.. Kriplani",
+            "op3": "Brajkishore Prasad",
+            "op4": "A.N. Sinha",
+            "answer:": 2
+        },
+        {
+            "question": "In 1943, Netaji Subhash Chandra Bose proclaimed the formation of the Provisional Government of Independent India (Azad Hind) in :",
+            "op1": "Singapore",
+            "op2": "Tokyo",
+            "op3": "Rangoon",
+            "op4": "Vienna",
+            "answer:": 1
+        },
+        {
+            "question": "Which one of the following was a journal brought out by Abul Kalam Azad?",
+            "op1": "Comrade",
+            "op2": "Al-Hilal",
+            "op3": "Zamindar",
+            "op4": "The Indian Sociologist",
+            "answer:": 2
+        },
+        {
+            "question": "In the Interim Government formed in the year 1946, who of the following held the portfolio of Defence?",
+            "op1": "Jagjivan Ram",
+            "op2": "aldev Singh",
+            "op3": "Asaf Ali",
+            "op4": "Vallabhbhai Patel",
+            "answer:": 2
+        },
+        {
+            "question": "In 1917, at Champaran, the government forced farmers to undertake :",
+            "op1": "land ceiling",
+            "op2": "opium cultivation",
+            "op3": "hallow cultivation",
+            "op4": "indigo cultivation",
+            "answer:": 4
+        },
+        {
+            "question": "From where did Mahatma Gandhi start his historic Dandi March?",
+            "op1": "Sabarmati shram",
+            "op2": "Chauri Chaura",
+            "op3": "Dandi",
+            "op4": "Champaran",
+            "answer:": 1
+        },
+        {
+            "question": "Gandhi started Satyagraha movement in 1919 in protest against of the :",
+            "op1": "Enactment of Rowlatt ct",
+            "op2": "Champaran wrongs",
+            "op3": "Simon ommission",
+            "op4": "Colonial exploitation of India",
+            "answer:": 1
+        },
+        {
+            "question": "The Prime Minister of Britain at the time of India\u2019s independence was :",
+            "op1": "Ramsay Macdonald",
+            "op2": "Winston Churchill",
+            "op3": "Lord Mountbatten",
+            "op4": "Clement Attlee",
+            "answer:": 4
+        },
+        {
+            "question": "All the three Round Table Conferences were held in :",
+            "op1": "Manchester",
+            "op2": "Calcutta",
+            "op3": "Bombay",
+            "op4": "London",
+            "answer:": 4
+        },
+        {
+            "question": "The Quit India Movement started at :",
+            "op1": "Lahore on July 7, 1942",
+            "op2": "Wardha on Aug, 7, 1942",
+            "op3": "Bombay on Aug. 8, 1942",
+            "op4": "elhi on Aug. 15, 1942",
+            "answer:": 3
+        },
+        {
+            "question": "The Civil Disobedience Movement was led in the North-West Frontier Province by :",
+            "op1": "Khan bdul Ghaffar Khan",
+            "op2": "Dr. M.A. Ansari",
+            "op3": "Sewa Singh Thikriwala",
+            "op4": "Sheikh Mohammad Abdullah",
+            "answer:": 1
+        },
+        {
+            "question": "During the freedom struggle, who established \u2018The Deccan Educational Society\u2019?",
+            "op1": "G.K. Gokhale",
+            "op2": "M.G. Ranade",
+            "op3": "Dadabhai Naoroji",
+            "op4": "B. G. Tilak",
+            "answer:": 4
+        },
+        {
+            "question": "Who among the following said \u201cMy boy, no, you are an Indian first and then a Muslim\u201d?",
+            "op1": "Mohammad Iqbal",
+            "op2": "Jawaharlal Nehru",
+            "op3": "Syed Ahmad Khan",
+            "op4": "Mohammad Ali Jinnah",
+            "answer:": 4
+        },
+        {
+            "question": "Which one of the following events was characterised by Montague as \u2018Preventive Murder\u2019?",
+            "op1": "Shooting of Curzon-Wythe",
+            "op2": "Shooting of the Mahatma",
+            "op3": "Massacre of Jallianwala Bagh",
+            "op4": "Killing of INA activities",
+            "answer:": 3
+        },
+        {
+            "question": "Which is true about Mahatma Gandhi at the time of India\u2019s Independence ?",
+            "op1": "the President of the Congress",
+            "op2": "not a member of the congress",
+            "op3": "the General Secretary of the ongress",
+            "op4": "a member of Congress working committee",
+            "answer:": 2
+        },
+        {
+            "question": "Who presided over the first session of the All India Kisan Sabha and which day is celebrated as the All India Kishan Day?",
+            "op1": "P.G. Joshi and 1st September",
+            "op2": "Swami Sahajananda and 1st November",
+            "op3": "P.. Joshi and 1st November",
+            "op4": "Swami Sahajanand Saraswati 23rd ecember",
+            "answer:": 4
+        },
+        {
+            "question": "During the Indian Freedom Struggle, who of the following started the weekly Yugantar in April 1906?",
+            "op1": "Krishna Kumar Mitra and Hemchandra Kanungo",
+            "op2": "Aswini Kumar Dutta and Satishchandra Mukherji",
+            "op3": "Barindra Kumar Ghosh and Bhupendranath Dutta",
+            "op4": "Jnanendranath Basu and Bipin Chandra Pal",
+            "answer:": 3
+        },
+        {
+            "question": "The author of the book \u2018Hindu view of Life\u2019 is ?",
+            "op1": "urobindo Ghosh",
+            "op2": "Dr. S. Radhakrishnan",
+            "op3": "Jawaharlal Nehru",
+            "op4": "Maulana Abul Kalam Azad",
+            "answer:": 2
+        },
+        {
+            "question": "Who of the following organized a National Planning Committee in 1938?",
+            "op1": "Sardar Vallabhabhai Patel",
+            "op2": "Pandit Jawaharlal Nehru",
+            "op3": "Netaji Subhash handra Bose",
+            "op4": "r. Rajendra Prasad",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following revolutionaries had participated in the Non-Cooperation Movement and was teacher in national school in Chittagong?",
+            "op1": "Chandrasekhar zad",
+            "op2": "hagat Singh",
+            "op3": "Surya Sen",
+            "op4": "Jatin as",
+            "answer:": 3
+        },
+        {
+            "question": "Who is the author of the concept of Antyodaya ?",
+            "op1": "Jayaprakash Narayan",
+            "op2": "Sri Aurobindo",
+            "op3": "Vinoba Bhave",
+            "op4": "Mahatma Gandhi",
+            "answer:": 3
+        },
+        {
+            "question": "Who was the leader of the Indian revolutionary activities in America ?",
+            "op1": "Sardarsingh Rana",
+            "op2": "V.D. Savarkar",
+            "op3": "Lala Hardayal",
+            "op4": "Shyamji Krishna Varma",
+            "answer:": 3
+        },
+        {
+            "question": "Paramdham Ashram was established by whom among the following ?",
+            "op1": "charya Vinoba Bhave",
+            "op2": "Acharya Kriplani",
+            "op3": "Mahatma Gandhi",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "The clarion call \u2018Dilli Chalo\u2019 was given by:",
+            "op1": "Lala Lajpat Rai",
+            "op2": "Subhash Chandra ose",
+            "op3": "Jawaharlal Nehru",
+            "op4": "Congress in 1942",
+            "answer:": 2
+        },
+        {
+            "question": "When Subhash Chandra Bose resigned as the President of INC, who was appointed in his place?",
+            "op1": "Pattabhi Sitaramish",
+            "op2": "C. Rajgopalachari",
+            "op3": "Abul Kalam Azad",
+            "op4": "Rajendra Prasad",
+            "answer:": 4
+        },
+        {
+            "question": "The President of the Indian National Congress at the time of Indian Independence was :",
+            "op1": "Rajendra Prasad",
+            "op2": "Jawaharlal Nehru",
+            "op3": "J.B. Kriplani",
+            "op4": "Maulana Abdul Kalam Azad",
+            "answer:": 3
+        },
+        {
+            "question": "The Montague-Chelmsford Report formed the basis of :",
+            "op1": "the Indian Independence ct, 1947",
+            "op2": "the Government of India Act, 1935",
+            "op3": "the Government of India Act, 1919",
+            "op4": "the Indian Council Act, 1909",
+            "answer:": 3
+        },
+        {
+            "question": "The Congress policy of pray and petition ultimately came to an end under the guidance of :",
+            "op1": "Mahatma Gandhi",
+            "op2": "Lala Lajpat Rai",
+            "op3": "Bal Gangadhar Tilak",
+            "op4": "Aurobindo Ghosh",
+            "answer:": 3
+        },
+        {
+            "question": "\u201cBe proud that you are an Indian, proudly claim I am an Indian, every Indian is my brother.\u201d Who had said these words?",
+            "op1": "Mahatma Gandhi",
+            "op2": "Lala Lajpat Rai",
+            "op3": "Vivekananda",
+            "op4": "Jawaharlal Nehru",
+            "answer:": 3
+        },
+        {
+            "question": "The first venture of Gandhi in all-India politics was the :",
+            "op1": "Dandi March",
+            "op2": "Champaran Movement",
+            "op3": "Rowlatt Satyagraha",
+            "op4": "Non-Cooperation Movement",
+            "answer:": 3
+        },
+        {
+            "question": "During the reign of who of the following was Indian National Congress banned and over 1,20,000 person were arrested?",
+            "op1": "Lord Linlithgow",
+            "op2": "Lord Willingdon",
+            "op3": "Lord Irwin",
+            "op4": "Lord Reading",
+            "answer:": 2
+        },
+        {
+            "question": "Which one of the following was not authored by Annie Besant?",
+            "op1": "How India Fought for Freedom",
+            "op2": "The Case for India",
+            "op3": "India Old and New",
+            "op4": "The Future of Indian Politics",
+            "answer:": 3
+        },
+        {
+            "question": "Who was named as Mira Ben by Mahatma Gandhi ?",
+            "op1": "Maria Montessouri",
+            "op2": "Kamla Devi",
+            "op3": "Madeline Slade",
+            "op4": "Annie Besant",
+            "answer:": 3
+        },
+        {
+            "question": "Mahatma Gandhi gave the call \u2018Do or Die\u2019 during the :",
+            "op1": "Quit India Movement",
+            "op2": "Civil Disobedience Movement",
+            "op3": "Non-ooperation Movement",
+            "op4": "Khilafat Movement",
+            "answer:": 1
+        },
+        {
+            "question": "Pandit Jawaharlal Nehru was born in the year :",
+            "op1": "1889",
+            "op2": "1899",
+            "op3": "1900",
+            "op4": "1908",
+            "answer:": 1
+        },
+        {
+            "question": "Who was the Chairman of Boundary Commission to define the boundaries of the dominions under the Indian Independence Act of 1947 ?",
+            "op1": "Cyril Radcliffe",
+            "op2": "Lord Mountbatten",
+            "op3": "Stafford ripps",
+            "op4": "Lord Wavell",
+            "answer:": 1
+        },
+        {
+            "question": "During the Indian Freedom Struggle, who among the following started a journal \u201cThe Indian Sociologist\u201d?",
+            "op1": "Jatindranath Mukherjee",
+            "op2": "Shyamji Krishna Varma",
+            "op3": "Bhikaji ama",
+            "op4": "adabhai Naoroji",
+            "answer:": 2
+        },
+        {
+            "question": "Who among the following led vaikom Satyagraha in 1924 ?",
+            "op1": "Periyar E. V. Ramasamy",
+            "op2": "K.P. Kesava Menon",
+            "op3": "N. Kumaran Asan",
+            "op4": "Shri Narayana Guru",
+            "answer:": 2
+        },
+        {
+            "question": "\u2018Mahatma\u2019 was added before Gandhiji\u2019s name during :",
+            "op1": "Rowlatt satyagraha",
+            "op2": "Amritsar session of INC in 1919",
+            "op3": "Initial stages of Khilafat movement",
+            "op4": "Champaran Satyagraha",
+            "answer:": 4
+        },
+        {
+            "question": "The name of the famous person of India who returned the knighthood conferred on him by the British Government as a token of protest against the atrocities in Punjab in 1919 was:",
+            "op1": "Syed hmed Khan",
+            "op2": "Rabindra Nath Tagore",
+            "op3": "Ashutosh Mukherjee",
+            "op4": "Tej Bahadur Sapru",
+            "answer:": 2
+        },
+        {
+            "question": "M.C. Setalvad, B.N. Rao and Alladi Krishnaswamy lyer were distinguished members of the :",
+            "op1": "Madras Labour Union",
+            "op2": "Swaraj Party",
+            "op3": "All India National Liberal Federation",
+            "op4": "Servants of India Society",
+            "answer:": 4
+        },
+        {
+            "question": "At which congress session did Dadabhai Naoroji announce that Swaraj was the goal of India\u2019s political efforts?",
+            "op1": "1906 Calcutta session",
+            "op2": "1905 anaras session",
+            "op3": "1893 Lahore session",
+            "op4": "1906 Calcutta session",
+            "answer:": 1
+        },
+        {
+            "question": "Who said \u201cI therefore want freedom immediately, this very night, before dawn if it can be had\u201d?",
+            "op1": "Mahatma Gandhi",
+            "op2": "Pt. Jawaharlal Nehru",
+            "op3": "Annie Besant",
+            "op4": "r. Rajendra Prasad",
+            "answer:": 1
+        },
+        {
+            "question": "Ancient Monuments Preservation Act was passed during the Viceroyalty of :",
+            "op1": "Curzon",
+            "op2": "Ripon",
+            "op3": "Lansdowne",
+            "op4": "Monto",
+            "answer:": 1
+        },
+        {
+            "question": "The Haripura Congress (1938) remains a milestone in Indian freedom struggles, because",
+            "op1": "of the introduction of the idea of a planning commission",
+            "op2": "of the acceptance of the Government of India Act, 1935 by the Congress",
+            "op3": "it declared war on the British Empire",
+            "op4": "it appointed Jawaharlal Nehru as the future Prime Minister of India",
+            "answer:": 1
+        },
+        {
+            "question": "The birth and death years of Dr. B.R. Ambedker are :",
+            "op1": "1889, 1961",
+            "op2": "1877, 1961",
+            "op3": "1891, 1956",
+            "op4": "1886, 1951",
+            "answer:": 3
+        },
+        {
+            "question": "Who among the following was elected as the President of All-India Khilafat Conference when it met at Delhi in 1919?",
+            "op1": "Shaukat li",
+            "op2": "M.A. Jinnah",
+            "op3": "Mahatma Gandhi",
+            "op4": "Motilal Nehru",
+            "answer:": 3
+        }
+    ]
+}

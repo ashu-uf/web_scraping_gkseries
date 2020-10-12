@@ -1,0 +1,302 @@
+{
+    "topic": "OSI Model & TCP",
+    "Subject": "Computer Networks",
+    "data": [
+        {
+            "question": "Virtual terminal protocol is an example of the",
+            "op1": "pplication layer",
+            "op2": "Presentation layer",
+            "op3": "Transportation layer",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Two Networks and Transport-layer protocols commonly used on Internet are",
+            "op1": "TCP and SPX",
+            "op2": "TCP and IP",
+            "op3": "RIP and NLSP",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Data which is routed between networks or from node to node within networks requires only the functions of OSI",
+            "op1": "Layers 1 and 2",
+            "op2": "Layers 1 through 3",
+            "op3": "All layers",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "A device operating at the network layer is called a",
+            "op1": "Bridge",
+            "op2": "Router",
+            "op3": "Repeater",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Usually traffic in a network is measured by",
+            "op1": "blocking probabilities",
+            "op2": "grade of service",
+            "op3": "relative congestion",
+            "op4": "erlangs",
+            "answer:": 3
+        },
+        {
+            "question": "___________ are rules that govern a communication exchange.",
+            "op1": "Media",
+            "op2": "Interfaces",
+            "op3": "Protocols",
+            "op4": "All of the above",
+            "answer:": 3
+        },
+        {
+            "question": "The performance of a data communication network depends on",
+            "op1": "The number of users",
+            "op2": "The transmission media",
+            "op3": "The hardware and software",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "A device operation at the physical layer is called a",
+            "op1": "Bridge",
+            "op2": "Router",
+            "op3": "Repeater",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Encryption and decryption are functions of",
+            "op1": "Transport layer",
+            "op2": "Session layer",
+            "op3": "Presentation layer",
+            "op4": "None of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following layers of the OSI reference model is concerned with the syntax of data exchanged between application entities ?",
+            "op1": "Presentation layer",
+            "op2": "Application layer",
+            "op3": "Transportation layer",
+            "op4": "Session layer",
+            "answer:": 1
+        },
+        {
+            "question": "Function of transport layer in OSI-reference model is",
+            "op1": "Error free transmission",
+            "op2": "To ensure and cost defective delivery of data",
+            "op3": "To check the routing and congestion control",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Flow control in OSI models is done by",
+            "op1": "Data link layer",
+            "op2": "Network layer",
+            "op3": "Transport layer",
+            "op4": "Both data link and transport layers",
+            "answer:": 1
+        },
+        {
+            "question": "An internetworking device operating at the transport layer is called a",
+            "op1": "Bridge",
+            "op2": "Router",
+            "op3": "Repeater",
+            "op4": "Gateway",
+            "answer:": 4
+        },
+        {
+            "question": "In respect of OSI model, LANs implement",
+            "op1": "Lower two layers",
+            "op2": "All seven layers",
+            "op3": "Upper five layers",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "UDP in the INTERNET protocol suite is related to",
+            "op1": "Layer-4",
+            "op2": "Layer-3",
+            "op3": "Layer-2",
+            "op4": "Layer-1",
+            "answer:": 1
+        },
+        {
+            "question": "The Media Access Control Sublayer resides in which OSI layer ?",
+            "op1": "Transport",
+            "op2": "Network",
+            "op3": "Physical",
+            "op4": "ata Link",
+            "answer:": 4
+        },
+        {
+            "question": "Flow control is the mechanism to regulate the flow of information, so that a fast host cannot overrun a slow one. This is the function of the following OSI layer",
+            "op1": "ll Layers",
+            "op2": "Physical Layer",
+            "op3": "Transport Layer",
+            "op4": "Application layer",
+            "answer:": 1
+        },
+        {
+            "question": "TELNET, FTP, SMTP, Protocols fall in the following layer of OSI reference model",
+            "op1": "Transport Layer",
+            "op2": "Internet Layer",
+            "op3": "Network Layer",
+            "op4": "Application Layer",
+            "answer:": 4
+        },
+        {
+            "question": "UDP is ___________ protocol.",
+            "op1": "Connection oriented",
+            "op2": "Connectionless",
+            "op3": "Neither",
+            "op4": "Both",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is an application layer service ?",
+            "op1": "Remote log-in",
+            "op2": "File transfer and access",
+            "op3": "Mail service",
+            "op4": "All of the above",
+            "answer:": 4
+        },
+        {
+            "question": "The main function of transport layer is",
+            "op1": "Node-to-node delivery",
+            "op2": "Process-to-process delivery",
+            "op3": "Synchronization",
+            "op4": "Updating and maintenance of routing tables",
+            "answer:": 2
+        },
+        {
+            "question": "A bridge recognizes address of",
+            "op1": "Layer-1",
+            "op2": "Layer-2",
+            "op3": "Layer-3",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "In TCP, the path",
+            "op1": "To be followed depends on the length of message",
+            "op2": "Up to destination is allocated before the transmission of message begins",
+            "op3": "Up to next intermediate node is allocated before the transmission of message begins",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "In distance vector routing, the path",
+            "op1": "To be followed depends on the length of packets",
+            "op2": "Up to destination is allocated before the transmission of packets begins",
+            "op3": "Up to next intermediate node is allocated before the transmission of packets begins",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "Router operates in",
+            "op1": "Data Link Layer",
+            "op2": "Network Layer",
+            "op3": "Transport Layer",
+            "op4": "All of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following to keep track of the individual units of data (called packets) that a message is divided into for efficient routing through the Internet.",
+            "op1": "ddress Resolution Protocol (RP)",
+            "op2": "Internet Protocol (IP)",
+            "op3": "Hypertext transfer Protocol (HTTP)",
+            "op4": "Transmission Control Protocol/Internet Protocol (TCP/IP)",
+            "answer:": 4
+        },
+        {
+            "question": "The physical layer most popularly used in wired LANs nowadays uses",
+            "op1": "UPT cables",
+            "op2": "STP cables",
+            "op3": "oaxial cable",
+            "op4": "Radio Frequency",
+            "answer:": 3
+        },
+        {
+            "question": "The layer responsible for end to end delivery of the entire message is",
+            "op1": "Network layer",
+            "op2": "Transport layer",
+            "op3": "Session layer",
+            "op4": "ata link layer",
+            "answer:": 2
+        },
+        {
+            "question": "How many OSI layers are converted in the X.25 standard ?",
+            "op1": "Two",
+            "op2": "Three",
+            "op3": "Seven",
+            "op4": "Six",
+            "answer:": 2
+        },
+        {
+            "question": "In OSI model, which of the following layer transforms information from machine format into that understandable by user",
+            "op1": "pplication",
+            "op2": "Session",
+            "op3": "Physical",
+            "op4": "Presentation",
+            "answer:": 4
+        },
+        {
+            "question": "End-to-end connectivity is provided from host-to-host in:",
+            "op1": "Network layer",
+            "op2": "Session layer",
+            "op3": "Transport layer",
+            "op4": "ata link layer",
+            "answer:": 3
+        },
+        {
+            "question": "How many bits internet address is assigned to each host on a TCP/IP internet which is used in all communications with the host ?",
+            "op1": "16 bits",
+            "op2": "32 bits",
+            "op3": "48 bits",
+            "op4": "64 bits",
+            "answer:": 2
+        },
+        {
+            "question": "In OSI model, which of the following layer provides error-free delivery of data ?",
+            "op1": "Network layer",
+            "op2": "Transport layer",
+            "op3": "Session layer",
+            "op4": "ata link layer",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is NOT an example of standard at the Data Link Layer ?",
+            "op1": "HDLC",
+            "op2": "ADCCP",
+            "op3": "TP",
+            "op4": "None of these",
+            "answer:": 3
+        },
+        {
+            "question": "In OSI model, which of the following layer transforms information from machine format into that understandable by user",
+            "op1": "pplication",
+            "op2": "Presentation",
+            "op3": "Physical",
+            "op4": "Session",
+            "answer:": 2
+        },
+        {
+            "question": "Layer one of the OSI model is",
+            "op1": "Physical layer",
+            "op2": "Session layer",
+            "op3": "Transport layer",
+            "op4": "ata link layer",
+            "answer:": 1
+        },
+        {
+            "question": "A protocol is a set of rules governing a time sequence of events that must take place",
+            "op1": "Between peers",
+            "op2": "etween modems",
+            "op3": "Between an interface",
+            "op4": "Across an interface",
+            "answer:": 1
+        }
+    ]
+}

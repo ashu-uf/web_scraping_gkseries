@@ -1,0 +1,86 @@
+{
+    "topic": "Input-Output Organization",
+    "Subject": "Computer Organization",
+    "data": [
+        {
+            "question": "Which of the following statement is FALSE in view of interrupts ?",
+            "op1": "interrupts are changes in flow of control caused by some event related to I/O.",
+            "op2": "interrupts are synchronous with a program.",
+            "op3": "when an interrupt occurs, some actions are taken, and then system returns to exactly same state as it was before the interrupt.",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "An attempt to execute illegal or undefined instruction may lead to",
+            "op1": "Trap event",
+            "op2": "I/O interrupt",
+            "op3": "PU malfunctioning",
+            "op4": "None of the above",
+            "answer:": 1
+        },
+        {
+            "question": "DMA module can communicate with CPU through",
+            "op1": "Interrupt",
+            "op2": "Cycle stealing",
+            "op3": "Branch instruction",
+            "op4": "None of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Interrupts which are initiated by an instruction are",
+            "op1": "Internal",
+            "op2": "External",
+            "op3": "Hardware",
+            "op4": "Software",
+            "answer:": 4
+        },
+        {
+            "question": "A CPU generally handles an interrupt by executing an interrupt service routine",
+            "op1": "as soon as an interrupt is raised",
+            "op2": "by checking the interrupt register at the end of fetch cycle",
+            "op3": "by checking the interrupt register after finishing the executing the current instruction",
+            "op4": "by checking the interrupt register at fixed time intervals",
+            "answer:": 1
+        },
+        {
+            "question": "On receiving an interrupt from an I/O device, the CPU",
+            "op1": "halts for predetermined time.",
+            "op2": "branches off to the interrupt service routine after completion of the current instruction.",
+            "op3": "branches off to the interrupt service routine immediately.",
+            "op4": "hands over control of address bus and data bus to the interrupting device.",
+            "answer:": 2
+        },
+        {
+            "question": "Files that are related to Input/Output and are used to model serial I/O devices such as terminals, printers and networks are called",
+            "op1": "regular files",
+            "op2": "character special files",
+            "op3": "directories",
+            "op4": "block special files",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is not an input device ?",
+            "op1": "Mouse",
+            "op2": "Keyboard",
+            "op3": "Light pen",
+            "op4": "VU",
+            "answer:": 4
+        },
+        {
+            "question": "Which of the following is an example of input device ?",
+            "op1": "Scanner",
+            "op2": "ASpeaker+C)",
+            "op3": "D",
+            "op4": "Printer",
+            "answer:": 1
+        },
+        {
+            "question": "Which of the following is not an input device",
+            "op1": "Web cam",
+            "op2": "Scanner",
+            "op3": "Light pen",
+            "op4": "None of the above",
+            "answer:": 4
+        }
+    ]
+}

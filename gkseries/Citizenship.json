@@ -1,0 +1,158 @@
+{
+    "topic": "Citizenship",
+    "Subject": "Indian Polity",
+    "data": [
+        {
+            "question": "Which of the following is not a condition for becoming a citizen of India ?",
+            "op1": "Birth",
+            "op2": "Acquiring property",
+            "op3": "Descent",
+            "op4": "Naturalisation",
+            "answer:": 2
+        },
+        {
+            "question": "Which of the following is competent to prescribe conditions as for acquiring citizenship of India ?",
+            "op1": "Parliament",
+            "op2": "State Legislature",
+            "op3": "President",
+            "op4": "Home Minister of India",
+            "answer:": 1
+        },
+        {
+            "question": "Find the correct statement regarding the acquisition of Indian citizenship ?",
+            "op1": "If citizenship of India is to acquired by registration, one year residence in India is essential.",
+            "op2": "If citizenship is to be acquired by naturalisation the person concerned must have resident in India for 5 years.",
+            "op3": "If born in India, only that person can acquire citizenship at least one of whose parents is an Indian.",
+            "op4": "Rules regarding the citizenship of India shall not be applicable to Jammu and Kashmir.",
+            "answer:": 3
+        },
+        {
+            "question": "According to the Indian Citizenship Act, 1955, which of the following is not a method of acquiring Indian Citizenship?",
+            "op1": "Children of the diplomatic personnel or alien enemies born in Indiaon or after 26th, January 1950.",
+            "op2": "Children born of Indian citizens abroad.",
+            "op3": "Incorporation of territory not forming part of Indiaat the commencement of the onstitution.",
+            "op4": "Naturalisation.",
+            "answer:": 1
+        },
+        {
+            "question": "To acquire citizenship by registration a person must have been resident in India for how many years immediately before making an application?",
+            "op1": "One year",
+            "op2": "Two years",
+            "op3": "Four years",
+            "op4": "Five years",
+            "answer:": 4
+        },
+        {
+            "question": "How a person can become citizen of India if he born abroad ?",
+            "op1": "Father is a citizen of India.",
+            "op2": "Mother is a citizen of India.",
+            "op3": "Father is a citizen of India at the time of the person's birth.",
+            "op4": "Father or mother is a citizen of India at the time of the person's birth.",
+            "answer:": 4
+        },
+        {
+            "question": "Citizenship provisions of Indian Constitution is contained in :",
+            "op1": "Part II",
+            "op2": "Part II, Articles 5-11",
+            "op3": "Part II, Articles 5-6",
+            "op4": "Part I, Articles 5-11",
+            "answer:": 2
+        },
+        {
+            "question": "Indian Citizenship of a person can be terminated if :",
+            "op1": "I and II",
+            "op2": "II and III",
+            "op3": "I, III and IV",
+            "op4": "I, II, III and IV",
+            "answer:": 3
+        },
+        {
+            "question": "Which Article of Indian Constitution deals with Persons voluntarily acquiring citizenship of a foreign State not to be citizens ?",
+            "op1": "rticle 5",
+            "op2": "Article 6",
+            "op3": "Article 8",
+            "op4": "Article 9",
+            "answer:": 4
+        },
+        {
+            "question": "Who is called the first citizen of India?",
+            "op1": "The Prime Minister",
+            "op2": "The President",
+            "op3": "The Speaker of Lok Sabha",
+            "op4": "The Chief Justice of India",
+            "answer:": 2
+        },
+        {
+            "question": "In Indian, the concept of single citizenship is adopted from",
+            "op1": "France",
+            "op2": "U.S.A.",
+            "op3": "England",
+            "op4": "Canada",
+            "answer:": 3
+        },
+        {
+            "question": "Who said \u201cA good citizen makes a good State and a bad citizen makes a bad State\u201d?",
+            "op1": "Laski",
+            "op2": "Aristotle",
+            "op3": "Rousseau",
+            "op4": "Plato",
+            "answer:": 2
+        },
+        {
+            "question": "By which of the following modes can citizenship be acquired?",
+            "op1": "I and II",
+            "op2": "I, II and III",
+            "op3": "II and III",
+            "op4": "II, III and IV",
+            "answer:": 2
+        },
+        {
+            "question": "No person shall be a citizen of India if he has",
+            "op1": "Lived in a foreign country for more than five tears",
+            "op2": "een convicted by a foreign court of law",
+            "op3": "Voluntarily acquired citizenship of another country",
+            "op4": "Accepted employment in another country",
+            "answer:": 3
+        },
+        {
+            "question": "Which is the competent body to prescribe conditions for acquisition of citizenship?",
+            "op1": "Parliament",
+            "op2": "President",
+            "op3": "Election ommission",
+            "op4": "Parliament and Assemblies",
+            "answer:": 1
+        },
+        {
+            "question": "\u2018Dual citizenship\u2019 is a feature of",
+            "op1": "Unitary government",
+            "op2": "Parliamentary government",
+            "op3": "Presidential government",
+            "op4": "Federal government",
+            "answer:": 4
+        },
+        {
+            "question": "Citizen of India can vote at the age of",
+            "op1": "18 years",
+            "op2": "21 years",
+            "op3": "22 years",
+            "op4": "25 years",
+            "answer:": 1
+        },
+        {
+            "question": "Dual citizenship is an important feature in which form of government?",
+            "op1": "Parliamentary",
+            "op2": "Federal",
+            "op3": "Unitary",
+            "op4": "Authoritarian",
+            "answer:": 2
+        },
+        {
+            "question": "Provisions of citizenship in Indian Constitution, became applicable in",
+            "op1": "1949",
+            "op2": "1950",
+            "op3": "1951",
+            "op4": "1952",
+            "answer:": 2
+        }
+    ]
+}

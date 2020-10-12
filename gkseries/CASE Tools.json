@@ -1,0 +1,78 @@
+{
+    "topic": "CASE Tools",
+    "Subject": "Software Engineering",
+    "data": [
+        {
+            "question": "The CASE tools are used for",
+            "op1": "system requirements analysis",
+            "op2": "system designing",
+            "op3": "input output design",
+            "op4": "none of the above",
+            "answer:": 2
+        },
+        {
+            "question": "Automated tools for design are also known as",
+            "op1": "CSE Tools",
+            "op2": "System design",
+            "op3": "DFD",
+            "op4": "RA",
+            "answer:": 1
+        },
+        {
+            "question": "Speeding up the development process significantly is one of the pros of",
+            "op1": "Prototyping",
+            "op2": "Object model",
+            "op3": "Process Model",
+            "op4": "Computer-aided Systems Engineering",
+            "answer:": 4
+        },
+        {
+            "question": "Identify which one of the following is not a benefit of CASE Tools?",
+            "op1": "It improves software quality",
+            "op2": "Reduces time and cost",
+            "op3": "Both [A] and [B]",
+            "op4": "None of these above",
+            "answer:": 3
+        },
+        {
+            "question": "The CASE repository",
+            "op1": "works as storage for the diagrams and project data",
+            "op2": "provides valuable information to project manager",
+            "op3": "both [A] and [B]",
+            "op4": "none of the above",
+            "answer:": 3
+        },
+        {
+            "question": "Which of the following is not a category of CASE tools?",
+            "op1": "Tools",
+            "op2": "Workbenches",
+            "op3": "hain",
+            "op4": "Environments",
+            "answer:": 3
+        },
+        {
+            "question": "Which type of CASE tools helps developers during requirement analysis and design by supporting ER diagram, DFD etc.?",
+            "op1": "Upper-CSE tools",
+            "op2": "Lower-CASE tools",
+            "op3": "Integrated ASE tools",
+            "op4": "None of these",
+            "answer:": 1
+        },
+        {
+            "question": "What kind of CASE tools are responsible for implementation, testing, maintenance etc. of software life cycle?",
+            "op1": "Front-end tools",
+            "op2": "ack-end tools",
+            "op3": "I-ASE tools",
+            "op4": "None of these above",
+            "answer:": 2
+        },
+        {
+            "question": "Decision tables are converted to source programs by using",
+            "op1": "Upper-CSE tools",
+            "op2": "Lower-CASE tools",
+            "op3": "Integrated-ASE tools",
+            "op4": "None of these",
+            "answer:": 2
+        }
+    ]
+}
